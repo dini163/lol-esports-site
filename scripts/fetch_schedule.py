@@ -1,82 +1,82 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def fetch_esports_data():
-    # 1. 获取 API Key (需要在环境变量中设置，或者手动填入)
-    # 获取方式: 访问 https://lolesports.com/schedule，F12 -> Network -> 找到 getSchedule 请求 -> 复制 x-api-key
-    api_key = os.environ.get('RIOT_ESPORTS_API_KEY', 'YOUR_API_KEY_HERE')
+    # 新的端点 URL (不再需要 x-api-key 或者使用通用 Key)
+    API_URL = "https://prod-relapi.ewp.gg/persisted/gw/getSchedule"
     
-    if api_key == 'YOUR_API_KEY_HERE':
-        print("Warning: No API Key found. Using mock data for demo.")
-        return get_mock_data()
-
-    # 2. 请求官方 API
+    # 社区通用 Key
+    DEFAULT_API_KEY = "0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z"
+    
+    api_key = os.environ.get('RIOT_ESPORTS_API_KEY', DEFAULT_API_KEY)
+    
     headers = {
         "x-api-key": api_key,
         "Accept": "application/json"
     }
-    # 获取当前时间戳用于查询
-    start_time = int(datetime.now().timestamp() * 1000)
-    end_time = start_time + (7 * 24 * 60 * 60 * 1000) # Next 7 days
     
-    url = f"https://esports-api.lolesports.com/persisted/gw/getSchedule?hl=en-US&start={start_time}&end={end_time}"
+    # 获取近 7 天的赛程
+    start_time = int((datetime.utcnow() - timedelta(days=1)).timestamp() * 1000)
+    end_time = int((datetime.utcnow() + timedelta(days=7)).timestamp() * 1000)
     
+    params = {
+        "hl": "en-US",
+        "start": start_time,
+        "end": end_time
+    }
+
     try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
+        response = requests.get(API_URL, headers=headers, params=params)
+        
+        if response.status_code != 200:
+            print(f"API Error: {response.status_code} - {response.text}")
+            return get_mock_data()
+        
         data = response.json()
-        
-        # 3. 解析数据
         events = data.get('data', {}).get('schedule', {}).get('events', [])
-        matches = []
         
+        matches = []
         for event in events:
             match = event.get('match', {})
             teams = match.get('teams', [])
             if len(teams) < 2: continue
             
-            # 简化状态逻辑
-            state = event.get('state') # unstarted, inProgress, completed
+            # 状态映射
+            state = event.get('state')
             status = 'upcoming' if state == 'unstarted' else ('live' if state == 'inProgress' else 'completed')
             
-            # 获取联赛名称
             league = event.get('league', {}).get('name', 'Unknown')
-            league_code = league.lower().replace(' ', '_')[:3] # Simple code
+            league_code = league.lower()[:3] # 简化代码
             
+            # 尝试获取比分
+            strategy = match.get('strategy', {}).get('teams', [])
+            score_a = strategy[0].get('result', {}).get('outcome', {}).get('gameWins', 0) if len(strategy) > 0 else 0
+            score_b = strategy[1].get('result', {}).get('outcome', {}).get('gameWins', 0) if len(strategy) > 1 else 0
+
             matches.append({
                 "league": league,
                 "league_code": league_code,
                 "match": f"{teams[0]['name']} vs {teams[1]['name']}",
-                "team_a": {"name": teams[0]['name'], "score": match.get('strategy', {}).get('teams', [{}])[0].get('result', {}).get('outcome', {}).get('gameWins', 0)},
-                "team_b": {"name": teams[1]['name'], "score": match.get('strategy', {}).get('teams', [{}])[1].get('result', {}).get('outcome', {}).get('gameWins', 0)},
+                "team_a": {"name": teams[0]['name'], "score": score_a},
+                "team_b": {"name": teams[1]['name'], "score": score_b},
                 "start_time": event.get('startTime'),
                 "status": status
             })
-            
-        return matches
         
+        return matches if matches else get_mock_data()
+
     except Exception as e:
-        print(f"Error fetching API: {e}")
+        print(f"Network Error: {e}")
         return get_mock_data()
 
 def get_mock_data():
-    from datetime import datetime, timedelta
     now = datetime.utcnow()
     return [
-        {
-            "league": "LPL Spring 2025", "league_code": "lpl",
-            "match": "BLG vs TES",
-            "team_a": {"name": "BLG", "score": 2}, "team_b": {"name": "TES", "score": 1},
-            "start_time": (now - timedelta(hours=1)).isoformat(), "status": "live"
-        },
-        {
-            "league": "LCK Spring 2025", "league_code": "lck",
-            "match": "T1 vs Gen.G",
-            "team_a": {"name": "T1", "score": 0}, "team_b": {"name": "Gen.G", "score": 0},
-            "start_time": (now + timedelta(hours=2)).isoformat(), "status": "upcoming"
-        }
+        {"league": "LPL Spring 2025", "league_code": "lpl", "match": "BLG vs TES", 
+         "team_a": {"name": "BLG", "score": 2}, "team_b": {"name": "TES", "score": 1},
+         "start_time": (now - timedelta(hours=1)).isoformat(), "status": "live"}
     ]
 
 if __name__ == "__main__":
