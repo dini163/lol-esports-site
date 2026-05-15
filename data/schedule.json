@@ -11,52 +11,7 @@
       "name": "TES",
       "score": 1
     },
-    "start_time": "2026-05-15T03:52:26.267938",
+    "start_time": "2026-05-15T07:12:06.831768",
     "status": "live"
-  },
-  {
-    "league": "LCK Spring 2025",
-    "league_code": "lck",
-    "match": "T1 vs Gen.G",
-    "team_a": {
-      "name": "T1",
-      "score": 0
-    },
-    "team_b": {
-      "name": "Gen.G",
-      "score": 0
-    },
-    "start_time": "2026-05-15T06:52:26.267938",
-    "status": "upcoming"
-  },
-  {
-    "league": "LCS Spring 2025",
-    "league_code": "lcs",
-    "match": "C9 vs TL",
-    "team_a": {
-      "name": "Cloud9",
-      "score": 3
-    },
-    "team_b": {
-      "name": "Team Liquid",
-      "score": 1
-    },
-    "start_time": "2026-05-14T23:52:26.267938",
-    "status": "completed"
-  },
-  {
-    "league": "LEC Spring 2025",
-    "league_code": "lec",
-    "match": "G2 vs FNC",
-    "team_a": {
-      "name": "G2 Esports",
-      "score": 1
-    },
-    "team_b": {
-      "name": "Fnatic",
-      "score": 0
-    },
-    "start_time": "2026-05-15T10:52:26.267938",
-    "status": "upcoming"
   }
 ]
