@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Universe — LoL Esports Hub</title>
+  <meta name="description" content="Explore the world of Runeterra: regions, factions, and the lore behind League of Legends.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="main">
+    <!-- Hero -->
+    <section class="hero" style="min-height:40vh;">
+      <canvas class="hero-canvas" id="loreCanvas"></canvas>
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <h1 class="hero-title" style="font-size:clamp(2rem,5vw,3.5rem);">The World of Runeterra</h1>
+        <p class="hero-subtitle">From the gleaming spires of Demacia to the dark depths of the Void, discover the stories that shape the League universe.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Regions & Factions</h2>
+      <p style="color:var(--text-secondary);margin-bottom:2rem;">Click on a region to explore its story and champions.</p>
+      <div id="regionGrid" class="region-grid">
+        <div class="loading"><div class="spinner"></div></div>
+      </div>
+    </section>
+
+    <!-- Region Detail Modal -->
+    <div id="regionModal" style="display:none;position:fixed;inset:0;z-index:2000;background:rgba(0,0,0,0.8);backdrop-filter:blur(5px);overflow-y:auto;">
+      <div style="max-width:800px;margin:4rem auto;padding:2rem;">
+        <button onclick="closeModal()" style="color:var(--gold-light);font-size:1.5rem;margin-bottom:1rem;background:none;border:none;cursor:pointer;">✕ Close</button>
+        <div id="regionModalContent"></div>
+      </div>
+    </div>
+  </main>
+  <script src="js/common.js"></script>
+  <script src="js/particles.js"></script>
+  <script src="js/lore.js"></script>
+</body>
+</html>

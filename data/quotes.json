@@ -1,0 +1,123 @@
+{
+  "Ahri": [
+    {"text": "Don't you trust me?", "context": "Taunt"},
+    {"text": "Should I make your pulse rise? Or stop?", "context": "Attack"},
+    {"text": "Come try your luck, if you think you're in my league.", "context": "Taunt"},
+    {"text": "They won't even know what hit 'em.", "context": "Movement"}
+  ],
+  "Yasuo": [
+    {"text": "A sword's poor company for a long road.", "context": "Movement"},
+    {"text": "The story is not yet finished.", "context": "Selection"},
+    {"text": "Death is like the wind, always by my side.", "context": "Attack"},
+    {"text": "Hasagi!", "context": "Ability Cast"},
+    {"text": "No cure for fools.", "context": "Taunt"}
+  ],
+  "Jinx": [
+    {"text": "Rules are made to be broken... like buildings! Or people!", "context": "Selection"},
+    {"text": "I'm crazy! Got a doctor's note.", "context": "Joke"},
+    {"text": "You think I'm crazy? You should see my sister.", "context": "Taunt"},
+    {"text": "Wait, I'm thinking! Urgh... how do people do this?", "context": "Movement"}
+  ],
+  "Lux": [
+    {"text": "Light mage. Definitely not a spy.", "context": "Selection"},
+    {"text": "In the name of Demacia, I will punish you!", "context": "Attack"},
+    {"text": "Stay positive.", "context": "Movement"},
+    {"text": "Double rainbow? What does it mean?", "context": "Joke"}
+  ],
+  "Thresh": [
+    {"text": "What delightful agony we shall inflict.", "context": "Selection"},
+    {"text": "Flesh is a prison.", "context": "Movement"},
+    {"text": "I am the thing under the bed.", "context": "Attack"},
+    {"text": "Come out and play.", "context": "Ability Cast"}
+  ],
+  "Zed": [
+    {"text": "The unseen blade is the deadliest.", "context": "Selection"},
+    {"text": "Tradition is the corpse of wisdom.", "context": "Movement"},
+    {"text": "Balance is a fool's master.", "context": "Taunt"},
+    {"text": "Embrace the shadow.", "context": "Attack"}
+  ],
+  "LeeSin": [
+    {"text": "Master yourself, master the enemy.", "context": "Selection"},
+    {"text": "Blindness is no impairment against a smelly enemy.", "context": "Joke"},
+    {"text": "Your will, my hands.", "context": "Attack"},
+    {"text": "Force is meaningless without skill.", "context": "Movement"}
+  ],
+  "Faker_Ryze": [
+    {"text": "Take this scroll and stick it... somewhere safe.", "context": "Joke"},
+    {"text": "A Rune Mage's work is never done.", "context": "Movement"},
+    {"text": "Unpleasant? I'll show you unpleasant!", "context": "Attack"},
+    {"text": "Let's go, let's go!", "context": "Selection"}
+  ],
+  "Darius": [
+    {"text": "They will regret opposing me.", "context": "Selection"},
+    {"text": "Strength above all.", "context": "Movement"},
+    {"text": "Don't turn your back, or expose your neck.", "context": "Taunt"},
+    {"text": "Noxus will rise.", "context": "Attack"}
+  ],
+  "Garen": [
+    {"text": "DEMACIA!", "context": "Ultimate"},
+    {"text": "My heart and sword, always for Demacia.", "context": "Selection"},
+    {"text": "Come forth, you will find honor in death.", "context": "Attack"},
+    {"text": "I will not falter.", "context": "Movement"}
+  ],
+  "Katarina": [
+    {"text": "Violence solves everything!", "context": "Selection"},
+    {"text": "If you run, you won't see me stab you.", "context": "Taunt"},
+    {"text": "Why? Because I can.", "context": "Movement"},
+    {"text": "Keep friends close and enemies guessing.", "context": "Movement"}
+  ],
+  "Vayne": [
+    {"text": "Let us hunt those who have fallen to darkness.", "context": "Selection"},
+    {"text": "I bring swift death.", "context": "Attack"},
+    {"text": "On wings of night.", "context": "Movement"},
+    {"text": "The dark should fear me.", "context": "Taunt"}
+  ],
+  "Ezreal": [
+    {"text": "You belong in a museum!", "context": "Taunt"},
+    {"text": "Time for a true display of skill!", "context": "Selection"},
+    {"text": "It's all skill.", "context": "Attack"},
+    {"text": "Who needs a map?", "context": "Movement"}
+  ],
+  "MissFortune": [
+    {"text": "Fortune doesn't favor fools!", "context": "Selection"},
+    {"text": "I always shoot first.", "context": "Attack"},
+    {"text": "Watch your mouth kid, or you'll find yourself respawning at home.", "context": "Taunt"},
+    {"text": "Step two: Make them pay.", "context": "Movement"}
+  ],
+  "Jhin": [
+    {"text": "In carnage, I bloom... like a flower in the dawn.", "context": "Selection"},
+    {"text": "Every element of this performance must be perfect.", "context": "Movement"},
+    {"text": "Four!", "context": "Fourth Shot"},
+    {"text": "Art requires a certain... cruelty.", "context": "Attack"}
+  ],
+  "Viego": [
+    {"text": "I will bring her back. I will bring them all back.", "context": "Selection"},
+    {"text": "The world was set ablaze by my love. I'd do it again.", "context": "Movement"},
+    {"text": "Isolde...", "context": "Idle"},
+    {"text": "Everything I do, I do for love.", "context": "Attack"}
+  ],
+  "Yone": [
+    {"text": "I walk two paths, in two worlds.", "context": "Selection"},
+    {"text": "Leave nothing behind.", "context": "Attack"},
+    {"text": "Every demon I slay brings me closer to the truth.", "context": "Movement"},
+    {"text": "I died once. I will not fear death again.", "context": "Taunt"}
+  ],
+  "Akali": [
+    {"text": "I am the point of the blade!", "context": "Selection"},
+    {"text": "I decide my own fate.", "context": "Movement"},
+    {"text": "A lot of things can change in one night.", "context": "Taunt"},
+    {"text": "Strike from the shadows.", "context": "Attack"}
+  ],
+  "Kaisa": [
+    {"text": "I'm not afraid. I was forged in the fires beneath the world.", "context": "Movement"},
+    {"text": "Stay behind me. I'll handle this.", "context": "Selection"},
+    {"text": "The Void took my family. I will take everything from it.", "context": "Long Move"},
+    {"text": "Each bullet is a piece of my will.", "context": "Attack"}
+  ],
+  "Sett": [
+    {"text": "This is where the fun begins.", "context": "Selection"},
+    {"text": "If it's a fight they want, I'm the boss to beat.", "context": "Attack"},
+    {"text": "Mama always said I was hard-headed.", "context": "Joke"},
+    {"text": "I didn't come this far to lose.", "context": "Movement"}
+  ]
+}

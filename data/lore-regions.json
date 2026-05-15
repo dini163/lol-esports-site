@@ -1,0 +1,72 @@
+[
+  {
+    "id": "demacia",
+    "name": "Demacia",
+    "description": "A strong, lawful kingdom with a prestigious military history that values justice, honor, and duty above all. Demacia is a self-sufficient, agrarian society that distrusts magic and outlaws its practice. Though seen as utopian, there are growing tensions within its borders.",
+    "color": "#3070c0",
+    "champions": ["Garen", "Lux", "Jarvan IV", "Vayne", "Fiora", "Quinn", "Galio", "Sylas", "Poppy", "Shyvana"]
+  },
+  {
+    "id": "noxus",
+    "name": "Noxus",
+    "description": "A powerful, expansionist empire that prizes strength above all. Unlike many nations, Noxus doesn't discriminate based on birth, wealth, or privilege—anyone can rise to power through merit and ambition. Its military might is unmatched, but so is its internal intrigue.",
+    "color": "#c0392b",
+    "champions": ["Darius", "Katarina", "Swain", "Draven", "Talon", "Sion", "Mordekaiser", "Ambessa", "Samira", "Rell"]
+  },
+  {
+    "id": "ionia",
+    "name": "Ionia",
+    "description": "A land of unspoiled beauty and natural harmony, deeply connected to the spiritual world. Ionia's inhabitants live alongside ancient forests and mystical creatures, practicing arts that channel the land's spiritual energy. The Noxian invasion left deep scars that continue to shape its people.",
+    "color": "#e74c8c",
+    "champions": ["Ahri", "Yasuo", "Akali", "Zed", "Shen", "Irelia", "Lee Sin", "Karma", "Yone", "Lillia"]
+  },
+  {
+    "id": "freljord",
+    "name": "Freljord",
+    "description": "A harsh, frozen land that forges the strongest warriors. The Freljord is locked in a three-way civil war between powerful factions: the Avarosan led by Ashe, the Winter's Claw led by Sejuani, and the Frostguard led by Lissandra. Ancient, supernatural forces stir beneath the ice.",
+    "color": "#5dade2",
+    "champions": ["Ashe", "Braum", "Sejuani", "Tryndamere", "Lissandra", "Volibear", "Ornn", "Olaf", "Anivia", "Nunu"]
+  },
+  {
+    "id": "piltover",
+    "name": "Piltover & Zaun",
+    "description": "The twin cities of progress and pollution. Piltover, the City of Progress, gleams above—a center of innovation and commerce. Below lies Zaun, the undercity, where chemtech experiments and criminal enterprise thrive in the shadows. The two are inextricably linked, for better and worse.",
+    "color": "#f39c12",
+    "champions": ["Jinx", "Vi", "Caitlyn", "Jayce", "Viktor", "Ekko", "Heimerdinger", "Camille", "Ezreal", "Warwick"]
+  },
+  {
+    "id": "shurima",
+    "name": "Shurima",
+    "description": "Once a mighty empire that spanned the continent, Shurima now lies buried beneath the desert sands. Its ancient Ascended warriors were godlike beings of immense power, and with the return of Azir, the shattered empire stirs once more. The deserts hold secrets older than memory.",
+    "color": "#d4ac0d",
+    "champions": ["Azir", "Nasus", "Renekton", "Sivir", "Xerath", "Taliyah", "Akshan", "K'Sante", "Naafiri", "Samira"]
+  },
+  {
+    "id": "shadow_isles",
+    "name": "Shadow Isles",
+    "description": "Once the beautiful Blessed Isles, this archipelago was devastated by the Ruination—a magical catastrophe that turned it into a realm of undeath. The Black Mist that emanates from these shores carries the tortured spirits of the dead, threatening all of Runeterra.",
+    "color": "#1abc9c",
+    "champions": ["Thresh", "Viego", "Kalista", "Hecarim", "Karthus", "Yorick", "Maokai", "Gwen", "Senna", "Vex"]
+  },
+  {
+    "id": "bilgewater",
+    "name": "Bilgewater",
+    "description": "A lawless port city where fortunes are made and stolen. Bilgewater is home to serpent hunters, dock gangs, and smugglers from across Runeterra. The city operates on its own brutal code of honor, where wealth, reputation, and a sharp blade determine who holds power.",
+    "color": "#8e44ad",
+    "champions": ["Gangplank", "Miss Fortune", "Twisted Fate", "Graves", "Illaoi", "Pyke", "Nautilus", "Fizz", "Nilah", "Tahm Kench"]
+  },
+  {
+    "id": "void",
+    "name": "The Void",
+    "description": "Beyond the boundaries of existence lies the Void—a nightmarish dimension of nothingness that hungers to consume all reality. Its monstrous creatures breach into Runeterra, each more horrifying than the last. The Void is not evil—it is the absence of everything, seeking to unmake creation.",
+    "color": "#6c3483",
+    "champions": ["Kha'Zix", "Vel'Koz", "Rek'Sai", "Kog'Maw", "Cho'Gath", "Kassadin", "Kai'Sa", "Malzahar", "Bel'Veth"]
+  },
+  {
+    "id": "targon",
+    "name": "Mount Targon",
+    "description": "A near-impossible peak that pierces the heavens, Mount Targon is where mortals can touch the celestial realm. Those who survive the climb may become Aspects—hosts for cosmic entities of immense power. The Solari and Lunari wage an ancient war of faith in its shadow.",
+    "color": "#a569bd",
+    "champions": ["Leona", "Diana", "Pantheon", "Taric", "Soraka", "Zoe", "Aphelios", "Aurelion Sol"]
+  }
+]

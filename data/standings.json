@@ -1,0 +1,38 @@
+{
+  "LPL": [
+    {"rank": 1, "team": "BLG", "wins": 14, "losses": 2, "winrate": "87.5%"},
+    {"rank": 2, "team": "TES", "wins": 13, "losses": 3, "winrate": "81.3%"},
+    {"rank": 3, "team": "JDG", "wins": 12, "losses": 4, "winrate": "75.0%"},
+    {"rank": 4, "team": "WBG", "wins": 11, "losses": 5, "winrate": "68.8%"},
+    {"rank": 5, "team": "LNG", "wins": 10, "losses": 6, "winrate": "62.5%"},
+    {"rank": 6, "team": "EDG", "wins": 9, "losses": 7, "winrate": "56.3%"},
+    {"rank": 7, "team": "IG", "wins": 8, "losses": 8, "winrate": "50.0%"},
+    {"rank": 8, "team": "FPX", "wins": 7, "losses": 9, "winrate": "43.8%"}
+  ],
+  "LCK": [
+    {"rank": 1, "team": "T1", "wins": 15, "losses": 1, "winrate": "93.8%"},
+    {"rank": 2, "team": "Gen.G", "wins": 14, "losses": 2, "winrate": "87.5%"},
+    {"rank": 3, "team": "HLE", "wins": 12, "losses": 4, "winrate": "75.0%"},
+    {"rank": 4, "team": "DK", "wins": 11, "losses": 5, "winrate": "68.8%"},
+    {"rank": 5, "team": "KT", "wins": 9, "losses": 7, "winrate": "56.3%"},
+    {"rank": 6, "team": "DRX", "wins": 8, "losses": 8, "winrate": "50.0%"},
+    {"rank": 7, "team": "NS", "wins": 6, "losses": 10, "winrate": "37.5%"},
+    {"rank": 8, "team": "BRO", "wins": 5, "losses": 11, "winrate": "31.3%"}
+  ],
+  "LEC": [
+    {"rank": 1, "team": "G2 Esports", "wins": 13, "losses": 3, "winrate": "81.3%"},
+    {"rank": 2, "team": "Fnatic", "wins": 12, "losses": 4, "winrate": "75.0%"},
+    {"rank": 3, "team": "MAD Lions", "wins": 11, "losses": 5, "winrate": "68.8%"},
+    {"rank": 4, "team": "Team Vitality", "wins": 10, "losses": 6, "winrate": "62.5%"},
+    {"rank": 5, "team": "Rogue", "wins": 9, "losses": 7, "winrate": "56.3%"},
+    {"rank": 6, "team": "SK Gaming", "wins": 7, "losses": 9, "winrate": "43.8%"}
+  ],
+  "LCS": [
+    {"rank": 1, "team": "Cloud9", "wins": 14, "losses": 2, "winrate": "87.5%"},
+    {"rank": 2, "team": "Team Liquid", "wins": 12, "losses": 4, "winrate": "75.0%"},
+    {"rank": 3, "team": "100 Thieves", "wins": 11, "losses": 5, "winrate": "68.8%"},
+    {"rank": 4, "team": "FlyQuest", "wins": 10, "losses": 6, "winrate": "62.5%"},
+    {"rank": 5, "team": "NRG", "wins": 8, "losses": 8, "winrate": "50.0%"},
+    {"rank": 6, "team": "Dignitas", "wins": 6, "losses": 10, "winrate": "37.5%"}
+  ]
+}

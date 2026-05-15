@@ -1,0 +1,14 @@
+[
+  {"id":"blg","name":"Bilibili Gaming","region":"LPL","players":["Bin","Xun","knight","Elk","ON"]},
+  {"id":"tes","name":"Top Esports","region":"LPL","players":["369","Tian","Creme","JackeyLove","Meiko"]},
+  {"id":"jdg","name":"JD Gaming","region":"LPL","players":["Breathe","Kanavi","Yagao","Ruler","Missing"]},
+  {"id":"wbg","name":"Weibo Gaming","region":"LPL","players":["TheShy","Tarzan","Xiaohu","Light","Crisp"]},
+  {"id":"t1","name":"T1","region":"LCK","players":["Zeus","Oner","Faker","Gumayusi","Keria"]},
+  {"id":"geng","name":"Gen.G","region":"LCK","players":["Kiin","Canyon","Chovy","Peyz","Lehends"]},
+  {"id":"hle","name":"Hanwha Life","region":"LCK","players":["Doran","Peanut","Zeka","Viper","Delight"]},
+  {"id":"dk","name":"Dplus KIA","region":"LCK","players":["Canna","Lucid","ShowMaker","Aiming","Kellin"]},
+  {"id":"g2","name":"G2 Esports","region":"LEC","players":["BrokenBlade","Yike","Caps","Hans Sama","Mikyx"]},
+  {"id":"fnc","name":"Fnatic","region":"LEC","players":["Oscarinin","Razork","Humanoid","Noah","Jun"]},
+  {"id":"c9","name":"Cloud9","region":"LCS","players":["Fudge","Blaber","Jojopyun","Berserker","Vulcan"]},
+  {"id":"tl","name":"Team Liquid","region":"LCS","players":["Impact","Pyosik","APA","Yeon","CoreJJ"]}
+]

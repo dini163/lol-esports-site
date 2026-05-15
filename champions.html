@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Champions — LoL Esports Hub</title>
+  <meta name="description" content="Browse all League of Legends champions. Filter by role, search by name, and explore abilities, lore, and voice lines.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="main">
+    <section class="section" style="padding-top:2rem;">
+      <h1 class="section-title" style="font-size:2.2rem;margin-bottom:0.5rem;">Champions</h1>
+      <p style="color:var(--text-secondary);margin-bottom:2rem;">Explore all <span id="champCount">0</span> champions of League of Legends</p>
+      <div class="toolbar">
+        <div class="search-wrapper">
+          <svg viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+          <input type="text" class="search-box" id="champSearch" placeholder="Search champions...">
+        </div>
+        <div class="filter-group" id="roleFilters">
+          <button class="filter-btn active" data-role="all">All</button>
+          <button class="filter-btn" data-role="Fighter">Fighter</button>
+          <button class="filter-btn" data-role="Mage">Mage</button>
+          <button class="filter-btn" data-role="Assassin">Assassin</button>
+          <button class="filter-btn" data-role="Marksman">Marksman</button>
+          <button class="filter-btn" data-role="Tank">Tank</button>
+          <button class="filter-btn" data-role="Support">Support</button>
+        </div>
+      </div>
+      <div id="champGrid" class="champion-grid">
+        <div class="loading"><div class="spinner"></div><p style="margin-top:1rem;">Loading champions...</p></div>
+      </div>
+    </section>
+  </main>
+  <script src="js/common.js"></script>
+  <script src="js/champions.js"></script>
+</body>
+</html>
