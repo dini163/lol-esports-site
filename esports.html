@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoL Esports - Live Scores & Schedule</title>
+    <meta name="description" content="Real-time League of Legends esports scores, schedules, and standings for LPL, LCK, LEC, and LCS.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0a0c11; --bg-card: #12151d; --bg-hover: #1e222d;
+            --gold: #c8aa6e; --gold-light: #f0e6d2; --blue: #0ac8b9; --red: #ff4e50;
+            --text-main: #f0f0f0; --text-muted: #8c8c8c; --border: #2a2d35;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-dark); color: var(--text-main); min-height: 100vh; }
+        
+        /* Header */
+        .header { background: var(--bg-card); border-bottom: 1px solid var(--border); padding: 1rem 2rem; position: sticky; top: 0; z-index: 100; display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 1.5rem; font-weight: 800; color: var(--gold); text-transform: uppercase; letter-spacing: 2px; }
+        .live-badge { background: var(--red); color: white; padding: 0.25rem 0.75rem; border-radius: 99px; font-size: 0.8rem; font-weight: bold; animation: pulse 2s infinite; display: none; }
+        .live-badge.active { display: inline-block; }
+        
+        /* Layout */
+        .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
+        .filters { display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap; }
+        .filter-btn { background: var(--bg-card); border: 1px solid var(--border); color: var(--text-muted); padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; transition: 0.2s; }
+        .filter-btn:hover, .filter-btn.active { background: var(--gold); color: var(--bg-dark); border-color: var(--gold); }
+        
+        /* Cards */
+        .match-list { display: flex; flex-direction: column; gap: 1rem; }
+        .match-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; display: grid; grid-template-columns: 100px 1fr 1fr 100px; gap: 1rem; align-items: center; transition: 0.2s; }
+        .match-card:hover { border-color: var(--gold); transform: translateY(-2px); }
+        
+        .league-info { text-align: center; }
+        .league-name { font-weight: bold; color: var(--gold-light); font-size: 0.9rem; }
+        .league-time { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem; }
+        
+        .team { display: flex; align-items: center; gap: 1rem; font-weight: 600; font-size: 1.1rem; }
+        .team.right { justify-content: flex-end; text-align: right; }
+        .score { font-size: 1.5rem; font-weight: 800; color: var(--gold); min-width: 40px; text-align: center; }
+        
+        .vs-divider { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        .vs-text { font-size: 0.8rem; color: var(--text-muted); }
+        
+        .status { text-align: center; font-size: 0.8rem; font-weight: bold; }
+        .status.live { color: var(--red); }
+        .status.upcoming { color: var(--blue); }
+        .status.completed { color: var(--text-muted); }
+        
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+        
+        @media (max-width: 768px) {
+            .match-card { grid-template-columns: 1fr; text-align: center; gap: 0.5rem; padding: 1rem; }
+            .team, .team.right { justify-content: center; }
+            .score { margin: 0.5rem 0; }
+        }
+        
+        /* Loading */
+        .loading { text-align: center; padding: 4rem; color: var(--text-muted); }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">LoL Esports</div>
+        <div class="live-badge" id="liveIndicator">LIVE MATCHES</div>
+    </header>
+
+    <main class="container">
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterMatches('all')">All Leagues</button>
+            <button class="filter-btn" onclick="filterMatches('lpl')">LPL</button>
+            <button class="filter-btn" onclick="filterMatches('lck')">LCK</button>
+            <button class="filter-btn" onclick="filterMatches('lec')">LEC</button>
+            <button class="filter-btn" onclick="filterMatches('lcs')">LCS</button>
+        </div>
+
+        <div id="match-container" class="match-list">
+            <div class="loading">Loading live scores...</div>
+        </div>
+    </main>
+
+    <script>
+        let matches = [];
+
+        async function loadMatches() {
+            try {
+                // 获取 schedule.json，添加时间戳避免缓存
+                const response = await fetch('./data/schedule.json?t=' + Date.now());
+                matches = await response.json();
+                renderMatches(matches);
+                updateLiveIndicator();
+            } catch (e) {
+                document.getElementById('match-container').innerHTML = '<div class="loading">Failed to load schedule. Please try again later.</div>';
+            }
+        }
+
+        function renderMatches(data) {
+            const container = document.getElementById('match-container');
+            container.innerHTML = '';
+            
+            // 排序：Live > Upcoming > Completed
+            const priority = { live: 1, upcoming: 2, completed: 3 };
+            data.sort((a, b) => priority[a.status] - priority[b.status]);
+
+            if (data.length === 0) {
+                container.innerHTML = '<div class="loading">No matches found.</div>';
+                return;
+            }
+
+            data.forEach(match => {
+                const date = new Date(match.start_time);
+                const timeStr = date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                const dateStr = date.toLocaleDateString();
+                
+                const card = document.createElement('div');
+                card.className = 'match-card';
+                card.dataset.league = match.league_code;
+                card.innerHTML = `
+                    <div class="league-info">
+                        <div class="league-name">${match.league}</div>
+                        <div class="league-time">${dateStr} ${timeStr}</div>
+                    </div>
+                    <div class="team">
+                        ${match.team_a.name}
+                    </div>
+                    <div class="team right">
+                        ${match.team_b.name}
+                        <div class="score">${match.team_a.score} - ${match.team_b.score}</div>
+                    </div>
+                    <div class="status ${match.status}">
+                        ${match.status === 'live' ? '● LIVE' : match.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function filterMatches(league) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            if (league === 'all') {
+                renderMatches(matches);
+            } else {
+                renderMatches(matches.filter(m => m.league_code === league));
+            }
+        }
+
+        function updateLiveIndicator() {
+            const hasLive = matches.some(m => m.status === 'live');
+            const indicator = document.getElementById('liveIndicator');
+            hasLive ? indicator.classList.add('active') : indicator.classList.remove('active');
+        }
+
+        // 初始加载
+        loadMatches();
+        // 每 5 分钟刷新一次数据
+        setInterval(loadMatches, 300000);
+    </script>
+</body>
+</html>
