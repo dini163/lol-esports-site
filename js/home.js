@@ -4,44 +4,67 @@ document.addEventListener('DOMContentLoaded', async () => {
   loadMatches();
   loadFeaturedChampions();
   loadNews();
+  // Auto-refresh matches every 60 seconds
+  setInterval(loadMatches, 60000);
 });
 
 async function loadMatches() {
   const container = document.getElementById('matchList');
   try {
-    const matches = await fetchJSON('./data/schedule.json?t=' + Date.now());
-    const priority = { live: 1, upcoming: 2, completed: 3 };
-    matches.sort((a, b) => priority[a.status] - priority[b.status]);
-    const top = matches.slice(0, 4);
-    container.innerHTML = top.map(m => {
+    let matches;
+    if (typeof fetchScheduleWithFallback === 'function') {
+      matches = await fetchScheduleWithFallback(['lpl', 'lck', 'lec', 'lcs']);
+    } else {
+      matches = await fetchJSON('./data/schedule.json?t=' + Date.now());
+    }
+    function getDayScore(m) {
       const d = new Date(m.start_time);
+      const dayTime = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+      const now = new Date();
+      const todayTime = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+      if (dayTime === todayTime) return 0;
+      if (dayTime < todayTime) return 1 + (todayTime - dayTime) / 86400000;
+      return 10000 + (dayTime - todayTime) / 86400000;
+    }
+    matches.sort((a, b) => {
+      const scoreA = getDayScore(a);
+      const scoreB = getDayScore(b);
+      if (scoreA !== scoreB) return scoreA - scoreB;
+      return new Date(a.start_time) - new Date(b.start_time);
+    });
+    
+    const top = matches.slice(0, 8);
+    container.innerHTML = top.map(m => {
       const time = formatTime(m.start_time);
       const date = formatDate(m.start_time);
       const liveClass = m.status === 'live' ? ' live' : '';
+      const logoA = m.team_a.image ? `<img src="${m.team_a.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_a.name.substring(0, 3);
+      const logoB = m.team_b.image ? `<img src="${m.team_b.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_b.name.substring(0, 3);
       return `
         <div class="match-card${liveClass}">
           <div class="match-league">
             <div class="match-league-name">${m.league}</div>
             <div class="match-league-time">${date} · ${time}</div>
           </div>
-          <div class="match-team">
-            <div class="match-team-logo">${m.team_a.name.substring(0,3)}</div>
-            ${m.team_a.name}
+          <div class="match-team team-a">
+            <span class="match-team-name">${m.team_a.name}</span>
+            <div class="match-team-logo">${logoA}</div>
           </div>
           <div class="match-vs">
             <div class="match-score">${m.team_a.score} : ${m.team_b.score}</div>
             <div class="match-vs-label">${m.status === 'live' ? '<span class="live-dot"></span>LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}</div>
           </div>
-          <div class="match-team right">
-            ${m.team_b.name}
-            <div class="match-team-logo">${m.team_b.name.substring(0,3)}</div>
+          <div class="match-team team-b">
+            <div class="match-team-logo">${logoB}</div>
+            <span class="match-team-name">${m.team_b.name}</span>
           </div>
           <div class="match-status ${m.status}">
-            ${m.status === 'live' ? '● LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
+            ${m.status === 'live' ? '<span class="live-dot"></span> LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
           </div>
         </div>`;
     }).join('');
   } catch (e) {
+    console.error('Failed to load matches:', e);
     container.innerHTML = '<div class="loading">Failed to load matches.</div>';
   }
 }

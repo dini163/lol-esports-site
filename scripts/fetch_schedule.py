@@ -51,9 +51,8 @@ def fetch_esports_data():
             league_code = league.lower()[:3] # 简化代码
             
             # 尝试获取比分
-            strategy = match.get('strategy', {}).get('teams', [])
-            score_a = strategy[0].get('result', {}).get('outcome', {}).get('gameWins', 0) if len(strategy) > 0 else 0
-            score_b = strategy[1].get('result', {}).get('outcome', {}).get('gameWins', 0) if len(strategy) > 1 else 0
+            score_a = teams[0].get('result', {}).get('gameWins', 0) if len(teams) > 0 else 0
+            score_b = teams[1].get('result', {}).get('gameWins', 0) if len(teams) > 1 else 0
 
             matches.append({
                 "league": league,

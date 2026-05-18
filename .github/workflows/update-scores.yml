@@ -27,8 +27,6 @@ jobs:
 
       - name: Fetch Scores
         run: python scripts/fetch_schedule.py
-        env:
-          RIOT_ESPORTS_API_KEY: ${{ secrets.RIOT_ESPORTS_API_KEY }}
 
       - name: Commit and Push if changed
         run: |

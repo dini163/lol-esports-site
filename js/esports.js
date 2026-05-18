@@ -1,16 +1,22 @@
 let matchesData = [];
 let standingsData = {};
 let teamsData = [];
+let currentLeagueFilter = 'all';
+let currentStandingsRegion = 'LPL';
+let currentStandingsMode = 'regular'; // 'regular' or 'playoffs'
 
 document.addEventListener('DOMContentLoaded', async () => {
   await Promise.all([loadSchedule(), loadStandings(), loadTeams()]);
   setupLeagueFilters();
   setupStandingsRegion();
+  setupStandingsMode();
+  // Auto-refresh schedule every 60 seconds
+  setInterval(() => { loadSchedule(); }, 60000);
 });
 
 function switchTab(tab) {
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  document.querySelector(`.tab-btn[data-tab="${tab}"]`)?.classList.add('active');
+  document.querySelector(`.tab-btn[data-tab="${tab}`)?.classList.add('active');
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
   document.getElementById(`tab-${tab}`)?.classList.add('active');
 }
@@ -18,40 +24,63 @@ function switchTab(tab) {
 // ---- Schedule ----
 async function loadSchedule() {
   try {
-    matchesData = await fetchJSON('./data/schedule.json?t=' + Date.now());
-    renderSchedule(matchesData);
+    if (typeof fetchScheduleWithFallback === 'function') {
+      matchesData = await fetchScheduleWithFallback(['lpl', 'lck', 'lec', 'lcs']);
+    } else {
+      matchesData = await fetchJSON('./data/schedule.json?t=' + Date.now());
+    }
+    renderSchedule(currentLeagueFilter === 'all' ? matchesData : matchesData.filter(m => m.league_code === currentLeagueFilter));
   } catch (e) {
+    console.error('Failed to load schedule:', e);
     document.getElementById('scheduleList').innerHTML = '<div class="loading">Failed to load schedule.</div>';
   }
 }
 
 function renderSchedule(matches) {
   const container = document.getElementById('scheduleList');
-  const priority = { live: 1, upcoming: 2, completed: 3 };
-  matches.sort((a, b) => priority[a.status] - priority[b.status]);
   if (!matches.length) { container.innerHTML = '<div class="loading">No matches found.</div>'; return; }
+  
+  function getDayScore(m) {
+    const d = new Date(m.start_time);
+    const dayTime = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+    const now = new Date();
+    const todayTime = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+    if (dayTime === todayTime) return 0;
+    if (dayTime < todayTime) return 1 + (todayTime - dayTime) / 86400000;
+    return 10000 + (dayTime - todayTime) / 86400000;
+  }
+  
+  matches.sort((a, b) => {
+    const scoreA = getDayScore(a);
+    const scoreB = getDayScore(b);
+    if (scoreA !== scoreB) return scoreA - scoreB;
+    return new Date(a.start_time) - new Date(b.start_time);
+  });
+
   container.innerHTML = matches.map(m => {
     const liveClass = m.status === 'live' ? ' live' : '';
+    const logoA = m.team_a.image ? `<img src="${m.team_a.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_a.name.substring(0, 3);
+    const logoB = m.team_b.image ? `<img src="${m.team_b.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_b.name.substring(0, 3);
     return `
       <div class="match-card${liveClass}">
         <div class="match-league">
           <div class="match-league-name">${m.league}</div>
           <div class="match-league-time">${formatDate(m.start_time)} · ${formatTime(m.start_time)}</div>
         </div>
-        <div class="match-team">
-          <div class="match-team-logo">${m.team_a.name.substring(0,3)}</div>
-          ${m.team_a.name}
+        <div class="match-team team-a">
+          <span class="match-team-name">${m.team_a.name}</span>
+          <div class="match-team-logo">${logoA}</div>
         </div>
         <div class="match-vs">
           <div class="match-score">${m.team_a.score} : ${m.team_b.score}</div>
           <div class="match-vs-label">${m.status === 'live' ? '<span class="live-dot"></span>LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}</div>
         </div>
-        <div class="match-team right">
-          ${m.team_b.name}
-          <div class="match-team-logo">${m.team_b.name.substring(0,3)}</div>
+        <div class="match-team team-b">
+          <div class="match-team-logo">${logoB}</div>
+          <span class="match-team-name">${m.team_b.name}</span>
         </div>
         <div class="match-status ${m.status}">
-          ${m.status === 'live' ? '● LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
+          ${m.status === 'live' ? '<span class="live-dot"></span> LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
         </div>
       </div>`;
   }).join('');
@@ -62,37 +91,87 @@ function setupLeagueFilters() {
     if (!e.target.classList.contains('filter-btn')) return;
     document.querySelectorAll('#leagueFilters .filter-btn').forEach(b => b.classList.remove('active'));
     e.target.classList.add('active');
-    const league = e.target.dataset.league;
-    renderSchedule(league === 'all' ? matchesData : matchesData.filter(m => m.league_code === league));
+    currentLeagueFilter = e.target.dataset.league;
+    renderSchedule(currentLeagueFilter === 'all' ? matchesData : matchesData.filter(m => m.league_code === currentLeagueFilter));
   });
 }
 
 // ---- Standings ----
 async function loadStandings() {
   try {
-    standingsData = await fetchJSON('./data/standings.json');
-    renderStandings('LPL');
+    const leagues = ['lpl', 'lck', 'lec', 'lcs'];
+    const results = await Promise.allSettled(
+      leagues.map(slug => fetchStandings(slug))
+    );
+
+    // Check if standings API returned data
+    let hasData = false;
+    leagues.forEach((slug, i) => {
+      if (results[i].status === 'fulfilled' && results[i].value) {
+        standingsData[slug.toUpperCase()] = results[i].value;
+        hasData = true;
+      }
+    });
+
+    if (!hasData) {
+      // Fallback: calculate from matches + cached data
+      const fallback = await fetchJSON('./data/standings.json');
+      Object.keys(fallback).forEach(key => {
+        if (!standingsData[key]) {
+          standingsData[key] = {
+            regular: fallback[key].map(t => ({
+              rank: t.rank,
+              team: t.team,
+              teamCode: t.team.substring(0, 3),
+              wins: t.wins,
+              losses: t.losses,
+              winrate: t.winrate,
+              gameWins: 0,
+              gameLosses: 0,
+            })),
+          };
+        }
+      });
+    }
+
+    renderStandings('LPL', currentStandingsMode);
   } catch (e) {
+    console.error('Failed to load standings:', e);
     document.getElementById('standingsTable').innerHTML = '<div class="loading">Failed to load standings.</div>';
   }
 }
 
-function renderStandings(region) {
+function renderStandings(region, mode) {
   const container = document.getElementById('standingsTable');
-  const teams = standingsData[region] || [];
+  const data = standingsData[region];
+  if (!data) {
+    container.innerHTML = '<div class="loading">No standings data available.</div>';
+    return;
+  }
+
+  const teams = (mode === 'playoffs' ? data.playoffs : data.regular) || data.regular || [];
+  const modeLabel = mode === 'playoffs' ? 'Playoff Bracket' : 'Regular Season';
+
   container.innerHTML = `
+    <div style="padding:0.75rem 1rem;border-bottom:1px solid var(--border);">
+      <span class="tag">${region} ${modeLabel}</span>
+    </div>
     <table class="standings-table">
       <thead>
-        <tr><th>#</th><th>Team</th><th>W</th><th>L</th><th>Win Rate</th></tr>
+        <tr><th>#</th><th>Team</th><th>W</th><th>L</th><th>Win Rate</th><th>Games</th></tr>
       </thead>
       <tbody>
         ${teams.map(t => `
           <tr>
             <td class="standings-rank">${t.rank}</td>
-            <td><div class="standings-team"><div class="match-team-logo" style="width:30px;height:30px;font-size:0.6rem;">${t.team.substring(0,3)}</div>${t.team}</div></td>
+            <td><div class="standings-team">
+              <div class="match-team-logo" style="width:30px;height:30px;font-size:0.6rem;">${t.teamCode || t.team.substring(0, 3)}</div>
+              ${t.team}
+            </div></td>
             <td style="color:var(--blue);font-weight:600;">${t.wins}</td>
             <td style="color:var(--red);font-weight:600;">${t.losses}</td>
             <td class="standings-record">${t.winrate}</td>
+            <td style="color:var(--text-secondary);font-size:0.8rem;">${t.gameWins}-${t.gameLosses}</td>
           </tr>
         `).join('')}
       </tbody>
@@ -105,7 +184,35 @@ function setupStandingsRegion() {
     if (!e.target.classList.contains('filter-btn')) return;
     document.querySelectorAll('#standingsRegion .filter-btn').forEach(b => b.classList.remove('active'));
     e.target.classList.add('active');
-    renderStandings(e.target.dataset.region);
+    currentStandingsRegion = e.target.dataset.region;
+    renderStandings(currentStandingsRegion, currentStandingsMode);
+  });
+}
+
+function setupStandingsMode() {
+  // Add regular/playoff toggle if it doesn't exist
+  const regionDiv = document.getElementById('standingsRegion');
+  if (!regionDiv) return;
+
+  // Check if mode toggle already exists
+  if (document.getElementById('standingsMode')) return;
+
+  const modeDiv = document.createElement('div');
+  modeDiv.id = 'standingsMode';
+  modeDiv.className = 'filter-group';
+  modeDiv.style.marginTop = '0.75rem';
+  modeDiv.innerHTML = `
+    <button class="filter-btn active" data-mode="regular">Regular Season</button>
+    <button class="filter-btn" data-mode="playoffs">Playoffs</button>
+  `;
+  regionDiv.parentNode.insertBefore(modeDiv, regionDiv.nextSibling);
+
+  modeDiv.addEventListener('click', e => {
+    if (!e.target.classList.contains('filter-btn')) return;
+    modeDiv.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentStandingsMode = e.target.dataset.mode;
+    renderStandings(currentStandingsRegion, currentStandingsMode);
   });
 }
 
@@ -124,7 +231,7 @@ function renderTeams(teams) {
   container.innerHTML = teams.map(t => `
     <div class="card" style="padding:1.5rem;">
       <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1rem;">
-        <div class="match-team-logo" style="width:48px;height:48px;font-size:0.8rem;">${t.name.substring(0,3)}</div>
+        <div class="match-team-logo" style="width:48px;height:48px;font-size:0.8rem;">${t.name.substring(0, 3)}</div>
         <div>
           <div style="font-weight:700;font-size:1.1rem;color:var(--gold-light);">${t.name}</div>
           <div class="tag" style="margin-top:0.25rem;">${t.region}</div>
