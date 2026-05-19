@@ -40,21 +40,38 @@ function renderSchedule(matches) {
   const container = document.getElementById('scheduleList');
   if (!matches.length) { container.innerHTML = '<div class="loading">No matches found.</div>'; return; }
   
-  function getDayScore(m) {
+  const now = new Date();
+  const todayTime = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+  
+  const uniqueDays = [...new Set(matches.map(m => {
     const d = new Date(m.start_time);
-    const dayTime = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
-    const now = new Date();
-    const todayTime = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
-    if (dayTime === todayTime) return 0;
-    if (dayTime < todayTime) return 1 + (todayTime - dayTime) / 86400000;
-    return 10000 + (dayTime - todayTime) / 86400000;
+    return new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+  }))].sort((a, b) => a - b);
+  
+  const pastDays = uniqueDays.filter(d => d < todayTime).reverse();
+  const futureDays = uniqueDays.filter(d => d > todayTime);
+  const hasToday = uniqueDays.includes(todayTime);
+  
+  const orderedDays = [];
+  if (hasToday) {
+    orderedDays.push(todayTime);
+    orderedDays.push(...futureDays);
+    orderedDays.push(...pastDays);
+  } else {
+    if (pastDays.length > 0) orderedDays.push(pastDays[0]);
+    orderedDays.push(...futureDays);
+    if (pastDays.length > 1) orderedDays.push(...pastDays.slice(1));
   }
   
   matches.sort((a, b) => {
-    const scoreA = getDayScore(a);
-    const scoreB = getDayScore(b);
+    const dA = new Date(a.start_time);
+    const dB = new Date(b.start_time);
+    const dayA = new Date(dA.getFullYear(), dA.getMonth(), dA.getDate()).getTime();
+    const dayB = new Date(dB.getFullYear(), dB.getMonth(), dB.getDate()).getTime();
+    const scoreA = orderedDays.indexOf(dayA);
+    const scoreB = orderedDays.indexOf(dayB);
     if (scoreA !== scoreB) return scoreA - scoreB;
-    return new Date(a.start_time) - new Date(b.start_time);
+    return dA - dB;
   });
 
   container.innerHTML = matches.map(m => {
