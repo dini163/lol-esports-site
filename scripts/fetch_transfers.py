@@ -12,72 +12,17 @@ headers = {
 
 PAGES = [
     {"page": "Roster Swaps/2026 Preseason/Americas", "region": "LCS"},
+    {"page": "Roster Swaps/2025 Midseason/Americas", "region": "LCS"},
     {"page": "Roster Swaps/2025 Preseason/Americas", "region": "LCS"},
-    {"page": "Roster Swaps/2025 Preseason/EMEA", "region": "LEC"}
-]
-
-# Static high-profile LCK/LPL 2026 roster swaps to blend in
-LCK_LPL_SWAPS = [
-    {
-        "date": "2026-05-18",
-        "region": "LCK",
-        "type": "Confirmed",
-        "player": "Faker",
-        "role": "MID",
-        "from_team": "T1",
-        "to_team": "T1",
-        "description": "Faker re-signs with T1 to lead the 2026 Asian Games roster, solidifying his legendary status."
-    },
-    {
-        "date": "2026-05-18",
-        "region": "LCK",
-        "type": "Confirmed",
-        "player": "Zeus",
-        "role": "TOP",
-        "from_team": "T1",
-        "to_team": "T1",
-        "description": "Zeus locks in his contract extension with T1 for the upcoming splits."
-    },
-    {
-        "date": "2026-05-18",
-        "region": "LCK",
-        "type": "Confirmed",
-        "player": "Canyon",
-        "role": "JGL",
-        "from_team": "GEN",
-        "to_team": "GEN",
-        "description": "Canyon commits to Gen.G, maintaining the top-tier jungle threat in the LCK."
-    },
-    {
-        "date": "2026-05-17",
-        "region": "LPL",
-        "type": "Confirmed",
-        "player": "Ruler",
-        "role": "BOT",
-        "from_team": "JDG",
-        "to_team": "GEN",
-        "description": "Ruler returns to Gen.G in a highly anticipated homecoming transfer."
-    },
-    {
-        "date": "2026-05-15",
-        "region": "LPL",
-        "type": "Rumor",
-        "player": "Knight",
-        "role": "MID",
-        "from_team": "BLG",
-        "to_team": "BLG",
-        "description": "BLG is in deep talks to extend Knight's contract following a stellar MSI run."
-    },
-    {
-        "date": "2026-05-14",
-        "region": "LCK",
-        "type": "Confirmed",
-        "player": "Chovy",
-        "role": "MID",
-        "from_team": "GEN",
-        "to_team": "GEN",
-        "description": "Chovy re-signs with Gen.G, ensuring the core remains intact for 2026 international campaigns."
-    }
+    {"page": "Roster Swaps/2026 Preseason/EMEA", "region": "LEC"},
+    {"page": "Roster Swaps/2025 Midseason/EMEA", "region": "LEC"},
+    {"page": "Roster Swaps/2025 Preseason/EMEA", "region": "LEC"},
+    {"page": "Roster Swaps/2026 Preseason/Korea", "region": "LCK"},
+    {"page": "Roster Swaps/2025 Midseason/Korea", "region": "LCK"},
+    {"page": "Roster Swaps/2025 Preseason/Korea", "region": "LCK"},
+    {"page": "Roster Swaps/2026 Preseason/China", "region": "LPL"},
+    {"page": "Roster Swaps/2025 Midseason/China", "region": "LPL"},
+    {"page": "Roster Swaps/2025 Preseason/China", "region": "LPL"}
 ]
 
 # Static high-profile free agents for 2026
@@ -102,7 +47,7 @@ def clean_text(text):
 def parse_role(role_str):
     role_str = role_str.lower()
     if "top" in role_str: return "TOP"
-    if "jungle" in role_str or "jgl" in role_str: return "JGL"
+    if "jungle" in role_str or "jgl" in role_str or "jungler" in role_str: return "JGL"
     if "mid" in role_str: return "MID"
     if "bot" in role_str or "adc" in role_str or "carry" in role_str: return "BOT"
     if "support" in role_str or "sup" in role_str: return "SUP"
@@ -113,47 +58,87 @@ def normalize_team(team):
     if not team_clean or team_clean.lower() in ["unknown", "none", "free agent", ""]:
         return "Unknown"
     
-    # Map common team acronyms/names to user-friendly abbreviations
     t_upper = team_clean.upper()
+    
+    # LCK Teams
+    if "HANWHA" in t_upper or t_upper == "HLE": return "HLE"
+    if "GEN.G" in t_upper or "GEN G" in t_upper or t_upper == "GEN": return "GEN"
+    if "DPLUS" in t_upper or "DK" in t_upper or "DAMWON" in t_upper: return "DK"
+    if "KT ROLSTER" in t_upper or t_upper == "KT": return "KT"
+    if "KWANGDONG" in t_upper or "KDF" in t_upper or "FREECS" in t_upper: return "KDF"
+    if "FEARX" in t_upper or "BNK" in t_upper or "FOX" in t_upper: return "FOX"
+    if "BRION" in t_upper or "BRO" in t_upper or "OKSAVINGSBANK" in t_upper: return "BRO"
+    if "NONGSHIM" in t_upper or "NS" in t_upper: return "NS"
+    if "DRX" in t_upper: return "DRX"
+    if "T1" in t_upper: return "T1"
+    
+    # LPL Teams
     if "BILIBILI" in t_upper or t_upper == "BLG": return "BLG"
     if "TOP ESPORTS" in t_upper or t_upper == "TES": return "TES"
-    if "JDG" in t_upper or "JD" in t_upper: return "JDG"
+    if "JD GAMING" in t_upper or "JDG" in t_upper: return "JDG"
     if "WEIBO" in t_upper or t_upper == "WBG": return "WBG"
-    if "NINJAS IN PYJAMAS" in t_upper or t_upper == "NIP": return "NIP"
+    if "NINJAS IN" in t_upper or t_upper == "NIP": return "NIP"
+    if "FUNPLUS" in t_upper or t_upper == "FPX": return "FPX"
+    if "EDWARD" in t_upper or t_upper == "EDG": return "EDG"
+    if "ROYAL NEVER" in t_upper or t_upper == "RNG": return "RNG"
+    if "LNG" in t_upper: return "LNG"
+    if "INVICTUS" in t_upper or t_upper == "IG": return "IG"
+    if "LGD" in t_upper: return "LGD"
+    if "ULTRA PRIME" in t_upper or t_upper == "UP": return "UP"
+    if "RARE ATOM" in t_upper or t_upper == "RA": return "RA"
+    if "TEAM WE" in t_upper or t_upper == "WE": return "WE"
+    if "ANYONE'S" in t_upper or t_upper == "AL": return "AL"
+    if "THUNDERTALK" in t_upper or t_upper == "TT": return "TT"
+    
+    # LEC Teams
     if "G2" in t_upper: return "G2"
     if "FNATIC" in t_upper or t_upper == "FNC": return "FNC"
     if "KARMINE" in t_upper or t_upper == "KC": return "KC"
     if "GIANTX" in t_upper or t_upper == "GX": return "GX"
+    if "ROGUE" in t_upper or t_upper == "RGE": return "RGE"
+    if "VITALITY" in t_upper or t_upper == "VIT": return "VIT"
+    if "HERETICS" in t_upper or t_upper == "TH": return "TH"
+    if "MAD LIONS" in t_upper or "KOI" in t_upper or t_upper == "MDK": return "MDK"
+    if "SK GAMING" in t_upper or t_upper == "SK": return "SK"
+    if "BDSA" in t_upper or "BDS" in t_upper: return "BDS"
+    
+    # LCS / Americas Teams
     if "TEAM LIQUID" in t_upper or t_upper == "TL": return "TL"
     if "CLOUD9" in t_upper or t_upper == "C9": return "C9"
     if "FLYQUEST" in t_upper or t_upper == "FLY": return "FLY"
     if "DIGNITAS" in t_upper or t_upper == "DIG": return "DIG"
     if "SHOPIFY" in t_upper or t_upper == "SR": return "SR"
-    if "SENTINELS" in t_upper or t_upper == "SEN": return "SEN"
-    if "DPLUS" in t_upper or t_upper == "DK": return "DK"
-    if "GEN.G" in t_upper or t_upper == "GEN": return "GEN"
-    if "HANWHA" in t_upper or t_upper == "HLE": return "HLE"
-    if "T1" in t_upper: return "T1"
+    if "100 THIEVES" in t_upper or t_upper == "100T" or "100" in t_upper: return "100T"
     
     # Clean up long names if too wordy
     if len(team_clean) > 15:
-        # Try returning acronym
         acronym = "".join([w[0] for w in team_clean.split() if w[0].isupper()])
         if len(acronym) >= 2:
             return acronym
-    
+            
     return team_clean
+
+def extract_team(cell):
+    if not cell:
+        return "Unknown"
+    a_tags = cell.find_all("a")
+    for a in a_tags:
+        title = a.get("title")
+        if title:
+            # Ignore edit and utility links
+            if any(kw in title for kw in ["Data:", "Special:", "File:", "Edit", "History"]):
+                continue
+            return title
+    # Fallback to text
+    text = clean_text(cell.get_text(strip=True))
+    if not text or text.lower() in ["unknown", "none", ""]:
+        return "Unknown"
+    return text
 
 def main():
     print("Fetching live roster transfers...")
     timeline = []
-    
-    # Add LCK/LPL curations first
-    for i, swap in enumerate(LCK_LPL_SWAPS):
-        swap["id"] = i + 1
-        timeline.append(swap)
-        
-    current_id = len(timeline) + 1
+    current_id = 1
     
     for entry in PAGES:
         page_name = entry["page"]
@@ -186,63 +171,121 @@ def main():
                     continue
                 headers_cells = [cell.get_text(strip=True) for cell in rows[0].find_all(["th", "td"])]
                 
-                # We are looking for the timeline table (with columns Date, Status, Player, Leaves, Joins)
-                if any(h in headers_cells for h in ["Player", "Leaves", "Joins"]) and any(h in headers_cells for h in ["Date"]):
-                    for row in rows[1:]:
-                        cells = row.find_all(["td", "th"])
-                        if len(cells) < 8:
-                            continue
-                        
-                        date_raw = clean_text(cells[0].get_text(strip=True))
-                        # Validate if first cell is a date
-                        if not re.match(r'^\d{4}-\d{2}-\d{2}$', date_raw):
+                # Check if it is a roster swaps table
+                if any(h in headers_cells for h in ["Player", "Leaves", "Joins"]):
+                    is_timeline = any(h in headers_cells for h in ["Date"])
+                    
+                    for r in rows[1:]:
+                        cells = r.find_all(["td", "th"])
+                        if not cells or len(cells) < 4:
                             continue
                             
-                        status = clean_text(cells[1].get_text(strip=True))
-                        player = clean_text(cells[3].get_text(strip=True))
-                        from_team = normalize_team(cells[4].get_text(strip=True))
-                        to_team = normalize_team(cells[7].get_text(strip=True))
-                        
-                        # Infer role
-                        role_str = clean_text(cells[5].get_text(strip=True))
-                        if not role_str:
-                            role_str = clean_text(cells[8].get_text(strip=True))
-                        role = parse_role(role_str)
-                        
-                        # Create descriptive text
-                        status_type = "Confirmed" if "Confirmed" in status or "Official" in status else "Rumor"
-                        if status_type == "Confirmed":
-                            desc = f"{player} has officially joined {to_team} from {from_team}."
-                            if from_team == "Unknown" or from_team == "Free Agent":
-                                desc = f"{player} has officially signed with {to_team}."
-                            elif to_team == "Unknown" or to_team == "Free Agent":
-                                desc = f"{player} has officially left {from_team} to become a free agent."
+                        # Skip subheader rows
+                        first_cell_text = clean_text(cells[0].get_text(strip=True))
+                        if first_cell_text in ["Player", "Date", ""]:
+                            continue
+                            
+                        if is_timeline:
+                            # Table 3 Style chronological Timeline
+                            if len(cells) < 8:
+                                continue
+                            date_raw = clean_text(cells[0].get_text(strip=True))
+                            if not re.match(r'^\d{4}-\d{2}-\d{2}$', date_raw):
+                                continue
+                            status = clean_text(cells[1].get_text(strip=True))
+                            player = clean_text(cells[3].get_text(strip=True))
+                            from_team = normalize_team(extract_team(cells[5]))
+                            to_team = normalize_team(extract_team(cells[8]))
+                            
+                            role_str = ""
+                            # Extract role from role sprite
+                            for idx_role in [6, 9]:
+                                if idx_role < len(cells):
+                                    sprite = cells[idx_role].find(class_="role-sprite")
+                                    if sprite and sprite.get("title"):
+                                        role_str = sprite.get("title")
+                                        break
+                            role = parse_role(role_str)
+                            
+                            status_type = "Confirmed" if "Confirmed" in status or "Official" in status else "Rumor"
                         else:
-                            desc = f"Reports suggest {player} is in talks to join {to_team} after leaving {from_team}."
-                            if to_team == "Unknown":
-                                desc = f"Reports indicate {player} is exploring options outside of {from_team}."
+                            # Table 2 Style Player Swaps table
+                            player = clean_text(cells[0].get_text(strip=True))
+                            dates = []
+                            for cell in cells:
+                                cell_t = clean_text(cell.get_text(strip=True))
+                                m = re.search(r'\d{4}-\d{2}-\d{2}', cell_t)
+                                if m:
+                                    dates.append(m.group(0))
+                            date_raw = dates[-1] if dates else ""
+                            if not date_raw:
+                                continue
                                 
-                        timeline.append({
-                            "id": current_id,
-                            "date": date_raw,
-                            "region": default_region,
-                            "type": status_type,
-                            "player": player,
-                            "role": role,
-                            "from_team": from_team,
-                            "to_team": to_team,
-                            "description": desc
-                        })
-                        current_id += 1
-                        parsed_count += 1
-                        
+                            if len(cells) == 11:
+                                from_team = normalize_team(extract_team(cells[3]))
+                                to_team = normalize_team(extract_team(cells[8]))
+                            else:
+                                c1_text = clean_text(cells[1].get_text(strip=True)).lower()
+                                if any(kw in c1_text for kw in ["free agent", "retired", "inactive", "break"]):
+                                    from_team = "Free Agent"
+                                    to_team = normalize_team(extract_team(cells[4]))
+                                else:
+                                    from_team = normalize_team(extract_team(cells[3]))
+                                    to_team_text = clean_text(cells[-1].get_text(strip=True)).lower()
+                                    if any(kw in to_team_text for kw in ["free agent", "retired", "inactive", "break"]):
+                                        to_team = "Free Agent"
+                                    else:
+                                        to_team = "Free Agent"
+                                        
+                            role_str = ""
+                            for cell in cells:
+                                txt = clean_text(cell.get_text(strip=True))
+                                if txt in ["Top", "Jungle", "Mid", "Bot", "Support"]:
+                                    role_str = txt
+                                    break
+                            role = parse_role(role_str)
+                            status_type = "Confirmed"
+                            
+                        # Create gorgeous Riot-style descriptive texts
+                        if status_type == "Confirmed":
+                            if from_team in ["Unknown", "Free Agent"]:
+                                desc = f"{player} has officially signed with {to_team} as their starting {role.lower()} laner."
+                            elif to_team in ["Unknown", "Free Agent"]:
+                                desc = f"{player} has officially parted ways with {from_team} to become a free agent."
+                            else:
+                                desc = f"{player} has officially transferred to {to_team} from {from_team}."
+                        else:
+                            desc = f"Reports suggest {player} is in advanced negotiations to join {to_team} from {from_team}."
+                            if to_team in ["Unknown", "Free Agent"]:
+                                desc = f"Reports indicate {player} is exploring their options outside of {from_team}."
+                                
+                        # Avoid duplicates: if same player is already tracked on the same date, skip
+                        duplicate = False
+                        for t in timeline:
+                            if t["player"] == player and t["date"] == date_raw and t["from_team"] == from_team and t["to_team"] == to_team:
+                                duplicate = True
+                                break
+                        if not duplicate:
+                            timeline.append({
+                                "id": current_id,
+                                "date": date_raw,
+                                "region": default_region,
+                                "type": status_type,
+                                "player": player,
+                                "role": role,
+                                "from_team": from_team,
+                                "to_team": to_team,
+                                "description": desc
+                            })
+                            current_id += 1
+                            parsed_count += 1
+                            
             print(f"  Parsed {parsed_count} transfers from {page_name}.")
             
         except Exception as e:
             print(f"  Exception parsing {page_name}: {e}")
             
     # Sort timeline by date descending
-    # Filter out empty dates or invalid entries
     timeline = [t for t in timeline if t.get("date")]
     timeline.sort(key=lambda x: x["date"], reverse=True)
     
@@ -250,9 +293,9 @@ def main():
     for idx, t in enumerate(timeline):
         t["id"] = idx + 1
         
-    # Write to transfers.json
+    # Write to transfers.json (write all timeline moves, no slicing, to display complete history)
     out_data = {
-        "timeline": timeline[:25], # Top 25 latest transfer actions
+        "timeline": timeline,
         "free_agents": STATIC_FREE_AGENTS
     }
     
@@ -261,7 +304,7 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(out_data, f, ensure_ascii=False, indent=2)
         
-    print(f"Successfully updated data/transfers.json with {len(timeline[:25])} timeline moves and {len(STATIC_FREE_AGENTS)} free agents.")
+    print(f"Successfully updated data/transfers.json with {len(timeline)} timeline moves and {len(STATIC_FREE_AGENTS)} free agents.")
 
 if __name__ == "__main__":
     main()
