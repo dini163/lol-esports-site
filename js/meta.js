@@ -10,11 +10,43 @@ async function loadMetaData() {
   try {
     const data = await fetchJSON('./data/meta.json');
     
+    // Fetch latest live version from Data Dragon dynamically
+    let livePatch = '26.10';
+    try {
+      const versions = await fetchJSON('https://ddragon.leagueoflegends.com/api/versions.json');
+      if (versions && versions.length > 0) {
+        const parts = versions[0].split('.');
+        const major = parseInt(parts[0]);
+        const minor = parts[1];
+        if (!isNaN(major) && minor) {
+          // Map major version from 16 to 26 (major + 10)
+          livePatch = `${major + 10}.${minor}`;
+        }
+      }
+    } catch (e) {
+      console.warn('Failed to fetch dynamic patch from DDragon, using mapped meta.json patch:', e);
+      if (data && data.patch) {
+        const parts = data.patch.split('.');
+        const major = parseInt(parts[0]);
+        const minor = parts[1];
+        if (!isNaN(major) && minor) {
+          // data.patch could be 14.10, which maps 14 + 12 = 26, or 26.10 which maps 26 + 0 = 26
+          if (major === 14) {
+            livePatch = `${major + 12}.${minor}`;
+          } else {
+            livePatch = `${major}.${minor}`;
+          }
+        } else {
+          livePatch = data.patch;
+        }
+      }
+    }
+
     // Render Patch Notes
     patchContainer.innerHTML = `
       <div style="background:var(--bg-secondary); border:1px solid var(--border); border-radius:var(--radius-md); padding:2rem;">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem;">
-          <h2 style="font-size:1.5rem; color:var(--gold-light); margin:0;">Patch ${data.patch} Highlights</h2>
+          <h2 style="font-size:1.5rem; color:var(--gold-light); margin:0;">Patch ${livePatch} Highlights</h2>
           <span class="tag" style="background:var(--gold-dark); color:#fff;">Live</span>
         </div>
         <ul style="list-style:none; padding:0; margin:0; display:grid; gap:1rem;">
