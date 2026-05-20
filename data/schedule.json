@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "GZ vs DCG",
-    "team_a": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "team_b": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
-    },
-    "start_time": "2026-05-16T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BFX vs NS",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-05-16T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "CKZ vs BG",
@@ -747,17 +709,17 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
       "name": "KIWOOM DRX",
       "code": "DRX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-05-20T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-05-20T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "VCS",
@@ -785,7 +747,7 @@
     "team_a": {
       "name": "Saigon Zen Esport",
       "code": "ZEN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
     },
     "team_b": {
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-05-21T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "TBD vs VITB",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Vitality.Bee",
+      "code": "VITB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
+    },
+    "start_time": "2026-05-21T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "CRZ vs ZZG",
+    "team_a": {
+      "name": "Crusaders",
+      "code": "CRZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738419752510_ryc_c.png"
+    },
+    "team_b": {
+      "name": "ZeroZone Gaming",
+      "code": "ZZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
+    },
+    "start_time": "2026-05-21T19:00:00Z",
     "status": "upcoming"
   }
 ]
