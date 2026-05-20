@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "CKZ vs BG",
-    "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "team_b": {
-      "name": "Bohemian Guardians",
-      "code": "BG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
-    },
-    "start_time": "2026-05-16T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WE vs NIP",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-05-20T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Saigon Zen Esport",
       "code": "ZEN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
     },
     "team_b": {
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "team_b": {
@@ -1140,25 +1121,6 @@
     "status": "upcoming"
   },
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TBD vs TBD",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "start_time": "2026-05-21T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "DK vs BRO",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
     },
     "start_time": "2026-05-21T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "BBK vs RDT",
+    "team_a": {
+      "name": "Bubliki",
+      "code": "BBK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
+    },
+    "team_b": {
+      "name": "Ronaldo Team",
+      "code": "RDT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
+    },
+    "start_time": "2026-05-21T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-05-21T20:00:00Z",
     "status": "upcoming"
   }
 ]

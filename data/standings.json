@@ -35,7 +35,7 @@
         "gameLosses": 12
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
@@ -112,18 +112,7 @@
         "gameLosses": 6
       },
       {
-        "rank": 2,
-        "team": "EDWARD GAMING",
-        "teamCode": "EDG",
-        "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-        "wins": 3,
-        "losses": 2,
-        "winrate": "60%",
-        "gameWins": 7,
-        "gameLosses": 7
-      },
-      {
-        "rank": 2,
+        "rank": 3,
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
@@ -132,6 +121,17 @@
         "winrate": "60%",
         "gameWins": 6,
         "gameLosses": 6
+      },
+      {
+        "rank": 4,
+        "team": "EDWARD GAMING",
+        "teamCode": "EDG",
+        "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
+        "wins": 3,
+        "losses": 2,
+        "winrate": "60%",
+        "gameWins": 7,
+        "gameLosses": 7
       },
       {
         "rank": 5,
@@ -309,11 +309,11 @@
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
-        "wins": 11,
+        "wins": 12,
         "losses": 3,
-        "winrate": "79%",
-        "gameWins": 22,
-        "gameLosses": 10
+        "winrate": "80%",
+        "gameWins": 24,
+        "gameLosses": 11
       },
       {
         "rank": 3,
@@ -376,13 +376,13 @@
         "teamCode": "NS",
         "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
         "wins": 4,
-        "losses": 10,
-        "winrate": "29%",
-        "gameWins": 9,
-        "gameLosses": 21
+        "losses": 11,
+        "winrate": "27%",
+        "gameWins": 10,
+        "gameLosses": 23
       },
       {
-        "rank": 9,
+        "rank": 8,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
