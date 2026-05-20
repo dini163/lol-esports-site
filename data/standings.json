@@ -317,6 +317,17 @@
       },
       {
         "rank": 3,
+        "team": "T1",
+        "teamCode": "T1",
+        "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
+        "wins": 11,
+        "losses": 4,
+        "winrate": "73%",
+        "gameWins": 24,
+        "gameLosses": 10
+      },
+      {
+        "rank": 4,
         "team": "Gen.G Esports",
         "teamCode": "GEN",
         "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
@@ -325,17 +336,6 @@
         "winrate": "71%",
         "gameWins": 22,
         "gameLosses": 10
-      },
-      {
-        "rank": 3,
-        "team": "T1",
-        "teamCode": "T1",
-        "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 10,
-        "losses": 4,
-        "winrate": "71%",
-        "gameWins": 22,
-        "gameLosses": 9
       },
       {
         "rank": 5,
@@ -382,15 +382,15 @@
         "gameLosses": 21
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
         "wins": 4,
-        "losses": 10,
-        "winrate": "29%",
-        "gameWins": 11,
-        "gameLosses": 22
+        "losses": 11,
+        "winrate": "27%",
+        "gameWins": 12,
+        "gameLosses": 24
       },
       {
         "rank": 10,
