@@ -28,20 +28,20 @@ async function loadRegions() {
       </div>
     `).join('');
 
-    // Pre-defined map coordinates (approximate percentages for top/left)
+    // Pre-defined map coordinates (percentages for top/left on the square map)
     const mapCoords = {
-      demacia: { top: '45%', left: '20%' },
-      noxus: { top: '35%', left: '55%' },
-      ionia: { top: '25%', left: '80%' },
-      freljord: { top: '15%', left: '35%' },
-      shurima: { top: '75%', left: '60%' },
-      shadow_isles: { top: '70%', left: '85%' },
-      bilgewater: { top: '65%', left: '75%' },
-      piltover: { top: '45%', left: '68%' },
-      zaun: { top: '50%', left: '68%' },
-      targon: { top: '65%', left: '35%' },
+      demacia: { top: '42%', left: '18%' },
+      noxus: { top: '34%', left: '52%' },
+      ionia: { top: '22%', left: '82%' },
+      freljord: { top: '15%', left: '38%' },
+      shurima: { top: '72%', left: '48%' },
+      shadow_isles: { top: '74%', left: '88%' },
+      bilgewater: { top: '58%', left: '76%' },
+      piltover: { top: '46%', left: '59%' },
+      zaun: { top: '50%', left: '59%' },
+      targon: { top: '63%', left: '32%' },
       ixtal: { top: '75%', left: '70%' },
-      void: { top: '85%', left: '80%' }
+      void: { top: '80%', left: '64%' }
     };
 
     // Render Map Points

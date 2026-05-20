@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Runeterra Map Coordinates Inspector</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #0a0e14;
+      --bg-secondary: #0f1923;
+      --bg-card: rgba(17, 24, 39, 0.85);
+      --gold: #c8aa6e;
+      --gold-light: #f0e6d2;
+      --gold-dark: #785a28;
+      --blue: #0ac8b9;
+      --border: rgba(200, 170, 110, 0.2);
+      --font-body: 'Inter', -apple-system, sans-serif;
+      --radius: 12px;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: var(--font-body);
+      background: var(--bg-primary);
+      color: #e8e6e3;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 700px 1fr;
+      gap: 2rem;
+    }
+
+    header {
+      grid-column: 1 / -1;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      color: var(--gold-light);
+      font-family: Georgia, serif;
+    }
+
+    .subtitle {
+      color: #8b8a89;
+      font-size: 0.95rem;
+      margin-top: 0.25rem;
+    }
+
+    .map-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 1;
+      max-width: 680px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: url('img/runeterra_map.png') center/100% 100% no-repeat;
+      overflow: hidden;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    }
+
+    /* Visual Grid Overlay */
+    .grid-overlay {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      display: none;
+      background-size: 10% 10%;
+      background-image: 
+        linear-gradient(to right, rgba(200, 170, 110, 0.1) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(200, 170, 110, 0.1) 1px, transparent 1px);
+    }
+
+    .grid-overlay.active {
+      display: block;
+    }
+
+    .map-point {
+      position: absolute;
+      transform: translate(-50%, -50%);
+      cursor: move;
+      text-align: center;
+      z-index: 100;
+      user-select: none;
+    }
+
+    .dot {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      margin: 0 auto;
+      border: 2.5px solid #fff;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+      transition: transform 0.15s ease;
+    }
+
+    .map-point:hover .dot {
+      transform: scale(1.2);
+    }
+
+    .label {
+      margin-top: 0.4rem;
+      background: rgba(0,0,0,0.85);
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      font-weight: 700;
+      font-size: 0.75rem;
+      white-space: nowrap;
+      border: 1px solid rgba(255,255,255,0.25);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+
+    .right-panel {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      height: fit-content;
+      backdrop-filter: blur(10px);
+    }
+
+    .controls-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .btn {
+      background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+      color: #0a0e14;
+      padding: 0.6rem 1.25rem;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      border: none;
+      cursor: pointer;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(200, 170, 110, 0.3);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .code-box {
+      background: #05070a;
+      border: 1px solid rgba(255,255,255,0.05);
+      border-radius: 8px;
+      padding: 1rem;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.85rem;
+      color: #a7b5c6;
+      white-space: pre;
+      overflow-x: auto;
+      line-height: 1.5;
+    }
+
+    .help-card {
+      background: rgba(200,170,110,0.05);
+      border-left: 3px solid var(--gold);
+      padding: 1rem;
+      border-radius: 0 8px 8px 0;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+
+    .help-card ul {
+      margin-top: 0.5rem;
+      padding-left: 1.2rem;
+    }
+
+    .checkbox-container {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    .checkbox-container input {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--gold);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Runeterra Map Coordinates Inspector</h1>
+        <div class="subtitle">Drag the region dots on the map to find their perfect coordinate alignment.</div>
+      </div>
+      <div>
+        <label class="checkbox-container">
+          <input type="checkbox" id="gridToggle"> Toggle 5% Alignment Grid
+        </label>
+      </div>
+    </header>
+
+    <div class="map-wrapper" id="mapWrapper">
+      <div class="grid-overlay" id="gridOverlay"></div>
+      <!-- Dots will be dynamically generated and rendered here -->
+    </div>
+
+    <div class="right-panel">
+      <div class="controls-header">
+        <h2 style="font-size: 1.2rem; color: var(--gold);">Generated mapCoords Object</h2>
+        <button class="btn" id="copyBtn">Copy Code</button>
+      </div>
+
+      <div class="code-box" id="codeOutput">Loading...</div>
+
+      <div class="help-card">
+        <strong>💡 Instructions:</strong>
+        <ul>
+          <li><strong>Drag-and-Drop</strong>: Grab any colored dot on the map and drag it. The coordinates dynamically update in real-time.</li>
+          <li><strong>Copy & Apply</strong>: Once you are satisfied with the alignment, click <strong>Copy Code</strong> and paste the generated coordinates block into your <code>js/lore.js</code> file (inside the <code>mapCoords</code> constant).</li>
+          <li><strong>Perfect Square Fit</strong>: Since the Universe page map is now configured with an uncropped 1:1 aspect ratio, the coordinates generated here will fit exactly the same way in the app!</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const regions = [
+      { id: "demacia", name: "Demacia", color: "#3070c0", top: "42%", left: "18%" },
+      { id: "noxus", name: "Noxus", color: "#c0392b", top: "34%", left: "52%" },
+      { id: "ionia", name: "Ionia", color: "#e74c8c", top: "22%", left: "82%" },
+      { id: "freljord", name: "Freljord", color: "#5dade2", top: "15%", left: "38%" },
+      { id: "piltover", name: "Piltover & Zaun", color: "#f39c12", top: "46%", left: "59%" },
+      { id: "shurima", name: "Shurima", color: "#d4ac0d", top: "72%", left: "48%" },
+      { id: "shadow_isles", name: "Shadow Isles", color: "#1abc9c", top: "74%", left: "88%" },
+      { id: "bilgewater", name: "Bilgewater", color: "#58d68d", top: "58%", left: "76%" },
+      { id: "targon", name: "Mount Targon", color: "#a569bd", top: "63%", left: "32%" },
+      { id: "void", name: "The Void", color: "#6c3483", top: "80%", left: "64%" }
+    ];
+
+    const mapWrapper = document.getElementById('mapWrapper');
+    const codeOutput = document.getElementById('codeOutput');
+    const gridOverlay = document.getElementById('gridOverlay');
+    const gridToggle = document.getElementById('gridToggle');
+    const copyBtn = document.getElementById('copyBtn');
+
+    // State to hold current coordinates
+    const coordsState = {};
+    regions.forEach(r => {
+      coordsState[r.id] = { top: r.top, left: r.left, name: r.name };
+    });
+
+    // Populate dots on load
+    regions.forEach(r => {
+      const point = document.createElement('div');
+      point.className = 'map-point';
+      point.style.left = r.left;
+      point.style.top = r.top;
+      point.dataset.id = r.id;
+
+      point.innerHTML = `
+        <div class="dot" style="background: ${r.color}; box-shadow: 0 0 15px ${r.color};"></div>
+        <div class="label" style="border-color: ${r.color};">${r.name}</div>
+      `;
+
+      // Enable dragging
+      let isDragging = false;
+      point.addEventListener('mousedown', e => {
+        isDragging = true;
+        point.style.zIndex = 1000;
+        e.preventDefault();
+      });
+
+      document.addEventListener('mousemove', e => {
+        if (!isDragging) return;
+        
+        const rect = mapWrapper.getBoundingClientRect();
+        let x = e.clientX - rect.left;
+        let y = e.clientY - rect.top;
+
+        // Constraint within boundaries
+        x = Math.max(0, Math.min(x, rect.width));
+        y = Math.max(0, Math.min(y, rect.height));
+
+        const leftPct = ((x / rect.width) * 100).toFixed(0);
+        const topPct = ((y / rect.height) * 100).toFixed(0);
+
+        point.style.left = `${leftPct}%`;
+        point.style.top = `${topPct}%`;
+
+        coordsState[r.id].left = `${leftPct}%`;
+        coordsState[r.id].top = `${topPct}%`;
+
+        updateCodeOutput();
+      });
+
+      document.addEventListener('mouseup', () => {
+        if (isDragging) {
+          isDragging = false;
+          point.style.zIndex = 100;
+        }
+      });
+
+      mapWrapper.appendChild(point);
+    });
+
+    // Toggle grid
+    gridToggle.addEventListener('change', () => {
+      if (gridToggle.checked) {
+        gridOverlay.classList.add('active');
+      } else {
+        gridOverlay.classList.remove('active');
+      }
+    });
+
+    // Copy to clipboard
+    copyBtn.addEventListener('click', () => {
+      const text = generateCodeString();
+      navigator.clipboard.writeText(text).then(() => {
+        const originalText = copyBtn.innerText;
+        copyBtn.innerText = 'Copied! ✓';
+        setTimeout(() => copyBtn.innerText = originalText, 2000);
+      });
+    });
+
+    function generateCodeString() {
+      let code = `const mapCoords = {\n`;
+      const keys = Object.keys(coordsState);
+      keys.forEach((key, idx) => {
+        const item = coordsState[key];
+        const isLast = idx === keys.length - 1;
+        code += `  ${key}: { top: '${item.top}', left: '${item.left}' }${isLast ? '' : ','} // ${item.name}\n`;
+      });
+      code += `};`;
+      return code;
+    }
+
+    function updateCodeOutput() {
+      codeOutput.textContent = generateCodeString();
+    }
+
+    // Initial render
+    updateCodeOutput();
+  </script>
+</body>
+</html>
