@@ -1,55 +1,330 @@
 {
   "timeline": [
     {
-      "id": 1,
-      "date": "2024-11-20",
+      "date": "2026-05-18",
+      "region": "LCK",
+      "type": "Confirmed",
+      "player": "Faker",
+      "role": "MID",
+      "from_team": "T1",
+      "to_team": "T1",
+      "description": "Faker re-signs with T1 to lead the 2026 Asian Games roster, solidifying his legendary status.",
+      "id": 1
+    },
+    {
+      "date": "2026-05-18",
+      "region": "LCK",
+      "type": "Confirmed",
+      "player": "Zeus",
+      "role": "TOP",
+      "from_team": "T1",
+      "to_team": "T1",
+      "description": "Zeus locks in his contract extension with T1 for the upcoming splits.",
+      "id": 2
+    },
+    {
+      "date": "2026-05-18",
+      "region": "LCK",
+      "type": "Confirmed",
+      "player": "Canyon",
+      "role": "JGL",
+      "from_team": "GEN",
+      "to_team": "GEN",
+      "description": "Canyon commits to Gen.G, maintaining the top-tier jungle threat in the LCK.",
+      "id": 3
+    },
+    {
+      "date": "2026-05-17",
+      "region": "LPL",
+      "type": "Confirmed",
+      "player": "Ruler",
+      "role": "BOT",
+      "from_team": "JDG",
+      "to_team": "GEN",
+      "description": "Ruler returns to Gen.G in a highly anticipated homecoming transfer.",
+      "id": 4
+    },
+    {
+      "date": "2026-05-15",
+      "region": "LPL",
+      "type": "Rumor",
+      "player": "Knight",
+      "role": "MID",
+      "from_team": "BLG",
+      "to_team": "BLG",
+      "description": "BLG is in deep talks to extend Knight's contract following a stellar MSI run.",
+      "id": 5
+    },
+    {
+      "date": "2026-05-14",
       "region": "LCK",
       "type": "Confirmed",
       "player": "Chovy",
       "role": "MID",
-      "from_team": "Gen.G",
-      "to_team": "Gen.G",
-      "description": "Chovy has officially re-signed with Gen.G for another year, securing their mid lane for the upcoming season."
+      "from_team": "GEN",
+      "to_team": "GEN",
+      "description": "Chovy re-signs with Gen.G, ensuring the core remains intact for 2026 international campaigns.",
+      "id": 6
     },
     {
-      "id": 2,
-      "date": "2024-11-18",
-      "region": "LPL",
-      "type": "Rumor",
-      "player": "Rookie",
-      "role": "MID",
-      "from_team": "NIP",
-      "to_team": "Unknown",
-      "description": "Multiple sources report that Rookie is exploring options outside of NIP, heavily linked to a return to IG."
-    },
-    {
-      "id": 3,
-      "date": "2024-11-15",
-      "region": "LEC",
-      "type": "Confirmed",
-      "player": "Caps",
-      "role": "MID",
-      "from_team": "G2 Esports",
-      "to_team": "G2 Esports",
-      "description": "Caps extends his contract with G2 Esports until 2026."
-    },
-    {
-      "id": 4,
-      "date": "2024-11-12",
+      "id": 7,
+      "date": "2025-11-16",
       "region": "LCS",
       "type": "Confirmed",
-      "player": "Inspired",
-      "role": "JGL",
-      "from_team": "Evil Geniuses",
-      "to_team": "FlyQuest",
-      "description": "FlyQuest acquires MVP jungler Inspired to lead their superteam rebuild."
+      "player": "DARKWINGS",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "DARKWINGS has officially joined NA from AME."
+    },
+    {
+      "id": 8,
+      "date": "2025-11-16",
+      "region": "LCS",
+      "type": "Confirmed",
+      "player": "Huhi",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Huhi has officially joined NA from AME."
+    },
+    {
+      "id": 9,
+      "date": "2025-11-16",
+      "region": "LCS",
+      "type": "Confirmed",
+      "player": "Rahel",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Rahel has officially joined NA from AME."
+    },
+    {
+      "id": 10,
+      "date": "2025-11-16",
+      "region": "LCS",
+      "type": "Confirmed",
+      "player": "Castle",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Castle has officially joined NA from AME."
+    },
+    {
+      "id": 11,
+      "date": "2025-11-16",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Reignover",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Reignover is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 12,
+      "date": "2025-11-16",
+      "region": "LCS",
+      "type": "Confirmed",
+      "player": "Isles",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Isles has officially joined NA from AME."
+    },
+    {
+      "id": 13,
+      "date": "2025-11-16",
+      "region": "LCS",
+      "type": "Confirmed",
+      "player": "Zamudo",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Zamudo has officially joined NA from AME."
+    },
+    {
+      "id": 14,
+      "date": "2025-11-15",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Gryffinn",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Gryffinn is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 15,
+      "date": "2025-11-15",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Gakgos",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Gakgos is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 16,
+      "date": "2025-11-14",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "APA",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest APA is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 17,
+      "date": "2025-11-14",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Mithy",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Mithy is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 18,
+      "date": "2025-11-14",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Mithy",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "EMEA",
+      "description": "Reports suggest Mithy is in talks to join EMEA after leaving AME."
+    },
+    {
+      "id": 19,
+      "date": "2025-11-14",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Reignover",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Reignover is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 20,
+      "date": "2025-11-14",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Goldenglue",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Goldenglue is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 21,
+      "date": "2025-11-13",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Goldenglue",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Goldenglue is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 22,
+      "date": "2025-11-13",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Zamudo",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Zamudo is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 23,
+      "date": "2025-11-13",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Isles",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "NA",
+      "description": "Reports suggest Isles is in talks to join NA after leaving AME."
+    },
+    {
+      "id": 24,
+      "date": "2025-11-12",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "konseki",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "BR",
+      "description": "Reports suggest konseki is in talks to join BR after leaving AME."
+    },
+    {
+      "id": 25,
+      "date": "2025-11-12",
+      "region": "LCS",
+      "type": "Rumor",
+      "player": "Telas",
+      "role": "MID",
+      "from_team": "AME",
+      "to_team": "BR",
+      "description": "Reports suggest Telas is in talks to join BR after leaving AME."
     }
   ],
   "free_agents": [
-    { "player": "ShowMaker", "region": "LCK", "role": "MID", "prev_team": "Dplus KIA", "status": "Exploring Options" },
-    { "player": "TheShy", "region": "LPL", "role": "TOP", "prev_team": "Weibo Gaming", "status": "Taking a break" },
-    { "player": "Jankos", "region": "LEC", "role": "JGL", "prev_team": "Team Heretics", "status": "Open to offers" },
-    { "player": "Bwipo", "region": "LCS", "role": "TOP", "prev_team": "FlyQuest", "status": "Looking for team" },
-    { "player": "Viper", "region": "LCK", "role": "BOT", "prev_team": "Hanwha Life", "status": "Negotiating" }
+    {
+      "player": "ShowMaker",
+      "region": "LCK",
+      "role": "MID",
+      "prev_team": "DK",
+      "status": "Exploring Options"
+    },
+    {
+      "player": "TheShy",
+      "region": "LPL",
+      "role": "TOP",
+      "prev_team": "WBG",
+      "status": "Taking a break"
+    },
+    {
+      "player": "Tarzan",
+      "region": "LPL",
+      "role": "JGL",
+      "prev_team": "WBG",
+      "status": "Open to offers"
+    },
+    {
+      "player": "Scout",
+      "region": "LPL",
+      "role": "MID",
+      "prev_team": "LNG",
+      "status": "Exploring Options"
+    },
+    {
+      "player": "Viper",
+      "region": "LCK",
+      "role": "BOT",
+      "prev_team": "HLE",
+      "status": "Negotiating"
+    },
+    {
+      "player": "Jankos",
+      "region": "LEC",
+      "role": "JGL",
+      "prev_team": "TH",
+      "status": "Looking for team"
+    },
+    {
+      "player": "Bwipo",
+      "region": "LCS",
+      "role": "TOP",
+      "prev_team": "FLY",
+      "status": "Looking for team"
+    }
   ]
 }

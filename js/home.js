@@ -115,15 +115,17 @@ async function loadNews() {
   try {
     const news = await fetchJSON('./data/news.json');
     container.innerHTML = news.slice(0, 6).map(n => `
-      <div class="news-card">
-        <img class="news-card-img" src="${n.image}" alt="${n.title}" loading="lazy">
-        <div class="news-card-body">
-          <div class="news-card-tag">${n.tag}</div>
-          <h3 class="news-card-title">${n.title}</h3>
-          <p style="font-size:0.85rem;color:var(--text-secondary);margin-top:0.5rem;line-height:1.5;">${n.summary}</p>
-          <div class="news-card-date">${n.date}</div>
+      <a href="news.html?id=${n.id}" class="news-card-link">
+        <div class="news-card">
+          <img class="news-card-img" src="${n.image}" alt="${n.title}" loading="lazy">
+          <div class="news-card-body">
+            <div class="news-card-tag">${n.tag}</div>
+            <h3 class="news-card-title">${n.title}</h3>
+            <p style="font-size:0.85rem;color:var(--text-secondary);margin-top:0.5rem;line-height:1.5;">${n.summary}</p>
+            <div class="news-card-date">${n.date}</div>
+          </div>
         </div>
-      </div>
+      </a>
     `).join('');
   } catch (e) {
     container.innerHTML = '<div class="loading">Failed to load news.</div>';

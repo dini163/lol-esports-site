@@ -16,10 +16,10 @@ function championSquareUrl(id) {
   return `${DDRAGON_IMG}/champion/${id}.png`;
 }
 function championSplashUrl(id, skin = 0) {
-  return `${DDRAGON_IMG}/champion/splash/${id}_${skin}.jpg`;
+  return `https://ddragon.leagueoflegends.com/cdn/img/champion/splash/${id}_${skin}.jpg`;
 }
 function championLoadingUrl(id, skin = 0) {
-  return `${DDRAGON_IMG}/champion/loading/${id}_${skin}.jpg`;
+  return `https://ddragon.leagueoflegends.com/cdn/img/champion/loading/${id}_${skin}.jpg`;
 }
 function abilityIconUrl(filename) {
   return `${DDRAGON_IMG}/spell/${filename}`;

@@ -23,17 +23,19 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4 googlenewsdecoder selectolax
 
-      - name: Fetch Scores and Standings
+      - name: Fetch Scores, Standings, News, and Transfers
         run: |
           python scripts/fetch_schedule.py
           python scripts/fetch_standings.py
           python scripts/fetch_teams.py
+          python scripts/fetch_news.py
+          python scripts/fetch_transfers.py
 
       - name: Commit and Push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/schedule.json data/standings.json data/teams.json data/players.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update esports schedule, standings, and teams rosters" && git push)
+          git add data/schedule.json data/standings.json data/teams.json data/players.json data/news.json data/transfers.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update esports schedule, standings, teams rosters, news, and transfers" && git push)
