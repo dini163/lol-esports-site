@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 import os
 import re
+import urllib.parse
 from datetime import datetime
 from bs4 import BeautifulSoup
 from googlenewsdecoder import gnewsdecoder
@@ -104,17 +105,19 @@ def generate_fallback_article(title, summary, tag, date):
     
     return "\n\n".join([p1, p2, p3, p4])
 
-def fetch_full_content(encoded_link, title, summary, tag, date):
+def fetch_full_content(encoded_link, title, summary, tag, date, fallback_image):
     """
     Decodes Google News link using googlenewsdecoder, fetches the actual article,
-    and extracts body paragraphs. Falls back to generating a realistic, premium article on failure.
+    extracts body paragraphs and the cover image. Falls back to generating a realistic, 
+    premium article on failure.
     """
+    scraped_image = None
     try:
         print(f"Decoding Google News link for: '{title[:40]}...'")
         decoded = gnewsdecoder(encoded_link)
         if not decoded or not decoded.get("status"):
             print(" - URL decoding failed. Generating premium fallback.")
-            return generate_fallback_article(title, summary, tag, date)
+            return generate_fallback_article(title, summary, tag, date), fallback_image
             
         decoded_url = decoded["decoded_url"]
         print(f" - Decoded URL: {decoded_url}")
@@ -124,9 +127,25 @@ def fetch_full_content(encoded_link, title, summary, tag, date):
         res = requests.get(decoded_url, headers=HEADERS, timeout=8)
         if res.status_code != 200:
             print(f" - HTTP {res.status_code} error fetching article. Generating premium fallback.")
-            return generate_fallback_article(title, summary, tag, date)
+            return generate_fallback_article(title, summary, tag, date), fallback_image
             
         soup = BeautifulSoup(res.content, "html.parser")
+        
+        # Search meta tags for og:image or twitter:image
+        og_image = None
+        meta_og = soup.find("meta", property="og:image")
+        if meta_og:
+            og_image = meta_og.get("content")
+            
+        if not og_image:
+            meta_tw = soup.find("meta", attrs={"name": "twitter:image"})
+            if meta_tw:
+                og_image = meta_tw.get("content")
+                
+        if og_image:
+            scraped_image = urllib.parse.urljoin(decoded_url, og_image)
+            print(f" - Found real esports cover image: {scraped_image}")
+            
         p_tags = soup.find_all("p")
         
         paragraphs = []
@@ -146,14 +165,15 @@ def fetch_full_content(encoded_link, title, summary, tag, date):
         # We need a solid number of paragraphs to consider it a successful fetch
         if len(paragraphs) >= 3:
             print(f" - Successfully extracted {len(paragraphs)} body paragraphs.")
-            return "\n\n".join(paragraphs[:6]) # Cap at 6 paragraphs for clean reading
+            content = "\n\n".join(paragraphs[:6]) # Cap at 6 paragraphs for clean reading
+            return content, (scraped_image if scraped_image else fallback_image)
         else:
             print(f" - Found only {len(paragraphs)} valid paragraphs. Generating premium fallback.")
-            return generate_fallback_article(title, summary, tag, date)
+            return generate_fallback_article(title, summary, tag, date), (scraped_image if scraped_image else fallback_image)
             
     except Exception as e:
         print(f" - Exception occurred in content scraper: {e}. Generating premium fallback.")
-        return generate_fallback_article(title, summary, tag, date)
+        return generate_fallback_article(title, summary, tag, date), fallback_image
 
 def main():
     print("Fetching live LoL Esports news...")
@@ -170,8 +190,13 @@ def main():
         print(f"Successfully fetched {len(items)} raw feed items.")
         
         news_list = []
-        # Limit to top 6 newest items
-        for i, item in enumerate(items[:6]):
+        seen_titles = set()
+        
+        # Traverse raw items and collect exactly 6 unique news articles
+        for item in items:
+            if len(news_list) >= 6:
+                break
+                
             title = item.find("title").text if item.find("title") is not None else "League of Legends Esports Update"
             link = item.find("link").text if item.find("link") is not None else "#"
             pub_date_str = item.find("pubDate").text if item.find("pubDate") is not None else ""
@@ -179,6 +204,17 @@ def main():
             
             # Clean up title (remove source suffix like " - Dot Esports")
             title_clean = re.sub(r'\s+-\s+[^-\n]+$', '', title).strip()
+            
+            # Title normalization for high-precision deduplication
+            norm_title = re.sub(r'[^a-z0-9]', '', title_clean.lower())
+            if not norm_title:
+                continue
+                
+            if norm_title in seen_titles:
+                print(f"Skipping duplicate feed item: '{title_clean}'")
+                continue
+                
+            seen_titles.add(norm_title)
             
             # Clean HTML tags in description
             desc_clean = clean_html(description)
@@ -201,16 +237,16 @@ def main():
             tag = map_tag(title_clean, desc_clean)
             splash_img = map_champion_splash(title_clean, desc_clean)
             
-            # Get full content
-            full_content = fetch_full_content(link, title_clean, desc_clean, tag, formatted_date)
+            # Get full content and scraping-based live image cover
+            full_content, news_image = fetch_full_content(link, title_clean, desc_clean, tag, formatted_date, splash_img)
             
             news_list.append({
-                "id": i + 1,
+                "id": len(news_list) + 1,
                 "tag": tag,
                 "title": title_clean,
                 "date": formatted_date,
                 "summary": desc_clean,
-                "image": splash_img,
+                "image": news_image,
                 "link": link,
                 "content": full_content
             })
@@ -221,9 +257,10 @@ def main():
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(news_list, f, ensure_ascii=False, indent=2)
             
-        print(f"Successfully updated data/news.json with {len(news_list)} live articles.")
+        print(f"Successfully updated data/news.json with {len(news_list)} unique, live articles.")
         for item in news_list:
             print(f" - [{item['tag']}] {item['title']} ({item['date']}) - Content Length: {len(item['content'])} chars")
+            print(f"   Cover image: {item['image']}")
             
     except Exception as e:
         print(f"Error fetching news feed: {e}")
