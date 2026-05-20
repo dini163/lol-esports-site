@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transfers & Rumors — LoL Esports Hub</title>
+  <meta name="description" content="Keep up with the latest roster changes, rumors, and free agents in the LoL Esports transfer window.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=4">
+</head>
+<body>
+  <main class="main">
+    <section class="hero" id="hero" style="min-height:300px;">
+      <canvas class="hero-canvas" id="heroCanvas"></canvas>
+      <div class="hero-overlay" style="background:linear-gradient(180deg, rgba(10,10,12,0.6) 0%, #0a0a0c 100%);"></div>
+      <div class="hero-content" style="padding-top:4rem;">
+        <h1 class="hero-title" style="font-size:2.5rem;">Transfer Hub</h1>
+        <p class="hero-subtitle">The Hot Stove is burning. Track every roster move, rumor, and contract update.</p>
+      </div>
+    </section>
+
+    <section class="section" style="padding-top:1rem;">
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="timeline" onclick="switchTab('timeline')">Timeline</button>
+        <button class="tab-btn" data-tab="free-agents" onclick="switchTab('free-agents')">Free Agents</button>
+      </div>
+
+      <!-- Timeline Tab -->
+      <div class="tab-panel active" id="tab-timeline">
+        <div class="filter-group" id="regionFilters" style="margin-bottom:2rem;">
+          <button class="filter-btn active" data-region="all">All Regions</button>
+          <button class="filter-btn" data-region="LPL">LPL</button>
+          <button class="filter-btn" data-region="LCK">LCK</button>
+          <button class="filter-btn" data-region="LEC">LEC</button>
+          <button class="filter-btn" data-region="LCS">LCS</button>
+        </div>
+        <div id="transferTimeline" style="position:relative; padding-left:1.5rem; border-left:2px solid var(--border);">
+          <div class="loading"><div class="spinner"></div></div>
+        </div>
+      </div>
+
+      <!-- Free Agents Tab -->
+      <div class="tab-panel" id="tab-free-agents">
+        <div id="freeAgentsGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1rem;">
+          <div class="loading"><div class="spinner"></div></div>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <script src="js/common.js?v=4"></script>
+  <script src="js/particles.js?v=4"></script>
+  <script src="js/transfers.js?v=4"></script>
+</body>
+</html>

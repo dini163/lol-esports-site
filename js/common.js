@@ -4,6 +4,14 @@ const DDRAGON_BASE = `https://ddragon.leagueoflegends.com/cdn/${DDRAGON_VERSION}
 const DDRAGON_IMG = `${DDRAGON_BASE}/img`;
 
 // ========== Utility Functions ==========
+function secureUrl(url) {
+  if (!url) return '';
+  if (url.startsWith('http://')) {
+    return url.replace('http://', 'https://');
+  }
+  return url;
+}
+
 function championSquareUrl(id) {
   return `${DDRAGON_IMG}/champion/${id}.png`;
 }
@@ -45,6 +53,18 @@ function stripHtml(html) {
   return tmp.textContent || tmp.innerText || '';
 }
 
+let _currentAudio = null;
+function playAudio(url) {
+  if (!url) return;
+  if (_currentAudio) {
+    _currentAudio.pause();
+    _currentAudio.currentTime = 0;
+  }
+  _currentAudio = new Audio(url);
+  _currentAudio.volume = 0.5;
+  _currentAudio.play().catch(e => console.error('Audio play failed:', e));
+}
+
 // ========== Navigation ==========
 function initNav() {
   const hamburger = document.querySelector('.nav-hamburger');
@@ -84,6 +104,8 @@ function renderNav() {
         <a href="index.html">Home</a>
         <a href="champions.html">Champions</a>
         <a href="esports.html">Esports</a>
+        <a href="transfers.html">Transfers</a>
+        <a href="meta.html">Meta</a>
         <a href="lore.html">Universe</a>
       </div>
       <div class="nav-hamburger">
@@ -110,6 +132,8 @@ function renderFooter() {
         <div class="footer-links">
           <a href="champions.html">Champions</a>
           <a href="esports.html">Esports</a>
+          <a href="transfers.html">Transfers</a>
+          <a href="meta.html">Meta</a>
           <a href="lore.html">Universe</a>
         </div>
       </div>

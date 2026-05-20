@@ -101,51 +101,9 @@ async function fetchScheduleWithFallback(leagueSlugs) {
  * Fetch standings for a league
  */
 async function fetchStandings(leagueSlug) {
-  try {
-    const leagueId = LEAGUE_IDS[leagueSlug];
-    if (!leagueId) throw new Error(`Unknown league ID for ${leagueSlug}`);
-
-    const data = await apiFetch(`getStandings`, {
-      hl: 'en-US',
-      leagueId,
-      season: CURRENT_SEASON,
-    });
-
-    const stages = data?.data?.standings?.stages || [];
-    const result = {};
-
-    for (const stage of stages) {
-      const slug = stage.slug.toLowerCase();
-      const isPlayoffs = slug.includes('playoff') || slug.includes('post');
-      const key = isPlayoffs ? 'playoffs' : 'regular';
-
-      result[key] = stage.sections?.flatMap(section =>
-        (section.rankings || []).map(r => ({
-          rank: r.ordinal,
-          team: r.team?.name || r.team?.code || 'Unknown',
-          teamCode: r.team?.code || '',
-          teamImage: r.team?.image,
-          wins: r.wins,
-          losses: r.losses,
-          winrate: r.wins + r.losses > 0
-            ? `${Math.round(r.wins / (r.wins + r.losses) * 100)}%`
-            : '0%',
-          gameWins: r.record?.wins || 0,
-          gameLosses: r.record?.losses || 0,
-        }))
-      ) || [];
-    }
-
-    // If API returned nothing, default to regular
-    if (!result.regular && !result.playoffs) {
-      result.regular = [];
-    }
-
-    return result;
-  } catch (e) {
-    console.warn(`Standings fetch failed for ${leagueSlug}:`, e);
-    return null;
-  }
+  // Standings are fetched and compiled in the backend via GitHub Action.
+  // Direct client-side calls to getStandings are deprecated to avoid 400 Bad Request and rate limits.
+  return null;
 }
 
 /**
@@ -170,8 +128,8 @@ function parseMatch(event, leagueSlug) {
     league: league.fullName,
     league_code: league.name.toLowerCase(),
     match: `${teams[0].name} vs ${teams[1].name}`,
-    team_a: { name: teams[0].name, code: teams[0].code || teams[0].name.substring(0, 3), score: scoreA, image: teams[0].image },
-    team_b: { name: teams[1].name, code: teams[1].code || teams[1].name.substring(0, 3), score: scoreB, image: teams[1].image },
+    team_a: { name: teams[0].name, code: teams[0].code || teams[0].name.substring(0, 3), score: scoreA, image: secureUrl(teams[0].image) },
+    team_b: { name: teams[1].name, code: teams[1].code || teams[1].name.substring(0, 3), score: scoreB, image: secureUrl(teams[1].image) },
     start_time: event.startTime || match.startTime,
     status,
     block_name: event.blockName || match.blockName, // e.g. "Week 1"

@@ -94,7 +94,7 @@ ul { list-style: none; }
 
 /* ========== Hero Section ========== */
 .hero {
-  position: relative; min-height: 70vh;
+  position: relative; min-height: 28vh;
   display: flex; align-items: center; justify-content: center;
   text-align: center; overflow: hidden;
   background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
@@ -104,16 +104,16 @@ ul { list-style: none; }
   position: absolute; inset: 0; z-index: 1;
   background: radial-gradient(ellipse at center, transparent 0%, var(--bg-primary) 75%);
 }
-.hero-content { position: relative; z-index: 2; padding: 2rem; }
+.hero-content { position: relative; z-index: 2; padding: 1.5rem 2rem; }
 .hero-title {
-  font-family: var(--font-display); font-size: clamp(2.5rem, 6vw, 4.5rem);
-  font-weight: 700; color: var(--gold-light); margin-bottom: 1rem;
+  font-family: var(--font-display); font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 700; color: var(--gold-light); margin-bottom: 0.75rem;
   text-shadow: 0 0 40px rgba(200, 170, 110, 0.3);
   animation: fadeInUp 0.8s ease-out;
 }
 .hero-subtitle {
-  font-size: clamp(1rem, 2vw, 1.3rem); color: var(--text-secondary);
-  max-width: 600px; margin: 0 auto 2rem;
+  font-size: clamp(0.9rem, 1.8vw, 1.15rem); color: var(--text-secondary);
+  max-width: 600px; margin: 0 auto 1.5rem;
   animation: fadeInUp 0.8s ease-out 0.2s both;
 }
 .hero-cta {
@@ -141,9 +141,17 @@ ul { list-style: none; }
 
 /* ========== Section ========== */
 .section { padding: 4rem 2rem; max-width: 1400px; margin: 0 auto; }
+.hero + .section,
+#live-section {
+  padding-top: 1.5rem;
+}
 .section-header {
   display: flex; justify-content: space-between; align-items: center;
   margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem;
+}
+.hero + .section .section-header,
+#live-section .section-header {
+  margin-bottom: 1.25rem;
 }
 .section-title {
   font-family: var(--font-display); font-size: 1.8rem; color: var(--gold-light);

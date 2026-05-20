@@ -1,0 +1,20 @@
+{
+  "patch": "14.10",
+  "highlights": [
+    "ADC Items Rework: Infinity Edge and Navori Quickblades adjustments.",
+    "Jungle changes: Experience tweaks and camp respawn timers.",
+    "System updates: Turret plating gold reduced."
+  ],
+  "tiers": {
+    "S": [
+      { "champion": "Ahri", "role": "MID", "reason": "High mobility and burst with Malignance." },
+      { "champion": "Jinx", "role": "BOT", "reason": "Incredible late-game scaling with the new crit items." },
+      { "champion": "Vi", "role": "JGL", "reason": "Reliable lockdown and early game skirmishing." }
+    ],
+    "A": [
+      { "champion": "Aatrox", "role": "TOP", "reason": "Strong lane dominance and teamfight drain tanking." },
+      { "champion": "Nautilus", "role": "SUP", "reason": "High CC and engage potential." },
+      { "champion": "Taliyah", "role": "MID", "reason": "Excellent roaming and zone control." }
+    ]
+  }
+}

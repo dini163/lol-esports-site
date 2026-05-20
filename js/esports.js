@@ -1,15 +1,19 @@
 let matchesData = [];
 let standingsData = {};
 let teamsData = [];
+let playersData = {};
 let currentLeagueFilter = 'all';
 let currentStandingsRegion = 'LPL';
 let currentStandingsMode = 'regular'; // 'regular' or 'playoffs'
+let currentTeamsRegion = 'all';
 
 document.addEventListener('DOMContentLoaded', async () => {
-  await Promise.all([loadSchedule(), loadStandings(), loadTeams()]);
+  await loadStandings();
+  await Promise.all([loadSchedule(), loadTeams()]);
   setupLeagueFilters();
   setupStandingsRegion();
   setupStandingsMode();
+  setupTeamsRegion();
   // Auto-refresh schedule every 60 seconds
   setInterval(() => { loadSchedule(); }, 60000);
 });
@@ -76,8 +80,10 @@ function renderSchedule(matches) {
 
   container.innerHTML = matches.map(m => {
     const liveClass = m.status === 'live' ? ' live' : '';
-    const logoA = m.team_a.image ? `<img src="${m.team_a.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_a.name.substring(0, 3);
-    const logoB = m.team_b.image ? `<img src="${m.team_b.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_b.name.substring(0, 3);
+    const nameA = m.team_a.code || m.team_a.name;
+    const nameB = m.team_b.code || m.team_b.name;
+    const logoA = m.team_a.image ? `<img src="${secureUrl(m.team_a.image)}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : nameA.substring(0, 3);
+    const logoB = m.team_b.image ? `<img src="${secureUrl(m.team_b.image)}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : nameB.substring(0, 3);
     return `
       <div class="match-card${liveClass}">
         <div class="match-league">
@@ -85,7 +91,7 @@ function renderSchedule(matches) {
           <div class="match-league-time">${formatDate(m.start_time)} · ${formatTime(m.start_time)}</div>
         </div>
         <div class="match-team team-a">
-          <span class="match-team-name">${m.team_a.name}</span>
+          <span class="match-team-name" title="${m.team_a.name}">${nameA}</span>
           <div class="match-team-logo">${logoA}</div>
         </div>
         <div class="match-vs">
@@ -94,7 +100,7 @@ function renderSchedule(matches) {
         </div>
         <div class="match-team team-b">
           <div class="match-team-logo">${logoB}</div>
-          <span class="match-team-name">${m.team_b.name}</span>
+          <span class="match-team-name" title="${m.team_b.name}">${nameB}</span>
         </div>
         <div class="match-status ${m.status}">
           ${m.status === 'live' ? '<span class="live-dot"></span> LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
@@ -122,36 +128,51 @@ async function loadStandings() {
     );
 
     // Check if standings API returned data
-    let hasData = false;
     leagues.forEach((slug, i) => {
       if (results[i].status === 'fulfilled' && results[i].value) {
         standingsData[slug.toUpperCase()] = results[i].value;
-        hasData = true;
       }
     });
 
-    if (!hasData) {
-      // Fallback: calculate from matches + cached data
-      const fallback = await fetchJSON('./data/standings.json');
-      Object.keys(fallback).forEach(key => {
-        if (!standingsData[key]) {
-          standingsData[key] = {
-            regular: fallback[key].map(t => ({
-              rank: t.rank,
-              team: t.team,
-              teamCode: t.team.substring(0, 3),
-              wins: t.wins,
-              losses: t.losses,
-              winrate: t.winrate,
-              gameWins: 0,
-              gameLosses: 0,
-            })),
-          };
-        }
-      });
-    }
+    // Load fallback / local baseline standings to populate or fill missing playoffs data
+    const fallback = await fetchJSON('./data/standings.json');
+    Object.keys(fallback).forEach(key => {
+      if (!standingsData[key]) {
+        standingsData[key] = { regular: [], playoffs: [] };
+      }
+      
+      // If regular is missing or empty, use fallback
+      if (!standingsData[key].regular || standingsData[key].regular.length === 0) {
+        standingsData[key].regular = (fallback[key].regular || []).map(t => ({
+          rank: t.rank,
+          team: t.team,
+          teamCode: t.teamCode || t.team.substring(0, 3),
+          teamImage: t.teamImage || t.image || '',
+          wins: t.wins,
+          losses: t.losses,
+          winrate: t.winrate,
+          gameWins: t.gameWins || 0,
+          gameLosses: t.gameLosses || 0,
+        }));
+      }
 
-    renderStandings('LPL', currentStandingsMode);
+      // If playoffs is missing or empty, use fallback
+      if (!standingsData[key].playoffs || standingsData[key].playoffs.length === 0) {
+        standingsData[key].playoffs = (fallback[key].playoffs || []).map(t => ({
+          rank: t.rank,
+          team: t.team,
+          teamCode: t.teamCode || t.team.substring(0, 3),
+          teamImage: t.teamImage || t.image || '',
+          wins: t.wins,
+          losses: t.losses,
+          winrate: t.winrate,
+          gameWins: t.gameWins || 0,
+          gameLosses: t.gameLosses || 0,
+        }));
+      }
+    });
+
+    renderStandings(currentStandingsRegion, currentStandingsMode);
   } catch (e) {
     console.error('Failed to load standings:', e);
     document.getElementById('standingsTable').innerHTML = '<div class="loading">Failed to load standings.</div>';
@@ -166,8 +187,8 @@ function renderStandings(region, mode) {
     return;
   }
 
-  const teams = (mode === 'playoffs' ? data.playoffs : data.regular) || data.regular || [];
-  const modeLabel = mode === 'playoffs' ? 'Playoff Bracket' : 'Regular Season';
+  const teams = (mode === 'playoffs' ? data.playoffs : data.regular) || [];
+  const modeLabel = mode === 'playoffs' ? 'Playoffs' : 'Regular Season';
 
   container.innerHTML = `
     <div style="padding:0.75rem 1rem;border-bottom:1px solid var(--border);">
@@ -178,19 +199,26 @@ function renderStandings(region, mode) {
         <tr><th>#</th><th>Team</th><th>W</th><th>L</th><th>Win Rate</th><th>Games</th></tr>
       </thead>
       <tbody>
-        ${teams.map(t => `
-          <tr>
-            <td class="standings-rank">${t.rank}</td>
-            <td><div class="standings-team">
-              <div class="match-team-logo" style="width:30px;height:30px;font-size:0.6rem;">${t.teamCode || t.team.substring(0, 3)}</div>
-              ${t.team}
-            </div></td>
-            <td style="color:var(--blue);font-weight:600;">${t.wins}</td>
-            <td style="color:var(--red);font-weight:600;">${t.losses}</td>
-            <td class="standings-record">${t.winrate}</td>
-            <td style="color:var(--text-secondary);font-size:0.8rem;">${t.gameWins}-${t.gameLosses}</td>
-          </tr>
-        `).join('')}
+        ${teams.map(t => {
+          const logo = t.teamImage 
+            ? `<img src="${secureUrl(t.teamImage)}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` 
+            : (t.teamCode || t.team.substring(0, 3));
+          return `
+            <tr>
+              <td class="standings-rank">${t.rank}</td>
+              <td><div class="standings-team" title="${t.team}">
+                <div class="match-team-logo" style="width:30px;height:30px;font-size:0.6rem;display:flex;align-items:center;justify-content:center;">${logo}</div>
+                <div style="display:flex;flex-direction:column;line-height:1.2;">
+                  <span style="font-weight:700;color:var(--gold-light);">${t.teamCode || t.team}</span>
+                  <span class="full-name-secondary" style="font-size:0.75rem;color:var(--text-muted);font-weight:400;">${t.team}</span>
+                </div>
+              </div></td>
+              <td style="color:var(--blue);font-weight:600;">${t.wins}</td>
+              <td style="color:var(--red);font-weight:600;">${t.losses}</td>
+              <td class="standings-record">${t.winrate}</td>
+              <td style="color:var(--text-secondary);font-size:0.8rem;">${t.gameWins}-${t.gameLosses}</td>
+            </tr>`;
+        }).join('')}
       </tbody>
     </table>
   `;
@@ -236,33 +264,126 @@ function setupStandingsMode() {
 // ---- Teams ----
 async function loadTeams() {
   try {
-    teamsData = await fetchJSON('./data/teams.json');
+    const [teams, players] = await Promise.all([
+      fetchJSON('./data/teams.json'),
+      fetchJSON('./data/players.json')
+    ]);
+    
+    // Filter out non-LoL/inactive teams based on standingsData
+    const activeTeamCodes = new Set();
+    const activeTeamNames = new Set();
+    Object.values(standingsData).forEach(leagueData => {
+      const allTeams = [...(leagueData.regular || []), ...(leagueData.playoffs || [])];
+      allTeams.forEach(t => {
+        if (t.teamCode) activeTeamCodes.add(t.teamCode.toUpperCase());
+        if (t.team) activeTeamNames.add(t.team.toUpperCase());
+      });
+    });
+
+    teamsData = teams.filter(t => {
+      const codeUpper = (t.code || '').toUpperCase();
+      const nameUpper = (t.name || '').toUpperCase();
+      const cleanNameUpper = nameUpper.replace(/\s+ESPORTS$/i, '').replace(/\s+GAMING$/i, '').trim();
+      
+      return activeTeamCodes.has(codeUpper) || 
+             activeTeamNames.has(nameUpper) ||
+             activeTeamNames.has(cleanNameUpper);
+    });
+
+    playersData = players;
     renderTeams(teamsData);
   } catch (e) {
+    console.error('Failed to load teams/players:', e);
     document.getElementById('teamsGrid').innerHTML = '<div class="loading">Failed to load teams.</div>';
   }
 }
 
+const roleOrder = {
+  'TOP': 1,
+  'JUNGLE': 2,
+  'MID': 3,
+  'BOT': 4,
+  'BOTTOM': 4,
+  'ADC': 4,
+  'SUPPORT': 5,
+  'SUP': 5
+};
+
+function getShortRole(role) {
+  if (!role) return '???';
+  const r = role.toUpperCase();
+  if (r === 'TOP') return 'TOP';
+  if (r === 'JUNGLE' || r === 'JGL') return 'JGL';
+  if (r === 'MID') return 'MID';
+  if (r === 'BOT' || r === 'BOTTOM' || r === 'ADC') return 'BOT';
+  if (r === 'SUPPORT' || r === 'SUP') return 'SUP';
+  return r;
+}
+
 function renderTeams(teams) {
   const container = document.getElementById('teamsGrid');
-  container.innerHTML = teams.map(t => `
-    <div class="card" style="padding:1.5rem;">
-      <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1rem;">
-        <div class="match-team-logo" style="width:48px;height:48px;font-size:0.8rem;">${t.name.substring(0, 3)}</div>
+  if (!teams || teams.length === 0) {
+    container.innerHTML = '<div class="loading">No teams found.</div>';
+    return;
+  }
+  
+  const filteredTeams = currentTeamsRegion === 'all' 
+    ? teams 
+    : teams.filter(t => t.region === currentTeamsRegion);
+    
+  if (filteredTeams.length === 0) {
+    container.innerHTML = '<div class="loading">No active teams found for this region.</div>';
+    return;
+  }
+  
+  container.innerHTML = filteredTeams.map(t => {
+    const logo = t.image 
+      ? `<img src="${secureUrl(t.image)}" alt="${t.name}" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` 
+      : `<div style="font-weight:700;font-size:0.9rem;color:var(--gold);">${t.code || t.name.substring(0, 3)}</div>`;
+      
+    const teamPlayers = [...t.players].map(playerName => {
+      const playerObj = playersData[playerName] || { ign: playerName, role: 'UNKNOWN' };
+      return playerObj;
+    }).sort((a, b) => {
+      const orderA = roleOrder[a.role?.toUpperCase()] || 99;
+      const orderB = roleOrder[b.role?.toUpperCase()] || 99;
+      if (orderA !== orderB) return orderA - orderB;
+      return a.ign.localeCompare(b.ign);
+    });
+    
+    return `
+      <div class="card" style="padding:1.5rem;display:flex;flex-direction:column;justify-content:space-between;transition:transform 0.2s,box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 8px 24px rgba(0,0,0,0.4)';" onmouseout="this.style.transform='none';this.style.boxShadow='none';">
         <div>
-          <div style="font-weight:700;font-size:1.1rem;color:var(--gold-light);">${t.name}</div>
-          <div class="tag" style="margin-top:0.25rem;">${t.region}</div>
+          <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1rem;">
+            <div class="match-team-logo" style="width:48px;height:48px;font-size:0.8rem;display:flex;align-items:center;justify-content:center;background:var(--bg-secondary);border:1px solid var(--border);border-radius:50%;overflow:hidden;">${logo}</div>
+            <div>
+              <div style="font-weight:800;font-size:1.3rem;color:var(--gold-light);line-height:1.1;">${t.code || t.name}</div>
+              <div style="font-size:0.8rem;color:var(--text-muted);margin-top:0.15rem;">${t.name}</div>
+              <div class="tag" style="margin-top:0.35rem;background:var(--bg-secondary);border-color:var(--gold-dark);color:var(--gold-light);">${t.region}</div>
+            </div>
+          </div>
+          <div style="font-size:0.8rem;color:var(--text-muted);margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:1px;font-weight:600;">Roster</div>
+          <div style="display:flex;flex-wrap:wrap;gap:0.5rem;">
+            ${teamPlayers.map(p => {
+              const shortRole = getShortRole(p.role);
+              return `
+                <div style="background:var(--bg-secondary);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.4rem 0.7rem;font-size:0.8rem;display:flex;align-items:center;gap:0.4rem;">
+                  <span style="color:var(--text-muted);font-size:0.65rem;font-weight:700;">${shortRole}</span> 
+                  <a href="player.html?id=${p.ign}" style="color:var(--gold-light);font-weight:600;text-decoration:none;transition:color 0.2s;" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--gold-light)'">${p.ign}</a>
+                </div>`;
+            }).join('')}
+          </div>
         </div>
-      </div>
-      <div style="font-size:0.8rem;color:var(--text-muted);margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:1px;">Roster</div>
-      <div style="display:flex;flex-wrap:wrap;gap:0.5rem;">
-        ${t.players.map((p, i) => {
-          const roles = ['TOP','JGL','MID','BOT','SUP'];
-          return `<div style="background:var(--bg-secondary);border:1px solid var(--border);border-radius:var(--radius-sm);padding:0.4rem 0.7rem;font-size:0.8rem;">
-            <span style="color:var(--text-muted);font-size:0.65rem;">${roles[i] || ''}</span> <span style="color:var(--gold-light);font-weight:600;">${p}</span>
-          </div>`;
-        }).join('')}
-      </div>
-    </div>
-  `).join('');
+      </div>`;
+  }).join('');
+}
+
+function setupTeamsRegion() {
+  document.getElementById('teamRegionFilters')?.addEventListener('click', e => {
+    if (!e.target.classList.contains('filter-btn')) return;
+    document.querySelectorAll('#teamRegionFilters .filter-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentTeamsRegion = e.target.dataset.region;
+    renderTeams(teamsData);
+  });
 }

@@ -6,10 +6,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 async function loadRegions() {
-  const container = document.getElementById('regionGrid');
+  const gridContainer = document.getElementById('regionGrid');
+  const mapContainer = document.getElementById('interactiveMap');
   try {
     regionsData = await fetchJSON('./data/lore-regions.json');
-    container.innerHTML = regionsData.map((r, i) => `
+    
+    // Render Grid
+    gridContainer.innerHTML = regionsData.map((r, i) => `
       <div class="region-card fade-in-up" style="animation-delay:${i * 0.1}s;border-left:3px solid ${r.color};" onclick="openRegion('${r.id}')">
         <div class="region-card-body">
           <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:0.75rem;">
@@ -24,8 +27,52 @@ async function loadRegions() {
         </div>
       </div>
     `).join('');
+
+    // Pre-defined map coordinates (approximate percentages for top/left)
+    const mapCoords = {
+      demacia: { top: '45%', left: '20%' },
+      noxus: { top: '35%', left: '55%' },
+      ionia: { top: '25%', left: '80%' },
+      freljord: { top: '15%', left: '35%' },
+      shurima: { top: '75%', left: '60%' },
+      shadow_isles: { top: '70%', left: '85%' },
+      bilgewater: { top: '65%', left: '75%' },
+      piltover: { top: '45%', left: '68%' },
+      zaun: { top: '50%', left: '68%' },
+      targon: { top: '65%', left: '35%' },
+      ixtal: { top: '75%', left: '70%' },
+      void: { top: '85%', left: '80%' }
+    };
+
+    // Render Map Points
+    mapContainer.innerHTML += regionsData.map((r, i) => {
+      const coords = mapCoords[r.id] || { top: '50%', left: '50%' };
+      return `
+        <div class="map-point" style="position:absolute; top:${coords.top}; left:${coords.left}; transform:translate(-50%, -50%); cursor:pointer; text-align:center; animation: fadeIn 0.5s ease forwards ${i * 0.1}s; opacity:0;" onclick="openRegion('${r.id}')">
+          <div style="width:16px; height:16px; background:${r.color}; border-radius:50%; margin:0 auto; box-shadow:0 0 15px ${r.color}; border:2px solid #fff; transition:transform 0.2s;"></div>
+          <div style="margin-top:0.4rem; background:rgba(0,0,0,0.7); padding:0.2rem 0.5rem; border-radius:4px; font-weight:600; font-size:0.8rem; border:1px solid ${r.color}; white-space:nowrap;">${r.name}</div>
+        </div>
+      `;
+    }).join('');
+
+    // Setup Toggle
+    document.getElementById('viewToggle').addEventListener('click', e => {
+      if (!e.target.classList.contains('filter-btn')) return;
+      document.querySelectorAll('#viewToggle .filter-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      const view = e.target.dataset.view;
+      if (view === 'map') {
+        mapContainer.style.display = 'block';
+        gridContainer.style.display = 'none';
+      } else {
+        mapContainer.style.display = 'none';
+        gridContainer.style.display = 'grid';
+      }
+    });
+    
   } catch (e) {
-    container.innerHTML = '<div class="loading">Failed to load regions.</div>';
+    gridContainer.innerHTML = '<div class="loading">Failed to load regions.</div>';
+    mapContainer.innerHTML = '<div class="loading">Failed to load map.</div>';
   }
 }
 

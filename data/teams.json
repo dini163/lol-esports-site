@@ -1,14 +1,830 @@
 [
-  {"id":"blg","name":"Bilibili Gaming","region":"LPL","players":["Bin","Xun","knight","Elk","ON"]},
-  {"id":"tes","name":"Top Esports","region":"LPL","players":["369","Tian","Creme","JackeyLove","Meiko"]},
-  {"id":"jdg","name":"JD Gaming","region":"LPL","players":["Breathe","Kanavi","Yagao","Ruler","Missing"]},
-  {"id":"wbg","name":"Weibo Gaming","region":"LPL","players":["TheShy","Tarzan","Xiaohu","Light","Crisp"]},
-  {"id":"t1","name":"T1","region":"LCK","players":["Zeus","Oner","Faker","Gumayusi","Keria"]},
-  {"id":"geng","name":"Gen.G","region":"LCK","players":["Kiin","Canyon","Chovy","Peyz","Lehends"]},
-  {"id":"hle","name":"Hanwha Life","region":"LCK","players":["Doran","Peanut","Zeka","Viper","Delight"]},
-  {"id":"dk","name":"Dplus KIA","region":"LCK","players":["Canna","Lucid","ShowMaker","Aiming","Kellin"]},
-  {"id":"g2","name":"G2 Esports","region":"LEC","players":["BrokenBlade","Yike","Caps","Hans Sama","Mikyx"]},
-  {"id":"fnc","name":"Fnatic","region":"LEC","players":["Oscarinin","Razork","Humanoid","Noah","Jun"]},
-  {"id":"c9","name":"Cloud9","region":"LCS","players":["Fudge","Blaber","Jojopyun","Berserker","Vulcan"]},
-  {"id":"tl","name":"Team Liquid","region":"LCS","players":["Impact","Pyosik","APA","Yeon","CoreJJ"]}
+  {
+    "id": "geng",
+    "name": "Gen.G Esports",
+    "code": "GEN",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+    "players": [
+      "Ripple",
+      "Kiin",
+      "Courage",
+      "Canyon",
+      "Chovy",
+      "Kemish",
+      "MUDAI",
+      "Ruler",
+      "SIRIUSS",
+      "Lumos",
+      "Duro"
+    ]
+  },
+  {
+    "id": "hanwha-life-esports",
+    "name": "Hanwha Life Esports",
+    "code": "HLE",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+    "players": [
+      "Zeus",
+      "Panther",
+      "Kanavi",
+      "Jackal",
+      "Zeka",
+      "Cracker",
+      "Valiant",
+      "Gumayusi",
+      "Pyeonsik",
+      "Delight",
+      "Bluffing"
+    ]
+  },
+  {
+    "id": "dwg-kia",
+    "name": "Dplus KIA",
+    "code": "DK",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+    "players": [
+      "Nevid",
+      "Jaehyuk",
+      "Siwoo",
+      "Lucid",
+      "Sharvel",
+      "ShowMaker",
+      "Garden",
+      "Smash",
+      "Wayne",
+      "Career",
+      "Loopy"
+    ]
+  },
+  {
+    "id": "fearx",
+    "name": "BNK FEARX",
+    "code": "BFX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+    "players": [
+      "Clear",
+      "Kangin",
+      "Raptor",
+      "Zephyr",
+      "Daystar",
+      "VicLa",
+      "FIESTA",
+      "Taeyoon",
+      "Slayer",
+      "Kellin",
+      "Luon"
+    ]
+  },
+  {
+    "id": "sk-gaming",
+    "name": "SK Gaming",
+    "code": "SK",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+    "players": [
+      "Wunder",
+      "Skeanz",
+      "LIDER",
+      "Jopa",
+      "Mikyx"
+    ]
+  },
+  {
+    "id": "giantx-lec",
+    "name": "GIANTX",
+    "code": "GX",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
+    "players": [
+      "Lot",
+      "ISMA",
+      "Jackies",
+      "Noah",
+      "Jun"
+    ]
+  },
+  {
+    "id": "thunder-talk-gaming",
+    "name": "THUNDER TALK GAMING",
+    "code": "TT",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/TT-FullonDark.png",
+    "players": [
+      "Keshi",
+      "Junhao",
+      "Heru",
+      "Ryan3",
+      "Ahn",
+      "Feather"
+    ]
+  },
+  {
+    "id": "shenzen-ninjas-in-pyjamas",
+    "name": "Shenzhen NINJAS IN PYJAMAS",
+    "code": "NIP",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
+    "players": [
+      "Hoya",
+      "Guwon",
+      "Care",
+      "Assum",
+      "Zhuo"
+    ]
+  },
+  {
+    "id": "nongshim-redforce",
+    "name": "NONGSHIM RED FORCE",
+    "code": "NS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
+    "players": [
+      "Janus",
+      "Kingen",
+      "Sponge",
+      "MihawK",
+      "Calix",
+      "Scout",
+      "SeTab",
+      "Lucy",
+      "Diable",
+      "Lehends",
+      "Pleata"
+    ]
+  },
+  {
+    "id": "mad-lions",
+    "name": "Movistar KOI",
+    "code": "MKOI",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+    "players": [
+      "Myrwn",
+      "Elyoya",
+      "Jojopyun",
+      "Supa",
+      "Alvaro"
+    ]
+  },
+  {
+    "id": "ultra-prime",
+    "name": "Ultra Prime",
+    "code": "UP",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/ultraprime.png",
+    "players": [
+      "sasii",
+      "climber",
+      "Saber",
+      "Hena",
+      "Xiaoxia"
+    ]
+  },
+  {
+    "id": "fredit-brion",
+    "name": "HANJIN BRION",
+    "code": "BRO",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+    "players": [
+      "Casting",
+      "DDahyuk",
+      "GIDEON",
+      "Dinai",
+      "Roamer",
+      "Loki ",
+      "Tempester",
+      "Teddy",
+      "OddEye",
+      "Namgung",
+      "PlanB"
+    ]
+  },
+  {
+    "id": "kwangdong-freecs-challengers",
+    "name": "DNS Challengers",
+    "code": "DNS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+    "players": [
+      "DuDu",
+      "Lancer",
+      "DDoiV",
+      "Pyosik",
+      "Clozer",
+      "Flip",
+      "deokdam",
+      "Enosh",
+      "Life",
+      "Quantum ",
+      "Peter"
+    ]
+  },
+  {
+    "id": "dwg-kia-challengers",
+    "name": "DK Challengers",
+    "code": "DK",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+    "players": [
+      "Jaehyuk",
+      "Nevid",
+      "Siwoo",
+      "Lucid",
+      "Sharvel",
+      "Garden",
+      "ShowMaker",
+      "Smash",
+      "Wayne",
+      "Career",
+      "Loopy"
+    ]
+  },
+  {
+    "id": "drx-challengers",
+    "name": "KRX Challengers",
+    "code": "DRX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+    "players": [
+      "Frog",
+      "Rich",
+      "Vincenzo",
+      "Willer",
+      "Winner",
+      "Ucal",
+      "AKaJe",
+      "Jiwoo",
+      "LazyFeel",
+      "Minous",
+      "Andil"
+    ]
+  },
+  {
+    "id": "bro-challengers",
+    "name": "BRO Challengers",
+    "code": "BRO",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+    "players": [
+      "Casting",
+      "DDahyuk",
+      "GIDEON",
+      "Dinai",
+      "Roamer",
+      "Loki ",
+      "Tempester",
+      "Teddy",
+      "OddEye",
+      "Namgung",
+      "PlanB"
+    ]
+  },
+  {
+    "id": "hle-challengers",
+    "name": "HLE Challengers",
+    "code": "HLE",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+    "players": [
+      "Panther",
+      "Zeus",
+      "Jackal",
+      "Kanavi",
+      "Zeka",
+      "Cracker",
+      "Valiant",
+      "Pyeonsik",
+      "Gumayusi",
+      "Delight",
+      "Bluffing"
+    ]
+  },
+  {
+    "id": "kt-challengers",
+    "name": "kt Challengers",
+    "code": "KT",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
+    "players": [
+      "Sero",
+      "PerfecT",
+      "Sylvie",
+      "Cuzz",
+      "Hwichan",
+      "Bdd",
+      "Aiming",
+      "FenRir",
+      "Ghost",
+      "Pollu",
+      "Effort"
+    ]
+  },
+  {
+    "id": "fearx-youth",
+    "name": "BNK FEARX Youth",
+    "code": "BFX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+    "players": [
+      "Clear",
+      "Kangin",
+      "Raptor",
+      "Zephyr",
+      "Daystar",
+      "VicLa",
+      "FIESTA",
+      "Diable",
+      "Taeyoon",
+      "Slayer",
+      "Kellin",
+      "Luon"
+    ]
+  },
+  {
+    "id": "ns-challengers",
+    "name": "NS Challengers",
+    "code": "NS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
+    "players": [
+      "Janus",
+      "Kingen",
+      "Sponge",
+      "MihawK",
+      "Scout",
+      "SeTab",
+      "Calix",
+      "Diable",
+      "Lucy",
+      "Pleata",
+      "Lehends"
+    ]
+  },
+  {
+    "id": "team-bds",
+    "name": "Shifters",
+    "code": "SHFT",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
+    "players": [
+      "Rooster",
+      "Sheo",
+      "Boukada",
+      "nuc",
+      "Paduck",
+      "Trymbi",
+      "JuJuTw0"
+    ]
+  },
+  {
+    "id": "team-heretics-lec",
+    "name": "Team Heretics",
+    "code": "TH",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
+    "players": [
+      "Tracyn",
+      "Daglas",
+      "Serin",
+      "Ice",
+      "Way"
+    ]
+  },
+  {
+    "id": "disguised",
+    "name": "Disguised",
+    "code": "DSG",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+    "players": [
+      "Srtty",
+      "KryRa",
+      "Callme",
+      "sajed",
+      "Lyonz"
+    ]
+  },
+  {
+    "id": "shopify-rebellion",
+    "name": "Shopify Rebellion",
+    "code": "SR",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+    "players": [
+      "Fudge",
+      "Contractz",
+      "Zinie",
+      "Bvoy",
+      "Ceos"
+    ]
+  },
+  {
+    "id": "karmine-corp",
+    "name": "Karmine Corp",
+    "code": "KC",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1704714951336_KC.png",
+    "players": [
+      "Canna",
+      "Yike",
+      "kyeahoo",
+      "Caliste",
+      "Busio"
+    ]
+  },
+  {
+    "id": "natus-vincere",
+    "name": "Natus Vincere",
+    "code": "NAVI",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
+    "players": [
+      "Maynter",
+      "Rhilech",
+      "Poby",
+      "Larssen",
+      "SamD",
+      "Parus"
+    ]
+  },
+  {
+    "id": "sentinels",
+    "name": "Sentinels",
+    "code": "SEN",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
+    "players": [
+      "Impact",
+      "HamBak",
+      "DARKWINGS",
+      "Rahel",
+      "huhi"
+    ]
+  },
+  {
+    "id": "t1",
+    "name": "T1",
+    "code": "T1",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
+    "players": [
+      "Guardian",
+      "Doran",
+      "Haetae",
+      "Painter",
+      "Oner",
+      "Guti",
+      "Faker",
+      "Jinbeom",
+      "Cypher",
+      "Peyz",
+      "Cloud ",
+      "Keria"
+    ]
+  },
+  {
+    "id": "fnatic",
+    "name": "Fnatic",
+    "code": "FNC",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
+    "players": [
+      "Empyros",
+      "Razork",
+      "Vladi",
+      "Upset",
+      "Lospa"
+    ]
+  },
+  {
+    "id": "cloud9",
+    "name": "Cloud9 Kia",
+    "code": "C9",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+    "players": [
+      "Thanatos",
+      "Blaber",
+      "APA",
+      "Zven",
+      "Vulcan"
+    ]
+  },
+  {
+    "id": "edward-gaming",
+    "name": "EDWARD GAMING",
+    "code": "EDG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
+    "players": [
+      "Zdz",
+      "Xiaohao",
+      "Angel",
+      "sinian",
+      "Leave",
+      "Parukia",
+      "Jwei"
+    ]
+  },
+  {
+    "id": "team-we",
+    "name": "Xi'an Team WE",
+    "code": "WE",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+    "players": [
+      "Cube",
+      "Tyrion",
+      "Monki",
+      "Karis",
+      "About",
+      "Erha",
+      "Dorian"
+    ]
+  },
+  {
+    "id": "g2-esports",
+    "name": "G2 Esports",
+    "code": "G2",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/G2-FullonDark.png",
+    "players": [
+      "BrokenBlade",
+      "SkewMond",
+      "Caps",
+      "Hans Sama",
+      "Labrov",
+      "Rodrigo"
+    ]
+  },
+  {
+    "id": "dignitas",
+    "name": "Dignitas",
+    "code": "DIG",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/DIG-FullonDark.png",
+    "players": [
+      "Photon",
+      "eXyu",
+      "Palafox",
+      "FBI",
+      "IgNar"
+    ]
+  },
+  {
+    "id": "team-liquid",
+    "name": "Team Liquid Alienware",
+    "code": "TL",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+    "players": [
+      "Morgan",
+      "Josedeodo",
+      "Quid",
+      "Yeon",
+      "CoreJJ"
+    ]
+  },
+  {
+    "id": "flyquest",
+    "name": "FlyQuest",
+    "code": "FLY",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
+    "players": [
+      "Gakgos",
+      "Gryffinn",
+      "Quad",
+      "Massu",
+      "Cryogen"
+    ]
+  },
+  {
+    "id": "team-vitality",
+    "name": "Team Vitality",
+    "code": "VIT",
+    "region": "LEC",
+    "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+    "players": [
+      "Naak Nako",
+      "Lyncas",
+      "Humanoid",
+      "Carzzy",
+      "Fleshy",
+      "Lukezy"
+    ]
+  },
+  {
+    "id": "kt-rolster",
+    "name": "kt Rolster",
+    "code": "KT",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
+    "players": [
+      "Sero",
+      "PerfecT",
+      "Cuzz",
+      "Sylvie",
+      "Hwichan",
+      "Bdd",
+      "Aiming",
+      "FenRir",
+      "Ghost",
+      "Pollu",
+      "Effort"
+    ]
+  },
+  {
+    "id": "kwangdong-freecs",
+    "name": "DN SOOPers",
+    "code": "DNS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+    "players": [
+      "Lancer",
+      "DuDu",
+      "DDoiV",
+      "Pyosik",
+      "Clozer",
+      "Flip",
+      "deokdam",
+      "Enosh",
+      "Quantum ",
+      "Peter",
+      "Life"
+    ]
+  },
+  {
+    "id": "drx",
+    "name": "KIWOOM DRX",
+    "code": "DRX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+    "players": [
+      "Frog",
+      "Rich",
+      "Vincenzo",
+      "Willer",
+      "Winner",
+      "Ucal",
+      "AKaJe",
+      "Jiwoo",
+      "LazyFeel",
+      "Minous",
+      "Andil"
+    ]
+  },
+  {
+    "id": "oh-my-god",
+    "name": "Oh My God",
+    "code": "OMG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
+    "players": [
+      "Hery",
+      "re0",
+      "Juhan",
+      "haichao",
+      "Starry",
+      "Photic",
+      "Moham"
+    ]
+  },
+  {
+    "id": "lgd-gaming",
+    "name": "LGD GAMING",
+    "code": "LGD",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
+    "players": [
+      "Burdol",
+      "Heng",
+      "Tangyuan",
+      "Shaoye",
+      "Ycx"
+    ]
+  },
+  {
+    "id": "invictus-gaming",
+    "name": "Invictus Gaming",
+    "code": "IG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+    "players": [
+      "Breathe",
+      "Soboro",
+      "Wei",
+      "Rookie",
+      "Nia1",
+      "Renard",
+      "JiaQi",
+      "Meiko"
+    ]
+  },
+  {
+    "id": "lng-esports",
+    "name": "Suzhou LNG Esports",
+    "code": "LNG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
+    "players": [
+      "sheer",
+      "Croco",
+      "BuLLDoG",
+      "1xn",
+      "MISSING"
+    ]
+  },
+  {
+    "id": "jd-gaming",
+    "name": "Beijing JDG Esports",
+    "code": "JDG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1627457924722_29.png",
+    "players": [
+      "Xiaoxu",
+      "JunJia",
+      "HongQ",
+      "GALA",
+      "Vampire"
+    ]
+  },
+  {
+    "id": "weibo-gaming",
+    "name": "WeiboGaming",
+    "code": "WBG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1641202879910_3.png",
+    "players": [
+      "Zika",
+      "Jiejie",
+      "Xiaohu",
+      "Elk",
+      "TheHank",
+      "Hang"
+    ]
+  },
+  {
+    "id": "bilibili-gaming",
+    "name": "BILIBILI GAMING",
+    "code": "BLG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+    "players": [
+      "Bin",
+      "Xun",
+      "Knight",
+      "Viper",
+      "ON"
+    ]
+  },
+  {
+    "id": "top-esports",
+    "name": "TOP ESPORTS",
+    "code": "TES",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+    "players": [
+      "369",
+      "ZUIAN",
+      "Tian",
+      "Creme",
+      "JackeyLove",
+      "fengyue"
+    ]
+  },
+  {
+    "id": "anyones-legend",
+    "name": "Anyone's Legend",
+    "code": "AL",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1641199582689_.png",
+    "players": [
+      "Flandre",
+      "Tarzan",
+      "Shanks",
+      "Hope",
+      "Kael"
+    ]
+  },
+  {
+    "id": "lyon-gaming",
+    "name": "LYON",
+    "code": "LYON",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+    "players": [
+      "Castle",
+      "Dhokla",
+      "Inspired",
+      "Saint",
+      "Berserker",
+      "Isles"
+    ]
+  }
 ]

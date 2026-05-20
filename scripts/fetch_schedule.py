@@ -3,6 +3,16 @@ import json
 import os
 from datetime import datetime, timedelta
 
+def normalize_team_code(code):
+    if not code:
+        return code
+    code_upper = code.upper()
+    if code_upper == "KRX":
+        return "DRX"
+    if code_upper == "TLAW":
+        return "TL"
+    return code
+
 def fetch_esports_data():
     # 新的端点 URL (不再需要 x-api-key 或者使用通用 Key)
     API_URL = "https://prod-relapi.ewp.gg/persisted/gw/getSchedule"
@@ -26,7 +36,7 @@ def fetch_esports_data():
         "start": start_time,
         "end": end_time
     }
-
+ 
     try:
         response = requests.get(API_URL, headers=headers, params=params)
         
@@ -34,32 +44,88 @@ def fetch_esports_data():
             print(f"API Error: {response.status_code} - {response.text}")
             return get_mock_data()
         
-        data = response.json()
-        events = data.get('data', {}).get('schedule', {}).get('events', [])
+        data = response.json() or {}
+        data_obj = data.get('data') or {}
+        schedule_obj = data_obj.get('schedule') or {}
+        events = schedule_obj.get('events') or []
         
         matches = []
         for event in events:
-            match = event.get('match', {})
-            teams = match.get('teams', [])
+            if not event: continue
+            match = event.get('match') or {}
+            teams = match.get('teams') or []
             if len(teams) < 2: continue
             
             # 状态映射
             state = event.get('state')
             status = 'upcoming' if state == 'unstarted' else ('live' if state == 'inProgress' else 'completed')
             
-            league = event.get('league', {}).get('name', 'Unknown')
+            league_obj = event.get('league') or {}
+            league = league_obj.get('name', 'Unknown') or 'Unknown'
             league_code = league.lower()[:3] # 简化代码
             
             # 尝试获取比分
-            score_a = teams[0].get('result', {}).get('gameWins', 0) if len(teams) > 0 else 0
-            score_b = teams[1].get('result', {}).get('gameWins', 0) if len(teams) > 1 else 0
+            t0 = teams[0] or {}
+            t1 = teams[1] or {}
+            
+            t0_res = t0.get('result') or {}
+            t1_res = t1.get('result') or {}
+            
+            score_a = t0_res.get('gameWins', 0) or 0
+            score_b = t1_res.get('gameWins', 0) or 0
+ 
+            t0_name = t0.get('name') or 'T1'
+            t1_name = t1.get('name') or 'T2'
+ 
+            # Load teams map for high-res images
+            TEAMS_MAP = {}
+            if os.path.exists("data/teams.json"):
+                try:
+                    with open("data/teams.json", "r", encoding="utf-8") as f:
+                        teams_list = json.load(f)
+                        for t in teams_list:
+                            reg = t.get("region", "").upper()
+                            co = t.get("code", "").upper()
+                            img = t.get("image")
+                            if reg and co:
+                                TEAMS_MAP[(reg, co)] = img
+                                TEAMS_MAP[co] = img # Fallback
+                except Exception as e:
+                    print(f"Error loading teams.json for schedule: {e}")
+
+            team_a_code = normalize_team_code(t0.get('code') or t0_name[:3].upper())
+            team_b_code = normalize_team_code(t1.get('code') or t1_name[:3].upper())
+            
+            team_a_image = t0.get('image') or ''
+            team_b_image = t1.get('image') or ''
+
+            # Extract region from league name
+            region = None
+            league_upper = league.upper()
+            for r in ["LPL", "LCK", "LEC", "LCS"]:
+                if r in league_upper:
+                    region = r
+                    break
+
+            # Resolve unified images from TEAMS_MAP
+            if region:
+                team_a_image = TEAMS_MAP.get((region, team_a_code.upper())) or TEAMS_MAP.get(team_a_code.upper()) or team_a_image
+                team_b_image = TEAMS_MAP.get((region, team_b_code.upper())) or TEAMS_MAP.get(team_b_code.upper()) or team_b_image
+            else:
+                team_a_image = TEAMS_MAP.get(team_a_code.upper()) or team_a_image
+                team_b_image = TEAMS_MAP.get(team_b_code.upper()) or team_b_image
+
+            if team_a_image and team_a_image.startswith("http://"):
+                team_a_image = team_a_image.replace("http://", "https://")
+            if team_b_image and team_b_image.startswith("http://"):
+                team_b_image = team_b_image.replace("http://", "https://")
 
             matches.append({
                 "league": league,
                 "league_code": league_code,
-                "match": f"{teams[0]['name']} vs {teams[1]['name']}",
-                "team_a": {"name": teams[0]['name'], "score": score_a},
-                "team_b": {"name": teams[1]['name'], "score": score_b},
+                "match": f"{team_a_code} vs {team_b_code}",
+                "team_a": {"name": t0_name, "code": team_a_code, "score": score_a, "image": team_a_image},
+                "team_b": {"name": t1_name, "code": team_b_code, "score": score_b, "image": team_b_image},
                 "start_time": event.get('startTime'),
                 "status": status
             })
@@ -73,9 +139,25 @@ def fetch_esports_data():
 def get_mock_data():
     now = datetime.utcnow()
     return [
-        {"league": "LPL Spring 2025", "league_code": "lpl", "match": "BLG vs TES", 
-         "team_a": {"name": "BLG", "score": 2}, "team_b": {"name": "TES", "score": 1},
-         "start_time": (now - timedelta(hours=1)).isoformat(), "status": "live"}
+        {
+            "league": "LPL Spring 2025",
+            "league_code": "lpl",
+            "match": "BLG vs TES",
+            "team_a": {
+                "name": "Bilibili Gaming",
+                "code": "BLG",
+                "score": 2,
+                "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+            },
+            "team_b": {
+                "name": "Top Esports",
+                "code": "TES",
+                "score": 1,
+                "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+            },
+            "start_time": (now - timedelta(hours=1)).isoformat(),
+            "status": "live"
+        }
     ]
 
 if __name__ == "__main__":

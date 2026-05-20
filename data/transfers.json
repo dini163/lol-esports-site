@@ -1,0 +1,55 @@
+{
+  "timeline": [
+    {
+      "id": 1,
+      "date": "2024-11-20",
+      "region": "LCK",
+      "type": "Confirmed",
+      "player": "Chovy",
+      "role": "MID",
+      "from_team": "Gen.G",
+      "to_team": "Gen.G",
+      "description": "Chovy has officially re-signed with Gen.G for another year, securing their mid lane for the upcoming season."
+    },
+    {
+      "id": 2,
+      "date": "2024-11-18",
+      "region": "LPL",
+      "type": "Rumor",
+      "player": "Rookie",
+      "role": "MID",
+      "from_team": "NIP",
+      "to_team": "Unknown",
+      "description": "Multiple sources report that Rookie is exploring options outside of NIP, heavily linked to a return to IG."
+    },
+    {
+      "id": 3,
+      "date": "2024-11-15",
+      "region": "LEC",
+      "type": "Confirmed",
+      "player": "Caps",
+      "role": "MID",
+      "from_team": "G2 Esports",
+      "to_team": "G2 Esports",
+      "description": "Caps extends his contract with G2 Esports until 2026."
+    },
+    {
+      "id": 4,
+      "date": "2024-11-12",
+      "region": "LCS",
+      "type": "Confirmed",
+      "player": "Inspired",
+      "role": "JGL",
+      "from_team": "Evil Geniuses",
+      "to_team": "FlyQuest",
+      "description": "FlyQuest acquires MVP jungler Inspired to lead their superteam rebuild."
+    }
+  ],
+  "free_agents": [
+    { "player": "ShowMaker", "region": "LCK", "role": "MID", "prev_team": "Dplus KIA", "status": "Exploring Options" },
+    { "player": "TheShy", "region": "LPL", "role": "TOP", "prev_team": "Weibo Gaming", "status": "Taking a break" },
+    { "player": "Jankos", "region": "LEC", "role": "JGL", "prev_team": "Team Heretics", "status": "Open to offers" },
+    { "player": "Bwipo", "region": "LCS", "role": "TOP", "prev_team": "FlyQuest", "status": "Looking for team" },
+    { "player": "Viper", "region": "LCK", "role": "BOT", "prev_team": "Hanwha Life", "status": "Negotiating" }
+  ]
+}

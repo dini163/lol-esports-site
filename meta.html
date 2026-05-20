@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meta & Tier List — LoL Esports Hub</title>
+  <meta name="description" content="Current patch breakdown, 100% P/B tier lists, and pro-builds for League of Legends.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=6">
+</head>
+<body>
+  <main class="main">
+    <section class="hero" style="min-height:30vh;">
+      <canvas class="hero-canvas" id="metaCanvas"></canvas>
+      <div class="hero-overlay" style="background:linear-gradient(180deg, rgba(10,10,12,0.6) 0%, #0a0a0c 100%);"></div>
+      <div class="hero-content">
+        <h1 class="hero-title">Current Meta</h1>
+        <p class="hero-subtitle">Patch breakdowns and top-tier picks from pro play.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div id="patchNotes" style="margin-bottom:4rem;">
+        <div class="loading"><div class="spinner"></div></div>
+      </div>
+      
+      <h2 class="section-title">Champion Tier List</h2>
+      <div id="tierList">
+        <div class="loading"><div class="spinner"></div></div>
+      </div>
+    </section>
+  </main>
+  
+  <script src="js/common.js?v=6"></script>
+  <script src="js/particles.js?v=6"></script>
+  <script src="js/meta.js?v=6"></script>
+</body>
+</html>

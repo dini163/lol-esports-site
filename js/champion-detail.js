@@ -13,6 +13,14 @@ async function loadChampionDetail(id) {
     ]);
     const c = detailData.data[id];
     if (!c) { container.innerHTML = '<div class="loading">Champion not found.</div>'; return; }
+    
+    // Fetch Community Dragon data for audio
+    const cdData = await fetchJSON(`https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/${c.key}.json`).catch(() => ({}));
+    const getAudioUrl = (path) => path ? `https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/${path.toLowerCase().replace('/lol-game-data/assets/', '')}` : '';
+    const audioChoose = getAudioUrl(cdData.chooseVoPath);
+    const audioBan = getAudioUrl(cdData.banVoPath);
+    const audioStinger = getAudioUrl(cdData.stingerSfxPath);
+    if (!c) { container.innerHTML = '<div class="loading">Champion not found.</div>'; return; }
 
     document.title = `${c.name} — LoL Esports Hub`;
     const quotes = quotesData[id] || quotesData[c.name] || [];
@@ -111,18 +119,29 @@ async function loadChampionDetail(id) {
         <h2 class="section-title" style="font-size:1.4rem;margin-top:3rem;">Lore</h2>
         <div class="lore-text" style="margin-top:1rem;">${c.lore || c.blurb || 'No lore available.'}</div>
 
-        <!-- Quotes -->
-        ${quotes.length > 0 ? `
-          <h2 class="section-title" style="font-size:1.4rem;margin-top:3rem;">Voice Lines</h2>
-          <div style="margin-top:1rem;">
+        <!-- Voice Lines & Soundboard -->
+        <h2 class="section-title" style="font-size:1.4rem;margin-top:3rem;">Interactive Soundboard</h2>
+        <div style="margin-top:1.5rem;">
+          ${(audioChoose || audioBan || audioStinger) ? `
+          <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:2rem;">
+            ${audioChoose ? `<button class="btn btn-primary" style="display:flex;align-items:center;gap:0.5rem;" onclick="playAudio('${audioChoose}')">▶ Play Pick Quote</button>` : ''}
+            ${audioBan ? `<button class="btn btn-outline" style="display:flex;align-items:center;gap:0.5rem;" onclick="playAudio('${audioBan}')">▶ Play Ban Quote</button>` : ''}
+            ${audioStinger ? `<button class="btn btn-outline" style="display:flex;align-items:center;gap:0.5rem;" onclick="playAudio('${audioStinger}')">▶ Theme Sfx</button>` : ''}
+          </div>
+          ` : ''}
+
+          ${quotes.length > 0 ? `
+          <div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));">
             ${quotes.map(q => `
-              <div class="quote-card">
-                <p class="quote-text">"${q.text}"</p>
-                <p class="quote-context">— ${q.context}</p>
+              <div class="quote-card" style="border: 1px solid var(--border); padding: 1.5rem; border-radius: var(--radius-md); background: var(--bg-card); position: relative; overflow: hidden;">
+                <div style="position: absolute; top: -10px; left: -10px; font-size: 4rem; color: var(--gold-dark); opacity: 0.1; line-height: 1;">"</div>
+                <p class="quote-text" style="font-size: 1.1rem; color: var(--text); margin-bottom: 0.5rem; font-style: italic; z-index: 1; position: relative;">"${q.text}"</p>
+                <p class="quote-context" style="font-size: 0.8rem; color: var(--gold-light); z-index: 1; position: relative;">— ${q.context}</p>
               </div>
             `).join('')}
           </div>
-        ` : ''}
+          ` : '<p style="color:var(--text-muted);">No text quotes available for this champion.</p>'}
+        </div>
 
         <!-- Back -->
         <div style="margin-top:3rem;">

@@ -48,6 +48,13 @@
 
       <!-- Teams Tab -->
       <div class="tab-panel" id="tab-teams">
+        <div class="filter-group" id="teamRegionFilters" style="margin-bottom:1.5rem;">
+          <button class="filter-btn active" data-region="all">All</button>
+          <button class="filter-btn" data-region="LPL">LPL</button>
+          <button class="filter-btn" data-region="LCK">LCK</button>
+          <button class="filter-btn" data-region="LEC">LEC</button>
+          <button class="filter-btn" data-region="LCS">LCS</button>
+        </div>
         <div id="teamsGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem;"></div>
       </div>
     </section>
