@@ -1,9 +1,34 @@
 // Home page logic
 document.addEventListener('DOMContentLoaded', async () => {
   initParticles('heroCanvas');
-  loadMatches();
-  loadFeaturedChampions();
-  loadNews();
+  
+  // Wait for all asynchronous sections to load so the page has correct scrollable height
+  await Promise.allSettled([
+    loadMatches(),
+    loadFeaturedChampions(),
+    loadNews()
+  ]);
+  
+  // Restore scroll position if returning from an article or champion details
+  const savedScroll = sessionStorage.getItem('homeScrollPos');
+  if (savedScroll) {
+    setTimeout(() => {
+      window.scrollTo({
+        top: parseInt(savedScroll, 10),
+        behavior: 'instant'
+      });
+      sessionStorage.removeItem('homeScrollPos');
+    }, 50);
+  }
+  
+  // Save scroll position when navigating to news or champion details
+  document.addEventListener('click', (e) => {
+    const cardLink = e.target.closest('.news-card-link') || e.target.closest('.champion-card');
+    if (cardLink) {
+      sessionStorage.setItem('homeScrollPos', window.scrollY);
+    }
+  });
+
   // Auto-refresh matches every 60 seconds
   setInterval(loadMatches, 60000);
 });

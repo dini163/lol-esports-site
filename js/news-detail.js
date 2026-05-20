@@ -96,4 +96,15 @@ function renderError(container, title, message) {
 document.addEventListener('DOMContentLoaded', () => {
   // Let common.js handle nav & footer rendering first
   setTimeout(initNewsDetail, 20);
+  
+  // Intercept "Back to Home" clicks to run history.back() if referrer is our site, restoring scroll position natively
+  document.addEventListener('click', (e) => {
+    const backBtn = e.target.closest('.news-detail-back-btn');
+    if (backBtn) {
+      if (document.referrer && document.referrer.includes(window.location.host)) {
+        e.preventDefault();
+        window.history.back();
+      }
+    }
+  });
 });
