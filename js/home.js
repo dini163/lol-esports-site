@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   await Promise.allSettled([
     loadMatches(),
     loadFeaturedChampions(),
-    loadNews()
+    loadNews(),
+    loadRankings()
   ]);
   
   // Restore scroll position if returning from an article or champion details
@@ -23,7 +24,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   
   // Save scroll position when navigating to news or champion details
   document.addEventListener('click', (e) => {
-    const cardLink = e.target.closest('.news-card-link') || e.target.closest('.champion-card');
+    const cardLink = e.target.closest('.news-card-link') || e.target.closest('.champion-card') || e.target.closest('.ranking-item');
     if (cardLink) {
       sessionStorage.setItem('homeScrollPos', window.scrollY);
     }
@@ -154,5 +155,54 @@ async function loadNews() {
     `).join('');
   } catch (e) {
     container.innerHTML = '<div class="loading">Failed to load news.</div>';
+  }
+}
+
+async function loadRankings() {
+  const container = document.getElementById('rankingsSidebar');
+  if (!container) return;
+  try {
+    const rankings = await fetchJSON('./data/rankings.json?t=' + Date.now());
+    // Get Top 10 teams for the homepage sidebar
+    const topRankings = rankings.slice(0, 10);
+    
+    container.innerHTML = `
+      <div class="rankings-list">
+        ${topRankings.map(t => {
+          let badgeClass = 'rank-badge';
+          if (t.rank === 1) badgeClass += ' rank-badge-1';
+          else if (t.rank === 2) badgeClass += ' rank-badge-2';
+          else if (t.rank === 3) badgeClass += ' rank-badge-3';
+          
+          let trendIcon = '●';
+          if (t.trend === 'up') trendIcon = '▲ ' + (t.trendValue || '');
+          else if (t.trend === 'down') trendIcon = '▼ ' + (t.trendValue || '');
+          
+          const trendClass = t.trend || 'stable';
+          
+          return `
+            <div class="ranking-item" onclick="location.href='esports.html?tab=rankings'">
+              <div class="ranking-item-left">
+                <div class="${badgeClass}">${t.rank}</div>
+                <div class="match-team-logo" style="width:28px;height:28px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.05);border-radius:50%;overflow:hidden;border:1px solid rgba(255,255,255,0.1);">
+                  <img src="${secureUrl(t.image)}" alt="" style="width:100%;height:100%;object-fit:contain;">
+                </div>
+                <span style="font-weight:700;color:var(--gold-light);">${t.code}</span>
+                <span class="region-badge ${t.region.toLowerCase()}">${t.region}</span>
+              </div>
+              <div class="ranking-item-right">
+                <span class="trend-indicator ${trendClass}" style="font-size:0.7rem;gap:0.2rem;">${trendIcon}</span>
+                <span class="rating-index">${t.rating > 500 ? Math.round(t.rating).toLocaleString() : t.rating.toFixed(1)}</span>
+              </div>
+            </div>`;
+        }).join('')}
+      </div>
+      <div style="margin-top:1.2rem;text-align:center;">
+        <a href="esports.html?tab=rankings" class="btn btn-outline" style="font-size:0.8rem;padding:0.4rem 1.2rem;width:100%;justify-content:center;border-color:var(--border);">View Detailed Roster Analysis</a>
+      </div>
+    `;
+  } catch (e) {
+    console.error('Failed to load rankings:', e);
+    container.innerHTML = '<div class="loading">Failed to load rankings.</div>';
   }
 }

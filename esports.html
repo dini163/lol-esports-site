@@ -19,6 +19,7 @@
         <button class="tab-btn active" data-tab="schedule" onclick="switchTab('schedule')">Schedule</button>
         <button class="tab-btn" data-tab="standings" onclick="switchTab('standings')">Standings</button>
         <button class="tab-btn" data-tab="teams" onclick="switchTab('teams')">Teams</button>
+        <button class="tab-btn" data-tab="rankings" onclick="switchTab('rankings')">World Rankings</button>
       </div>
 
       <!-- Schedule Tab -->
@@ -56,6 +57,20 @@
           <button class="filter-btn" data-region="LCS">LCS</button>
         </div>
         <div id="teamsGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem;"></div>
+      </div>
+
+      <!-- World Rankings Tab -->
+      <div class="tab-panel" id="tab-rankings">
+        <div class="filter-group" id="rankingsRegionFilters" style="margin-bottom:1.5rem;">
+          <button class="filter-btn active" data-region="all">All</button>
+          <button class="filter-btn" data-region="LPL">LPL</button>
+          <button class="filter-btn" data-region="LCK">LCK</button>
+          <button class="filter-btn" data-region="LEC">LEC</button>
+          <button class="filter-btn" data-region="LCS">LCS</button>
+        </div>
+        <div id="rankingsContainer" class="card" style="padding:1.5rem; overflow-x:auto;">
+          <div class="loading"><div class="spinner"></div><p style="margin-top:1rem;">Loading world rankings...</p></div>
+        </div>
       </div>
     </section>
   </main>

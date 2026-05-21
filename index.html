@@ -25,14 +25,30 @@
       </div>
     </section>
 
-    <!-- Live Matches -->
+    <!-- Live Matches & Rankings -->
     <section class="section" id="live-section">
-      <div class="section-header">
-        <h2 class="section-title">Latest Matches</h2>
-        <a href="esports.html" class="btn btn-outline" style="font-size:0.85rem;padding:0.5rem 1rem;">View All →</a>
-      </div>
-      <div id="matchList" class="match-list" style="display:flex;flex-direction:column;gap:1rem;">
-        <div class="loading"><div class="spinner"></div><p style="margin-top:1rem;">Loading matches...</p></div>
+      <div class="home-row">
+        <!-- Matches (Left Column) -->
+        <div style="display:flex;flex-direction:column;gap:1.5rem;">
+          <div class="section-header" style="margin-bottom:0;width:100%;">
+            <h2 class="section-title">Latest Matches</h2>
+            <a href="esports.html" class="btn btn-outline" style="font-size:0.85rem;padding:0.5rem 1rem;">View All →</a>
+          </div>
+          <div id="matchList" class="match-list" style="display:flex;flex-direction:column;gap:1rem;width:100%;">
+            <div class="loading"><div class="spinner"></div><p style="margin-top:1rem;">Loading matches...</p></div>
+          </div>
+        </div>
+        
+        <!-- Power Rankings (Right Column) -->
+        <div style="display:flex;flex-direction:column;gap:1.5rem;">
+          <div class="section-header" style="margin-bottom:0;width:100%;">
+            <h2 class="section-title">Global Power Rankings</h2>
+            <a href="esports.html?tab=rankings" class="btn btn-outline" style="font-size:0.85rem;padding:0.5rem 1rem;">Full Rankings →</a>
+          </div>
+          <div id="rankingsSidebar" class="rankings-widget" style="width:100%;">
+            <div class="loading"><div class="spinner"></div><p style="margin-top:1rem;">Loading rankings...</p></div>
+          </div>
+        </div>
       </div>
     </section>
 

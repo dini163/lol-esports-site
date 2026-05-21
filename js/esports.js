@@ -2,18 +2,28 @@ let matchesData = [];
 let standingsData = {};
 let teamsData = [];
 let playersData = {};
+let rankingsData = [];
 let currentLeagueFilter = 'all';
 let currentStandingsRegion = 'LPL';
 let currentStandingsMode = 'regular'; // 'regular' or 'playoffs'
 let currentTeamsRegion = 'all';
+let currentRankingsRegion = 'all';
 
 document.addEventListener('DOMContentLoaded', async () => {
   await loadStandings();
-  await Promise.all([loadSchedule(), loadTeams()]);
+  await Promise.all([loadSchedule(), loadTeams(), loadWorldRankings()]);
   setupLeagueFilters();
   setupStandingsRegion();
   setupStandingsMode();
   setupTeamsRegion();
+  setupRankingsRegionFilters();
+
+  // Route tab parameter
+  const urlTab = getUrlParam('tab');
+  if (urlTab) {
+    switchTab(urlTab);
+  }
+
   // Auto-refresh schedule every 60 seconds
   setInterval(() => { loadSchedule(); }, 60000);
 });
@@ -386,4 +396,163 @@ function setupTeamsRegion() {
     currentTeamsRegion = e.target.dataset.region;
     renderTeams(teamsData);
   });
+}
+
+// ---- World Rankings ----
+async function loadWorldRankings() {
+  try {
+    rankingsData = await fetchJSON('./data/rankings.json?t=' + Date.now());
+    renderWorldRankings(currentRankingsRegion);
+  } catch (e) {
+    console.error('Failed to load world rankings:', e);
+    const container = document.getElementById('rankingsContainer');
+    if (container) {
+      container.innerHTML = '<div class="loading">Failed to load rankings.</div>';
+    }
+  }
+}
+
+function renderWorldRankings(region) {
+  const container = document.getElementById('rankingsContainer');
+  if (!container) return;
+  
+  const filtered = region === 'all' 
+    ? rankingsData 
+    : rankingsData.filter(t => t.region.toUpperCase() === region.toUpperCase());
+    
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="loading">No rankings found for this region.</div>';
+    return;
+  }
+  
+  container.innerHTML = `
+    <table class="rankings-table">
+      <thead>
+        <tr>
+          <th style="width: 70px;">Rank</th>
+          <th>Team</th>
+          <th>Region</th>
+          <th>Record (WR)</th>
+          <th>Domestic Rank</th>
+          <th>Power Score</th>
+          <th style="width: 80px;">Trend</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${filtered.map(t => {
+          let badgeClass = 'rank-badge';
+          if (t.rank === 1) badgeClass += ' rank-badge-1';
+          else if (t.rank === 2) badgeClass += ' rank-badge-2';
+          else if (t.rank === 3) badgeClass += ' rank-badge-3';
+          
+          let trendIcon = '●';
+          if (t.trend === 'up') trendIcon = '▲ ' + (t.trendValue || '');
+          else if (t.trend === 'down') trendIcon = '▼ ' + (t.trendValue || '');
+          
+          const trendClass = t.trend || 'stable';
+          const logo = t.image 
+            ? `<img src="${secureUrl(t.image)}" alt="" style="width:100%;height:100%;object-fit:contain;">` 
+            : t.code.substring(0,3);
+            
+          return `
+            <tr class="rankings-row" data-team-id="${t.teamId}" data-rank="${t.rank}" onclick="toggleRankingsAccordion(${t.rank})">
+              <td style="font-weight:800;"><div class="${badgeClass}">${t.rank}</div></td>
+              <td>
+                <div class="standings-team">
+                  <div class="match-team-logo" style="width:30px;height:30px;font-size:0.6rem;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.05);border-radius:50%;overflow:hidden;border:1px solid rgba(255,255,255,0.1);">${logo}</div>
+                  <div style="display:flex;flex-direction:column;line-height:1.2;">
+                    <span style="font-weight:700;color:var(--gold-light);">${t.code}</span>
+                    <span class="full-name-secondary" style="font-size:0.75rem;color:var(--text-muted);font-weight:400;">${t.name}</span>
+                  </div>
+                </div>
+              </td>
+              <td><span class="region-badge ${t.region.toLowerCase()}">${t.region}</span></td>
+              <td style="font-weight:600;color:var(--gold-light);">${t.record} <span style="font-size:0.8rem;color:var(--text-secondary);font-weight:400;">(${t.winrate})</span></td>
+              <td style="color:var(--text-secondary);font-size:0.9rem;">${t.domesticRank}</td>
+              <td style="font-weight:700;color:var(--blue);font-size:1rem;">${t.rating > 500 ? Math.round(t.rating).toLocaleString() : t.rating.toFixed(1)}</td>
+              <td><span class="trend-indicator ${trendClass}" style="gap:0.2rem;">${trendIcon}</span></td>
+            </tr>
+            <tr class="rankings-detail-row" id="rankings-detail-${t.rank}">
+              <td colspan="7">
+                <div class="rankings-expanded-content" id="rankings-expanded-content-${t.rank}">
+                  <!-- Loaded dynamically inside toggleRankingsAccordion -->
+                </div>
+              </td>
+            </tr>
+          `;
+        }).join('')}
+      </tbody>
+    </table>
+  `;
+}
+
+function setupRankingsRegionFilters() {
+  document.getElementById('rankingsRegionFilters')?.addEventListener('click', e => {
+    if (!e.target.classList.contains('filter-btn')) return;
+    document.querySelectorAll('#rankingsRegionFilters .filter-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentRankingsRegion = e.target.dataset.region;
+    renderWorldRankings(currentRankingsRegion);
+  });
+}
+
+function toggleRankingsAccordion(rank) {
+  const detailRow = document.getElementById(`rankings-detail-${rank}`);
+  if (!detailRow) return;
+  
+  const isExpanded = detailRow.classList.contains('expanded');
+  
+  // Collapse all details first
+  document.querySelectorAll('.rankings-detail-row').forEach(row => {
+    row.classList.remove('expanded');
+  });
+  
+  if (!isExpanded) {
+    detailRow.classList.add('expanded');
+    
+    // Render content for this team
+    const contentContainer = document.getElementById(`rankings-expanded-content-${rank}`);
+    const teamDataFromRank = rankingsData.find(t => t.rank === rank);
+    
+    if (contentContainer && teamDataFromRank) {
+      // Find full roster from teamsData
+      const fullTeam = teamsData.find(tm => tm.id === teamDataFromRank.teamId || tm.code === teamDataFromRank.code);
+      
+      let rosterHTML = '<div style="color:var(--text-muted);font-size:0.9rem;">Roster details currently unavailable.</div>';
+      if (fullTeam && fullTeam.players) {
+        const teamPlayers = [...fullTeam.players].map(playerName => {
+          return playersData[playerName] || { ign: playerName, role: 'UNKNOWN' };
+        }).sort((a, b) => {
+          const orderA = roleOrder[a.role?.toUpperCase()] || 99;
+          const orderB = roleOrder[b.role?.toUpperCase()] || 99;
+          if (orderA !== orderB) return orderA - orderB;
+          return a.ign.localeCompare(b.ign);
+        });
+        
+        rosterHTML = `
+          <div class="roster-grid-compact">
+            ${teamPlayers.map(p => {
+              const shortRole = getShortRole(p.role);
+              return `
+                <div class="roster-compact-card">
+                  <span class="role">${shortRole}</span>
+                  <a href="player.html?id=${p.ign}" class="ign" style="text-decoration:none;">${p.ign}</a>
+                </div>`;
+            }).join('')}
+          </div>
+        `;
+      }
+      
+      contentContainer.innerHTML = `
+        <div class="expanded-analysis">
+          <h4>Analytical Commentary</h4>
+          <p>${teamDataFromRank.reason}</p>
+        </div>
+        <div class="expanded-roster">
+          <h4>Active Roster</h4>
+          ${rosterHTML}
+        </div>
+      `;
+    }
+  }
 }
