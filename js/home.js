@@ -82,8 +82,10 @@ async function loadMatches() {
       const time = formatTime(m.start_time);
       const date = formatDate(m.start_time);
       const liveClass = m.status === 'live' ? ' live' : '';
-      const logoA = m.team_a.image ? `<img src="${m.team_a.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_a.name.substring(0, 3);
-      const logoB = m.team_b.image ? `<img src="${m.team_b.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : m.team_b.name.substring(0, 3);
+      const nameA = m.team_a.code || m.team_a.name;
+      const nameB = m.team_b.code || m.team_b.name;
+      const logoA = m.team_a.image ? `<img src="${m.team_a.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : nameA.substring(0, 3);
+      const logoB = m.team_b.image ? `<img src="${m.team_b.image}" alt="" style="width:100%;height:100%;object-fit:contain;border-radius:50%;">` : nameB.substring(0, 3);
       return `
         <div class="match-card${liveClass}">
           <div class="match-league">
@@ -91,7 +93,7 @@ async function loadMatches() {
             <div class="match-league-time">${date} · ${time}</div>
           </div>
           <div class="match-team team-a">
-            <span class="match-team-name">${m.team_a.name}</span>
+            <span class="match-team-name" title="${m.team_a.name}">${nameA}</span>
             <div class="match-team-logo">${logoA}</div>
           </div>
           <div class="match-vs">
@@ -100,7 +102,7 @@ async function loadMatches() {
           </div>
           <div class="match-team team-b">
             <div class="match-team-logo">${logoB}</div>
-            <span class="match-team-name">${m.team_b.name}</span>
+            <span class="match-team-name" title="${m.team_b.name}">${nameB}</span>
           </div>
           <div class="match-status ${m.status}">
             ${m.status === 'live' ? '<span class="live-dot"></span> LIVE' : m.status === 'upcoming' ? 'UPCOMING' : 'FINAL'}
