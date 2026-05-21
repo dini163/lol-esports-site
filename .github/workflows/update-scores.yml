@@ -27,6 +27,7 @@ jobs:
 
       - name: Fetch Scores, Standings, News, and Transfers
         run: |
+          python scripts/fetch_meta.py
           python scripts/fetch_schedule.py
           python scripts/fetch_standings.py
           python scripts/fetch_teams.py
@@ -37,5 +38,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/schedule.json data/standings.json data/teams.json data/players.json data/news.json data/transfers.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update esports schedule, standings, teams rosters, news, and transfers" && git push)
+          git add data/schedule.json data/standings.json data/teams.json data/players.json data/news.json data/transfers.json data/meta.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update esports schedule, standings, teams rosters, news, transfers, and game meta" && git push)
