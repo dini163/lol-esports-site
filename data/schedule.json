@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-05-20T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -747,17 +747,17 @@
     "team_a": {
       "name": "Conviction",
       "code": "CNV",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-05-20T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -1237,12 +1237,12 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "TBD vs WU",
+    "match": "MU vs WU",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Maryville University",
+      "code": "MU",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "team_b": {
       "name": "Winthrop University",

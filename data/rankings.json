@@ -31,21 +31,6 @@
   },
   {
     "rank": 3,
-    "teamId": "t1",
-    "name": "T1",
-    "code": "T1",
-    "region": "LCK",
-    "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
-    "record": "15-6",
-    "winrate": "71%",
-    "rating": 1483.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "2nd in LCK",
-    "reason": "T1 continues to be a top-tier international threat. Faker's unmatched shotcalling combined with Gumayusi's steady teamfight carries ensures they remain championship contenders."
-  },
-  {
-    "rank": 4,
     "teamId": "g2-esports",
     "name": "G2 Esports",
     "code": "G2",
@@ -54,10 +39,25 @@
     "record": "19-10",
     "winrate": "66%",
     "rating": 1476.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "up",
+    "trendValue": 1,
     "domesticRank": "1st in LEC",
     "reason": "G2 Esports reigns supreme in Europe, combining creative draft flexes and relentless high-tempo map skirmishing that continues to challenge the best in the East."
+  },
+  {
+    "rank": 4,
+    "teamId": "t1",
+    "name": "T1",
+    "code": "T1",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
+    "record": "16-6",
+    "winrate": "73%",
+    "rating": 1472.0,
+    "trend": "down",
+    "trendValue": 1,
+    "domesticRank": "2nd in LCK",
+    "reason": "T1 continues to be a top-tier international threat. Faker's unmatched shotcalling combined with Gumayusi's steady teamfight carries ensures they remain championship contenders."
   },
   {
     "rank": 5,
@@ -96,13 +96,13 @@
     "code": "KT",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
-    "record": "13-7",
-    "winrate": "65%",
-    "rating": 1413.0,
+    "record": "14-7",
+    "winrate": "67%",
+    "rating": 1405.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "4th in LCK",
-    "reason": "kt Rolster occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1413 and a 13-7 (65%) match record."
+    "reason": "kt Rolster occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1405 and a 14-7 (67%) match record."
   },
   {
     "rank": 8,
@@ -114,8 +114,8 @@
     "record": "19-14",
     "winrate": "58%",
     "rating": 1402.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in LPL",
     "reason": "JDG Esports displays strong teamfight coordination and a solid structural foundation, though recent inconsistency has caused minor setbacks domestically."
   },
@@ -264,8 +264,8 @@
     "record": "12-1",
     "winrate": "92%",
     "rating": 1304.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in LCS",
     "reason": "Cloud9 shows strong individual laning power and aggressive map control, making them a consistently dangerous contender in the LCS."
   },
@@ -279,10 +279,10 @@
     "record": "16-3",
     "winrate": "84%",
     "rating": 1302.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in LCP",
-    "reason": "Team Secret Whales occupies a competitive standing in the LCP region, experiencing a minor rank drop of 1 spots with a power rating score of 1302 and a 16-3 (84%) match record."
+    "reason": "Team Secret Whales occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1302 and a 16-3 (84%) match record."
   },
   {
     "rank": 20,
@@ -496,6 +496,36 @@
   },
   {
     "rank": 34,
+    "teamId": "drx",
+    "name": "KIWOOM DRX",
+    "code": "DRX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+    "record": "8-17",
+    "winrate": "32%",
+    "rating": 1208.0,
+    "trend": "up",
+    "trendValue": 2,
+    "domesticRank": "8th in LCK",
+    "reason": "KIWOOM DRX occupies a competitive standing in the LCK region, climbing 2 spots recently with a power rating score of 1208 and a 8-17 (32%) match record."
+  },
+  {
+    "rank": 35,
+    "teamId": "ns-challengers",
+    "name": "NS Challengers",
+    "code": "NS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
+    "record": "6-16",
+    "winrate": "27%",
+    "rating": 1204.0,
+    "trend": "up",
+    "trendValue": 2,
+    "domesticRank": "9th in LCK",
+    "reason": "NS Challengers occupies a competitive standing in the LCK region, climbing 2 spots recently with a power rating score of 1204 and a 6-16 (27%) match record."
+  },
+  {
+    "rank": 36,
     "teamId": "fukuoka-softbank-hawks-gaming",
     "name": "Fukuoka SoftBank HAWKS gaming",
     "code": "SHG",
@@ -504,13 +534,13 @@
     "record": "9-9",
     "winrate": "50%",
     "rating": 1199.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "down",
+    "trendValue": 2,
     "domesticRank": "6th in LCP",
-    "reason": "Fukuoka SoftBank HAWKS gaming occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1199 and a 9-9 (50%) match record."
+    "reason": "Fukuoka SoftBank HAWKS gaming occupies a competitive standing in the LCP region, experiencing a minor rank drop of 2 spots with a power rating score of 1199 and a 9-9 (50%) match record."
   },
   {
-    "rank": 34,
+    "rank": 36,
     "teamId": "furia",
     "name": "FURIA",
     "code": "FUR",
@@ -519,40 +549,10 @@
     "record": "14-6",
     "winrate": "70%",
     "rating": 1199.0,
-    "trend": "up",
-    "trendValue": 3,
-    "domesticRank": "2nd in CBLOL",
-    "reason": "FURIA occupies a competitive standing in the CBLOL region, climbing 3 spots recently with a power rating score of 1199 and a 14-6 (70%) match record."
-  },
-  {
-    "rank": 36,
-    "teamId": "drx",
-    "name": "KIWOOM DRX",
-    "code": "DRX",
-    "region": "LCK",
-    "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
-    "record": "8-16",
-    "winrate": "33%",
-    "rating": 1198.0,
-    "trend": "up",
-    "trendValue": 1,
-    "domesticRank": "8th in LCK",
-    "reason": "KIWOOM DRX occupies a competitive standing in the LCK region, climbing 1 spots recently with a power rating score of 1198 and a 8-16 (33%) match record."
-  },
-  {
-    "rank": 37,
-    "teamId": "ns-challengers",
-    "name": "NS Challengers",
-    "code": "NS",
-    "region": "LCK",
-    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
-    "record": "6-15",
-    "winrate": "29%",
-    "rating": 1196.0,
     "trend": "down",
     "trendValue": 2,
-    "domesticRank": "9th in LCK",
-    "reason": "NS Challengers occupies a competitive standing in the LCK region, experiencing a minor rank drop of 2 spots with a power rating score of 1196 and a 6-15 (29%) match record."
+    "domesticRank": "2nd in CBLOL",
+    "reason": "FURIA occupies a competitive standing in the CBLOL region, experiencing a minor rank drop of 2 spots with a power rating score of 1199 and a 14-6 (70%) match record."
   },
   {
     "rank": 38,
@@ -564,10 +564,10 @@
     "record": "5-6",
     "winrate": "45%",
     "rating": 1191.0,
-    "trend": "down",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "11th in LPL",
-    "reason": "LGD GAMING occupies a competitive standing in the LPL region, experiencing a minor rank drop of 2 spots with a power rating score of 1191 and a 5-6 (45%) match record."
+    "reason": "LGD GAMING occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1191 and a 5-6 (45%) match record."
   },
   {
     "rank": 39,
@@ -639,10 +639,10 @@
     "record": "6-14",
     "winrate": "30%",
     "rating": 1171.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "8th in LEC",
-    "reason": "Shifters occupies a competitive standing in the LEC region, climbing 1 spots recently with a power rating score of 1171 and a 6-14 (30%) match record."
+    "reason": "Shifters occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1171 and a 6-14 (30%) match record."
   },
   {
     "rank": 44,
@@ -654,10 +654,10 @@
     "record": "11-11",
     "winrate": "50%",
     "rating": 1164.0,
-    "trend": "down",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in CBLOL",
-    "reason": "LOUD occupies a competitive standing in the CBLOL region, experiencing a minor rank drop of 2 spots with a power rating score of 1164 and a 11-11 (50%) match record."
+    "reason": "LOUD occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1164 and a 11-11 (50%) match record."
   },
   {
     "rank": 45,
@@ -819,10 +819,10 @@
     "record": "0-14",
     "winrate": "0%",
     "rating": 1101.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "8th in LCP",
-    "reason": "DetonatioN FocusMe occupies a competitive standing in the LCP region, climbing 1 spots recently with a power rating score of 1101 and a 0-14 (0%) match record."
+    "reason": "DetonatioN FocusMe occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1101 and a 0-14 (0%) match record."
   },
   {
     "rank": 56,
@@ -834,10 +834,10 @@
     "record": "1-10",
     "winrate": "9%",
     "rating": 1100.0,
-    "trend": "down",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "8th in LCS",
-    "reason": "Dignitas occupies a competitive standing in the LCS region, experiencing a minor rank drop of 2 spots with a power rating score of 1100 and a 1-10 (9%) match record."
+    "reason": "Dignitas occupies a competitive standing in the LCS region, maintaining a highly stable competitive position with a power rating score of 1100 and a 1-10 (9%) match record."
   },
   {
     "rank": 57,
