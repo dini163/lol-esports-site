@@ -342,11 +342,11 @@
         "team": "Dplus KIA",
         "teamCode": "DK",
         "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 7,
+        "wins": 8,
         "losses": 7,
-        "winrate": "50%",
-        "gameWins": 16,
-        "gameLosses": 15
+        "winrate": "53%",
+        "gameWins": 18,
+        "gameLosses": 16
       },
       {
         "rank": 6,
@@ -354,10 +354,10 @@
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
         "wins": 6,
-        "losses": 8,
-        "winrate": "43%",
-        "gameWins": 15,
-        "gameLosses": 16
+        "losses": 9,
+        "winrate": "40%",
+        "gameWins": 16,
+        "gameLosses": 18
       },
       {
         "rank": 7,

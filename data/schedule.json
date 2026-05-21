@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DNS vs DRX",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-05-18T07:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "GGA vs HLE",
     "team_a": {
       "name": "Gen.G Global Academy",
@@ -709,17 +690,17 @@
     "team_a": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
       "name": "HANJIN BRION",
       "code": "BRO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-05-21T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Saigon Dino",
       "code": "DINO",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Rising Gaming",
       "code": "RGA",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
     },
     "start_time": "2026-05-21T11:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Saigon Zen Esport",
       "code": "ZEN",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
     },
     "team_b": {
@@ -814,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
     },
     "start_time": "2026-05-21T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1741780171372_GOAL.png"
     },
     "start_time": "2026-05-23T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "KC vs G2",
+    "team_a": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-05-23T15:00:00Z",
     "status": "upcoming"
   }
 ]
