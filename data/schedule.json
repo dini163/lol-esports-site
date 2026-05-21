@@ -1,5 +1,24 @@
 [
   {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "BW vs PCF",
+    "team_a": {
+      "name": "Bushido Wildcats",
+      "code": "BW",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
+    },
+    "team_b": {
+      "name": "PCIFIC Esports",
+      "code": "PCF",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
+    },
+    "start_time": "2026-05-20T15:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs TOG",
@@ -696,11 +715,11 @@
     "team_b": {
       "name": "Ronaldo Team",
       "code": "RDT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
     },
     "start_time": "2026-05-21T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -709,13 +728,13 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-05-21T20:00:00Z",
@@ -724,21 +743,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "GTZ vs OTS",
+    "match": "OTS vs GTZ",
     "team_a": {
+      "name": "Otter Side",
+      "code": "OTS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
+    },
+    "team_b": {
       "name": "GTZ Esports",
       "code": "GTZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1738418639441_GTZ_c.png"
     },
-    "team_b": {
-      "name": "Otter Side",
-      "code": "OTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
-    },
     "start_time": "2026-05-21T21:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
