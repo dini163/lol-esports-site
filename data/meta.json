@@ -1,20 +1,26 @@
 {
   "patch": "26.10",
   "highlights": [
-    "ADC Items Rework: Infinity Edge and Navori Quickblades adjustments.",
-    "Jungle changes: Experience tweaks and camp respawn timers.",
-    "System updates: Turret plating gold reduced."
+    "Galio Mid Quest: Demacian Colossus buffed with reduced mana costs and total damage scaling with 100% bonus Magic Resistance.",
+    "Lee Sin Skill Ward-Hop: Shield normalized to 7s cooldown for ward-hopping, now giving shields when jumping to minions/wards.",
+    "Zeri Speed Carry: Burst Fire base damage and excess attack speed to AD conversion increased to help her climb tiers.",
+    "S-Tier Skirmish Nerfs: Ashe, Zed, and Naafiri tapped down due to dominance in Season 26 meta."
   ],
   "tiers": {
     "S": [
-      { "champion": "Ahri", "role": "MID", "reason": "High mobility and burst with Malignance." },
-      { "champion": "Jinx", "role": "BOT", "reason": "Incredible late-game scaling with the new crit items." },
-      { "champion": "Vi", "role": "JGL", "reason": "Reliable lockdown and early game skirmishing." }
+      { "champion": "Galio", "role": "MID", "reason": "Massive damage buffs scaling with bonus Magic Resistance make him the top anti-mage." },
+      { "champion": "Zeri", "role": "BOT", "reason": "Sizable Burst Fire base damage buffs and R duration extension allow her to dominate late teamfights." },
+      { "champion": "Wukong", "role": "JGL", "reason": "Longer clone duration (4s) and nimbus strike AS buff elevate his jungle skirmishing power." }
     ],
     "A": [
-      { "champion": "Aatrox", "role": "TOP", "reason": "Strong lane dominance and teamfight drain tanking." },
-      { "champion": "Nautilus", "role": "SUP", "reason": "High CC and engage potential." },
-      { "champion": "Taliyah", "role": "MID", "reason": "Excellent roaming and zone control." }
+      { "champion": "Ambessa", "role": "TOP", "reason": "Max health damage shifts early and higher healing percentages keep her incredibly robust." },
+      { "champion": "Lee Sin", "role": "JGL", "reason": "Safeguard ward-hops now granting shield and flat 7s cooldown unlock high dynamic mobility." },
+      { "champion": "Quinn", "role": "TOP", "reason": "Severe R mana cost reductions and new bonus monster damage make her a flexible map threat." }
+    ],
+    "B": [
+      { "champion": "Zed", "role": "MID", "reason": "Nerfed passive health damage and lower shadow slash scaling, but still extremely mobile." },
+      { "champion": "Ashe", "role": "BOT", "reason": "Minor utility Q damage multiplier tap-down (140% to 130%), remaining a strong secondary carry." },
+      { "champion": "Smolder", "role": "BOT", "reason": "Early game base damage nerf compensated by crit multiplier increases, scaling well into late game." }
     ]
   }
 }
