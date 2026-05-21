@@ -1,81 +1,5 @@
 [
   {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "ZEN vs MVKA",
-    "team_a": {
-      "name": "Saigon Zen Esport",
-      "code": "ZEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Saigon MVKE Academy",
-      "code": "MVKA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
-    },
-    "start_time": "2026-05-20T10:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "SGW vs 9G",
-    "team_a": {
-      "name": "Saigon Warrior",
-      "code": "SGW",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Saigon 9Gaming",
-      "code": "9G",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
-    },
-    "start_time": "2026-05-20T13:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "GLR vs LDS",
-    "team_a": {
-      "name": "GLORE",
-      "code": "GLR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774530204931_GLORE-LogoPZ.png"
-    },
-    "team_b": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "start_time": "2026-05-20T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "BW vs PCF",
-    "team_a": {
-      "name": "Bushido Wildcats",
-      "code": "BW",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
-    },
-    "team_b": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "start_time": "2026-05-20T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs TOG",
@@ -633,7 +557,7 @@
     "team_a": {
       "name": "Barcz\u0105ca Esports",
       "code": "BCE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
     },
     "team_b": {
@@ -643,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/1769598779335_devils_one_log_white1.png"
     },
     "start_time": "2026-05-21T17:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -652,17 +576,17 @@
     "team_a": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "team_b": {
       "name": "The Secret Club",
       "code": "TSC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-05-21T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -690,17 +614,17 @@
     "team_a": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "team_b": {
       "name": "Senshi eSports",
       "code": "SNSH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "start_time": "2026-05-21T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -715,11 +639,11 @@
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-05-21T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -728,17 +652,17 @@
     "team_a": {
       "name": "Vitality.Bee",
       "code": "VITB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
     },
     "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-05-21T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -753,11 +677,11 @@
     "team_b": {
       "name": "Crusaders",
       "code": "CRZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738419752510_ryc_c.png"
     },
     "start_time": "2026-05-21T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -776,26 +700,26 @@
       "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
     },
     "start_time": "2026-05-21T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "MU vs WU",
+    "match": "WU vs MU",
     "team_a": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "team_b": {
       "name": "Winthrop University",
       "code": "WU",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
+    "team_b": {
+      "name": "Maryville University",
+      "code": "MU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
+    },
     "start_time": "2026-05-21T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
     },
     "start_time": "2026-05-25T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-05-25T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DMG vs LEO",
+    "team_a": {
+      "name": "DMG Esports",
+      "code": "DMG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
+    },
+    "team_b": {
+      "name": "Lund Esports Organization",
+      "code": "LEO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
+    },
+    "start_time": "2026-05-25T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "LLS vs RUD",
+    "team_a": {
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
+    },
+    "team_b": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
+    },
+    "start_time": "2026-05-25T17:00:00Z",
     "status": "upcoming"
   }
 ]
