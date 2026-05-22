@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DK vs DRX",
-    "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-05-21T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "DNS vs HLE",
     "team_a": {
       "name": "DNS Challengers",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1776929487394_DREAMWHITE.png"
     },
     "start_time": "2026-05-22T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "CCG Esports",
       "code": "CCG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
     "start_time": "2026-05-22T20:00:00Z",
@@ -762,21 +743,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "RDT vs ZZG",
+    "match": "ZZG vs RDT",
     "team_a": {
-      "name": "Ronaldo Team",
-      "code": "RDT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
-    },
-    "team_b": {
       "name": "ZeroZone Gaming",
       "code": "ZZG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
     },
+    "team_b": {
+      "name": "Ronaldo Team",
+      "code": "RDT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
+    },
     "start_time": "2026-05-22T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1515,6 +1496,25 @@
       "code": "VER",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
+    "start_time": "2026-05-25T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "LLS vs BDG",
+    "team_a": {
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
+    },
+    "team_b": {
+      "name": "Bulldog Esports",
+      "code": "BDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-05-25T20:00:00Z",
     "status": "upcoming"
