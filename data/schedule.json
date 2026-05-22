@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "BAR vs HRTS",
-    "team_a": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "team_b": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "start_time": "2026-05-20T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "GL vs SLY",
@@ -111,7 +92,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-05-21T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -130,7 +111,7 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-05-21T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -149,7 +130,7 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-05-21T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -610,25 +591,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BRO vs T1A",
-    "team_a": {
-      "name": "BRO Challengers",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-05-22T05:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "BFX vs KT",
     "team_a": {
       "name": "BNK FEARX Youth",
@@ -643,7 +605,26 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-05-22T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "BRO vs T1A",
+    "team_a": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "start_time": "2026-05-22T05:00:00Z",
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "TP.HCM SN CyberCore Esports",
       "code": "SCBC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
     },
     "start_time": "2026-05-22T13:00:00Z",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "SU Esports",
       "code": "SU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-05-22T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-05-25T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DMG vs AP",
+    "team_a": {
+      "name": "DMG Esports",
+      "code": "DMG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
+    },
+    "team_b": {
+      "name": "Arctic Pandas",
+      "code": "AP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "start_time": "2026-05-25T19:00:00Z",
     "status": "upcoming"
   }
 ]
