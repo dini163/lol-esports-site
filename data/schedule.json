@@ -1,43 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "LUA vs UB",
-    "team_a": {
-      "name": "LUA Gaming",
-      "code": "LUA",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
-    },
-    "team_b": {
-      "name": "UB Alma Mater",
-      "code": "UB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
-    },
-    "start_time": "2026-05-20T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "KCB vs TLNP",
-    "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "team_b": {
-      "name": "TLN Pirates",
-      "code": "TLNP",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
-    },
-    "start_time": "2026-05-20T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "TQD vs TSC",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-05-22T05:00:00Z",
@@ -747,13 +709,13 @@
     "team_a": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
       "name": "kt Challengers",
       "code": "KT",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-05-22T05:00:00Z",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-05-22T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LJL",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
     },
     "start_time": "2026-05-22T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -990,18 +952,18 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CNV vs SN",
+    "match": "SN vs CNV",
     "team_a": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "team_b": {
       "name": "Supernova",
       "code": "SN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
+    },
+    "team_b": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
     "start_time": "2026-05-22T23:00:00Z",
     "status": "upcoming"
@@ -1116,6 +1078,25 @@
       "code": "GOAL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1741780171372_GOAL.png"
+    },
+    "start_time": "2026-05-23T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "NBS vs MVE",
+    "team_a": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "team_b": {
+      "name": "UP2U Meavedron",
+      "code": "MVE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "start_time": "2026-05-23T10:00:00Z",
     "status": "upcoming"
@@ -1270,6 +1251,25 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-05-24T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "CKZ vs ESB",
+    "team_a": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "team_b": {
+      "name": "eSuba",
+      "code": "ESB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
+    },
+    "start_time": "2026-05-24T10:30:00Z",
     "status": "upcoming"
   },
   {
