@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DNS vs HLE",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "HLE Challengers",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-05-21T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "GGA vs NS",
     "team_a": {
       "name": "Gen.G Global Academy",
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "Supernova",
       "code": "SN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
     },
     "start_time": "2026-05-22T23:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "BDG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
+    },
+    "start_time": "2026-05-25T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "LEO vs AP",
+    "team_a": {
+      "name": "Lund Esports Organization",
+      "code": "LEO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
+    },
+    "team_b": {
+      "name": "Arctic Pandas",
+      "code": "AP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-05-25T20:00:00Z",
     "status": "upcoming"
