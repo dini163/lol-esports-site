@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "GL vs SLY",
-    "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "start_time": "2026-05-20T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "VKS vs KBM",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "PCIFIC Esports",
       "code": "PCF",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-05-22T15:00:00Z",
@@ -762,21 +743,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "GTZ vs BBK",
+    "match": "BBK vs GTZ",
     "team_a": {
-      "name": "GTZ Esports",
-      "code": "GTZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738418639441_GTZ_c.png"
-    },
-    "team_b": {
       "name": "Bubliki",
       "code": "BBK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
+    "team_b": {
+      "name": "GTZ Esports",
+      "code": "GTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738418639441_GTZ_c.png"
+    },
     "start_time": "2026-05-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1515,6 +1496,25 @@
       "code": "AP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "start_time": "2026-05-25T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "LEO vs RUD",
+    "team_a": {
+      "name": "Lund Esports Organization",
+      "code": "LEO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
+    },
+    "team_b": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-05-25T19:00:00Z",
     "status": "upcoming"
