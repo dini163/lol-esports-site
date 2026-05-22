@@ -39,8 +39,8 @@
     "record": "19-10",
     "winrate": "66%",
     "rating": 1476.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "1st in LEC",
     "reason": "G2 Esports reigns supreme in Europe, combining creative draft flexes and relentless high-tempo map skirmishing that continues to challenge the best in the East."
   },
@@ -54,8 +54,8 @@
     "record": "16-6",
     "winrate": "73%",
     "rating": 1472.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in LCK",
     "reason": "T1 continues to be a top-tier international threat. Faker's unmatched shotcalling combined with Gumayusi's steady teamfight carries ensures they remain championship contenders."
   },
@@ -66,9 +66,9 @@
     "code": "HLE",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
-    "record": "14-5",
-    "winrate": "74%",
-    "rating": 1458.0,
+    "record": "15-5",
+    "winrate": "75%",
+    "rating": 1463.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "3rd in LCK",
@@ -201,9 +201,9 @@
     "code": "DK",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-    "record": "14-11",
-    "winrate": "56%",
-    "rating": 1335.0,
+    "record": "15-11",
+    "winrate": "58%",
+    "rating": 1332.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "5th in LCK",
@@ -286,21 +286,6 @@
   },
   {
     "rank": 20,
-    "teamId": "fearx-youth",
-    "name": "BNK FEARX Youth",
-    "code": "BFX",
-    "region": "LCK",
-    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-    "record": "12-15",
-    "winrate": "44%",
-    "rating": 1289.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "6th in LCK",
-    "reason": "BNK FEARX Youth occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1289 and a 12-15 (44%) match record."
-  },
-  {
-    "rank": 21,
     "teamId": "team-vitality",
     "name": "Team Vitality",
     "code": "VIT",
@@ -309,10 +294,25 @@
     "record": "16-7",
     "winrate": "70%",
     "rating": 1286.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "up",
+    "trendValue": 1,
     "domesticRank": "4th in LEC",
-    "reason": "Team Vitality occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1286 and a 16-7 (70%) match record."
+    "reason": "Team Vitality occupies a competitive standing in the LEC region, climbing 1 spots recently with a power rating score of 1286 and a 16-7 (70%) match record."
+  },
+  {
+    "rank": 21,
+    "teamId": "fearx-youth",
+    "name": "BNK FEARX Youth",
+    "code": "BFX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+    "record": "12-16",
+    "winrate": "43%",
+    "rating": 1284.0,
+    "trend": "down",
+    "trendValue": 1,
+    "domesticRank": "6th in LCK",
+    "reason": "BNK FEARX Youth occupies a competitive standing in the LCK region, experiencing a minor rank drop of 1 spots with a power rating score of 1284 and a 12-16 (43%) match record."
   },
   {
     "rank": 22,
@@ -426,13 +426,13 @@
     "code": "BRO",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-    "record": "6-14",
-    "winrate": "30%",
-    "rating": 1214.0,
+    "record": "6-15",
+    "winrate": "29%",
+    "rating": 1217.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "7th in LCK",
-    "reason": "BRO Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1214 and a 6-14 (30%) match record."
+    "reason": "BRO Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1217 and a 6-15 (29%) match record."
   },
   {
     "rank": 30,
@@ -504,10 +504,10 @@
     "record": "8-17",
     "winrate": "32%",
     "rating": 1208.0,
-    "trend": "up",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "8th in LCK",
-    "reason": "KIWOOM DRX occupies a competitive standing in the LCK region, climbing 2 spots recently with a power rating score of 1208 and a 8-17 (32%) match record."
+    "reason": "KIWOOM DRX occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1208 and a 8-17 (32%) match record."
   },
   {
     "rank": 35,
@@ -519,10 +519,10 @@
     "record": "6-16",
     "winrate": "27%",
     "rating": 1204.0,
-    "trend": "up",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "9th in LCK",
-    "reason": "NS Challengers occupies a competitive standing in the LCK region, climbing 2 spots recently with a power rating score of 1204 and a 6-16 (27%) match record."
+    "reason": "NS Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1204 and a 6-16 (27%) match record."
   },
   {
     "rank": 36,
@@ -534,10 +534,10 @@
     "record": "9-9",
     "winrate": "50%",
     "rating": 1199.0,
-    "trend": "down",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "6th in LCP",
-    "reason": "Fukuoka SoftBank HAWKS gaming occupies a competitive standing in the LCP region, experiencing a minor rank drop of 2 spots with a power rating score of 1199 and a 9-9 (50%) match record."
+    "reason": "Fukuoka SoftBank HAWKS gaming occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1199 and a 9-9 (50%) match record."
   },
   {
     "rank": 36,
@@ -549,10 +549,10 @@
     "record": "14-6",
     "winrate": "70%",
     "rating": 1199.0,
-    "trend": "down",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in CBLOL",
-    "reason": "FURIA occupies a competitive standing in the CBLOL region, experiencing a minor rank drop of 2 spots with a power rating score of 1199 and a 14-6 (70%) match record."
+    "reason": "FURIA occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1199 and a 14-6 (70%) match record."
   },
   {
     "rank": 38,
