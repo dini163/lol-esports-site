@@ -372,6 +372,17 @@
       },
       {
         "rank": 8,
+        "team": "KIWOOM DRX",
+        "teamCode": "DRX",
+        "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+        "wins": 5,
+        "losses": 11,
+        "winrate": "31%",
+        "gameWins": 14,
+        "gameLosses": 24
+      },
+      {
+        "rank": 9,
         "team": "NONGSHIM RED FORCE",
         "teamCode": "NS",
         "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
@@ -382,26 +393,15 @@
         "gameLosses": 23
       },
       {
-        "rank": 8,
-        "team": "KIWOOM DRX",
-        "teamCode": "DRX",
-        "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
-        "wins": 4,
-        "losses": 11,
-        "winrate": "27%",
-        "gameWins": 12,
-        "gameLosses": 24
-      },
-      {
         "rank": 10,
         "team": "DN SOOPers",
         "teamCode": "DNS",
         "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
         "wins": 1,
-        "losses": 13,
+        "losses": 14,
         "winrate": "7%",
         "gameWins": 2,
-        "gameLosses": 26
+        "gameLosses": 28
       }
     ],
     "playoffs": [
