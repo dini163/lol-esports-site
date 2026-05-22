@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
     "start_time": "2026-05-22T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -753,30 +753,30 @@
     "team_b": {
       "name": "Ronaldo Team",
       "code": "RDT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
     },
     "start_time": "2026-05-22T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "SN vs CNV",
+    "match": "CNV vs SN",
     "team_a": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
+    "team_b": {
       "name": "Supernova",
       "code": "SN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
     },
-    "team_b": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
     "start_time": "2026-05-22T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
