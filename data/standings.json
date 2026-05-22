@@ -310,10 +310,21 @@
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
         "wins": 12,
-        "losses": 3,
-        "winrate": "80%",
+        "losses": 4,
+        "winrate": "75%",
         "gameWins": 24,
-        "gameLosses": 11
+        "gameLosses": 13
+      },
+      {
+        "rank": 3,
+        "team": "Gen.G Esports",
+        "teamCode": "GEN",
+        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+        "wins": 11,
+        "losses": 4,
+        "winrate": "73%",
+        "gameWins": 24,
+        "gameLosses": 10
       },
       {
         "rank": 3,
@@ -324,17 +335,6 @@
         "losses": 4,
         "winrate": "73%",
         "gameWins": 24,
-        "gameLosses": 10
-      },
-      {
-        "rank": 4,
-        "team": "Gen.G Esports",
-        "teamCode": "GEN",
-        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 10,
-        "losses": 4,
-        "winrate": "71%",
-        "gameWins": 22,
         "gameLosses": 10
       },
       {
