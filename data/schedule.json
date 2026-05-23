@@ -743,21 +743,21 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "C9 vs FLY",
+    "match": "FLY vs C9",
     "team_a": {
-      "name": "Cloud9 Kia",
-      "code": "C9",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-    },
-    "team_b": {
       "name": "FlyQuest",
       "code": "FLY",
       "score": 0,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
+    "team_b": {
+      "name": "Cloud9 Kia",
+      "code": "C9",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
     "start_time": "2026-05-23T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1496,6 +1496,25 @@
       "code": "OZO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
+    },
+    "start_time": "2026-05-26T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EWI vs EINS",
+    "team_a": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-05-26T15:00:00Z",
     "status": "upcoming"
