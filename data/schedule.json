@@ -1,24 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "FSK vs DOC",
-    "team_a": {
-      "name": "Forsaken",
-      "code": "FSK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
-    },
-    "team_b": {
-      "name": "DOCISK",
-      "code": "DOC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
-    },
-    "start_time": "2026-05-21T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "MISA vs OZO",
@@ -671,7 +652,7 @@
     "team_a": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "team_b": {
@@ -696,11 +677,11 @@
     "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-05-23T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-05-23T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1741780171372_GOAL.png"
     },
     "start_time": "2026-05-23T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",

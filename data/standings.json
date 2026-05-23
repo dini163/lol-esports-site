@@ -298,11 +298,11 @@
         "team": "Hanwha Life Esports",
         "teamCode": "HLE",
         "teamImage": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
-        "wins": 13,
+        "wins": 14,
         "losses": 2,
-        "winrate": "87%",
-        "gameWins": 27,
-        "gameLosses": 8
+        "winrate": "88%",
+        "gameWins": 29,
+        "gameLosses": 9
       },
       {
         "rank": 2,
@@ -387,10 +387,10 @@
         "teamCode": "NS",
         "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
         "wins": 4,
-        "losses": 11,
-        "winrate": "27%",
-        "gameWins": 10,
-        "gameLosses": 23
+        "losses": 12,
+        "winrate": "25%",
+        "gameWins": 11,
+        "gameLosses": 25
       },
       {
         "rank": 10,
