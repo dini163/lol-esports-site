@@ -1,43 +1,5 @@
 [
   {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "FL vs UWS",
-    "team_a": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
-    "team_b": {
-      "name": "UWinks",
-      "code": "UWS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
-    },
-    "start_time": "2026-05-21T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DK vs BRO",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-05-21T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "VCS",
     "league_code": "vcs",
     "match": "DINO vs SCBC",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Suzhou LNG Esports",
       "code": "LNG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
     },
     "team_b": {
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-05-23T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -781,21 +743,21 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "MVK vs CFO",
+    "match": "CFO vs MVK",
     "team_a": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
-    "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
+    "team_b": {
+      "name": "MVK Esports",
+      "code": "MVK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
     "start_time": "2026-05-23T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1498,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-05-25T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "TBD vs LOUD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "LOUD",
+      "code": "LOUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
+    },
+    "start_time": "2026-05-25T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "G3V vs FUE",
+    "team_a": {
+      "name": "G3V e-sports",
+      "code": "G3V",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771401260130_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-05-25T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "GGA vs KT",
+    "team_a": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "team_b": {
+      "name": "kt Challengers",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "start_time": "2026-05-26T08:00:00Z",
     "status": "upcoming"
   }
 ]
