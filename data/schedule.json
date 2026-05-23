@@ -671,7 +671,7 @@
     "team_a": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "team_b": {
@@ -696,7 +696,7 @@
     "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-05-23T09:00:00Z",
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "NightBirds",
       "code": "NBS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "start_time": "2026-05-23T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
