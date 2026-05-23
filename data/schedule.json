@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "MISA vs OZO",
-    "team_a": {
-      "name": "MISA Esports",
-      "code": "MISA",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
-    },
-    "team_b": {
-      "name": "Ozarox Esports",
-      "code": "OZO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
-    },
-    "start_time": "2026-05-21T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "USE vs G2N",
@@ -743,21 +724,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "KC vs G2",
+    "match": "G2 vs KC",
     "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
+    "team_b": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
     "start_time": "2026-05-23T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1776612679723_PCS2026_TeamLogo_VNR.png"
     },
     "start_time": "2026-05-26T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "TBD vs NBS",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "start_time": "2026-05-26T14:00:00Z",
     "status": "upcoming"
   }
 ]
