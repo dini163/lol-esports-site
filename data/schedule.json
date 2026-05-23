@@ -728,7 +728,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
