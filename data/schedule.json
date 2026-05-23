@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "GGA vs NS",
-    "team_a": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-05-21T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BFX vs HLE",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-05-21T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LJL",
     "league_code": "ljl",
     "match": "FL vs UWS",
@@ -762,21 +724,21 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "WE vs LNG",
+    "match": "LNG vs WE",
     "team_a": {
-      "name": "Xi'an Team WE",
-      "code": "WE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-    },
-    "team_b": {
       "name": "Suzhou LNG Esports",
       "code": "LNG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
     },
+    "team_b": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
     "start_time": "2026-05-23T06:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-05-23T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -1515,6 +1477,25 @@
       "code": "AP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "start_time": "2026-05-25T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DEER vs RUD",
+    "team_a": {
+      "name": "Deer Gaming",
+      "code": "DEER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
+    },
+    "team_b": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-05-25T20:00:00Z",
     "status": "upcoming"
