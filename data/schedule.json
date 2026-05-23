@@ -1,43 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "USE vs G2N",
-    "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-05-21T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "FLK vs GX",
-    "team_a": {
-      "name": "FALKE ESPORTS",
-      "code": "FLK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
-    },
-    "team_b": {
-      "name": "GIANTX ITERO",
-      "code": "GX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "start_time": "2026-05-21T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "ES vs GL",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-05-23T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
     },
     "start_time": "2026-05-23T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -1047,7 +1009,7 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs TBD",
+    "match": "TBD vs G2",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1055,10 +1017,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "G2 Esports",
+      "code": "G2",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-05-25T15:00:00Z",
     "status": "upcoming"
@@ -1370,12 +1332,12 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "TBD vs LOUD",
+    "match": "LOS vs LOUD",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LOS",
+      "code": "LOS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
       "name": "LOUD",
