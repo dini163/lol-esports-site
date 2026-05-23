@@ -667,18 +667,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "IG vs TT",
+    "match": "TT vs IG",
     "team_a": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "team_b": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-05-23T09:00:00Z",
     "status": "completed"
@@ -690,7 +690,7 @@
     "team_a": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "team_b": {
@@ -705,18 +705,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "NS vs HLE",
+    "match": "HLE vs NS",
     "team_a": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-05-23T10:00:00Z",
     "status": "live"
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "NightBirds",
       "code": "NBS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "team_b": {
