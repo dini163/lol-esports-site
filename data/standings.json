@@ -317,6 +317,17 @@
       },
       {
         "rank": 2,
+        "team": "T1",
+        "teamCode": "T1",
+        "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
+        "wins": 12,
+        "losses": 4,
+        "winrate": "75%",
+        "gameWins": 26,
+        "gameLosses": 10
+      },
+      {
+        "rank": 2,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
@@ -325,17 +336,6 @@
         "winrate": "75%",
         "gameWins": 24,
         "gameLosses": 13
-      },
-      {
-        "rank": 4,
-        "team": "T1",
-        "teamCode": "T1",
-        "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 11,
-        "losses": 4,
-        "winrate": "73%",
-        "gameWins": 24,
-        "gameLosses": 10
       },
       {
         "rank": 5,
@@ -354,10 +354,10 @@
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
         "wins": 6,
-        "losses": 9,
-        "winrate": "40%",
+        "losses": 10,
+        "winrate": "38%",
         "gameWins": 16,
-        "gameLosses": 18
+        "gameLosses": 20
       },
       {
         "rank": 7,

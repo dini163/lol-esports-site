@@ -696,7 +696,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-05-24T09:00:00Z",
@@ -715,11 +715,11 @@
     "team_b": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-05-24T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-05-24T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
