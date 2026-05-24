@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "FCN vs DREA",
-    "team_a": {
-      "name": "Francesinhas",
-      "code": "FCN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770127504859_31.png"
-    },
-    "team_b": {
-      "name": "Dream Esports",
-      "code": "DREA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1776929487394_DREAMWHITE.png"
-    },
-    "start_time": "2026-05-21T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "MCON vs SNSH",
@@ -671,7 +652,7 @@
     "team_a": {
       "name": "WeiboGaming",
       "code": "WBG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "team_b": {
@@ -743,21 +724,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "VIT vs MKOI",
+    "match": "MKOI vs VIT",
     "team_a": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "team_b": {
       "name": "Movistar KOI",
       "code": "MKOI",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
+    "team_b": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
     "start_time": "2026-05-24T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1738334806335_dfm_full_color_onB.png"
     },
     "start_time": "2026-05-27T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-05-27T09:00:00Z",
     "status": "upcoming"
   }
 ]
