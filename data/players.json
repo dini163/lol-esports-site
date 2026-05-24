@@ -6109,29 +6109,6 @@
     },
     "highlights": []
   },
-  "TheHank": {
-    "id": "TheHank",
-    "name": "Xu Hai Han",
-    "ign": "TheHank",
-    "role": "SUPPORT",
-    "team": "WeiboGaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "TheHank is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.0",
-      "cs_per_min": "10.0",
-      "kill_participation": "76%",
-      "win_rate": "66%"
-    },
-    "highlights": []
-  },
   "Hang": {
     "id": "Hang",
     "name": "Ming-Hang Fu",
@@ -6152,6 +6129,29 @@
       "cs_per_min": "8.9",
       "kill_participation": "64%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "TheHank": {
+    "id": "TheHank",
+    "name": "Xu Hai Han",
+    "ign": "TheHank",
+    "role": "SUPPORT",
+    "team": "WeiboGaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "TheHank is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "10.0",
+      "kill_participation": "76%",
+      "win_rate": "66%"
     },
     "highlights": []
   },
