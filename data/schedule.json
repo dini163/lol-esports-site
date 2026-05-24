@@ -1,43 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "FLK vs GX",
-    "team_a": {
-      "name": "FALKE ESPORTS",
-      "code": "FLK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
-    },
-    "team_b": {
-      "name": "GIANTX ITERO",
-      "code": "GX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "start_time": "2026-05-21T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "ES vs GL",
-    "team_a": {
-      "name": "Esprit Shonen",
-      "code": "ES",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
-    },
-    "team_b": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "start_time": "2026-05-21T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "MGZ vs PXS",
@@ -766,36 +728,36 @@
     "team_a": {
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "code": "NIP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "team_b": {
       "name": "EDWARD GAMING",
       "code": "EDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-05-24T06:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "DNS vs GEN",
+    "match": "GEN vs DNS",
     "team_a": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
       "name": "Gen.G Esports",
       "code": "GEN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
     "start_time": "2026-05-24T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-05-24T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-05-26T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "BOOM vs ANO",
+    "team_a": {
+      "name": "BOMBA Team",
+      "code": "BOOM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "team_b": {
+      "name": "Anonymo",
+      "code": "ANO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
+    },
+    "start_time": "2026-05-26T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "FEC vs BAN",
+    "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "The Bandits",
+      "code": "BAN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
+    },
+    "start_time": "2026-05-26T16:00:00Z",
     "status": "upcoming"
   }
 ]
