@@ -658,7 +658,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-05-24T09:00:00Z",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "team_b": {
@@ -743,21 +743,21 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "RED vs FUR",
+    "match": "FUR vs RED",
     "team_a": {
-      "name": "RED Canids Kalunga",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
-    },
-    "team_b": {
       "name": "FURIA",
       "code": "FUR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
+    "team_b": {
+      "name": "RED Canids Kalunga",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+    },
     "start_time": "2026-05-24T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-05-27T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "BFX vs DRX",
+    "team_a": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-05-27T10:00:00Z",
     "status": "upcoming"
   }
 ]
