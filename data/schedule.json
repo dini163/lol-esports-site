@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "LLH vs TSC",
-    "team_a": {
-      "name": "Lenovo Legion Honv\u00e9d",
-      "code": "LLH",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
-    },
-    "team_b": {
-      "name": "The Secret Club",
-      "code": "TSC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
-    },
-    "start_time": "2026-05-21T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "FCN vs DREA",
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "WeiboGaming",
       "code": "WBG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-05-24T10:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1351,12 +1332,12 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "TBD vs NBS",
+    "match": "CKZ vs NBS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "CITA Kaizen",
+      "code": "CKZ",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
       "name": "NightBirds",
