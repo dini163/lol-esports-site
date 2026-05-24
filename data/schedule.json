@@ -743,21 +743,21 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "LYON vs TL",
+    "match": "TL vs LYON",
     "team_a": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
       "name": "Team Liquid Alienware",
       "code": "TL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
     "start_time": "2026-05-24T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1499,5 +1499,24 @@
     },
     "start_time": "2026-05-27T10:00:00Z",
     "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "ZEN vs SCBC",
+    "team_a": {
+      "name": "Saigon Zen Esport",
+      "code": "ZEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "TP.HCM SN CyberCore Esports",
+      "code": "SCBC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
+    },
+    "start_time": "2026-05-27T10:00:00Z",
+    "status": "completed"
   }
 ]
