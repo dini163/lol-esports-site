@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "WU vs MU",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-05-21T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "OTS vs GTZ",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-05-25T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
@@ -766,17 +747,17 @@
     "team_a": {
       "name": "WangTing",
       "code": "WTG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743677704612_logotemplatka321.png"
     },
     "team_b": {
       "name": "Frank Esports",
       "code": "FAK",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
     },
     "start_time": "2026-05-25T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1389,7 +1370,7 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "TBD vs TBD",
+    "match": "TBD vs WTG",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1397,10 +1378,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "WangTing",
+      "code": "WTG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1743677704612_logotemplatka321.png"
     },
     "start_time": "2026-05-27T09:00:00Z",
     "status": "upcoming"
@@ -1515,6 +1496,25 @@
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-05-27T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "BCE vs FSK",
+    "team_a": {
+      "name": "Barcz\u0105ca Esports",
+      "code": "BCE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
+    },
+    "team_b": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-05-27T15:00:00Z",
     "status": "upcoming"
