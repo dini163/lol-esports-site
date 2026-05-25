@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "OTS vs GTZ",
-    "team_a": {
-      "name": "Otter Side",
-      "code": "OTS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
-    },
-    "team_b": {
-      "name": "GTZ Esports",
-      "code": "GTZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738418639441_GTZ_c.png"
-    },
-    "start_time": "2026-05-21T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "BFX vs KT",
@@ -762,21 +743,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "G2 vs MKOI",
+    "match": "MKOI vs G2",
     "team_a": {
+      "name": "Movistar KOI",
+      "code": "MKOI",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    },
+    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
-    "team_b": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
     "start_time": "2026-05-25T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-05-27T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "TSC vs MGZ",
+    "team_a": {
+      "name": "The Secret Club",
+      "code": "TSC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "MAGAZA",
+      "code": "MGZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
+    },
+    "start_time": "2026-05-27T16:00:00Z",
     "status": "upcoming"
   }
 ]
