@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TT vs IG",
-    "team_a": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Invictus Gaming",
-      "code": "IG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "start_time": "2026-05-23T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "CFO vs MVK",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
       "name": "LOUD",
       "code": "LOUD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
     "start_time": "2026-05-25T21:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-05-25T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-05-28T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "DNS vs NS",
+    "team_a": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-05-28T08:00:00Z",
     "status": "upcoming"
   }
 ]
