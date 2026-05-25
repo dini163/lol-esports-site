@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "UCAM vs MKF",
-    "team_a": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "start_time": "2026-05-21T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "VITB vs TLNP",
@@ -762,21 +743,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DK vs HLE",
+    "match": "HLE vs DK",
     "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
       "name": "HLE Challengers",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
+    "team_b": {
+      "name": "DK Challengers",
+      "code": "DK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
     "start_time": "2026-05-25T05:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1518,5 +1499,24 @@
     },
     "start_time": "2026-05-27T10:00:00Z",
     "status": "completed"
+  },
+  {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "UWS vs ARB",
+    "team_a": {
+      "name": "UWinks",
+      "code": "UWS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
+    },
+    "team_b": {
+      "name": "Arneb",
+      "code": "ARB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776670285509_Arneblogoblack-arthur.png"
+    },
+    "start_time": "2026-05-27T11:00:00Z",
+    "status": "upcoming"
   }
 ]
