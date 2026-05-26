@@ -728,17 +728,17 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
       "name": "LOUD",
       "code": "LOUD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
     "start_time": "2026-05-25T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-05-25T23:00:00Z",
