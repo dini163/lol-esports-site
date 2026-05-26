@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "CFO vs MVK",
-    "team_a": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "team_b": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
-    "start_time": "2026-05-23T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "HLE vs NS",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-05-23T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "WLG vs GOAL",
@@ -762,21 +724,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "GGA vs KT",
+    "match": "KT vs GGA",
     "team_a": {
+      "name": "kt Challengers",
+      "code": "KT",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
       "name": "Gen.G Global Academy",
       "code": "GGA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
     },
-    "team_b": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
     "start_time": "2026-05-26T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -838,18 +800,18 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "CKZ vs NBS",
+    "match": "MVE vs EXE",
     "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
+      "name": "UP2U Meavedron",
+      "code": "MVE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "team_b": {
-      "name": "NightBirds",
-      "code": "NBS",
+      "name": "EXILE Esports",
+      "code": "EXE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "start_time": "2026-05-26T14:00:00Z",
     "status": "upcoming"
@@ -1515,6 +1477,25 @@
       "code": "NS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-05-28T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "LGG vs FL",
+    "team_a": {
+      "name": "L Guide Gaming",
+      "code": "LGG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
+    },
+    "team_b": {
+      "name": "FENNEL",
+      "code": "FL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
     "start_time": "2026-05-28T08:00:00Z",
     "status": "upcoming"
