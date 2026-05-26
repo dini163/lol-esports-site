@@ -1,43 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "WBG vs LGD",
-    "team_a": {
-      "name": "WeiboGaming",
-      "code": "WBG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641202879910_3.png"
-    },
-    "team_b": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "start_time": "2026-05-24T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "SHG vs DCG",
-    "team_a": {
-      "name": "Fukuoka SoftBank HAWKS gaming",
-      "code": "SHG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
-    },
-    "team_b": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
-    },
-    "start_time": "2026-05-24T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "T1 vs BRO",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "Eintracht Spandau",
       "code": "EINS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "team_b": {
@@ -719,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-05-26T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-05-26T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -776,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-05-26T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "EST vs PAIN",
+    "match": "PAIN vs EST",
     "team_a": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "team_b": {
       "name": "paiN Gaming Academy",
       "code": "PAIN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
+    "team_b": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
     "start_time": "2026-05-26T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1446,7 +1408,7 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "TBD vs TBD",
+    "match": "TBD vs EWI",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1454,10 +1416,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-05-28T15:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "OTS vs CRZ",
+    "team_a": {
+      "name": "Otter Side",
+      "code": "OTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
+    },
+    "team_b": {
+      "name": "Crusaders",
+      "code": "CRZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738419752510_ryc_c.png"
+    },
+    "start_time": "2026-05-28T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "TBD vs NRG",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
+    },
+    "start_time": "2026-05-28T20:00:00Z",
     "status": "upcoming"
   }
 ]
