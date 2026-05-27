@@ -1,62 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "T1 vs BRO",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-05-24T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "CKZ vs ESB",
-    "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "team_b": {
-      "name": "eSuba",
-      "code": "ESB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
-    },
-    "start_time": "2026-05-24T10:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "MKOI vs VIT",
-    "team_a": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "team_b": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "start_time": "2026-05-24T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "FUR vs RED",
@@ -772,30 +715,30 @@
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-05-27T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "NM vs DFMA",
+    "match": "DFMA vs NM",
     "team_a": {
+      "name": "DFM Academy",
+      "code": "DFMA",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1738334806335_dfm_full_color_onB.png"
+    },
+    "team_b": {
       "name": "New Meta",
       "code": "NM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
     },
-    "team_b": {
-      "name": "DFM Academy",
-      "code": "DFMA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738334806335_dfm_full_color_onB.png"
-    },
     "start_time": "2026-05-27T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -814,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1776612870437_PCS2026_TeamLogo_SHKP.png"
     },
     "start_time": "2026-05-27T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "start_time": "2026-05-28T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "NS vs DK",
+    "team_a": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "team_b": {
+      "name": "DK Challengers",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-05-29T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "GGA vs DNS",
+    "team_a": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "team_b": {
+      "name": "DNS Challengers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-05-29T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "JDG vs TT",
+    "team_a": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "team_b": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "start_time": "2026-05-29T06:00:00Z",
     "status": "upcoming"
   }
 ]
