@@ -1,5 +1,24 @@
 [
   {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "LOS vs LOUD",
+    "team_a": {
+      "name": "LOS",
+      "code": "LOS",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
+    },
+    "team_b": {
+      "name": "LOUD",
+      "code": "LOUD",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
+    },
+    "start_time": "2026-05-25T21:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LRN",
     "league_code": "lrn",
     "match": "G3V vs FUE",
@@ -472,7 +491,7 @@
       "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
     },
     "start_time": "2026-05-27T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -491,7 +510,7 @@
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-05-27T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -510,7 +529,7 @@
       "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-05-27T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -529,7 +548,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-05-27T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -548,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-05-27T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -567,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-05-27T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -586,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-05-27T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -605,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-05-27T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -624,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-05-27T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -643,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-05-27T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -662,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
     },
     "start_time": "2026-05-27T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -681,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-05-27T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -709,13 +728,13 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
       "name": "Supernova",
       "code": "SN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
     },
     "start_time": "2026-05-27T20:00:00Z",
@@ -728,7 +747,7 @@
     "team_a": {
       "name": "Bulldog Esports",
       "code": "BDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "team_b": {
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-05-27T20:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
