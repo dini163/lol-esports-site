@@ -299,24 +299,24 @@
         "teamCode": "HLE",
         "teamImage": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
         "wins": 14,
-        "losses": 2,
-        "winrate": "88%",
-        "gameWins": 29,
-        "gameLosses": 9
+        "losses": 3,
+        "winrate": "82%",
+        "gameWins": 30,
+        "gameLosses": 11
       },
       {
         "rank": 2,
         "team": "Gen.G Esports",
         "teamCode": "GEN",
         "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 12,
+        "wins": 13,
         "losses": 4,
-        "winrate": "75%",
-        "gameWins": 26,
-        "gameLosses": 10
+        "winrate": "76%",
+        "gameWins": 28,
+        "gameLosses": 11
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
@@ -327,7 +327,7 @@
         "gameLosses": 10
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
@@ -364,22 +364,22 @@
         "team": "BNK FEARX",
         "teamCode": "BFX",
         "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 11,
-        "winrate": "31%",
-        "gameWins": 12,
-        "gameLosses": 22
+        "winrate": "35%",
+        "gameWins": 14,
+        "gameLosses": 23
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
         "wins": 5,
-        "losses": 11,
-        "winrate": "31%",
-        "gameWins": 14,
-        "gameLosses": 24
+        "losses": 12,
+        "winrate": "29%",
+        "gameWins": 15,
+        "gameLosses": 26
       },
       {
         "rank": 9,
