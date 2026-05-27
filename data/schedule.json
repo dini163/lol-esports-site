@@ -709,13 +709,13 @@
     "team_a": {
       "name": "paiN Gaming Academy",
       "code": "PAIN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "team_b": {
       "name": "KaBuM! Eports",
       "code": "KBM",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-05-27T20:00:00Z",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
