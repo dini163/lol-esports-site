@@ -759,10 +759,10 @@
     "record": "12-7",
     "winrate": "63%",
     "rating": 1128.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "6th in CBLOL",
-    "reason": "LOS occupies a competitive standing in the CBLOL region, climbing 1 spots recently with a power rating score of 1128 and a 12-7 (63%) match record."
+    "reason": "LOS occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1128 and a 12-7 (63%) match record."
   },
   {
     "rank": 52,
@@ -774,10 +774,10 @@
     "record": "5-15",
     "winrate": "25%",
     "rating": 1124.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "9th in LEC",
-    "reason": "SK Gaming occupies a competitive standing in the LEC region, experiencing a minor rank drop of 1 spots with a power rating score of 1124 and a 5-15 (25%) match record."
+    "reason": "SK Gaming occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1124 and a 5-15 (25%) match record."
   },
   {
     "rank": 53,
