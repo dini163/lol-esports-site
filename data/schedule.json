@@ -2,44 +2,6 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "EQX vs SHKP",
-    "team_a": {
-      "name": "Equinox Core",
-      "code": "EQX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776612306804_PCS2026_TeamLogo_EQX.png"
-    },
-    "team_b": {
-      "name": "Shadow Keepers Esports",
-      "code": "SHKP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1776612870437_PCS2026_TeamLogo_SHKP.png"
-    },
-    "start_time": "2026-05-26T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "DNS vs NS",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-05-26T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "PCS",
-    "league_code": "pcs",
     "match": "GZA vs VNR",
     "team_a": {
       "name": "GZ Academy",
@@ -728,13 +690,13 @@
     "team_a": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-05-28T05:00:00Z",
@@ -747,13 +709,13 @@
     "team_a": {
       "name": "HLE Challengers",
       "code": "HLE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
       "name": "BRO Challengers",
       "code": "BRO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-05-28T05:00:00Z",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
@@ -776,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-05-28T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "LGG vs FL",
+    "match": "FL vs LGG",
     "team_a": {
+      "name": "FENNEL",
+      "code": "FL",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
+    },
+    "team_b": {
       "name": "L Guide Gaming",
       "code": "LGG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
-    "team_b": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
     "start_time": "2026-05-28T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "start_time": "2026-05-31T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "NS vs DK",
+    "team_a": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-05-31T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "VIT vs GX",
+    "team_a": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "team_b": {
+      "name": "GIANTX",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "start_time": "2026-05-31T15:00:00Z",
     "status": "upcoming"
   }
 ]
