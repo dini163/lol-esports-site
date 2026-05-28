@@ -1,43 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "BAN vs FEC",
-    "team_a": {
-      "name": "The Bandits",
-      "code": "BAN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
-    },
-    "team_b": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "start_time": "2026-05-26T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "VTC vs GLE",
-    "team_a": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "team_b": {
-      "name": "Golden Lions",
-      "code": "GLE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
-    },
-    "start_time": "2026-05-26T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "PAIN vs EST",
@@ -734,11 +696,11 @@
     "team_b": {
       "name": "E Wie Einfach E-Sports",
       "code": "EWI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-05-28T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports Balkan League",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1479,6 +1441,82 @@
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
     "start_time": "2026-05-31T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "CFOA vs FAK",
+    "team_a": {
+      "name": "CTBC Flying Oyster Academy",
+      "code": "CFOA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
+    },
+    "team_b": {
+      "name": "Frank Esports",
+      "code": "FAK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
+    },
+    "start_time": "2026-06-01T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-01T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "SSG vs SHKP",
+    "team_a": {
+      "name": "SillySilly Gaming",
+      "code": "SSG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
+    },
+    "team_b": {
+      "name": "Shadow Keepers Esports",
+      "code": "SHKP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776612870437_PCS2026_TeamLogo_SHKP.png"
+    },
+    "start_time": "2026-06-01T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-01T15:00:00Z",
     "status": "upcoming"
   }
 ]
