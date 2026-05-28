@@ -1,62 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "LOS vs LOUD",
-    "team_a": {
-      "name": "LOS",
-      "code": "LOS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
-    },
-    "team_b": {
-      "name": "LOUD",
-      "code": "LOUD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
-    },
-    "start_time": "2026-05-25T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "G3V vs FUE",
-    "team_a": {
-      "name": "G3V e-sports",
-      "code": "G3V",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1771401260130_FULL_COLOR_FOR_DARK_BG.png"
-    },
-    "team_b": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "start_time": "2026-05-25T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "KT vs GGA",
-    "team_a": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "start_time": "2026-05-26T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "PCS",
     "league_code": "pcs",
     "match": "EQX vs SHKP",
@@ -762,18 +705,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "T1A vs KT",
+    "match": "KT vs T1A",
     "team_a": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
       "name": "kt Challengers",
       "code": "KT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-05-28T05:00:00Z",
     "status": "upcoming"
@@ -781,18 +724,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DRX vs BFX",
+    "match": "BFX vs DRX",
     "team_a": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-05-28T05:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-05-31T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-05-31T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-05-31T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "TBD vs MVE",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "UP2U Meavedron",
+      "code": "MVE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
+    },
+    "start_time": "2026-05-31T10:00:00Z",
     "status": "upcoming"
   }
 ]
