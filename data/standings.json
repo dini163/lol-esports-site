@@ -316,26 +316,26 @@
         "gameLosses": 11
       },
       {
-        "rank": 3,
+        "rank": 2,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 12,
+        "wins": 13,
         "losses": 4,
-        "winrate": "75%",
-        "gameWins": 26,
+        "winrate": "76%",
+        "gameWins": 28,
         "gameLosses": 10
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
         "wins": 12,
-        "losses": 4,
-        "winrate": "75%",
+        "losses": 5,
+        "winrate": "71%",
         "gameWins": 24,
-        "gameLosses": 13
+        "gameLosses": 15
       },
       {
         "rank": 5,
@@ -372,6 +372,17 @@
       },
       {
         "rank": 8,
+        "team": "NONGSHIM RED FORCE",
+        "teamCode": "NS",
+        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
+        "wins": 5,
+        "losses": 12,
+        "winrate": "29%",
+        "gameWins": 13,
+        "gameLosses": 26
+      },
+      {
+        "rank": 8,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
@@ -382,26 +393,15 @@
         "gameLosses": 26
       },
       {
-        "rank": 9,
-        "team": "NONGSHIM RED FORCE",
-        "teamCode": "NS",
-        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
-        "wins": 4,
-        "losses": 12,
-        "winrate": "25%",
-        "gameWins": 11,
-        "gameLosses": 25
-      },
-      {
         "rank": 10,
         "team": "DN SOOPers",
         "teamCode": "DNS",
         "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
         "wins": 1,
-        "losses": 15,
+        "losses": 16,
         "winrate": "6%",
-        "gameWins": 2,
-        "gameLosses": 30
+        "gameWins": 3,
+        "gameLosses": 32
       }
     ],
     "playoffs": [

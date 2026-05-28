@@ -1,100 +1,5 @@
 [
   {
-    "league": "PCS",
-    "league_code": "pcs",
-    "match": "GZA vs VNR",
-    "team_a": {
-      "name": "GZ Academy",
-      "code": "GZA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776611990170_PCS2026_TeamLogo_GZ.png"
-    },
-    "team_b": {
-      "name": "Viper Night Raider",
-      "code": "VNR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1776612679723_PCS2026_TeamLogo_VNR.png"
-    },
-    "start_time": "2026-05-26T12:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "MVE vs EXE",
-    "team_a": {
-      "name": "UP2U Meavedron",
-      "code": "MVE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
-    },
-    "team_b": {
-      "name": "EXILE Esports",
-      "code": "EXE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
-    },
-    "start_time": "2026-05-26T14:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "PCF vs OZO",
-    "team_a": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "team_b": {
-      "name": "Ozarox Esports",
-      "code": "OZO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
-    },
-    "start_time": "2026-05-26T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "EINS vs EWI",
-    "team_a": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "start_time": "2026-05-26T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "BOOM vs ANO",
-    "team_a": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "team_b": {
-      "name": "Anonymo",
-      "code": "ANO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
-    },
-    "start_time": "2026-05-26T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "BAN vs FEC",
@@ -734,11 +639,11 @@
     "team_b": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-05-28T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LJL",
@@ -747,7 +652,7 @@
     "team_a": {
       "name": "FENNEL",
       "code": "FL",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
     "team_b": {
@@ -757,26 +662,26 @@
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "start_time": "2026-05-28T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "KT vs T1",
+    "match": "T1 vs KT",
     "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
       "name": "kt Rolster",
       "code": "KT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
     "start_time": "2026-05-28T10:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -785,7 +690,7 @@
     "team_a": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "team_b": {
@@ -800,21 +705,21 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "RGA vs RCK",
+    "match": "RCK vs RGA",
     "team_a": {
-      "name": "Rising Gaming",
-      "code": "RGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
-    },
-    "team_b": {
       "name": "RAYN Clocks",
       "code": "RCK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
     },
+    "team_b": {
+      "name": "Rising Gaming",
+      "code": "RGA",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
+    },
     "start_time": "2026-05-28T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -1123,18 +1028,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "DEER vs RUD",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Deer Gaming",
+      "code": "DEER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Ruddy Corporation",
+      "code": "RUD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-05-29T16:00:00Z",
     "status": "upcoming"
@@ -1161,18 +1066,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "AP vs BDG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Arctic Pandas",
+      "code": "AP",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bulldog Esports",
+      "code": "BDG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-05-29T18:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1422,63 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-05-31T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "TBD vs FSK",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "start_time": "2026-05-31T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "TBD vs RED",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "RED Canids Kalunga",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+    },
+    "start_time": "2026-05-31T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TL vs SR",
+    "team_a": {
+      "name": "Team Liquid Alienware",
+      "code": "TL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "team_b": {
+      "name": "Shopify Rebellion",
+      "code": "SR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+    },
+    "start_time": "2026-05-31T20:00:00Z",
     "status": "upcoming"
   }
 ]
