@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "PAIN vs EST",
-    "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "start_time": "2026-05-26T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "GEN vs HLE",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-05-27T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LJL",
     "league_code": "ljl",
     "match": "DFMA vs NM",
@@ -690,17 +652,17 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
       "name": "E Wie Einfach E-Sports",
       "code": "EWI",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-05-28T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -709,17 +671,17 @@
     "team_a": {
       "name": "Galions",
       "code": "GL",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -728,13 +690,13 @@
     "team_a": {
       "name": "Once Upon a Team",
       "code": "OUAT",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
     },
     "team_b": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Partizan Sangal",
       "code": "PXS",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
     },
     "start_time": "2026-05-28T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1738419752510_ryc_c.png"
     },
     "start_time": "2026-05-28T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -952,12 +914,12 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "TBD vs KCB",
+    "match": "GL vs KCB",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Galions",
+      "code": "GL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "team_b": {
       "name": "Karmine Corp Blue",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-01T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-01T16:00:00Z",
     "status": "upcoming"
   }
 ]
