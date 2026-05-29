@@ -342,11 +342,11 @@
         "team": "Dplus KIA",
         "teamCode": "DK",
         "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 9,
+        "wins": 10,
         "losses": 7,
-        "winrate": "56%",
-        "gameWins": 20,
-        "gameLosses": 17
+        "winrate": "59%",
+        "gameWins": 22,
+        "gameLosses": 18
       },
       {
         "rank": 6,
@@ -382,15 +382,15 @@
         "gameLosses": 26
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
         "wins": 5,
-        "losses": 12,
-        "winrate": "29%",
-        "gameWins": 15,
-        "gameLosses": 26
+        "losses": 13,
+        "winrate": "28%",
+        "gameWins": 16,
+        "gameLosses": 28
       },
       {
         "rank": 10,
