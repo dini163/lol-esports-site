@@ -1,24 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "G2N vs BIG",
-    "team_a": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "team_b": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "start_time": "2026-05-27T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "BCE vs FSK",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-05-29T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-05-29T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "ESB vs BG",
+    "match": "BG vs ESB",
     "team_a": {
-      "name": "eSuba",
-      "code": "ESB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
-    },
-    "team_b": {
       "name": "Bohemian Guardians",
       "code": "BG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
+    "team_b": {
+      "name": "eSuba",
+      "code": "ESB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
+    },
     "start_time": "2026-05-29T14:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -1123,7 +1104,7 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs TSW",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1131,10 +1112,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Secret Whales",
+      "code": "TSW",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-05-31T09:00:00Z",
     "status": "upcoming"
@@ -1142,12 +1123,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs JDG",
+    "match": "TES vs JDG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "TOP ESPORTS",
+      "code": "TES",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "team_b": {
       "name": "Beijing JDG Esports",
@@ -1446,12 +1427,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs TT",
+    "match": "LGD vs TT",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LGD GAMING",
+      "code": "LGD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "team_b": {
       "name": "THUNDER TALK GAMING",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1738419752510_ryc_c.png"
     },
     "start_time": "2026-06-02T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "9ZG vs VTC",
+    "team_a": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
+    "team_b": {
+      "name": "Volticons",
+      "code": "VTC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
+    },
+    "start_time": "2026-06-02T20:00:00Z",
     "status": "upcoming"
   }
 ]

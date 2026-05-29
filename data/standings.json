@@ -309,14 +309,14 @@
         "team": "Gen.G Esports",
         "teamCode": "GEN",
         "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 13,
+        "wins": 14,
         "losses": 4,
-        "winrate": "76%",
-        "gameWins": 28,
+        "winrate": "78%",
+        "gameWins": 30,
         "gameLosses": 11
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
@@ -350,17 +350,6 @@
       },
       {
         "rank": 6,
-        "team": "HANJIN BRION",
-        "teamCode": "BRO",
-        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-        "wins": 6,
-        "losses": 10,
-        "winrate": "38%",
-        "gameWins": 16,
-        "gameLosses": 20
-      },
-      {
-        "rank": 7,
         "team": "BNK FEARX",
         "teamCode": "BFX",
         "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
@@ -369,6 +358,17 @@
         "winrate": "35%",
         "gameWins": 14,
         "gameLosses": 23
+      },
+      {
+        "rank": 6,
+        "team": "HANJIN BRION",
+        "teamCode": "BRO",
+        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+        "wins": 6,
+        "losses": 11,
+        "winrate": "35%",
+        "gameWins": 16,
+        "gameLosses": 22
       },
       {
         "rank": 8,
