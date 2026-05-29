@@ -715,11 +715,11 @@
     "team_b": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
     "start_time": "2026-05-29T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Arctic Pandas",
       "code": "AP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-05-29T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Conviction",
       "code": "CNV",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
     "team_b": {
@@ -1218,12 +1218,12 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs RUD",
+    "match": "AP vs RUD",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Arctic Pandas",
+      "code": "AP",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "team_b": {
       "name": "Ruddy Corporation",
@@ -1370,12 +1370,12 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs CRZ",
+    "match": "BBK vs CRZ",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bubliki",
+      "code": "BBK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
     "team_b": {
       "name": "Crusaders",
