@@ -316,14 +316,14 @@
         "gameLosses": 11
       },
       {
-        "rank": 3,
+        "rank": 2,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 13,
+        "wins": 14,
         "losses": 4,
-        "winrate": "76%",
-        "gameWins": 28,
+        "winrate": "78%",
+        "gameWins": 30,
         "gameLosses": 10
       },
       {
@@ -350,17 +350,6 @@
       },
       {
         "rank": 6,
-        "team": "BNK FEARX",
-        "teamCode": "BFX",
-        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-        "wins": 6,
-        "losses": 11,
-        "winrate": "35%",
-        "gameWins": 14,
-        "gameLosses": 23
-      },
-      {
-        "rank": 6,
         "team": "HANJIN BRION",
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -369,6 +358,17 @@
         "winrate": "35%",
         "gameWins": 16,
         "gameLosses": 22
+      },
+      {
+        "rank": 7,
+        "team": "BNK FEARX",
+        "teamCode": "BFX",
+        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+        "wins": 6,
+        "losses": 12,
+        "winrate": "33%",
+        "gameWins": 14,
+        "gameLosses": 25
       },
       {
         "rank": 8,
