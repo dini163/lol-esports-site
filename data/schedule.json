@@ -1,5 +1,24 @@
 [
   {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "WU vs SN",
+    "team_a": {
+      "name": "Winthrop University",
+      "code": "WU",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
+    },
+    "team_b": {
+      "name": "Supernova",
+      "code": "SN",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
+    },
+    "start_time": "2026-05-27T20:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "BDG vs DMG",
@@ -715,11 +734,11 @@
     "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-05-30T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -728,7 +747,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "start_time": "2026-05-30T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -876,12 +895,12 @@
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "TBD vs FSK",
+    "match": "BOOM vs FSK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BOMBA Team",
+      "code": "BOOM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
       "name": "Forsaken",
