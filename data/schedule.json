@@ -2,44 +2,6 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "DEER vs DMG",
-    "team_a": {
-      "name": "Deer Gaming",
-      "code": "DEER",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
-    },
-    "team_b": {
-      "name": "DMG Esports",
-      "code": "DMG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
-    },
-    "start_time": "2026-05-27T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "VER vs RUD",
-    "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
-      "name": "Ruddy Corporation",
-      "code": "RUD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
-    },
-    "start_time": "2026-05-27T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
     "match": "BDG vs DMG",
     "team_a": {
       "name": "Bulldog Esports",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-05-30T06:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-05-30T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCP",
@@ -833,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-05-30T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-03T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "GL vs SLY",
+    "team_a": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "team_b": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "start_time": "2026-06-03T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "TBD vs OTS",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Otter Side",
+      "code": "OTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
+    },
+    "start_time": "2026-06-03T18:00:00Z",
     "status": "upcoming"
   }
 ]
