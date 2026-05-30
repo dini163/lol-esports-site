@@ -747,7 +747,7 @@
     "team_a": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "start_time": "2026-05-30T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
