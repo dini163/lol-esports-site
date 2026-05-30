@@ -331,10 +331,10 @@
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
-        "wins": 12,
+        "wins": 13,
         "losses": 5,
-        "winrate": "71%",
-        "gameWins": 24,
+        "winrate": "72%",
+        "gameWins": 26,
         "gameLosses": 15
       },
       {
@@ -398,10 +398,10 @@
         "teamCode": "DNS",
         "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
         "wins": 1,
-        "losses": 16,
+        "losses": 17,
         "winrate": "6%",
         "gameWins": 3,
-        "gameLosses": 32
+        "gameLosses": 34
       }
     ],
     "playoffs": [
