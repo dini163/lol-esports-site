@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "team_b": {
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
       "name": "Fluxo",
       "code": "FX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-05-30T16:00:00Z",
