@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "WU vs SN",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "Supernova",
-      "code": "SN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
-    },
-    "start_time": "2026-05-27T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "BDG vs DMG",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-05-30T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-05-30T15:00:00Z",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Fluxo",
       "code": "FX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-05-30T16:00:00Z",
@@ -1009,7 +990,7 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs TBD",
+    "match": "TBD vs KC",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1017,10 +998,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Karmine Corp",
+      "code": "KC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-06-01T15:00:00Z",
     "status": "upcoming"
