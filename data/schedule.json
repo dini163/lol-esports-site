@@ -1,24 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "PAIN vs KBM",
-    "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "start_time": "2026-05-27T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "WU vs SN",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-05-30T11:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-05-30T15:00:00Z",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-05-30T15:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-05T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "TBD vs CKZ",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "start_time": "2026-06-05T14:00:00Z",
     "status": "upcoming"
   }
 ]
