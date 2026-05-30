@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "WU vs SN",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "Supernova",
-      "code": "SN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641603984263_SN.png"
-    },
-    "start_time": "2026-05-27T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "BDG vs DMG",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-05-30T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "team_b": {
@@ -914,12 +895,12 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "TBD vs RED",
+    "match": "LOS vs RED",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LOS",
+      "code": "LOS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
       "name": "RED Canids Kalunga",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "start_time": "2026-06-05T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "PCF vs MISA",
+    "team_a": {
+      "name": "PCIFIC Esports",
+      "code": "PCF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
+    },
+    "team_b": {
+      "name": "MISA Esports",
+      "code": "MISA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
+    },
+    "start_time": "2026-06-05T14:30:00Z",
     "status": "upcoming"
   }
 ]
