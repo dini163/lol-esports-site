@@ -2,63 +2,6 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "FL vs LGG",
-    "team_a": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
-    "team_b": {
-      "name": "L Guide Gaming",
-      "code": "LGG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
-    },
-    "start_time": "2026-05-28T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "T1 vs KT",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-05-28T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "SGW vs MVKA",
-    "team_a": {
-      "name": "Saigon Warrior",
-      "code": "SGW",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Saigon MVKE Academy",
-      "code": "MVKA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
-    },
-    "start_time": "2026-05-28T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LJL",
-    "league_code": "ljl",
     "match": "RCK vs RGA",
     "team_a": {
       "name": "RAYN Clocks",
@@ -772,7 +715,7 @@
     "team_b": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-05-31T15:00:00Z",
@@ -781,18 +724,18 @@
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "BOOM vs FSK",
+    "match": "FSK vs BOOM",
     "team_a": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "team_b": {
-      "name": "Forsaken",
-      "code": "FSK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-05-31T15:00:00Z",
     "status": "live"
@@ -814,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "start_time": "2026-05-31T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-06-06T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs JDG",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "start_time": "2026-06-06T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TBD vs MKOI",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI",
+      "code": "MKOI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    },
+    "start_time": "2026-06-06T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "TBD vs FUR",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "FURIA",
+      "code": "FUR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/FURIA---black.png"
+    },
+    "start_time": "2026-06-06T16:00:00Z",
     "status": "upcoming"
   }
 ]

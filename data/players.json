@@ -3942,6 +3942,29 @@
     },
     "highlights": []
   },
+  "Painter": {
+    "id": "Painter",
+    "name": "Eunhu Kim",
+    "ign": "Painter",
+    "role": "JUNGLE",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769084021546_image6-2026-01-22T131032.591.png",
+    "bio": "Painter is a professional League of Legends player competing in the LCK as the JUNGLE for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.9",
+      "cs_per_min": "8.3",
+      "kill_participation": "66%",
+      "win_rate": "68%"
+    },
+    "highlights": []
+  },
   "Oner": {
     "id": "Oner",
     "name": "Hyunjun Mun",
@@ -3965,26 +3988,26 @@
     },
     "highlights": []
   },
-  "Painter": {
-    "id": "Painter",
-    "name": "Eunhu Kim",
-    "ign": "Painter",
-    "role": "JUNGLE",
+  "Guti": {
+    "id": "Guti",
+    "name": "Moon Jeonghwan",
+    "ign": "Guti",
+    "role": "MID",
     "team": "T1",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769084021546_image6-2026-01-22T131032.591.png",
-    "bio": "Painter is a professional League of Legends player competing in the LCK as the JUNGLE for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769083583495_image6-2026-01-22T130511.010.png",
+    "bio": "Guti is a professional League of Legends player competing in the LCK as the MID for T1. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
     ],
     "stats": {
-      "kda": "4.9",
-      "cs_per_min": "8.3",
-      "kill_participation": "66%",
-      "win_rate": "68%"
+      "kda": "5.1",
+      "cs_per_min": "9.1",
+      "kill_participation": "78%",
+      "win_rate": "66%"
     },
     "highlights": []
   },
@@ -4015,29 +4038,6 @@
         "embed_url": "https://www.youtube.com/embed/ZPCfoCVCx3U"
       }
     ]
-  },
-  "Guti": {
-    "id": "Guti",
-    "name": "Moon Jeonghwan",
-    "ign": "Guti",
-    "role": "MID",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769083583495_image6-2026-01-22T130511.010.png",
-    "bio": "Guti is a professional League of Legends player competing in the LCK as the MID for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "5.1",
-      "cs_per_min": "9.1",
-      "kill_participation": "78%",
-      "win_rate": "66%"
-    },
-    "highlights": []
   },
   "Jinbeom": {
     "id": "Jinbeom",
