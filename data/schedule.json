@@ -1,24 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "BDG vs DMG",
-    "team_a": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "team_b": {
-      "name": "DMG Esports",
-      "code": "DMG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
-    },
-    "start_time": "2026-05-27T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "KT vs T1A",
@@ -762,21 +743,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "BRO vs HLE",
+    "match": "HLE vs BRO",
     "team_a": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
+    "team_b": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
     "start_time": "2026-05-31T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCP",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
     },
     "start_time": "2026-06-05T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-05T16:00:00Z",
     "status": "upcoming"
   }
 ]
