@@ -1,5 +1,24 @@
 [
   {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "FL vs LGG",
+    "team_a": {
+      "name": "FENNEL",
+      "code": "FL",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
+    },
+    "team_b": {
+      "name": "L Guide Gaming",
+      "code": "LGG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
+    },
+    "start_time": "2026-05-28T08:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LCK",
     "league_code": "lck",
     "match": "T1 vs KT",
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-05-31T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -776,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-05-31T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
