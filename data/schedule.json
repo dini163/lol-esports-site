@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "DNS vs GGA",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "start_time": "2026-05-29T05:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "JDG vs TT",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "KaBuM! Eports",
       "code": "KBM",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "team_b": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-06-01T20:00:00Z",
