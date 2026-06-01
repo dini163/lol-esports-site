@@ -1,43 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "WU vs NRG",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "NRG",
-      "code": "NRG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
-    },
-    "start_time": "2026-05-28T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "NS vs DK",
-    "team_a": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-05-29T05:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "DNS vs GGA",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-06-01T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -753,30 +715,30 @@
     "team_b": {
       "name": "Ruddy Corporation",
       "code": "RUD",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-06-01T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "VER vs DEER",
+    "match": "DEER vs VER",
     "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
       "name": "Deer Gaming",
       "code": "DEER",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
+    "team_b": {
+      "name": "Verdant",
+      "code": "VER",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
     "start_time": "2026-06-01T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-06-01T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -1028,18 +990,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "RUD vs DEER",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Ruddy Corporation",
+      "code": "RUD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Deer Gaming",
+      "code": "DEER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "start_time": "2026-06-03T16:00:00Z",
     "status": "upcoming"
@@ -1275,7 +1237,7 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "TBD vs VER",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1283,10 +1245,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Verdant",
+      "code": "VER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "start_time": "2026-06-05T16:00:00Z",
     "status": "upcoming"
@@ -1370,12 +1332,12 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs MKOI",
+    "match": "KC vs MKOI",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Karmine Corp",
+      "code": "KC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
       "name": "Movistar KOI",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-06-07T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "C9 vs LYON",
+    "team_a": {
+      "name": "Cloud9 Kia",
+      "code": "C9",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "start_time": "2026-06-07T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T09:00:00Z",
     "status": "upcoming"
   }
 ]
