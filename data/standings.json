@@ -306,17 +306,6 @@
       },
       {
         "rank": 2,
-        "team": "Gen.G Esports",
-        "teamCode": "GEN",
-        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 14,
-        "losses": 4,
-        "winrate": "78%",
-        "gameWins": 30,
-        "gameLosses": 11
-      },
-      {
-        "rank": 2,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
@@ -325,6 +314,17 @@
         "winrate": "78%",
         "gameWins": 30,
         "gameLosses": 10
+      },
+      {
+        "rank": 3,
+        "team": "Gen.G Esports",
+        "teamCode": "GEN",
+        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+        "wins": 14,
+        "losses": 4,
+        "winrate": "78%",
+        "gameWins": 30,
+        "gameLosses": 11
       },
       {
         "rank": 4,
@@ -350,17 +350,6 @@
       },
       {
         "rank": 6,
-        "team": "BNK FEARX",
-        "teamCode": "BFX",
-        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-        "wins": 6,
-        "losses": 12,
-        "winrate": "33%",
-        "gameWins": 14,
-        "gameLosses": 25
-      },
-      {
-        "rank": 6,
         "team": "HANJIN BRION",
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -371,15 +360,15 @@
         "gameLosses": 24
       },
       {
-        "rank": 8,
-        "team": "NONGSHIM RED FORCE",
-        "teamCode": "NS",
-        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
-        "wins": 5,
-        "losses": 13,
-        "winrate": "28%",
-        "gameWins": 13,
-        "gameLosses": 28
+        "rank": 7,
+        "team": "BNK FEARX",
+        "teamCode": "BFX",
+        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+        "wins": 6,
+        "losses": 12,
+        "winrate": "33%",
+        "gameWins": 14,
+        "gameLosses": 25
       },
       {
         "rank": 8,
@@ -390,6 +379,17 @@
         "losses": 13,
         "winrate": "28%",
         "gameWins": 16,
+        "gameLosses": 28
+      },
+      {
+        "rank": 9,
+        "team": "NONGSHIM RED FORCE",
+        "teamCode": "NS",
+        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
+        "wins": 5,
+        "losses": 13,
+        "winrate": "28%",
+        "gameWins": 13,
         "gameLosses": 28
       },
       {
