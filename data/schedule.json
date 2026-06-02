@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-06-01T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -747,17 +747,17 @@
     "team_a": {
       "name": "G3V e-sports",
       "code": "G3V",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1771401260130_FULL_COLOR_FOR_DARK_BG.png"
     },
     "team_b": {
       "name": "SDM Tigres",
       "code": "SDM",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-06-01T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
