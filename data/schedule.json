@@ -709,7 +709,7 @@
     "team_a": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-06-02T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -728,17 +728,17 @@
     "team_a": {
       "name": "Crusaders",
       "code": "CRZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738419752510_ryc_c.png"
     },
     "team_b": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
     "start_time": "2026-06-02T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-06-02T20:00:00Z",
@@ -895,12 +895,12 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs OTS",
+    "match": "BBK vs OTS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bubliki",
+      "code": "BBK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
     "team_b": {
       "name": "Otter Side",
@@ -1237,12 +1237,12 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "TBD vs FEC",
+    "match": "MCON vs FEC",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "mCon Esports",
+      "code": "MCON",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "team_b": {
       "name": "Frites Esports Club",
