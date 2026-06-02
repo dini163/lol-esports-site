@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "MVK vs TSW",
-    "team_a": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
-    "team_b": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "start_time": "2026-05-29T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TES vs LGD",
-    "team_a": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "start_time": "2026-05-29T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "GEN vs BRO",
@@ -753,7 +715,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-06-02T09:00:00Z",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "NightBirds",
       "code": "NBS",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "team_b": {
@@ -776,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-06-02T14:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "BAN vs MCON",
+    "match": "MCON vs BAN",
     "team_a": {
-      "name": "The Bandits",
-      "code": "BAN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
-    },
-    "team_b": {
       "name": "mCon Esports",
       "code": "MCON",
       "score": 0,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
+    "team_b": {
+      "name": "The Bandits",
+      "code": "BAN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
+    },
     "start_time": "2026-06-02T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -952,18 +914,18 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "GL vs SLY",
+    "match": "SLY vs GL",
     "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
       "name": "Solary",
       "code": "SLY",
       "score": 0,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "start_time": "2026-06-03T16:00:00Z",
     "status": "upcoming"
@@ -1085,12 +1047,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs AL",
+    "match": "LGD vs AL",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LGD GAMING",
+      "code": "LGD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "team_b": {
       "name": "Anyone's Legend",
@@ -1123,12 +1085,12 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "TBD vs CKZ",
+    "match": "NBS vs CKZ",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "NightBirds",
+      "code": "NBS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "team_b": {
       "name": "CITA Kaizen",
@@ -1460,6 +1422,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-08T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T15:00:00Z",
     "status": "upcoming"
   },
   {
