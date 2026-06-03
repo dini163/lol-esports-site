@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-06-02T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LJL",
