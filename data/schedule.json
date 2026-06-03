@@ -1,43 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "RDT vs BBK",
-    "team_a": {
-      "name": "Ronaldo Team",
-      "code": "RDT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1777292848838_T2_Final.png"
-    },
-    "team_b": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
-    },
-    "start_time": "2026-05-29T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "BDG vs AP",
-    "team_a": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "team_b": {
-      "name": "Arctic Pandas",
-      "code": "AP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
-    },
-    "start_time": "2026-05-29T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CNV vs CCG",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
@@ -747,36 +709,36 @@
     "team_a": {
       "name": "CTBC Flying Oyster Academy",
       "code": "CFOA",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
     },
     "team_b": {
       "name": "Frank Esports",
       "code": "FAK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
     },
     "start_time": "2026-06-03T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "UWS vs NM",
+    "match": "NM vs UWS",
     "team_a": {
-      "name": "UWinks",
-      "code": "UWS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
-    },
-    "team_b": {
       "name": "New Meta",
       "code": "NM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
     },
+    "team_b": {
+      "name": "UWinks",
+      "code": "UWS",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
+    },
     "start_time": "2026-06-03T11:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-06-03T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -838,18 +800,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "BBK vs OTS",
+    "match": "OTS vs BBK",
     "team_a": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
-    },
-    "team_b": {
       "name": "Otter Side",
       "code": "OTS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
+    },
+    "team_b": {
+      "name": "Bubliki",
+      "code": "BBK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
     "start_time": "2026-06-03T18:00:00Z",
     "status": "upcoming"
@@ -1123,12 +1085,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs JDG",
+    "match": "BLG vs JDG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
       "name": "Beijing JDG Esports",
@@ -1479,6 +1441,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-08T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T16:00:00Z",
     "status": "upcoming"
   },
   {
