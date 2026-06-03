@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Ruddy Corporation",
       "code": "RUD",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "start_time": "2026-06-03T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Solary",
       "code": "SLY",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-06-03T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
     },
     "start_time": "2026-06-03T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LJL",
@@ -952,12 +952,12 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs VER",
+    "match": "RUD vs VER",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Ruddy Corporation",
+      "code": "RUD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
       "name": "Verdant",
