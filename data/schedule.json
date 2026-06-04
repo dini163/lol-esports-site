@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "DCG vs GAM",
-    "team_a": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
-    },
-    "team_b": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "start_time": "2026-05-30T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "BLG vs WE",
@@ -762,40 +743,40 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "LGG vs RCK",
+    "match": "RCK vs LGG",
     "team_a": {
+      "name": "RAYN Clocks",
+      "code": "RCK",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
+    },
+    "team_b": {
       "name": "L Guide Gaming",
       "code": "LGG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
-    "team_b": {
-      "name": "RAYN Clocks",
-      "code": "RCK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
-    },
     "start_time": "2026-06-04T08:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "RGA vs FL",
+    "match": "FL vs RGA",
     "team_a": {
-      "name": "Rising Gaming",
-      "code": "RGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
-    },
-    "team_b": {
       "name": "FENNEL",
       "code": "FL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
+    "team_b": {
+      "name": "Rising Gaming",
+      "code": "RGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
+    },
     "start_time": "2026-06-04T11:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -1384,6 +1365,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-08T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T16:00:00Z",
     "status": "upcoming"
   },
   {
