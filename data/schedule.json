@@ -1,24 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "BCE vs BOOM",
-    "team_a": {
-      "name": "Barcz\u0105ca Esports",
-      "code": "BCE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
-    },
-    "team_b": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "start_time": "2026-05-30T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "LOS vs FX",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-06-05T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-06-05T09:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-06-05T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -814,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
     },
     "start_time": "2026-06-05T14:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -895,12 +876,12 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs DCG",
+    "match": "GAM vs DCG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "GAM Esports",
+      "code": "GAM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "team_b": {
       "name": "Relove Deep Cross Gaming",
@@ -1104,7 +1085,7 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs TBD",
+    "match": "TBD vs AL",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1112,10 +1093,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Anyone's Legend",
+      "code": "AL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-06-08T09:00:00Z",
     "status": "upcoming"
@@ -1422,6 +1403,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-08T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T17:00:00Z",
     "status": "upcoming"
   },
   {
