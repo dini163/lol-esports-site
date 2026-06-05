@@ -690,7 +690,7 @@
     "team_a": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "start_time": "2026-06-05T14:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "MISA Esports",
       "code": "MISA",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-06-05T14:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "team_b": {
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Verdant",
       "code": "VER",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
