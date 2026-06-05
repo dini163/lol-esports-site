@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TES vs JDG",
-    "team_a": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "start_time": "2026-05-31T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "ESB vs MVE",
@@ -728,17 +709,17 @@
     "team_a": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "team_b": {
       "name": "UCAM Esports Club",
       "code": "UCAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-06-05T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Verdant",
       "code": "VER",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-06-05T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CCG vs CNV",
+    "match": "CNV vs CCG",
     "team_a": {
-      "name": "CCG Esports",
-      "code": "CCG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
-    },
-    "team_b": {
       "name": "Conviction",
       "code": "CNV",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
+    "team_b": {
+      "name": "CCG Esports",
+      "code": "CCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
     "start_time": "2026-06-05T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1479,6 +1460,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-08T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-08T18:00:00Z",
     "status": "upcoming"
   },
   {
