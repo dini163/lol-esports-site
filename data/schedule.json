@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-06-06T16:00:00Z",
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-06-06T16:00:00Z",
