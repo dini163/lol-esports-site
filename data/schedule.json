@@ -1,24 +1,5 @@
 [
   {
-    "league": "PCS",
-    "league_code": "pcs",
-    "match": "CFOA vs FAK",
-    "team_a": {
-      "name": "CTBC Flying Oyster Academy",
-      "code": "CFOA",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
-    },
-    "team_b": {
-      "name": "Frank Esports",
-      "code": "FAK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
-    },
-    "start_time": "2026-06-01T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "AL vs WE",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-06-06T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -728,13 +709,13 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png"
     },
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-06-06T16:00:00Z",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-06-06T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -838,12 +819,12 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs G2",
+    "match": "KC vs G2",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Karmine Corp",
+      "code": "KC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
       "name": "G2 Esports",
