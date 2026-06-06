@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-06-06T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -728,13 +728,13 @@
     "team_a": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "team_b": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-06-06T09:00:00Z",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-06-06T09:00:00Z",
