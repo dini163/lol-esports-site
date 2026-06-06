@@ -728,17 +728,17 @@
     "team_a": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "team_b": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-06-06T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
@@ -876,12 +876,12 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs TSW",
+    "match": "DCG vs TSW",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Relove Deep Cross Gaming",
+      "code": "DCG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "team_b": {
       "name": "Team Secret Whales",
@@ -933,12 +933,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs AL",
+    "match": "BLG vs AL",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
       "name": "Anyone's Legend",
