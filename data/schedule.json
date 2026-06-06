@@ -743,18 +743,18 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TL vs FLY",
+    "match": "FLY vs TL",
     "team_a": {
-      "name": "Team Liquid Alienware",
-      "code": "TL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-    },
-    "team_b": {
       "name": "FlyQuest",
       "code": "FLY",
       "score": 0,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
+    "team_b": {
+      "name": "Team Liquid Alienware",
+      "code": "TL",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "start_time": "2026-06-06T20:00:00Z",
     "status": "live"
