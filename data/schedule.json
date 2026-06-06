@@ -715,11 +715,11 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-06-06T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-06-06T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -819,18 +819,18 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "KC vs G2",
+    "match": "G2 vs KC",
     "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-06-07T15:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-08T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "G3V vs FUE",
+    "team_a": {
+      "name": "G3V e-sports",
+      "code": "G3V",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771401260130_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-06-08T23:00:00Z",
     "status": "upcoming"
   }
 ]
