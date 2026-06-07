@@ -477,113 +477,113 @@
     "regular": [
       {
         "rank": 1,
-        "team": "Team Vitality",
-        "teamCode": "VIT",
-        "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
-        "wins": 8,
-        "losses": 1,
-        "winrate": "89%",
-        "gameWins": 17,
-        "gameLosses": 7
-      },
-      {
-        "rank": 2,
-        "team": "Karmine Corp",
-        "teamCode": "KC",
-        "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
-        "wins": 7,
-        "losses": 2,
-        "winrate": "78%",
-        "gameWins": 15,
-        "gameLosses": 8
-      },
-      {
-        "rank": 3,
-        "team": "G2 Esports",
-        "teamCode": "G2",
-        "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
-        "wins": 6,
-        "losses": 3,
-        "winrate": "67%",
-        "gameWins": 15,
-        "gameLosses": 6
-      },
-      {
-        "rank": 4,
-        "team": "Movistar KOI",
-        "teamCode": "MKOI",
-        "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
-        "wins": 6,
-        "losses": 3,
-        "winrate": "67%",
-        "gameWins": 15,
-        "gameLosses": 8
-      },
-      {
-        "rank": 5,
-        "team": "Natus Vincere",
-        "teamCode": "NAVI",
-        "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
-        "wins": 6,
-        "losses": 3,
-        "winrate": "67%",
-        "gameWins": 12,
-        "gameLosses": 11
-      },
-      {
-        "rank": 6,
-        "team": "GIANTX",
-        "teamCode": "GX",
-        "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
-        "wins": 5,
-        "losses": 4,
-        "winrate": "56%",
-        "gameWins": 11,
-        "gameLosses": 11
-      },
-      {
-        "rank": 7,
-        "team": "Fnatic",
-        "teamCode": "FNC",
-        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
-        "wins": 3,
-        "losses": 6,
-        "winrate": "33%",
-        "gameWins": 10,
-        "gameLosses": 13
-      },
-      {
-        "rank": 8,
         "team": "SK Gaming",
         "teamCode": "SK",
         "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-        "wins": 2,
-        "losses": 7,
-        "winrate": "22%",
-        "gameWins": 7,
-        "gameLosses": 14
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
       },
       {
-        "rank": 9,
+        "rank": 1,
+        "team": "GIANTX",
+        "teamCode": "GX",
+        "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
+        "team": "Movistar KOI",
+        "teamCode": "MKOI",
+        "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
         "team": "Shifters",
         "teamCode": "SHFT",
         "teamImage": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
-        "wins": 1,
-        "losses": 8,
-        "winrate": "11%",
-        "gameWins": 6,
-        "gameLosses": 16
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
       },
       {
-        "rank": 10,
+        "rank": 1,
         "team": "Team Heretics",
         "teamCode": "TH",
         "teamImage": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
-        "wins": 1,
-        "losses": 8,
-        "winrate": "11%",
-        "gameWins": 3,
-        "gameLosses": 17
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
+        "team": "Karmine Corp",
+        "teamCode": "KC",
+        "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
+        "team": "Natus Vincere",
+        "teamCode": "NAVI",
+        "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
+        "team": "Fnatic",
+        "teamCode": "FNC",
+        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
+        "team": "G2 Esports",
+        "teamCode": "G2",
+        "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
+        "team": "Team Vitality",
+        "teamCode": "VIT",
+        "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+        "wins": 0,
+        "losses": 0,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 0
       }
     ],
     "playoffs": [
