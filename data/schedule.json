@@ -1,24 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "DEER vs VER",
-    "team_a": {
-      "name": "Deer Gaming",
-      "code": "DEER",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
-    },
-    "team_b": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "start_time": "2026-06-01T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "KBM vs VKS",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-06-07T15:00:00Z",
