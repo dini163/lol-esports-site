@@ -709,13 +709,13 @@
     "team_a": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-06-07T08:00:00Z",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-06-07T09:00:00Z",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-06-07T09:00:00Z",
