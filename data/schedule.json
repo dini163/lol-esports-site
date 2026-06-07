@@ -709,7 +709,7 @@
     "team_a": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-06-07T09:00:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-06-07T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
