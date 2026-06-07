@@ -747,13 +747,13 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-06-07T15:00:00Z",
