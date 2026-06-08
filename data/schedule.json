@@ -1,24 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "KBM vs VKS",
-    "team_a": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "team_b": {
-      "name": "Vivo Keyd Stars Academy",
-      "code": "VKS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
-    },
-    "start_time": "2026-06-01T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRN",
     "league_code": "lrn",
     "match": "G3V vs SDM",
@@ -762,21 +743,21 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "BLG vs AL",
+    "match": "AL vs BLG",
     "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
     "start_time": "2026-06-08T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-06-09T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-10T15:00:00Z",
     "status": "upcoming"
   }
 ]
