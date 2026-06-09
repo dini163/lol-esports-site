@@ -762,18 +762,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "KCB vs VER",
+    "match": "CKZ vs PXS",
     "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
+      "name": "CITA Kaizen",
+      "code": "CKZ",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
-      "name": "Verdant",
-      "code": "VER",
+      "name": "Partizan Sangal",
+      "code": "PXS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
     },
     "start_time": "2026-06-09T15:00:00Z",
     "status": "upcoming"
@@ -800,20 +800,20 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "CKZ vs PXS",
+    "match": "KCB vs VER",
     "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "team_b": {
-      "name": "Partizan Sangal",
-      "code": "PXS",
+      "name": "Verdant",
+      "code": "VER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
-    "start_time": "2026-06-09T15:00:00Z",
+    "start_time": "2026-06-09T18:00:00Z",
     "status": "upcoming"
   },
   {
@@ -832,7 +832,7 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
-    "start_time": "2026-06-09T15:00:00Z",
+    "start_time": "2026-06-09T18:00:00Z",
     "status": "upcoming"
   },
   {
