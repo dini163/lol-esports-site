@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "KT vs DK",
-    "team_a": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-06-07T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WE vs TES",
