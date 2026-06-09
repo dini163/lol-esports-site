@@ -1,43 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "WE vs TES",
-    "team_a": {
-      "name": "Xi'an Team WE",
-      "code": "WE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-06-07T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "TSW vs DCG",
-    "team_a": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "team_b": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
-    },
-    "start_time": "2026-06-07T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "G2 vs KC",
@@ -743,18 +705,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "CKZ vs PXS",
+    "match": "PXS vs CKZ",
     "team_a": {
+      "name": "Partizan Sangal",
+      "code": "PXS",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
+    },
+    "team_b": {
       "name": "CITA Kaizen",
       "code": "CKZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "team_b": {
-      "name": "Partizan Sangal",
-      "code": "PXS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
     },
     "start_time": "2026-06-09T15:00:00Z",
     "status": "upcoming"
@@ -762,18 +724,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "EWI vs GOAL",
+    "match": "GOAL vs EWI",
     "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
       "name": "GOAL esports",
       "code": "GOAL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1741780171372_GOAL.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-06-09T15:00:00Z",
     "status": "upcoming"
@@ -800,18 +762,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "FEC vs BOOM",
+    "match": "BOOM vs FEC",
     "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "team_b": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-06-09T18:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-14T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs TES",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "start_time": "2026-06-14T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-06-14T10:00:00Z",
     "status": "upcoming"
   }
 ]
