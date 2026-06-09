@@ -753,11 +753,11 @@
     "team_b": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-06-08T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
