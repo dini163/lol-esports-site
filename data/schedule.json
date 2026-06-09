@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "LYON vs C9",
-    "team_a": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
-      "name": "Cloud9 Kia",
-      "code": "C9",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-    },
-    "start_time": "2026-06-07T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "AL vs BLG",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-06-09T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "EMEA Masters",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-14T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TBD vs LYON",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "start_time": "2026-06-14T20:00:00Z",
     "status": "upcoming"
   }
 ]
