@@ -195,9 +195,9 @@
       "DDahyuk",
       "GIDEON",
       "Dinai",
-      "Tempester",
       "Roamer",
       "Loki ",
+      "Tempester",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -219,9 +219,9 @@
       "Flip",
       "deokdam",
       "Enosh",
-      "Life",
       "Peter",
-      "Quantum "
+      "Quantum ",
+      "Life"
     ]
   },
   {
@@ -234,8 +234,8 @@
       "Siwoo",
       "Jaehyuk",
       "Nevid",
-      "Sharvel",
       "Lucid",
+      "Sharvel",
       "ShowMaker",
       "Garden",
       "Wayne",
@@ -295,13 +295,13 @@
       "Zeus",
       "Jackal",
       "Kanavi",
-      "Zeka",
       "Cracker",
       "Valiant",
+      "Zeka",
       "Pyeonsik",
       "Gumayusi",
-      "Delight",
-      "Bluffing"
+      "Bluffing",
+      "Delight"
     ]
   },
   {
@@ -311,12 +311,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
+      "Sero",
       "Sylvie",
       "Cuzz",
-      "Hwichan",
       "Bdd",
+      "Hwichan",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -331,16 +331,16 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "players": [
-      "Clear",
       "Kangin",
+      "Clear",
       "Zephyr",
       "Raptor",
-      "Daystar",
       "VicLa",
       "FIESTA",
-      "Diable",
-      "Taeyoon",
+      "Daystar",
       "Slayer",
+      "Taeyoon",
+      "Diable",
       "Kellin",
       "Luon"
     ]
@@ -356,13 +356,13 @@
       "Kingen",
       "Sponge",
       "MihawK",
-      "Calix",
       "Scout",
       "SeTab",
+      "Calix",
       "Lucy",
       "Diable",
-      "Lehends",
-      "Pleata"
+      "Pleata",
+      "Lehends"
     ]
   },
   {
@@ -483,8 +483,8 @@
       "Jinbeom",
       "Cypher",
       "Peyz",
-      "Cloud ",
-      "Keria"
+      "Keria",
+      "Cloud "
     ]
   },
   {

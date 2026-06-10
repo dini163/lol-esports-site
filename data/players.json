@@ -2079,29 +2079,6 @@
     },
     "highlights": []
   },
-  "Tempester": {
-    "id": "Tempester",
-    "name": "Yeongwoong Oh",
-    "ign": "Tempester",
-    "role": "MID",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769089985671_image6-2026-01-22T145216.586.png",
-    "bio": "Tempester is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "8.4",
-      "kill_participation": "68%",
-      "win_rate": "51%"
-    },
-    "highlights": []
-  },
   "Roamer": {
     "id": "Roamer",
     "name": "Woojin Cho",
@@ -2145,6 +2122,29 @@
       "cs_per_min": "10.1",
       "kill_participation": "70%",
       "win_rate": "56%"
+    },
+    "highlights": []
+  },
+  "Tempester": {
+    "id": "Tempester",
+    "name": "Yeongwoong Oh",
+    "ign": "Tempester",
+    "role": "MID",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769089985671_image6-2026-01-22T145216.586.png",
+    "bio": "Tempester is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "4.4",
+      "cs_per_min": "8.4",
+      "kill_participation": "68%",
+      "win_rate": "51%"
     },
     "highlights": []
   },
@@ -2424,29 +2424,6 @@
     },
     "highlights": []
   },
-  "Life": {
-    "id": "Life",
-    "name": "Jeongmin Kim",
-    "ign": "Life",
-    "role": "SUPPORT",
-    "team": "DN SOOPers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
-    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.3",
-      "cs_per_min": "9.3",
-      "kill_participation": "67%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Peter": {
     "id": "Peter",
     "name": "Yoon su Jeong",
@@ -2490,6 +2467,29 @@
       "cs_per_min": "8.8",
       "kill_participation": "71%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "Life": {
+    "id": "Life",
+    "name": "Jeongmin Kim",
+    "ign": "Life",
+    "role": "SUPPORT",
+    "team": "DN SOOPers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
+    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.3",
+      "cs_per_min": "9.3",
+      "kill_participation": "67%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -2746,29 +2746,6 @@
     },
     "highlights": []
   },
-  "Sero": {
-    "id": "Sero",
-    "name": "Hyochan Ahn",
-    "ign": "Sero",
-    "role": "TOP",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769085767741_image6-2026-01-22T134220.704.png",
-    "bio": "Sero is a professional League of Legends player competing in the LCK as the TOP for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.8",
-      "cs_per_min": "9.7",
-      "kill_participation": "64%",
-      "win_rate": "67%"
-    },
-    "highlights": []
-  },
   "PerfecT": {
     "id": "PerfecT",
     "name": "Seungmin Lee",
@@ -2789,6 +2766,29 @@
       "cs_per_min": "9.6",
       "kill_participation": "69%",
       "win_rate": "68%"
+    },
+    "highlights": []
+  },
+  "Sero": {
+    "id": "Sero",
+    "name": "Hyochan Ahn",
+    "ign": "Sero",
+    "role": "TOP",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769085767741_image6-2026-01-22T134220.704.png",
+    "bio": "Sero is a professional League of Legends player competing in the LCK as the TOP for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.8",
+      "cs_per_min": "9.7",
+      "kill_participation": "64%",
+      "win_rate": "67%"
     },
     "highlights": []
   },
@@ -2838,29 +2838,6 @@
     },
     "highlights": []
   },
-  "Hwichan": {
-    "id": "Hwichan",
-    "name": "Hwichan Jeong",
-    "ign": "Hwichan",
-    "role": "MID",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769085699169_image6-2026-01-22T134118.726.png",
-    "bio": "Hwichan is a professional League of Legends player competing in the LCK as the MID for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.3",
-      "cs_per_min": "9.9",
-      "kill_participation": "71%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Bdd": {
     "id": "Bdd",
     "name": "Bo seong Gwak",
@@ -2881,6 +2858,29 @@
       "cs_per_min": "9.4",
       "kill_participation": "78%",
       "win_rate": "58%"
+    },
+    "highlights": []
+  },
+  "Hwichan": {
+    "id": "Hwichan",
+    "name": "Hwichan Jeong",
+    "ign": "Hwichan",
+    "role": "MID",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769085699169_image6-2026-01-22T134118.726.png",
+    "bio": "Hwichan is a professional League of Legends player competing in the LCK as the MID for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.3",
+      "cs_per_min": "9.9",
+      "kill_participation": "71%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -4108,29 +4108,6 @@
     },
     "highlights": []
   },
-  "Cloud ": {
-    "id": "Cloud ",
-    "name": "Moon Hyunho",
-    "ign": "Cloud ",
-    "role": "SUPPORT",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769083077918_image6144.png",
-    "bio": "Cloud  is a professional League of Legends player competing in the LCK as the SUPPORT for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.3",
-      "cs_per_min": "8.7",
-      "kill_participation": "73%",
-      "win_rate": "64%"
-    },
-    "highlights": []
-  },
   "Keria": {
     "id": "Keria",
     "name": "Minseok Ryu",
@@ -4151,6 +4128,29 @@
       "cs_per_min": "8.1",
       "kill_participation": "77%",
       "win_rate": "52%"
+    },
+    "highlights": []
+  },
+  "Cloud ": {
+    "id": "Cloud ",
+    "name": "Moon Hyunho",
+    "ign": "Cloud ",
+    "role": "SUPPORT",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769083077918_image6144.png",
+    "bio": "Cloud  is a professional League of Legends player competing in the LCK as the SUPPORT for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.3",
+      "cs_per_min": "8.7",
+      "kill_participation": "73%",
+      "win_rate": "64%"
     },
     "highlights": []
   },
