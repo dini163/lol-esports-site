@@ -610,25 +610,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "GOAL vs NBS",
-    "team_a": {
-      "name": "GOAL esports",
-      "code": "GOAL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1741780171372_GOAL.png"
-    },
-    "team_b": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "start_time": "2026-06-08T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "MCON vs BOOM",
     "team_a": {
       "name": "mCon Esports",
@@ -641,6 +622,25 @@
       "code": "BOOM",
       "score": 1,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "start_time": "2026-06-08T19:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "GOAL vs NBS",
+    "team_a": {
+      "name": "GOAL esports",
+      "code": "GOAL",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1741780171372_GOAL.png"
+    },
+    "team_b": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "start_time": "2026-06-08T19:00:00Z",
     "status": "completed"
@@ -667,25 +667,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "PXS vs CKZ",
-    "team_a": {
-      "name": "Partizan Sangal",
-      "code": "PXS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
-    },
-    "team_b": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "start_time": "2026-06-09T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "GOAL vs EWI",
     "team_a": {
       "name": "GOAL esports",
@@ -705,20 +686,20 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "KCB vs VER",
+    "match": "PXS vs CKZ",
     "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
+      "name": "Partizan Sangal",
+      "code": "PXS",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
     },
     "team_b": {
-      "name": "Verdant",
-      "code": "VER",
+      "name": "CITA Kaizen",
+      "code": "CKZ",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
-    "start_time": "2026-06-09T18:00:00Z",
+    "start_time": "2026-06-09T15:00:00Z",
     "status": "completed"
   },
   {
@@ -741,13 +722,32 @@
     "status": "completed"
   },
   {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "KCB vs VER",
+    "team_a": {
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "team_b": {
+      "name": "Verdant",
+      "code": "VER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
+    "start_time": "2026-06-09T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "VTC vs GLE",
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-06-09T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
