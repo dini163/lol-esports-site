@@ -2,63 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "OTS vs GMB",
-    "team_a": {
-      "name": "Otter Side",
-      "code": "OTS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1753881580888_OtterSideLogoV2Monocromtico.png"
-    },
-    "team_b": {
-      "name": "GMBLERS Esports",
-      "code": "GMB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
-    },
-    "start_time": "2026-06-08T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "FEC vs MGZ",
-    "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "MAGAZA",
-      "code": "MGZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
-    },
-    "start_time": "2026-06-08T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "PXS vs BBK",
-    "team_a": {
-      "name": "Partizan Sangal",
-      "code": "PXS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
-    },
-    "team_b": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
-    },
-    "start_time": "2026-06-08T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "BBK vs MCON",
     "team_a": {
       "name": "Bubliki",
@@ -667,44 +610,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "MISA vs UCAM",
-    "team_a": {
-      "name": "MISA Esports",
-      "code": "MISA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
-    },
-    "team_b": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "start_time": "2026-06-11T15:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "GL vs G2N",
-    "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-06-11T15:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "EINS vs SLY",
     "team_a": {
       "name": "Eintracht Spandau",
@@ -715,11 +620,11 @@
     "team_b": {
       "name": "Solary",
       "code": "SLY",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-06-11T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -738,26 +643,64 @@
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-06-11T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "HMB vs EWI",
+    "match": "MISA vs UCAM",
     "team_a": {
+      "name": "MISA Esports",
+      "code": "MISA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
+    },
+    "team_b": {
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
+    },
+    "start_time": "2026-06-11T15:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "GL vs G2N",
+    "team_a": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "team_b": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
+    "start_time": "2026-06-11T15:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "EWI vs HMB",
+    "team_a": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "team_b": {
       "name": "HMBLE",
       "code": "HMB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
-    "team_b": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
     "start_time": "2026-06-11T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -766,7 +709,7 @@
     "team_a": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "team_b": {
@@ -776,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-06-11T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -791,11 +734,11 @@
     "team_b": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-06-11T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -810,11 +753,11 @@
     "team_b": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "start_time": "2026-06-11T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -857,18 +800,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs TBD",
+    "match": "EWI vs MISA",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "MISA Esports",
+      "code": "MISA",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
     },
     "start_time": "2026-06-12T15:00:00Z",
     "status": "upcoming"
@@ -876,18 +819,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs TBD",
+    "match": "KCB vs FSK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Forsaken",
+      "code": "FSK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-06-12T15:00:00Z",
     "status": "upcoming"
@@ -895,18 +838,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs TBD",
+    "match": "WLG vs G2N",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "WLGaming",
+      "code": "WLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "G2 NORD",
+      "code": "G2N",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-06-12T18:00:00Z",
     "status": "upcoming"
@@ -914,18 +857,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs ANB",
+    "match": "ANB vs EINS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Anubis Gaming",
       "code": "ANB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-06-12T18:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1441,82 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-04T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-05T03:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-05T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-06T03:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-06T08:00:00Z",
     "status": "upcoming"
   }
 ]
