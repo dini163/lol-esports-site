@@ -686,25 +686,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "EINS vs ANB",
-    "team_a": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
-    },
-    "start_time": "2026-06-10T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "HRTS vs KCB",
     "team_a": {
       "name": "Heretics Academy",
@@ -760,6 +741,25 @@
     "status": "completed"
   },
   {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "EINS vs ANB",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Anubis Gaming",
+      "code": "ANB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
+    },
+    "start_time": "2026-06-10T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "VCS",
     "league_code": "vcs",
     "match": "SGW vs SCBC",
@@ -781,37 +781,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "ANB vs BOOM",
+    "match": "MISA vs UCAM",
     "team_a": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
+      "name": "MISA Esports",
+      "code": "MISA",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
+      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
     },
     "team_b": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "start_time": "2026-06-11T15:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "SLY vs EINS",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-06-11T15:00:00Z",
     "status": "upcoming"
@@ -838,18 +819,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "MISA vs UCAM",
+    "match": "SLY vs EINS",
     "team_a": {
-      "name": "MISA Esports",
-      "code": "MISA",
+      "name": "Solary",
+      "code": "SLY",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "team_b": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
+      "name": "Eintracht Spandau",
+      "code": "EINS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-06-11T15:00:00Z",
     "status": "upcoming"
@@ -857,18 +838,37 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "PCF vs KCB",
+    "match": "ANB vs BOOM",
     "team_a": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
+      "name": "Anubis Gaming",
+      "code": "ANB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
+      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "team_b": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
+      "name": "BOMBA Team",
+      "code": "BOOM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "start_time": "2026-06-11T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "HMB vs EWI",
+    "team_a": {
+      "name": "HMBLE",
+      "code": "HMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-06-11T18:00:00Z",
     "status": "upcoming"
@@ -895,18 +895,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "HMB vs EWI",
+    "match": "PCF vs KCB",
     "team_a": {
-      "name": "HMBLE",
-      "code": "HMB",
+      "name": "PCIFIC Esports",
+      "code": "PCF",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "team_b": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-06-11T18:00:00Z",
     "status": "upcoming"
