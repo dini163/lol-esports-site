@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "CKZ vs BBK",
-    "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "team_b": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1777298189824_068078-.png"
-    },
-    "start_time": "2026-06-08T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "CKZ vs KCB",
     "team_a": {
       "name": "CITA Kaizen",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
     },
     "start_time": "2026-06-11T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "EMEA Masters",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-06-30T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-01T08:00:00Z",
     "status": "upcoming"
   }
 ]
