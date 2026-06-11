@@ -4108,29 +4108,6 @@
     },
     "highlights": []
   },
-  "Keria": {
-    "id": "Keria",
-    "name": "Minseok Ryu",
-    "ign": "Keria",
-    "role": "SUPPORT",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769087515444_LCK_T1_Keria_F.PNG",
-    "bio": "Keria is a professional League of Legends player competing in the LCK as the SUPPORT for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.1",
-      "cs_per_min": "8.1",
-      "kill_participation": "77%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
   "Cloud ": {
     "id": "Cloud ",
     "name": "Moon Hyunho",
@@ -4151,6 +4128,29 @@
       "cs_per_min": "8.7",
       "kill_participation": "73%",
       "win_rate": "64%"
+    },
+    "highlights": []
+  },
+  "Keria": {
+    "id": "Keria",
+    "name": "Minseok Ryu",
+    "ign": "Keria",
+    "role": "SUPPORT",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769087515444_LCK_T1_Keria_F.PNG",
+    "bio": "Keria is a professional League of Legends player competing in the LCK as the SUPPORT for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.1",
+      "cs_per_min": "8.1",
+      "kill_participation": "77%",
+      "win_rate": "52%"
     },
     "highlights": []
   },
