@@ -9,8 +9,8 @@
     "record": "29-7",
     "winrate": "81%",
     "rating": 1524.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "1st in LPL",
     "reason": "Bilibili Gaming continues to demonstrate elite LPL dominance with a highly explosive early-game style. Elk and Knight provide peerless late-game carry insurance while Bin's lane pressure remains unmatched."
   },
@@ -24,8 +24,8 @@
     "record": "24-5",
     "winrate": "83%",
     "rating": 1522.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "1st in LCK",
     "reason": "Gen.G Esports stands as a premier force in the LCK, displaying flawless mid-to-late game macro and suffocating draft flexes led by Chovy and Canyon's veteran control."
   },
@@ -99,10 +99,10 @@
     "record": "16-9",
     "winrate": "64%",
     "rating": 1392.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in LCK",
-    "reason": "kt Rolster occupies a competitive standing in the LCK region, climbing 1 spots recently with a power rating score of 1392 and a 16-9 (64%) match record."
+    "reason": "kt Rolster occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1392 and a 16-9 (64%) match record."
   },
   {
     "rank": 8,
@@ -114,8 +114,8 @@
     "record": "20-16",
     "winrate": "56%",
     "rating": 1385.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in LPL",
     "reason": "JDG Esports displays strong teamfight coordination and a solid structural foundation, though recent inconsistency has caused minor setbacks domestically."
   },
@@ -129,10 +129,10 @@
     "record": "20-12",
     "winrate": "62%",
     "rating": 1383.0,
-    "trend": "down",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in LPL",
-    "reason": "Anyone's Legend occupies a competitive standing in the LPL region, experiencing a minor rank drop of 2 spots with a power rating score of 1383 and a 20-12 (62%) match record."
+    "reason": "Anyone's Legend occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1383 and a 20-12 (62%) match record."
   },
   {
     "rank": 10,
