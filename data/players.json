@@ -2424,15 +2424,15 @@
     },
     "highlights": []
   },
-  "Peter": {
-    "id": "Peter",
-    "name": "Yoon su Jeong",
-    "ign": "Peter",
+  "Life": {
+    "id": "Life",
+    "name": "Jeongmin Kim",
+    "ign": "Life",
     "role": "SUPPORT",
     "team": "DN SOOPers",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090762247_LCK_DNS_Peter_F.PNG",
-    "bio": "Peter is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
+    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Thresh",
       "Lulu",
@@ -2440,10 +2440,10 @@
       "Nautilus"
     ],
     "stats": {
-      "kda": "3.6",
-      "cs_per_min": "10.1",
-      "kill_participation": "78%",
-      "win_rate": "72%"
+      "kda": "5.3",
+      "cs_per_min": "9.3",
+      "kill_participation": "67%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -2470,15 +2470,15 @@
     },
     "highlights": []
   },
-  "Life": {
-    "id": "Life",
-    "name": "Jeongmin Kim",
-    "ign": "Life",
+  "Peter": {
+    "id": "Peter",
+    "name": "Yoon su Jeong",
+    "ign": "Peter",
     "role": "SUPPORT",
     "team": "DN SOOPers",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
-    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769090762247_LCK_DNS_Peter_F.PNG",
+    "bio": "Peter is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Thresh",
       "Lulu",
@@ -2486,10 +2486,10 @@
       "Nautilus"
     ],
     "stats": {
-      "kda": "5.3",
-      "cs_per_min": "9.3",
-      "kill_participation": "67%",
-      "win_rate": "55%"
+      "kda": "3.6",
+      "cs_per_min": "10.1",
+      "kill_participation": "78%",
+      "win_rate": "72%"
     },
     "highlights": []
   },
@@ -2746,29 +2746,6 @@
     },
     "highlights": []
   },
-  "PerfecT": {
-    "id": "PerfecT",
-    "name": "Seungmin Lee",
-    "ign": "PerfecT",
-    "role": "TOP",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088904650_LCK_KT_PerfecT_F.png",
-    "bio": "PerfecT is a professional League of Legends player competing in the LCK as the TOP for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "4.9",
-      "cs_per_min": "9.6",
-      "kill_participation": "69%",
-      "win_rate": "68%"
-    },
-    "highlights": []
-  },
   "Sero": {
     "id": "Sero",
     "name": "Hyochan Ahn",
@@ -2789,6 +2766,29 @@
       "cs_per_min": "9.7",
       "kill_participation": "64%",
       "win_rate": "67%"
+    },
+    "highlights": []
+  },
+  "PerfecT": {
+    "id": "PerfecT",
+    "name": "Seungmin Lee",
+    "ign": "PerfecT",
+    "role": "TOP",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088904650_LCK_KT_PerfecT_F.png",
+    "bio": "PerfecT is a professional League of Legends player competing in the LCK as the TOP for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "4.9",
+      "cs_per_min": "9.6",
+      "kill_participation": "69%",
+      "win_rate": "68%"
     },
     "highlights": []
   },
@@ -2838,29 +2838,6 @@
     },
     "highlights": []
   },
-  "Bdd": {
-    "id": "Bdd",
-    "name": "Bo seong Gwak",
-    "ign": "Bdd",
-    "role": "MID",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088894551_LCK_KT_Bdd_F.PNG",
-    "bio": "Bdd is a professional League of Legends player competing in the LCK as the MID for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "5.4",
-      "cs_per_min": "9.4",
-      "kill_participation": "78%",
-      "win_rate": "58%"
-    },
-    "highlights": []
-  },
   "Hwichan": {
     "id": "Hwichan",
     "name": "Hwichan Jeong",
@@ -2881,6 +2858,29 @@
       "cs_per_min": "9.9",
       "kill_participation": "71%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Bdd": {
+    "id": "Bdd",
+    "name": "Bo seong Gwak",
+    "ign": "Bdd",
+    "role": "MID",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088894551_LCK_KT_Bdd_F.PNG",
+    "bio": "Bdd is a professional League of Legends player competing in the LCK as the MID for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "5.4",
+      "cs_per_min": "9.4",
+      "kill_participation": "78%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
@@ -3022,29 +3022,6 @@
     },
     "highlights": []
   },
-  "Sheo": {
-    "id": "Sheo",
-    "name": "Théo Borile",
-    "ign": "Sheo",
-    "role": "JUNGLE",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1774652573563_sheo.png",
-    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "10.1",
-      "kill_participation": "78%",
-      "win_rate": "67%"
-    },
-    "highlights": []
-  },
   "Boukada": {
     "id": "Boukada",
     "name": "Lahlou Mehdi",
@@ -3065,6 +3042,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "68%",
       "win_rate": "54%"
+    },
+    "highlights": []
+  },
+  "Sheo": {
+    "id": "Sheo",
+    "name": "Théo Borile",
+    "ign": "Sheo",
+    "role": "JUNGLE",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1774652573563_sheo.png",
+    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.4",
+      "cs_per_min": "10.1",
+      "kill_participation": "78%",
+      "win_rate": "67%"
     },
     "highlights": []
   },
