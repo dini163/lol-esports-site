@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-06-12T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Saigon Dino",
       "code": "DINO",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
     },
     "team_b": {
       "name": "Saigon Zen Esport",
       "code": "ZEN",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
     },
     "start_time": "2026-06-12T10:00:00Z",
@@ -1028,7 +1028,7 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "TBD vs T1",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1036,10 +1036,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "T1",
+      "code": "T1",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-06-14T06:00:00Z",
     "status": "upcoming"
