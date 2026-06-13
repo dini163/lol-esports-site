@@ -2,6 +2,25 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
+    "match": "FEC vs FNE",
+    "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "FN Esports",
+      "code": "FNE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750353923793_fn_c.png"
+    },
+    "start_time": "2026-06-08T17:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "EWI vs RUD",
     "team_a": {
       "name": "E Wie Einfach E-Sports",
@@ -772,11 +791,11 @@
     "team_b": {
       "name": "Rising Gaming",
       "code": "RGA",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
     },
     "start_time": "2026-06-13T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -791,7 +810,7 @@
     "team_b": {
       "name": "Xi'an Team WE",
       "code": "WE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-06-13T09:00:00Z",
@@ -810,30 +829,30 @@
     "team_b": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-06-13T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "FL vs UWS",
+    "match": "UWS vs FL",
     "team_a": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
-    "team_b": {
       "name": "UWinks",
       "code": "UWS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
     },
+    "team_b": {
+      "name": "FENNEL",
+      "code": "FL",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
+    },
     "start_time": "2026-06-13T11:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "EMEA Masters",
@@ -952,7 +971,7 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "TBD vs TBD",
+    "match": "TBD vs RGA",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -960,10 +979,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Rising Gaming",
+      "code": "RGA",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
     },
     "start_time": "2026-06-14T08:00:00Z",
     "status": "upcoming"
