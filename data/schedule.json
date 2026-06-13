@@ -804,7 +804,7 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
@@ -823,13 +823,13 @@
     "team_a": {
       "name": "Saigon Zen Esport",
       "code": "ZEN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
     },
     "team_b": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-06-13T10:00:00Z",
@@ -848,11 +848,11 @@
     "team_b": {
       "name": "FENNEL",
       "code": "FL",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
     "start_time": "2026-06-13T11:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -971,12 +971,12 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "TBD vs RGA",
+    "match": "FL vs RGA",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "FENNEL",
+      "code": "FL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
     "team_b": {
       "name": "Rising Gaming",
@@ -990,12 +990,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs TES",
+    "match": "BLG vs TES",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
       "name": "TOP ESPORTS",
