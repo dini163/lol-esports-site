@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "FEC vs FNE",
-    "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "FN Esports",
-      "code": "FNE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1750353923793_fn_c.png"
-    },
-    "start_time": "2026-06-08T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "EWI vs RUD",
     "team_a": {
       "name": "E Wie Einfach E-Sports",
@@ -937,7 +918,7 @@
     "team_a": {
       "name": "Team Liquid Alienware",
       "code": "TL",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "team_b": {
@@ -947,7 +928,7 @@
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-06-13T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -1066,12 +1047,12 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TBD vs LYON",
+    "match": "TL vs LYON",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Liquid Alienware",
+      "code": "TL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "team_b": {
       "name": "LYON",
