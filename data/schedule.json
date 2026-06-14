@@ -2,6 +2,25 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
+    "match": "FEC vs FNE",
+    "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "FN Esports",
+      "code": "FNE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750353923793_fn_c.png"
+    },
+    "start_time": "2026-06-08T17:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "EWI vs RUD",
     "team_a": {
       "name": "E Wie Einfach E-Sports",
@@ -1057,11 +1076,11 @@
     "team_b": {
       "name": "LYON",
       "code": "LYON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-06-14T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "EMEA Masters",
