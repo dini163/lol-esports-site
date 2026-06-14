@@ -952,21 +952,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "GEN vs T1",
+    "match": "T1 vs GEN",
     "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
+    "team_b": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
     "start_time": "2026-06-14T06:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LJL",
@@ -981,11 +981,11 @@
     "team_b": {
       "name": "Rising Gaming",
       "code": "RGA",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
     },
     "start_time": "2026-06-14T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1004,7 +1004,7 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-06-14T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "VCS",
