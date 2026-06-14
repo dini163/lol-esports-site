@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "FEC vs FNE",
-    "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "FN Esports",
-      "code": "FNE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1750353923793_fn_c.png"
-    },
-    "start_time": "2026-06-08T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "EWI vs RUD",
     "team_a": {
       "name": "E Wie Einfach E-Sports",
@@ -1013,7 +994,7 @@
     "team_a": {
       "name": "Saigon Dino",
       "code": "DINO",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
     },
     "team_b": {
@@ -1023,7 +1004,7 @@
       "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
     },
     "start_time": "2026-06-14T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -1104,12 +1085,12 @@
   {
     "league": "VCS",
     "league_code": "vcs",
-    "match": "TBD vs ZEN",
+    "match": "DINO vs ZEN",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Saigon Dino",
+      "code": "DINO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
     },
     "team_b": {
       "name": "Saigon Zen Esport",
