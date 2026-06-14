@@ -2,6 +2,25 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
+    "match": "FEC vs FNE",
+    "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "FN Esports",
+      "code": "FNE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750353923793_fn_c.png"
+    },
+    "start_time": "2026-06-08T17:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "EWI vs RUD",
     "team_a": {
       "name": "E Wie Einfach E-Sports",
@@ -1013,7 +1032,7 @@
     "team_a": {
       "name": "Solary",
       "code": "SLY",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "team_b": {
@@ -1032,7 +1051,7 @@
     "team_a": {
       "name": "Galions",
       "code": "GL",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "team_b": {
@@ -1066,18 +1085,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs TBD",
+    "match": "GL vs SLY",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Galions",
+      "code": "GL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Solary",
+      "code": "SLY",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-06-15T15:00:00Z",
     "status": "upcoming"
