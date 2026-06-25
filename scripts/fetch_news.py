@@ -264,7 +264,8 @@ def main():
             
     except Exception as e:
         print(f"Error fetching news feed: {e}")
-        raise e
+        # Graceful degradation: keep existing news.json instead of failing the workflow
+        return
 
 if __name__ == "__main__":
     main()

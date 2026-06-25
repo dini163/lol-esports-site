@@ -2,7 +2,6 @@ import requests
 import re
 import json
 import os
-import sys
 
 def get_ordinal_suffix(n):
     if 11 <= (n % 100) <= 13:
@@ -32,7 +31,8 @@ def fetch_and_update_rankings():
         r.raise_for_status()
     except Exception as e:
         print(f"Error fetching GPR page: {e}")
-        sys.exit(1)
+        # Graceful degradation: keep existing rankings.json instead of failing the workflow
+        return
 
     html = r.text
     print(f"Successfully fetched GPR page. Content length: {len(html)}")
@@ -60,7 +60,8 @@ def fetch_and_update_rankings():
 
     if not team_gpr_list:
         print("Error: Could not locate teamGPR list in any ApolloSSRDataTransport block.")
-        sys.exit(1)
+        # Graceful degradation: keep existing rankings.json instead of failing the workflow
+        return
 
     valid_teams = []
     for tg in team_gpr_list:
@@ -69,7 +70,8 @@ def fetch_and_update_rankings():
 
     if not valid_teams:
         print("Error: No teams with a valid current rank found in teamGPR list.")
-        sys.exit(1)
+        # Graceful degradation: keep existing rankings.json instead of failing the workflow
+        return
 
     # Sort teams by their global rank
     valid_teams.sort(key=lambda x: x["currentTeamGPR"]["rank"])
@@ -228,7 +230,8 @@ def fetch_and_update_rankings():
         print(f"Successfully updated {rankings_json_path} with {len(formatted_rankings)} official GPR team records.")
     except Exception as e:
         print(f"Error saving rankings: {e}")
-        sys.exit(1)
+        # Graceful degradation: keep existing rankings.json instead of failing the workflow
+        return
 
 if __name__ == '__main__':
     fetch_and_update_rankings()
