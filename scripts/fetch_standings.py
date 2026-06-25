@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 # League mapping (code to Riot ID)
 LEAGUES = {
@@ -147,7 +147,7 @@ def get_active_tournament_id(league_id, league_code):
                 return None
             tournaments = leagues_data[0].get("tournaments", [])
             
-            today = datetime.utcnow()
+            today = datetime.now(timezone.utc).replace(tzinfo=None)
             active_t = None
             latest_t = None
             
@@ -256,7 +256,7 @@ def parse_standings(raw_data, region):
                         if match.get("code"):
                             team_code = match["code"]
                     
-                    record = team_data.get("record", {})
+                    record = team_data.get("record") or {}
                     wins = record.get("wins", 0)
                     losses = record.get("losses", 0)
                     total = wins + losses

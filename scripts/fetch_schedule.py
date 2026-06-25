@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 def normalize_team_code(code):
     if not code:
@@ -28,8 +28,9 @@ def fetch_esports_data():
     }
     
     # 获取近 7 天的赛程
-    start_time = int((datetime.utcnow() - timedelta(days=1)).timestamp() * 1000)
-    end_time = int((datetime.utcnow() + timedelta(days=7)).timestamp() * 1000)
+    now_utc = datetime.now(timezone.utc)
+    start_time = int((now_utc - timedelta(days=1)).timestamp() * 1000)
+    end_time = int((now_utc + timedelta(days=7)).timestamp() * 1000)
     
     params = {
         "hl": "en-US",
@@ -137,7 +138,7 @@ def fetch_esports_data():
         return get_mock_data()
 
 def get_mock_data():
-    now = datetime.utcnow()
+    now = datetime.now(timezone.utc)
     return [
         {
             "league": "LPL Spring 2025",
