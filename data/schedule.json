@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "BOOM vs SLY",
-    "team_a": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "team_b": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "start_time": "2026-06-10T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "HRTS vs KCB",
     "team_a": {
       "name": "Heretics Academy",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -776,31 +757,31 @@
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "start_time": "2026-06-28T03:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "KC vs DCG",
+    "match": "DCG vs KC",
     "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
+    "team_b": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
     "start_time": "2026-06-28T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs T1",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -808,10 +789,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "T1",
+      "code": "T1",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-06-29T03:00:00Z",
     "status": "upcoming"
@@ -819,7 +800,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs TL",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -827,10 +808,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Liquid Alienware",
+      "code": "TL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "start_time": "2026-06-29T08:00:00Z",
     "status": "upcoming"
@@ -1515,6 +1496,25 @@
       "code": "DEC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
+    },
+    "start_time": "2026-07-03T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "7D vs Z3N",
+    "team_a": {
+      "name": "Seven Dark",
+      "code": "7D",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
+    },
+    "team_b": {
+      "name": "ZEN",
+      "code": "Z3N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
     },
     "start_time": "2026-07-03T23:00:00Z",
     "status": "upcoming"
