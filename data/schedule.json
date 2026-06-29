@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "WLG vs GL",
-    "team_a": {
-      "name": "WLGaming",
-      "code": "WLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
-    },
-    "team_b": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "start_time": "2026-06-10T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "EINS vs ANB",
     "team_a": {
       "name": "Eintracht Spandau",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Team Liquid Alienware",
       "code": "TL",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "team_b": {
@@ -776,17 +757,17 @@
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-06-29T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs KC",
+    "match": "TL vs KC",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Liquid Alienware",
+      "code": "TL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
     "team_b": {
       "name": "Karmine Corp",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-04T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "KITS vs FUE",
+    "team_a": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-07-04T19:00:00Z",
     "status": "upcoming"
   }
 ]
