@@ -1665,29 +1665,6 @@
     },
     "highlights": []
   },
-  "Lucy": {
-    "id": "Lucy",
-    "name": "Soohoon Hyun",
-    "ign": "Lucy",
-    "role": "BOTTOM",
-    "team": "NS Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769084487004_image6-2026-01-22T132101.252.png",
-    "bio": "Lucy is a professional League of Legends player competing in the LCK as the BOTTOM for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.0",
-      "cs_per_min": "8.1",
-      "kill_participation": "66%",
-      "win_rate": "57%"
-    },
-    "highlights": []
-  },
   "Diable": {
     "id": "Diable",
     "name": "Nam Daegeun",
@@ -1708,6 +1685,29 @@
       "cs_per_min": "8.5",
       "kill_participation": "78%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "Lucy": {
+    "id": "Lucy",
+    "name": "Soohoon Hyun",
+    "ign": "Lucy",
+    "role": "BOTTOM",
+    "team": "NS Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769084487004_image6-2026-01-22T132101.252.png",
+    "bio": "Lucy is a professional League of Legends player competing in the LCK as the BOTTOM for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "8.1",
+      "kill_participation": "66%",
+      "win_rate": "57%"
     },
     "highlights": []
   },
@@ -1964,6 +1964,29 @@
     },
     "highlights": []
   },
+  "Loki ": {
+    "id": "Loki ",
+    "name": "Sangmin Lee",
+    "ign": "Loki ",
+    "role": "MID",
+    "team": "Cloud9 Kia",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Loki  is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.3",
+      "cs_per_min": "10.1",
+      "kill_participation": "70%",
+      "win_rate": "56%"
+    },
+    "highlights": []
+  },
   "Tempester": {
     "id": "Tempester",
     "name": "Yeongwoong Oh",
@@ -2007,29 +2030,6 @@
       "cs_per_min": "9.8",
       "kill_participation": "74%",
       "win_rate": "57%"
-    },
-    "highlights": []
-  },
-  "Loki ": {
-    "id": "Loki ",
-    "name": "Sangmin Lee",
-    "ign": "Loki ",
-    "role": "MID",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Loki  is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.3",
-      "cs_per_min": "10.1",
-      "kill_participation": "70%",
-      "win_rate": "56%"
     },
     "highlights": []
   },
@@ -2309,29 +2309,6 @@
     },
     "highlights": []
   },
-  "Life": {
-    "id": "Life",
-    "name": "Jeongmin Kim",
-    "ign": "Life",
-    "role": "SUPPORT",
-    "team": "DN SOOPers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
-    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.3",
-      "cs_per_min": "9.3",
-      "kill_participation": "67%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Peter": {
     "id": "Peter",
     "name": "Yoon su Jeong",
@@ -2375,6 +2352,29 @@
       "cs_per_min": "8.8",
       "kill_participation": "71%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "Life": {
+    "id": "Life",
+    "name": "Jeongmin Kim",
+    "ign": "Life",
+    "role": "SUPPORT",
+    "team": "DN SOOPers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
+    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.3",
+      "cs_per_min": "9.3",
+      "kill_participation": "67%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -2493,29 +2493,6 @@
     },
     "highlights": []
   },
-  "Ucal": {
-    "id": "Ucal",
-    "name": "Woohyun Son",
-    "ign": "Ucal",
-    "role": "MID",
-    "team": "KIWOOM DRX",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1778842833744_LCK_DRX_Ucal_F.PNG",
-    "bio": "Ucal is a professional League of Legends player competing in the LCK as the MID for KIWOOM DRX. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "5.6",
-      "cs_per_min": "8.7",
-      "kill_participation": "62%",
-      "win_rate": "56%"
-    },
-    "highlights": []
-  },
   "AKaJe": {
     "id": "AKaJe",
     "name": "Suhyeok Choi",
@@ -2536,6 +2513,29 @@
       "cs_per_min": "10.2",
       "kill_participation": "72%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Ucal": {
+    "id": "Ucal",
+    "name": "Woohyun Son",
+    "ign": "Ucal",
+    "role": "MID",
+    "team": "KIWOOM DRX",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1778842833744_LCK_DRX_Ucal_F.PNG",
+    "bio": "Ucal is a professional League of Legends player competing in the LCK as the MID for KIWOOM DRX. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "5.6",
+      "cs_per_min": "8.7",
+      "kill_participation": "62%",
+      "win_rate": "56%"
     },
     "highlights": []
   },
@@ -2677,29 +2677,6 @@
     },
     "highlights": []
   },
-  "Sylvie": {
-    "id": "Sylvie",
-    "name": "Seungbok Lee",
-    "ign": "Sylvie",
-    "role": "JUNGLE",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769085457796_image6-2026-01-22T133710.328.png",
-    "bio": "Sylvie is a professional League of Legends player competing in the LCK as the JUNGLE for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.0",
-      "cs_per_min": "9.3",
-      "kill_participation": "68%",
-      "win_rate": "70%"
-    },
-    "highlights": []
-  },
   "Cuzz": {
     "id": "Cuzz",
     "name": "Uchan Mun",
@@ -2723,26 +2700,26 @@
     },
     "highlights": []
   },
-  "Bdd": {
-    "id": "Bdd",
-    "name": "Bo seong Gwak",
-    "ign": "Bdd",
-    "role": "MID",
+  "Sylvie": {
+    "id": "Sylvie",
+    "name": "Seungbok Lee",
+    "ign": "Sylvie",
+    "role": "JUNGLE",
     "team": "kt Rolster",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088894551_LCK_KT_Bdd_F.PNG",
-    "bio": "Bdd is a professional League of Legends player competing in the LCK as the MID for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769085457796_image6-2026-01-22T133710.328.png",
+    "bio": "Sylvie is a professional League of Legends player competing in the LCK as the JUNGLE for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
     ],
     "stats": {
-      "kda": "5.4",
-      "cs_per_min": "9.4",
-      "kill_participation": "78%",
-      "win_rate": "58%"
+      "kda": "4.0",
+      "cs_per_min": "9.3",
+      "kill_participation": "68%",
+      "win_rate": "70%"
     },
     "highlights": []
   },
@@ -2766,6 +2743,29 @@
       "cs_per_min": "9.9",
       "kill_participation": "71%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Bdd": {
+    "id": "Bdd",
+    "name": "Bo seong Gwak",
+    "ign": "Bdd",
+    "role": "MID",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088894551_LCK_KT_Bdd_F.PNG",
+    "bio": "Bdd is a professional League of Legends player competing in the LCK as the MID for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "5.4",
+      "cs_per_min": "9.4",
+      "kill_participation": "78%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
@@ -3367,15 +3367,15 @@
     },
     "highlights": []
   },
-  "Ceos": {
-    "id": "Ceos",
-    "name": "Denilson Oliveira",
-    "ign": "Ceos",
+  "Zeyzal": {
+    "id": "Zeyzal",
+    "name": "Tristan Stidam",
+    "ign": "Zeyzal",
     "role": "SUPPORT",
     "team": "Shopify Rebellion",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/1769150396974_AME_LCS26S1_SR_CEOS.png",
-    "bio": "Ceos is a professional League of Legends player competing in the LCS as the SUPPORT for Shopify Rebellion. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1674831529697_C9_ZEYZAL.png",
+    "bio": "Zeyzal is a professional League of Legends player competing in the LCS as the SUPPORT for Shopify Rebellion. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Thresh",
       "Lulu",
@@ -3383,10 +3383,10 @@
       "Nautilus"
     ],
     "stats": {
-      "kda": "5.6",
-      "cs_per_min": "9.0",
-      "kill_participation": "76%",
-      "win_rate": "68%"
+      "kda": "3.5",
+      "cs_per_min": "8.9",
+      "kill_participation": "69%",
+      "win_rate": "56%"
     },
     "highlights": []
   },
@@ -4246,6 +4246,29 @@
     },
     "highlights": []
   },
+  "Tactical": {
+    "id": "Tactical",
+    "name": "Edward Ra",
+    "ign": "Tactical",
+    "role": "BOTTOM",
+    "team": "Cloud9 Kia",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/1674833868099_IMT_TACTICAL.png",
+    "bio": "Tactical is a professional League of Legends player competing in the LCS as the BOTTOM for Cloud9 Kia. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "4.8",
+      "cs_per_min": "9.5",
+      "kill_participation": "70%",
+      "win_rate": "66%"
+    },
+    "highlights": []
+  },
   "Vulcan": {
     "id": "Vulcan",
     "name": "Philippe Laflamme",
@@ -4315,29 +4338,6 @@
     },
     "highlights": []
   },
-  "Angel": {
-    "id": "Angel",
-    "name": "Tao Xiang",
-    "ign": "Angel",
-    "role": "MID",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347791801_angel.png",
-    "bio": "Angel is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "8.4",
-      "kill_participation": "67%",
-      "win_rate": "62%"
-    },
-    "highlights": []
-  },
   "sinian": {
     "id": "sinian",
     "name": "Ding Jia-Ming",
@@ -4358,6 +4358,29 @@
       "cs_per_min": "8.7",
       "kill_participation": "75%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Angel": {
+    "id": "Angel",
+    "name": "Tao Xiang",
+    "ign": "Angel",
+    "role": "MID",
+    "team": "EDWARD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768347791801_angel.png",
+    "bio": "Angel is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.2",
+      "cs_per_min": "8.4",
+      "kill_participation": "67%",
+      "win_rate": "62%"
     },
     "highlights": []
   },
@@ -4384,29 +4407,6 @@
     },
     "highlights": []
   },
-  "Parukia": {
-    "id": "Parukia",
-    "name": "Wang  Ping-Yang",
-    "ign": "Parukia",
-    "role": "SUPPORT",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348863818_parukia.png",
-    "bio": "Parukia is a professional League of Legends player competing in the LPL as the SUPPORT for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "3.8",
-      "cs_per_min": "9.7",
-      "kill_participation": "75%",
-      "win_rate": "66%"
-    },
-    "highlights": []
-  },
   "Jwei": {
     "id": "Jwei",
     "name": "JUN WEI SUN",
@@ -4427,6 +4427,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "71%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Parukia": {
+    "id": "Parukia",
+    "name": "Wang  Ping-Yang",
+    "ign": "Parukia",
+    "role": "SUPPORT",
+    "team": "EDWARD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348863818_parukia.png",
+    "bio": "Parukia is a professional League of Legends player competing in the LPL as the SUPPORT for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "3.8",
+      "cs_per_min": "9.7",
+      "kill_participation": "75%",
+      "win_rate": "66%"
     },
     "highlights": []
   },
@@ -4453,29 +4476,6 @@
     },
     "highlights": []
   },
-  "Tyrion": {
-    "id": "Tyrion",
-    "name": "Peng Jun-Bin",
-    "ign": "Tyrion",
-    "role": "JUNGLE",
-    "team": "Xi'an Team WE",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Tyrion is a professional League of Legends player competing in the LPL as the JUNGLE for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.2",
-      "cs_per_min": "8.4",
-      "kill_participation": "76%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
   "Monki": {
     "id": "Monki",
     "name": "MENGQI WANG",
@@ -4496,6 +4496,29 @@
       "cs_per_min": "9.4",
       "kill_participation": "67%",
       "win_rate": "63%"
+    },
+    "highlights": []
+  },
+  "Tyrion": {
+    "id": "Tyrion",
+    "name": "Peng Jun-Bin",
+    "ign": "Tyrion",
+    "role": "JUNGLE",
+    "team": "Xi'an Team WE",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Tyrion is a professional League of Legends player competing in the LPL as the JUNGLE for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.2",
+      "cs_per_min": "8.4",
+      "kill_participation": "76%",
+      "win_rate": "52%"
     },
     "highlights": []
   },
@@ -4545,29 +4568,6 @@
     },
     "highlights": []
   },
-  "Erha": {
-    "id": "Erha",
-    "name": "XUYE SHI",
-    "ign": "Erha",
-    "role": "SUPPORT",
-    "team": "Xi'an Team WE",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225577413_erha.png",
-    "bio": "Erha is a professional League of Legends player competing in the LPL as the SUPPORT for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.8",
-      "cs_per_min": "10.1",
-      "kill_participation": "67%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Dorian": {
     "id": "Dorian",
     "name": "SIYUAN CHEN",
@@ -4588,6 +4588,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "77%",
       "win_rate": "62%"
+    },
+    "highlights": []
+  },
+  "Erha": {
+    "id": "Erha",
+    "name": "XUYE SHI",
+    "ign": "Erha",
+    "role": "SUPPORT",
+    "team": "Xi'an Team WE",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225577413_erha.png",
+    "bio": "Erha is a professional League of Legends player competing in the LPL as the SUPPORT for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.8",
+      "cs_per_min": "10.1",
+      "kill_participation": "67%",
+      "win_rate": "59%"
     },
     "highlights": []
   },

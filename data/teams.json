@@ -150,8 +150,8 @@
       "Calix",
       "Scout",
       "SeTab",
-      "Lucy",
       "Diable",
+      "Lucy",
       "Lehends",
       "Pleata"
     ]
@@ -181,9 +181,9 @@
       "Casting",
       "GIDEON",
       "Dinai",
+      "Loki ",
       "Tempester",
       "Roamer",
-      "Loki ",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -205,9 +205,9 @@
       "Flip",
       "deokdam",
       "Enosh",
-      "Life",
       "Peter",
-      "Quantum "
+      "Quantum ",
+      "Life"
     ]
   },
   {
@@ -217,15 +217,15 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
     "players": [
-      "Siwoo",
-      "Jaehyuk",
       "Nevid",
-      "Sharvel",
+      "Jaehyuk",
+      "Siwoo",
       "Lucid",
-      "ShowMaker",
+      "Sharvel",
       "Garden",
-      "Wayne",
+      "ShowMaker",
       "Smash",
+      "Wayne",
       "Career",
       "Loopy"
     ]
@@ -242,8 +242,8 @@
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
+      "Ucal",
       "Jiwoo",
       "LazyFeel",
       "Minous",
@@ -277,8 +277,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
     "players": [
-      "Zeus",
       "Panther",
+      "Zeus",
       "Kanavi",
       "Jackal",
       "Cracker",
@@ -299,10 +299,10 @@
     "players": [
       "Sero",
       "PerfecT",
-      "Sylvie",
       "Cuzz",
-      "Bdd",
+      "Sylvie",
       "Hwichan",
+      "Bdd",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -317,18 +317,18 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "players": [
-      "Kangin",
       "Clear",
-      "Zephyr",
+      "Kangin",
       "Raptor",
-      "FIESTA",
-      "Daystar",
+      "Zephyr",
       "VicLa",
+      "Daystar",
+      "FIESTA",
       "Diable",
-      "Slayer",
       "Taeyoon",
-      "Luon",
-      "Kellin"
+      "Slayer",
+      "Kellin",
+      "Luon"
     ]
   },
   {
@@ -345,8 +345,8 @@
       "Scout",
       "SeTab",
       "Calix",
-      "Lucy",
       "Diable",
+      "Lucy",
       "Pleata",
       "Lehends"
     ]
@@ -406,7 +406,7 @@
       "Contractz",
       "Zinie",
       "Bvoy",
-      "Ceos"
+      "Zeyzal"
     ]
   },
   {
@@ -497,7 +497,9 @@
       "Thanatos",
       "Blaber",
       "APA",
+      "Loki ",
       "Zven",
+      "Tactical",
       "Vulcan"
     ]
   },
@@ -510,11 +512,11 @@
     "players": [
       "Zdz",
       "Xiaohao",
-      "Angel",
       "sinian",
+      "Angel",
       "Leave",
-      "Parukia",
-      "Jwei"
+      "Jwei",
+      "Parukia"
     ]
   },
   {
@@ -525,12 +527,12 @@
     "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
     "players": [
       "Cube",
-      "Tyrion",
       "Monki",
+      "Tyrion",
       "Karis",
       "About",
-      "Erha",
-      "Dorian"
+      "Dorian",
+      "Erha"
     ]
   },
   {
