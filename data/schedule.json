@@ -2,44 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "GL vs G2N",
-    "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-06-11T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "EWI vs HMB",
-    "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
-      "name": "HMBLE",
-      "code": "HMB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
-    },
-    "start_time": "2026-06-11T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "HRTS vs FSK",
     "team_a": {
       "name": "Heretics Academy",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "start_time": "2026-06-30T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -743,40 +705,40 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "SGE vs USE",
+    "match": "USE vs SGE",
     "team_a": {
-      "name": "Eintracht Frankfurt",
-      "code": "SGE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
-    },
-    "team_b": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
+    "team_b": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
     "start_time": "2026-06-30T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "G2N vs ROSS",
+    "match": "ROSS vs G2N",
     "team_a": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
+    },
+    "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
-    "team_b": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
     "start_time": "2026-06-30T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-06-30T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-05T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "PLS vs 3V",
+    "team_a": {
+      "name": "Polar Squad",
+      "code": "PLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
+    },
+    "team_b": {
+      "name": "3V TEAM",
+      "code": "3V",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
+    },
+    "start_time": "2026-07-05T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "Z5 vs FUE",
+    "team_a": {
+      "name": "Zeu5 Esports",
+      "code": "Z5",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-07-05T19:00:00Z",
     "status": "upcoming"
   }
 ]
