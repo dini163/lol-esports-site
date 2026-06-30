@@ -2,6 +2,25 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
+    "match": "PCF vs KCB",
+    "team_a": {
+      "name": "PCIFIC Esports",
+      "code": "PCF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "start_time": "2026-06-11T18:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "PXS vs WLG",
     "team_a": {
       "name": "Partizan Sangal",
