@@ -2,44 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "HRTS vs FSK",
-    "team_a": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "team_b": {
-      "name": "Forsaken",
-      "code": "FSK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
-    },
-    "start_time": "2026-06-11T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "PCF vs KCB",
-    "team_a": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "team_b": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "start_time": "2026-06-11T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "PXS vs WLG",
     "team_a": {
       "name": "Partizan Sangal",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "team_b": {
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Kaufland Hangry Knights",
       "code": "KHK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "team_b": {
@@ -757,26 +719,26 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-06-30T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "VFB vs TOG",
+    "match": "TOG vs VFB",
     "team_a": {
+      "name": "TeamOrangeGaming",
+      "code": "TOG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
+    },
+    "team_b": {
       "name": "VfB Stuttgart",
       "code": "VFB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
     },
-    "team_b": {
-      "name": "TeamOrangeGaming",
-      "code": "TOG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
-    },
     "start_time": "2026-06-30T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "MSI",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-07-05T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "SDM vs LYON",
+    "team_a": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "team_b": {
+      "name": "Lyon Academy",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "start_time": "2026-07-05T22:00:00Z",
     "status": "upcoming"
   }
 ]
