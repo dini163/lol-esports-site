@@ -70,7 +70,6 @@
       "Clear",
       "Zephyr",
       "Raptor",
-      "FIESTA",
       "VicLa",
       "Daystar",
       "Slayer",
@@ -181,7 +180,7 @@
       "Casting",
       "GIDEON",
       "Dinai",
-      "Loki ",
+      "Pungyeon",
       "Tempester",
       "Roamer",
       "Teddy",
@@ -199,6 +198,7 @@
     "players": [
       "DuDu",
       "Lancer",
+      "Sharvel",
       "DDoiV",
       "Pyosik",
       "Clozer",
@@ -261,9 +261,9 @@
       "DDahyuk",
       "GIDEON",
       "Dinai",
-      "Loki ",
       "Tempester",
       "Roamer",
+      "Pungyeon",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -277,17 +277,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
     "players": [
-      "Panther",
       "Zeus",
+      "Panther",
       "Kanavi",
       "Jackal",
+      "Zeka",
       "Cracker",
       "Valiant",
-      "Zeka",
       "Gumayusi",
       "Pyeonsik",
-      "Bluffing",
-      "Delight"
+      "Delight",
+      "Bluffing"
     ]
   },
   {
@@ -299,8 +299,8 @@
     "players": [
       "Sero",
       "PerfecT",
-      "Cuzz",
       "Sylvie",
+      "Cuzz",
       "Hwichan",
       "Bdd",
       "Aiming",
@@ -317,18 +317,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "players": [
-      "Clear",
       "Kangin",
-      "Raptor",
+      "Clear",
       "Zephyr",
-      "VicLa",
+      "Raptor",
       "Daystar",
-      "FIESTA",
+      "VicLa",
       "Diable",
-      "Taeyoon",
       "Slayer",
-      "Kellin",
-      "Luon"
+      "Taeyoon",
+      "Luon",
+      "Kellin"
     ]
   },
   {
@@ -345,8 +344,8 @@
       "Scout",
       "SeTab",
       "Calix",
-      "Diable",
       "Lucy",
+      "Diable",
       "Pleata",
       "Lehends"
     ]
@@ -359,8 +358,8 @@
     "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
     "players": [
       "Rooster",
-      "Boukada",
       "Sheo",
+      "Boukada",
       "nuc",
       "Paduck",
       "Trymbi",
@@ -636,6 +635,7 @@
     "players": [
       "Lancer",
       "DuDu",
+      "Sharvel",
       "DDoiV",
       "Pyosik",
       "Clozer",
@@ -678,8 +678,8 @@
       "re0",
       "Juhan",
       "haichao",
-      "Photic",
       "Starry",
+      "Photic",
       "Moham"
     ]
   },
@@ -693,9 +693,9 @@
       "Breathe",
       "Soboro",
       "Wei",
+      "Rookie",
       "Nia1",
       "Renard",
-      "Rookie",
       "JiaQi",
       "Meiko"
     ]

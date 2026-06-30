@@ -612,9 +612,9 @@
     "name": "Kim Danwoo",
     "ign": "Sharvel",
     "role": "JUNGLE",
-    "team": "DK Challengers",
+    "team": "DN SOOPers",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769089838090_image6-2026-01-22T145017.335.png",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
     "bio": "Sharvel is a professional League of Legends player competing in the LCK as the JUNGLE for DK Challengers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "LeeSin",
@@ -857,29 +857,6 @@
       "cs_per_min": "8.1",
       "kill_participation": "77%",
       "win_rate": "57%"
-    },
-    "highlights": []
-  },
-  "FIESTA": {
-    "id": "FIESTA",
-    "name": "Hyeonseo Ahn",
-    "ign": "FIESTA",
-    "role": "MID",
-    "team": "BNK FEARX Youth",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090609618_image6-2026-01-22T150306.535.png",
-    "bio": "FIESTA is a professional League of Legends player competing in the LCK as the MID for BNK FEARX Youth. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.3",
-      "cs_per_min": "10.1",
-      "kill_participation": "63%",
-      "win_rate": "63%"
     },
     "highlights": []
   },
@@ -1964,15 +1941,15 @@
     },
     "highlights": []
   },
-  "Loki ": {
-    "id": "Loki ",
-    "name": "Sangmin Lee",
-    "ign": "Loki ",
+  "Pungyeon": {
+    "id": "Pungyeon",
+    "name": "Lee Jonghyuk",
+    "ign": "Pungyeon",
     "role": "MID",
-    "team": "Cloud9 Kia",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Loki  is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769232251135_Pungyeon.png",
+    "bio": "Pungyeon is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Azir",
       "Orianna",
@@ -1981,9 +1958,9 @@
     ],
     "stats": {
       "kda": "3.3",
-      "cs_per_min": "10.1",
-      "kill_participation": "70%",
-      "win_rate": "56%"
+      "cs_per_min": "8.7",
+      "kill_participation": "78%",
+      "win_rate": "63%"
     },
     "highlights": []
   },
@@ -2677,29 +2654,6 @@
     },
     "highlights": []
   },
-  "Cuzz": {
-    "id": "Cuzz",
-    "name": "Uchan Mun",
-    "ign": "Cuzz",
-    "role": "JUNGLE",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088880566_LCK_KT_Cuzz_F.PNG",
-    "bio": "Cuzz is a professional League of Legends player competing in the LCK as the JUNGLE for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "5.0",
-      "cs_per_min": "9.3",
-      "kill_participation": "78%",
-      "win_rate": "57%"
-    },
-    "highlights": []
-  },
   "Sylvie": {
     "id": "Sylvie",
     "name": "Seungbok Lee",
@@ -2720,6 +2674,29 @@
       "cs_per_min": "9.3",
       "kill_participation": "68%",
       "win_rate": "70%"
+    },
+    "highlights": []
+  },
+  "Cuzz": {
+    "id": "Cuzz",
+    "name": "Uchan Mun",
+    "ign": "Cuzz",
+    "role": "JUNGLE",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088880566_LCK_KT_Cuzz_F.PNG",
+    "bio": "Cuzz is a professional League of Legends player competing in the LCK as the JUNGLE for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "9.3",
+      "kill_participation": "78%",
+      "win_rate": "57%"
     },
     "highlights": []
   },
@@ -2907,29 +2884,6 @@
     },
     "highlights": []
   },
-  "Boukada": {
-    "id": "Boukada",
-    "name": "Lahlou Mehdi",
-    "ign": "Boukada",
-    "role": "JUNGLE",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1768550943317_Boukada-01.png",
-    "bio": "Boukada is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.5",
-      "cs_per_min": "9.0",
-      "kill_participation": "68%",
-      "win_rate": "54%"
-    },
-    "highlights": []
-  },
   "Sheo": {
     "id": "Sheo",
     "name": "Théo Borile",
@@ -2950,6 +2904,29 @@
       "cs_per_min": "10.1",
       "kill_participation": "78%",
       "win_rate": "67%"
+    },
+    "highlights": []
+  },
+  "Boukada": {
+    "id": "Boukada",
+    "name": "Lahlou Mehdi",
+    "ign": "Boukada",
+    "role": "JUNGLE",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1768550943317_Boukada-01.png",
+    "bio": "Boukada is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.5",
+      "cs_per_min": "9.0",
+      "kill_participation": "68%",
+      "win_rate": "54%"
     },
     "highlights": []
   },
@@ -4223,6 +4200,29 @@
     },
     "highlights": []
   },
+  "Loki ": {
+    "id": "Loki ",
+    "name": "Sangmin Lee",
+    "ign": "Loki ",
+    "role": "MID",
+    "team": "Cloud9 Kia",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Loki  is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.3",
+      "cs_per_min": "10.1",
+      "kill_participation": "70%",
+      "win_rate": "56%"
+    },
+    "highlights": []
+  },
   "Zven": {
     "id": "Zven",
     "name": "Jesper Svenningsen",
@@ -5327,29 +5327,6 @@
     },
     "highlights": []
   },
-  "Photic": {
-    "id": "Photic",
-    "name": "Qi-Shen  Ying",
-    "ign": "Photic",
-    "role": "BOTTOM",
-    "team": "Oh My God",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348885435_photic.png",
-    "bio": "Photic is a professional League of Legends player competing in the LPL as the BOTTOM for Oh My God. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.0",
-      "cs_per_min": "9.2",
-      "kill_participation": "69%",
-      "win_rate": "69%"
-    },
-    "highlights": []
-  },
   "Starry": {
     "id": "Starry",
     "name": "MING LEI",
@@ -5370,6 +5347,29 @@
       "cs_per_min": "9.6",
       "kill_participation": "72%",
       "win_rate": "64%"
+    },
+    "highlights": []
+  },
+  "Photic": {
+    "id": "Photic",
+    "name": "Qi-Shen  Ying",
+    "ign": "Photic",
+    "role": "BOTTOM",
+    "team": "Oh My God",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348885435_photic.png",
+    "bio": "Photic is a professional League of Legends player competing in the LPL as the BOTTOM for Oh My God. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "9.2",
+      "kill_participation": "69%",
+      "win_rate": "69%"
     },
     "highlights": []
   },
@@ -5465,6 +5465,29 @@
     },
     "highlights": []
   },
+  "Rookie": {
+    "id": "Rookie",
+    "name": "Ui-jin Song",
+    "ign": "Rookie",
+    "role": "MID",
+    "team": "Invictus Gaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225799612_rookie.png",
+    "bio": "Rookie is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "4.6",
+      "cs_per_min": "8.1",
+      "kill_participation": "66%",
+      "win_rate": "50%"
+    },
+    "highlights": []
+  },
   "Nia1": {
     "id": "Nia1",
     "name": "GUANGLU ZOU",
@@ -5508,29 +5531,6 @@
       "cs_per_min": "9.0",
       "kill_participation": "74%",
       "win_rate": "52%"
-    },
-    "highlights": []
-  },
-  "Rookie": {
-    "id": "Rookie",
-    "name": "Ui-jin Song",
-    "ign": "Rookie",
-    "role": "MID",
-    "team": "Invictus Gaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225799612_rookie.png",
-    "bio": "Rookie is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.6",
-      "cs_per_min": "8.1",
-      "kill_participation": "66%",
-      "win_rate": "50%"
     },
     "highlights": []
   },
