@@ -1,24 +1,5 @@
 [
   {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "SGW vs SCBC",
-    "team_a": {
-      "name": "Saigon Warrior",
-      "code": "SGW",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "TP.HCM SN CyberCore Esports",
-      "code": "SCBC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
-    },
-    "start_time": "2026-06-11T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "EMEA Masters",
     "league_code": "eme",
     "match": "EINS vs SLY",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
     },
     "start_time": "2026-06-30T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-04T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "NCG vs SDM",
+    "team_a": {
+      "name": "NCG Esports",
+      "code": "NCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
+    },
+    "team_b": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "start_time": "2026-07-04T22:00:00Z",
     "status": "upcoming"
   }
 ]
