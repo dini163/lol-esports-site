@@ -1,62 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "HLE vs T1",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-06-12T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "DINO vs ZEN",
-    "team_a": {
-      "name": "Saigon Dino",
-      "code": "DINO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
-    },
-    "team_b": {
-      "name": "Saigon Zen Esport",
-      "code": "ZEN",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
-    },
-    "start_time": "2026-06-12T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "EWI vs MISA",
-    "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
-      "name": "MISA Esports",
-      "code": "MISA",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
-    },
-    "start_time": "2026-06-12T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "EMEA Masters",
     "league_code": "eme",
     "match": "WLG vs G2N",
@@ -753,11 +696,11 @@
     "team_b": {
       "name": "Spartans EU",
       "code": "SPAR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
     },
     "start_time": "2026-07-01T13:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -776,45 +719,45 @@
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-07-01T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "SGE vs TOG",
+    "match": "TOG vs SGE",
     "team_a": {
-      "name": "Eintracht Frankfurt",
-      "code": "SGE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
-    },
-    "team_b": {
       "name": "TeamOrangeGaming",
       "code": "TOG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
+    "team_b": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
     "start_time": "2026-07-01T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "G2N vs EWI",
+    "match": "EWI vs G2N",
     "team_a": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "team_b": {
       "name": "E Wie Einfach E-Sports",
       "code": "EWI",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
+    "team_b": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
     "start_time": "2026-07-01T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-06T03:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-06T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "WLG vs TPX",
+    "team_a": {
+      "name": "WLGaming",
+      "code": "WLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
+    },
+    "team_b": {
+      "name": "TheParadOx Invaders",
+      "code": "TPX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
+    },
+    "start_time": "2026-07-07T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "ALMO vs GSMC",
+    "team_a": {
+      "name": "ALMO Players",
+      "code": "ALMO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
+    },
+    "team_b": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
+    "start_time": "2026-07-07T15:00:00Z",
     "status": "upcoming"
   }
 ]
