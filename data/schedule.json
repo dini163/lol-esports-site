@@ -1,24 +1,5 @@
 [
   {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "PXS vs WLG",
-    "team_a": {
-      "name": "Partizan Sangal",
-      "code": "PXS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1744190485577_EBL_PXS-MonochromeDarkBG.png"
-    },
-    "team_b": {
-      "name": "WLGaming",
-      "code": "WLG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
-    },
-    "start_time": "2026-06-11T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "HLE vs T1",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "TheParadOx Invaders",
       "code": "TPX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
     },
     "start_time": "2026-07-01T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
     },
     "start_time": "2026-07-05T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-06T03:00:00Z",
     "status": "upcoming"
   }
 ]

@@ -193,29 +193,6 @@
       }
     ]
   },
-  "SIRIUSS": {
-    "id": "SIRIUSS",
-    "name": "Kun Ko",
-    "ign": "SIRIUSS",
-    "role": "SUPPORT",
-    "team": "Gen.G Esports",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769087912320_image6-2026-01-22T141807.421.png",
-    "bio": "SIRIUSS is a professional League of Legends player competing in the LCK as the SUPPORT for Gen.G Global Academy. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.8",
-      "cs_per_min": "8.3",
-      "kill_participation": "68%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Lumos": {
     "id": "Lumos",
     "name": "JAEMIN KIM",
@@ -235,6 +212,29 @@
       "kda": "5.4",
       "cs_per_min": "8.8",
       "kill_participation": "65%",
+      "win_rate": "59%"
+    },
+    "highlights": []
+  },
+  "SIRIUSS": {
+    "id": "SIRIUSS",
+    "name": "Kun Ko",
+    "ign": "SIRIUSS",
+    "role": "SUPPORT",
+    "team": "Gen.G Esports",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769087912320_image6-2026-01-22T141807.421.png",
+    "bio": "SIRIUSS is a professional League of Legends player competing in the LCK as the SUPPORT for Gen.G Global Academy. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.8",
+      "cs_per_min": "8.3",
+      "kill_participation": "68%",
       "win_rate": "59%"
     },
     "highlights": []
@@ -1849,29 +1849,6 @@
     },
     "highlights": []
   },
-  "DDahyuk": {
-    "id": "DDahyuk",
-    "name": "Minhyuk Ahn",
-    "ign": "DDahyuk",
-    "role": "TOP",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090323253_image6-2026-01-22T145701.864.png",
-    "bio": "DDahyuk is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.7",
-      "cs_per_min": "10.1",
-      "kill_participation": "71%",
-      "win_rate": "70%"
-    },
-    "highlights": []
-  },
   "Casting": {
     "id": "Casting",
     "name": "Minje Shin",
@@ -1892,6 +1869,29 @@
       "cs_per_min": "10.1",
       "kill_participation": "65%",
       "win_rate": "61%"
+    },
+    "highlights": []
+  },
+  "DDahyuk": {
+    "id": "DDahyuk",
+    "name": "Minhyuk Ahn",
+    "ign": "DDahyuk",
+    "role": "TOP",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090323253_image6-2026-01-22T145701.864.png",
+    "bio": "DDahyuk is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "10.1",
+      "kill_participation": "71%",
+      "win_rate": "70%"
     },
     "highlights": []
   },
@@ -5902,29 +5902,6 @@
     },
     "highlights": []
   },
-  "Hang": {
-    "id": "Hang",
-    "name": "Ming-Hang Fu",
-    "ign": "Hang",
-    "role": "SUPPORT",
-    "team": "WeiboGaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225609143_hang.png",
-    "bio": "Hang is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "3.7",
-      "cs_per_min": "8.9",
-      "kill_participation": "64%",
-      "win_rate": "72%"
-    },
-    "highlights": []
-  },
   "TheHank": {
     "id": "TheHank",
     "name": "Xu Hai Han",
@@ -5945,6 +5922,29 @@
       "cs_per_min": "10.0",
       "kill_participation": "76%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "Hang": {
+    "id": "Hang",
+    "name": "Ming-Hang Fu",
+    "ign": "Hang",
+    "role": "SUPPORT",
+    "team": "WeiboGaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225609143_hang.png",
+    "bio": "Hang is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "3.7",
+      "cs_per_min": "8.9",
+      "kill_participation": "64%",
+      "win_rate": "72%"
     },
     "highlights": []
   },
