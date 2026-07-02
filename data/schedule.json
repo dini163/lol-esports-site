@@ -728,13 +728,13 @@
     "team_a": {
       "name": "Seven Dark",
       "code": "7D",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
     },
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-01T23:00:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Maze Gaming",
       "code": "MAZ",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "start_time": "2026-07-01T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
