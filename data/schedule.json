@@ -1,43 +1,5 @@
 [
   {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "EINS vs HRTS",
-    "team_a": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "start_time": "2026-06-13T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "GL vs MISA",
-    "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
-      "name": "MISA Esports",
-      "code": "MISA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737386153294_MisaEsports.png"
-    },
-    "start_time": "2026-06-13T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCS",
     "league_code": "lcs",
     "match": "TL vs C9",
@@ -728,17 +690,17 @@
     "team_a": {
       "name": "Team Phantasma",
       "code": "TP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "team_b": {
       "name": "Valerion",
       "code": "VLR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "start_time": "2026-07-02T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Rossmann Centaurs",
       "code": "ROSS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-07-02T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -772,11 +734,11 @@
     "team_b": {
       "name": "E Wie Einfach E-Sports",
       "code": "EWI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-07-02T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-02T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-07-08T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "G2N vs USE",
+    "team_a": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
+    "team_b": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "start_time": "2026-07-08T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "KHK vs TOG",
+    "team_a": {
+      "name": "Kaufland Hangry Knights",
+      "code": "KHK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
+    },
+    "team_b": {
+      "name": "TeamOrangeGaming",
+      "code": "TOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
+    },
+    "start_time": "2026-07-08T17:00:00Z",
     "status": "upcoming"
   }
 ]
