@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "TL vs C9",
-    "team_a": {
-      "name": "Team Liquid Alienware",
-      "code": "TL",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-    },
-    "team_b": {
-      "name": "Cloud9 Kia",
-      "code": "C9",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-    },
-    "start_time": "2026-06-13T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "T1 vs GEN",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Eintracht Spandau",
       "code": "EINS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-02T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-07-02T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-08T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "VFB vs EINS",
+    "team_a": {
+      "name": "VfB Stuttgart",
+      "code": "VFB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "start_time": "2026-07-08T18:00:00Z",
     "status": "upcoming"
   }
 ]
