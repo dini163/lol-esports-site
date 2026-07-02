@@ -515,25 +515,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "DEC vs VTC",
-    "team_a": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
-    },
-    "team_b": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "start_time": "2026-07-01T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "GLE vs Z3N",
     "team_a": {
       "name": "Golden Lions",
@@ -553,20 +534,20 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "7D vs 9ZG",
+    "match": "DEC vs VTC",
     "team_a": {
-      "name": "Seven Dark",
-      "code": "7D",
+      "name": "Docta Esports Club",
+      "code": "DEC",
       "score": 1,
-      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
+      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "team_b": {
-      "name": "9z Globant",
-      "code": "9ZG",
+      "name": "Volticons",
+      "code": "VTC",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
-    "start_time": "2026-07-01T23:00:00Z",
+    "start_time": "2026-07-01T20:00:00Z",
     "status": "completed"
   },
   {
@@ -584,6 +565,25 @@
       "code": "MVG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
+    },
+    "start_time": "2026-07-01T23:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "7D vs 9ZG",
+    "team_a": {
+      "name": "Seven Dark",
+      "code": "7D",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
+    },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-01T23:00:00Z",
     "status": "completed"
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-07-02T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "Docta Esports Club",
       "code": "DEC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-02T20:00:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Malvinas Gaming",
       "code": "MVG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "team_b": {
