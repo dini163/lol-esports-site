@@ -1,43 +1,5 @@
 [
   {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "DINO vs SCBC",
-    "team_a": {
-      "name": "Saigon Dino",
-      "code": "DINO",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
-    },
-    "team_b": {
-      "name": "TP.HCM SN CyberCore Esports",
-      "code": "SCBC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
-    },
-    "start_time": "2026-06-14T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "SLY vs UCAM",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "start_time": "2026-06-14T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "EMEA Masters",
     "league_code": "eme",
     "match": "GL vs EINS",
@@ -772,7 +734,7 @@
     "team_b": {
       "name": "Maze Gaming",
       "code": "MAZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "start_time": "2026-07-02T23:00:00Z",
@@ -791,7 +753,7 @@
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-02T23:00:00Z",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "start_time": "2026-07-08T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "VTC vs Z3N",
+    "team_a": {
+      "name": "Volticons",
+      "code": "VTC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
+    },
+    "team_b": {
+      "name": "ZEN",
+      "code": "Z3N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
+    },
+    "start_time": "2026-07-08T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "MVG vs GLE",
+    "team_a": {
+      "name": "Malvinas Gaming",
+      "code": "MVG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
+    },
+    "team_b": {
+      "name": "Golden Lions",
+      "code": "GLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "start_time": "2026-07-08T23:00:00Z",
     "status": "upcoming"
   }
 ]
