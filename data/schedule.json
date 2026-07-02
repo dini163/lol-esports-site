@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "SLY vs G2N",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-06-13T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "EINS vs HRTS",
     "team_a": {
       "name": "Eintracht Spandau",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Spartans EU",
       "code": "SPAR",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
     },
     "start_time": "2026-07-02T13:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "start_time": "2026-07-02T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-07-02T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "start_time": "2026-07-08T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "TPX vs ALMO",
+    "team_a": {
+      "name": "TheParadOx Invaders",
+      "code": "TPX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "ALMO Players",
+      "code": "ALMO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
+    },
+    "start_time": "2026-07-08T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "ROSS vs EWI",
+    "team_a": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "start_time": "2026-07-08T15:00:00Z",
     "status": "upcoming"
   }
 ]
