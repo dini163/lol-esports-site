@@ -515,25 +515,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "GLE vs Z3N",
-    "team_a": {
-      "name": "Golden Lions",
-      "code": "GLE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
-    },
-    "team_b": {
-      "name": "ZEN",
-      "code": "Z3N",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
-    },
-    "start_time": "2026-07-01T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "DEC vs VTC",
     "team_a": {
       "name": "Docta Esports Club",
@@ -553,20 +534,20 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "MAZ vs MVG",
+    "match": "GLE vs Z3N",
     "team_a": {
-      "name": "Maze Gaming",
-      "code": "MAZ",
+      "name": "Golden Lions",
+      "code": "GLE",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "team_b": {
-      "name": "Malvinas Gaming",
-      "code": "MVG",
+      "name": "ZEN",
+      "code": "Z3N",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
+      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
     },
-    "start_time": "2026-07-01T23:00:00Z",
+    "start_time": "2026-07-01T20:00:00Z",
     "status": "completed"
   },
   {
@@ -584,6 +565,25 @@
       "code": "9ZG",
       "score": 2,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
+    "start_time": "2026-07-01T23:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "MAZ vs MVG",
+    "team_a": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "team_b": {
+      "name": "Malvinas Gaming",
+      "code": "MVG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "start_time": "2026-07-01T23:00:00Z",
     "status": "completed"
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Docta Esports Club",
       "code": "DEC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-02T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Malvinas Gaming",
       "code": "MVG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
     },
     "start_time": "2026-07-02T20:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -772,27 +772,27 @@
     "team_b": {
       "name": "Maze Gaming",
       "code": "MAZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "start_time": "2026-07-02T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "9ZG vs GLE",
+    "match": "GLE vs 9ZG",
     "team_a": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "team_b": {
       "name": "Golden Lions",
       "code": "GLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-02T23:00:00Z",
     "status": "upcoming"
