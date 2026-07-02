@@ -1,43 +1,5 @@
 [
   {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "UWS vs FL",
-    "team_a": {
-      "name": "UWinks",
-      "code": "UWS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
-    },
-    "team_b": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
-    "start_time": "2026-06-13T11:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "KCB vs UCAM",
-    "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "team_b": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "start_time": "2026-06-13T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "EMEA Masters",
     "league_code": "eme",
     "match": "SLY vs G2N",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-08T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "HELL vs WLG",
+    "team_a": {
+      "name": "Hell ZeroLag",
+      "code": "HELL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
+    },
+    "team_b": {
+      "name": "WLGaming",
+      "code": "WLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
+    },
+    "start_time": "2026-07-08T13:00:00Z",
     "status": "upcoming"
   }
 ]
