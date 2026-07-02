@@ -1,62 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "T1 vs GEN",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "start_time": "2026-06-14T06:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "FL vs RGA",
-    "team_a": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
-    "team_b": {
-      "name": "Rising Gaming",
-      "code": "RGA",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771324524126_rsg_full_color_onW.png"
-    },
-    "start_time": "2026-06-14T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "BLG vs TES",
-    "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-06-14T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "VCS",
     "league_code": "vcs",
     "match": "DINO vs SCBC",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "VfB Stuttgart",
       "code": "VFB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
     },
     "team_b": {
@@ -757,26 +700,26 @@
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-07-02T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "USE vs BIG",
+    "match": "BIG vs USE",
     "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
       "name": "Berlin International Gaming",
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
+    "team_b": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
     "start_time": "2026-07-02T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
@@ -795,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-02T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-07-08T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "SGE vs BIG",
+    "team_a": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-08T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "9ZG vs DEC",
+    "team_a": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
+    "team_b": {
+      "name": "Docta Esports Club",
+      "code": "DEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
+    },
+    "start_time": "2026-07-08T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "7D vs MAZ",
+    "team_a": {
+      "name": "Seven Dark",
+      "code": "7D",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
+    },
+    "team_b": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "start_time": "2026-07-08T20:00:00Z",
     "status": "upcoming"
   }
 ]
