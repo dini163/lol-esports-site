@@ -2,25 +2,6 @@
   {
     "league": "VCS",
     "league_code": "vcs",
-    "match": "ZEN vs DINO",
-    "team_a": {
-      "name": "Saigon Zen Esport",
-      "code": "ZEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1777960619021_saigon_zen_logo_export-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Saigon Dino",
-      "code": "DINO",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
-    },
-    "start_time": "2026-06-19T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
     "match": "SGW vs DINO",
     "team_a": {
       "name": "Saigon Warrior",
@@ -757,23 +738,23 @@
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "start_time": "2026-07-03T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "9ZG vs MAZ",
+    "match": "MAZ vs 9ZG",
     "team_a": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "team_b": {
       "name": "Maze Gaming",
       "code": "MAZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-03T20:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-07-09T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "TP vs SPAR",
+    "team_a": {
+      "name": "Team Phantasma",
+      "code": "TP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
+    },
+    "team_b": {
+      "name": "Spartans EU",
+      "code": "SPAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
+    },
+    "start_time": "2026-07-09T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EINS vs EWI",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "start_time": "2026-07-09T15:00:00Z",
     "status": "upcoming"
   }
 ]
