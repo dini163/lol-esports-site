@@ -1,24 +1,5 @@
 [
   {
-    "league": "EMEA Masters",
-    "league_code": "eme",
-    "match": "SLY vs GL",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "start_time": "2026-06-15T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "VCS",
     "league_code": "vcs",
     "match": "ZEN vs DINO",
