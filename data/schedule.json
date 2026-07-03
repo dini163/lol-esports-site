@@ -753,11 +753,11 @@
     "team_b": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-03T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -952,18 +952,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TSW vs TES",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Secret Whales",
+      "code": "TSW",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "TOP ESPORTS",
+      "code": "TES",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-07-05T03:00:00Z",
     "status": "upcoming"
@@ -971,18 +971,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "HLE vs G2",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "G2 Esports",
+      "code": "G2",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-05T08:00:00Z",
     "status": "upcoming"
@@ -1066,7 +1066,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TSW",
+    "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1074,10 +1074,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
+      "name": "TBD",
+      "code": "TBD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-06T03:00:00Z",
     "status": "upcoming"
@@ -1085,7 +1085,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs HLE",
+    "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1093,10 +1093,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
+      "name": "TBD",
+      "code": "TBD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-06T08:00:00Z",
     "status": "upcoming"
