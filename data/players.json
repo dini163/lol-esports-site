@@ -193,29 +193,6 @@
       }
     ]
   },
-  "Lumos": {
-    "id": "Lumos",
-    "name": "JAEMIN KIM",
-    "ign": "Lumos",
-    "role": "SUPPORT",
-    "team": "Gen.G Esports",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088159344_image6-2026-01-22T142218.990.png",
-    "bio": "Lumos is a professional League of Legends player competing in the LCK as the SUPPORT for Gen.G Global Academy. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.4",
-      "cs_per_min": "8.8",
-      "kill_participation": "65%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "SIRIUSS": {
     "id": "SIRIUSS",
     "name": "Kun Ko",
@@ -235,6 +212,29 @@
       "kda": "4.8",
       "cs_per_min": "8.3",
       "kill_participation": "68%",
+      "win_rate": "59%"
+    },
+    "highlights": []
+  },
+  "Lumos": {
+    "id": "Lumos",
+    "name": "JAEMIN KIM",
+    "ign": "Lumos",
+    "role": "SUPPORT",
+    "team": "Gen.G Esports",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088159344_image6-2026-01-22T142218.990.png",
+    "bio": "Lumos is a professional League of Legends player competing in the LCK as the SUPPORT for Gen.G Global Academy. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.4",
+      "cs_per_min": "8.8",
+      "kill_participation": "65%",
       "win_rate": "59%"
     },
     "highlights": []
