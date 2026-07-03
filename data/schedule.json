@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "TL vs LYON",
-    "team_a": {
-      "name": "Team Liquid Alienware",
-      "code": "TL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-    },
-    "team_b": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "start_time": "2026-06-14T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "EMEA Masters",
     "league_code": "eme",
     "match": "SLY vs GL",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-07-03T03:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "G2 vs TES",
+    "match": "TES vs G2",
     "team_a": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
     "start_time": "2026-07-03T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
@@ -1085,7 +1066,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs TSW",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1093,10 +1074,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Secret Whales",
+      "code": "TSW",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-07-06T03:00:00Z",
     "status": "upcoming"
@@ -1104,7 +1085,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs HLE",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1112,10 +1093,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-06T08:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-09T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "VLR vs GSMC",
+    "team_a": {
+      "name": "Valerion",
+      "code": "VLR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
+    },
+    "team_b": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
+    "start_time": "2026-07-09T13:00:00Z",
     "status": "upcoming"
   }
 ]
