@@ -728,7 +728,7 @@
     "team_a": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-07-04T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "3V TEAM",
       "code": "3V",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "start_time": "2026-07-04T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -776,23 +776,23 @@
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-07-04T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "PLS vs Z5",
+    "match": "Z5 vs PLS",
     "team_a": {
-      "name": "Polar Squad",
-      "code": "PLS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
-    },
-    "team_b": {
       "name": "Zeu5 Esports",
       "code": "Z5",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
+    },
+    "team_b": {
+      "name": "Polar Squad",
+      "code": "PLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
     },
     "start_time": "2026-07-04T22:00:00Z",
     "status": "upcoming"
