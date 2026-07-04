@@ -728,7 +728,7 @@
     "team_a": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "team_b": {
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "3V TEAM",
       "code": "3V",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "start_time": "2026-07-04T19:00:00Z",
