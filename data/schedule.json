@@ -2,25 +2,6 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "DCG vs KC",
-    "team_a": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
-    },
-    "team_b": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "start_time": "2026-06-28T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "MSI",
-    "league_code": "msi",
     "match": "T1 vs KC",
     "team_a": {
       "name": "T1",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "ZEN",
       "code": "Z3N",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
     },
     "team_b": {
@@ -762,21 +743,21 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "LYON vs FUR",
+    "match": "FUR vs LYON",
     "team_a": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
       "name": "FURIA",
       "code": "FUR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
     "start_time": "2026-07-04T03:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "MSI",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-07-09T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "TOG vs BIG",
+    "team_a": {
+      "name": "TeamOrangeGaming",
+      "code": "TOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-09T18:00:00Z",
     "status": "upcoming"
   }
 ]
