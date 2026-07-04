@@ -747,17 +747,17 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-04T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -952,18 +952,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs FUR",
+    "match": "BLG vs LYON",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
+      "name": "LYON",
+      "code": "LYON",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-06T03:00:00Z",
     "status": "upcoming"
@@ -971,18 +971,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs LYON",
+    "match": "T1 vs FUR",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "T1",
+      "code": "T1",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
-      "name": "LYON",
-      "code": "LYON",
+      "name": "FURIA",
+      "code": "FUR",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+      "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-07-06T08:00:00Z",
     "status": "upcoming"
