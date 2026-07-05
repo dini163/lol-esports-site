@@ -2,25 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "ROSS vs G2N",
-    "team_a": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-06-30T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "KHK vs EINS",
     "team_a": {
       "name": "Kaufland Hangry Knights",
@@ -762,25 +743,6 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "PLS vs 3V",
-    "team_a": {
-      "name": "Polar Squad",
-      "code": "PLS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
-    },
-    "team_b": {
-      "name": "3V TEAM",
-      "code": "3V",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
-    },
-    "start_time": "2026-07-05T19:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
     "match": "Z5 vs FUE",
     "team_a": {
       "name": "Zeu5 Esports",
@@ -800,20 +762,20 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "SDM vs LYON",
+    "match": "PLS vs 3V",
     "team_a": {
-      "name": "SDM Tigres",
-      "code": "SDM",
+      "name": "Polar Squad",
+      "code": "PLS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
     },
     "team_b": {
-      "name": "Lyon Academy",
-      "code": "LYON",
+      "name": "3V TEAM",
+      "code": "3V",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
-    "start_time": "2026-07-05T22:00:00Z",
+    "start_time": "2026-07-05T19:00:00Z",
     "status": "upcoming"
   },
   {
@@ -831,6 +793,25 @@
       "code": "NCG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
+    },
+    "start_time": "2026-07-05T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "SDM vs LYON",
+    "team_a": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "team_b": {
+      "name": "Lyon Academy",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-05T22:00:00Z",
     "status": "upcoming"
