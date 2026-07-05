@@ -2,25 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "KHK vs EINS",
-    "team_a": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "team_b": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "start_time": "2026-06-30T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "TOG vs VFB",
     "team_a": {
       "name": "TeamOrangeGaming",
@@ -743,58 +724,39 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "Z5 vs FUE",
+    "match": "3V vs PLS",
     "team_a": {
-      "name": "Zeu5 Esports",
-      "code": "Z5",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
+      "name": "3V TEAM",
+      "code": "3V",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "team_b": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "start_time": "2026-07-05T19:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "PLS vs 3V",
-    "team_a": {
       "name": "Polar Squad",
       "code": "PLS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
     },
-    "team_b": {
-      "name": "3V TEAM",
-      "code": "3V",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
-    },
     "start_time": "2026-07-05T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "KITS vs NCG",
+    "match": "FUE vs Z5",
     "team_a": {
-      "name": "Kits Esports",
-      "code": "KITS",
+      "name": "FUEGO",
+      "code": "FUE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "team_b": {
-      "name": "NCG Esports",
-      "code": "NCG",
+      "name": "Zeu5 Esports",
+      "code": "Z5",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
+      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
     },
-    "start_time": "2026-07-05T22:00:00Z",
+    "start_time": "2026-07-05T19:00:00Z",
     "status": "upcoming"
   },
   {
@@ -812,6 +774,25 @@
       "code": "LYON",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "start_time": "2026-07-05T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "KITS vs NCG",
+    "team_a": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "team_b": {
+      "name": "NCG Esports",
+      "code": "NCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
     },
     "start_time": "2026-07-05T22:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
     },
     "start_time": "2026-07-10T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "VTC vs GLE",
+    "team_a": {
+      "name": "Volticons",
+      "code": "VTC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
+    },
+    "team_b": {
+      "name": "Golden Lions",
+      "code": "GLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "start_time": "2026-07-10T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "9ZG vs Z3N",
+    "team_a": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
+    "team_b": {
+      "name": "ZEN",
+      "code": "Z3N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
+    },
+    "start_time": "2026-07-10T23:00:00Z",
     "status": "upcoming"
   }
 ]
