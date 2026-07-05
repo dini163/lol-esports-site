@@ -1,43 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "TOG vs VFB",
-    "team_a": {
-      "name": "TeamOrangeGaming",
-      "code": "TOG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
-    },
-    "team_b": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "start_time": "2026-06-30T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "T1 vs TL",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Team Liquid Alienware",
-      "code": "TL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-    },
-    "start_time": "2026-07-01T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "TPX vs SPAR",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "Zeu5 Esports",
       "code": "Z5",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
     },
     "start_time": "2026-07-05T19:00:00Z",
@@ -762,18 +724,18 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "KITS vs NCG",
+    "match": "NCG vs KITS",
     "team_a": {
-      "name": "Kits Esports",
-      "code": "KITS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
-    },
-    "team_b": {
       "name": "NCG Esports",
       "code": "NCG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
+    },
+    "team_b": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-07-05T22:00:00Z",
     "status": "completed"
@@ -791,7 +753,7 @@
     "team_b": {
       "name": "Lyon Academy",
       "code": "LYON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-05T22:00:00Z",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
     },
     "start_time": "2026-07-10T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "MAZ vs DEC",
+    "team_a": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "team_b": {
+      "name": "Docta Esports Club",
+      "code": "DEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
+    },
+    "start_time": "2026-07-10T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-11T08:00:00Z",
     "status": "upcoming"
   }
 ]
