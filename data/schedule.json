@@ -2,25 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "BIG vs EWI",
-    "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "start_time": "2026-06-30T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "USE vs SGE",
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
@@ -766,17 +747,17 @@
     "team_a": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-07-05T03:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "MSI",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-09T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-10T08:00:00Z",
     "status": "upcoming"
   }
 ]
