@@ -1044,6 +1044,29 @@
     },
     "highlights": []
   },
+  "SlowQ": {
+    "id": "SlowQ",
+    "name": "Yebit Seo",
+    "ign": "SlowQ",
+    "role": "MID",
+    "team": "SK Gaming",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "SlowQ is a professional League of Legends player competing in the LEC as the MID for SK Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.9",
+      "kill_participation": "66%",
+      "win_rate": "60%"
+    },
+    "highlights": []
+  },
   "LIDER": {
     "id": "LIDER",
     "name": "Adam  Ilyasov",
@@ -1113,6 +1136,29 @@
     },
     "highlights": []
   },
+  "Oscarinin": {
+    "id": "Oscarinin",
+    "name": "Oscar Muñoz Jiménez",
+    "ign": "Oscarinin",
+    "role": "TOP",
+    "team": "GIANTX",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Oscarinin is a professional League of Legends player competing in the LEC as the TOP for GIANTX. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "9.2",
+      "kill_participation": "77%",
+      "win_rate": "52%"
+    },
+    "highlights": []
+  },
   "Lot": {
     "id": "Lot",
     "name": "Eren Yıldız",
@@ -1179,6 +1225,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "65%",
       "win_rate": "63%"
+    },
+    "highlights": []
+  },
+  "Flakked": {
+    "id": "Flakked",
+    "name": "Victor  Lirola",
+    "ign": "Flakked",
+    "role": "BOTTOM",
+    "team": "GIANTX",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1754474220170_image6232.png",
+    "bio": "Flakked is a professional League of Legends player competing in the LEC as the BOTTOM for GIANTX. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.2",
+      "kill_participation": "72%",
+      "win_rate": "60%"
     },
     "highlights": []
   },
@@ -5143,6 +5212,29 @@
     },
     "highlights": []
   },
+  "Fiesta": {
+    "id": "Fiesta",
+    "name": "Hyunseo An",
+    "ign": "Fiesta",
+    "role": "MID",
+    "team": "Team Vitality",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Fiesta is a professional League of Legends player competing in the LEC as the MID for Team Vitality. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.7",
+      "cs_per_min": "8.7",
+      "kill_participation": "67%",
+      "win_rate": "72%"
+    },
+    "highlights": []
+  },
   "Humanoid": {
     "id": "Humanoid",
     "name": "Marek Brázda",
@@ -5426,7 +5518,7 @@
     "role": "TOP",
     "team": "Invictus Gaming",
     "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225869529_soboro.png",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
     "bio": "Soboro is a professional League of Legends player competing in the LPL as the TOP for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Aatrox",
