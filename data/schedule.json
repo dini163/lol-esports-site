@@ -1199,25 +1199,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "EINS vs EWI",
-    "team_a": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "start_time": "2026-07-09T15:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "KHK vs USE",
     "team_a": {
       "name": "Kaufland Hangry Knights",
@@ -1230,6 +1211,25 @@
       "code": "USE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "start_time": "2026-07-09T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EINS vs EWI",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
     },
     "start_time": "2026-07-09T16:00:00Z",
     "status": "upcoming"
