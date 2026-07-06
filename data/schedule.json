@@ -2,25 +2,6 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "TPX vs SPAR",
-    "team_a": {
-      "name": "TheParadOx Invaders",
-      "code": "TPX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Spartans EU",
-      "code": "SPAR",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
-    },
-    "start_time": "2026-07-01T13:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
     "match": "HELL vs TP",
     "team_a": {
       "name": "Hell ZeroLag",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-06T03:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "MSI",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-07-06T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -952,18 +933,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TSW",
+    "match": "TSW vs LYON",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-08T08:00:00Z",
     "status": "upcoming"
@@ -1180,18 +1161,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs HLE",
+    "match": "HLE vs BLG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-09T08:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-11T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "3V vs SDM",
+    "team_a": {
+      "name": "3V TEAM",
+      "code": "3V",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
+    },
+    "team_b": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "start_time": "2026-07-11T19:00:00Z",
     "status": "upcoming"
   }
 ]
