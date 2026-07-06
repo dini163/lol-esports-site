@@ -2884,29 +2884,6 @@
     },
     "highlights": []
   },
-  "Sheo": {
-    "id": "Sheo",
-    "name": "Théo Borile",
-    "ign": "Sheo",
-    "role": "JUNGLE",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1774652573563_sheo.png",
-    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "10.1",
-      "kill_participation": "78%",
-      "win_rate": "67%"
-    },
-    "highlights": []
-  },
   "Boukada": {
     "id": "Boukada",
     "name": "Lahlou Mehdi",
@@ -2927,6 +2904,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "68%",
       "win_rate": "54%"
+    },
+    "highlights": []
+  },
+  "Sheo": {
+    "id": "Sheo",
+    "name": "Théo Borile",
+    "ign": "Sheo",
+    "role": "JUNGLE",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1774652573563_sheo.png",
+    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.4",
+      "cs_per_min": "10.1",
+      "kill_participation": "78%",
+      "win_rate": "67%"
     },
     "highlights": []
   },

@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "HELL vs TP",
-    "team_a": {
-      "name": "Hell ZeroLag",
-      "code": "HELL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
-    },
-    "team_b": {
-      "name": "Team Phantasma",
-      "code": "TP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
-    },
-    "start_time": "2026-07-01T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "TOG vs SGE",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-07-06T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -914,18 +895,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs G2",
+    "match": "LYON vs TSW",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LYON",
+      "code": "LYON",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
+      "name": "Team Secret Whales",
+      "code": "TSW",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-07-08T03:00:00Z",
     "status": "upcoming"
@@ -933,18 +914,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TSW vs LYON",
+    "match": "G2 vs T1",
     "team_a": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
+      "name": "G2 Esports",
+      "code": "G2",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
-      "name": "LYON",
-      "code": "LYON",
+      "name": "T1",
+      "code": "T1",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-08T08:00:00Z",
     "status": "upcoming"
@@ -1515,6 +1496,25 @@
       "code": "SDM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "start_time": "2026-07-11T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "PLS vs NCG",
+    "team_a": {
+      "name": "Polar Squad",
+      "code": "PLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
+    },
+    "team_b": {
+      "name": "NCG Esports",
+      "code": "NCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
     },
     "start_time": "2026-07-11T19:00:00Z",
     "status": "upcoming"
