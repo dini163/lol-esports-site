@@ -1,43 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "USE vs VFB",
-    "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "start_time": "2026-07-01T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "BIG vs KHK",
-    "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "start_time": "2026-07-01T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "DEC vs VTC",
@@ -734,11 +696,11 @@
     "team_b": {
       "name": "Gamespace M.C.",
       "code": "GSMC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-07-07T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -753,30 +715,30 @@
     "team_b": {
       "name": "TeamOrangeGaming",
       "code": "TOG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-07T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "EINS vs USE",
+    "match": "USE vs EINS",
     "team_a": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "team_b": {
       "name": "Eintracht Spandau",
       "code": "EINS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
-    "team_b": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
     "start_time": "2026-07-07T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
     },
     "start_time": "2026-07-07T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-12T06:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "NCG vs Z5",
+    "team_a": {
+      "name": "NCG Esports",
+      "code": "NCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
+    },
+    "team_b": {
+      "name": "Zeu5 Esports",
+      "code": "Z5",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
+    },
+    "start_time": "2026-07-12T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "SDM vs FUE",
+    "team_a": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-07-12T19:00:00Z",
     "status": "upcoming"
   }
 ]
