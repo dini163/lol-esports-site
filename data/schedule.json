@@ -753,11 +753,11 @@
     "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-07-07T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "MSI",
