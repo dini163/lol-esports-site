@@ -2,44 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "EWI vs G2N",
-    "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-07-01T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "ROSS vs EINS",
-    "team_a": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "team_b": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "start_time": "2026-07-01T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "USE vs VFB",
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
@@ -747,17 +709,17 @@
     "team_a": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
       "name": "TheParadOx Invaders",
       "code": "TPX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "start_time": "2026-07-07T13:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -772,11 +734,11 @@
     "team_b": {
       "name": "Gamespace M.C.",
       "code": "GSMC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-07-07T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-07T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-07-11T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "KITS vs Z5",
+    "team_a": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "team_b": {
+      "name": "Zeu5 Esports",
+      "code": "Z5",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
+    },
+    "start_time": "2026-07-11T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-12T06:00:00Z",
     "status": "upcoming"
   }
 ]
