@@ -639,16 +639,16 @@
     "players": [
       "Lancer",
       "DuDu",
+      "Sharvel",
       "DDoiV",
       "Pyosik",
-      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
-      "Life",
       "Peter",
-      "Quantum "
+      "Quantum ",
+      "Life"
     ]
   },
   {
@@ -658,17 +658,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Rich",
       "Frog",
+      "Rich",
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
-      "LazyFeel",
+      "Ucal",
       "Jiwoo",
-      "Andil",
-      "Minous"
+      "LazyFeel",
+      "Minous",
+      "Andil"
     ]
   },
   {
@@ -679,8 +679,8 @@
     "image": "https://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
     "players": [
       "Hery",
-      "re0",
       "Juhan",
+      "re0",
       "haichao",
       "Starry",
       "Photic",

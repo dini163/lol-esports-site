@@ -5350,29 +5350,6 @@
     },
     "highlights": []
   },
-  "re0": {
-    "id": "re0",
-    "name": "HANYANG XU",
-    "ign": "re0",
-    "role": "JUNGLE",
-    "team": "Oh My God",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348909352_re0.png",
-    "bio": "re0 is a professional League of Legends player competing in the LPL as the JUNGLE for Oh My God. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "5.0",
-      "cs_per_min": "8.7",
-      "kill_participation": "67%",
-      "win_rate": "51%"
-    },
-    "highlights": []
-  },
   "Juhan": {
     "id": "Juhan",
     "name": "Juhan Lee",
@@ -5393,6 +5370,29 @@
       "cs_per_min": "8.3",
       "kill_participation": "69%",
       "win_rate": "58%"
+    },
+    "highlights": []
+  },
+  "re0": {
+    "id": "re0",
+    "name": "HANYANG XU",
+    "ign": "re0",
+    "role": "JUNGLE",
+    "team": "Oh My God",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348909352_re0.png",
+    "bio": "re0 is a professional League of Legends player competing in the LPL as the JUNGLE for Oh My God. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "8.7",
+      "kill_participation": "67%",
+      "win_rate": "51%"
     },
     "highlights": []
   },
