@@ -2,25 +2,6 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "SPAR vs HELL",
-    "team_a": {
-      "name": "Spartans EU",
-      "code": "SPAR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
-    },
-    "team_b": {
-      "name": "Hell ZeroLag",
-      "code": "HELL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
-    },
-    "start_time": "2026-07-02T13:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
     "match": "TP vs VLR",
     "team_a": {
       "name": "Team Phantasma",
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "start_time": "2026-07-08T13:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
     },
     "start_time": "2026-07-13T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "ROSS vs TOG",
+    "team_a": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
+    },
+    "team_b": {
+      "name": "TeamOrangeGaming",
+      "code": "TOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
+    },
+    "start_time": "2026-07-13T17:00:00Z",
     "status": "upcoming"
   }
 ]
