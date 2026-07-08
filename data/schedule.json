@@ -766,7 +766,7 @@
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
@@ -791,7 +791,7 @@
     "team_b": {
       "name": "Malvinas Gaming",
       "code": "MVG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "start_time": "2026-07-08T23:00:00Z",
