@@ -1,24 +1,5 @@
 [
   {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "MAZ vs MVG",
-    "team_a": {
-      "name": "Maze Gaming",
-      "code": "MAZ",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
-    },
-    "team_b": {
-      "name": "Malvinas Gaming",
-      "code": "MVG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
-    },
-    "start_time": "2026-07-01T23:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "SPAR vs HELL",
@@ -766,13 +747,13 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-08T08:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-07-13T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "KHK vs SGE",
+    "team_a": {
+      "name": "Kaufland Hangry Knights",
+      "code": "KHK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
+    },
+    "team_b": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
+    "start_time": "2026-07-13T16:00:00Z",
     "status": "upcoming"
   }
 ]
