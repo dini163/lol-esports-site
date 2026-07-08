@@ -747,7 +747,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-08T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -1199,18 +1199,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs LYON",
+    "match": "LYON vs G2",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "LYON",
       "code": "LYON",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-10T08:00:00Z",
     "status": "upcoming"
