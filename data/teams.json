@@ -70,8 +70,10 @@
       "Clear",
       "Zephyr",
       "Raptor",
+      "Grizzly",
       "VicLa",
       "Daystar",
+      "MG",
       "Slayer",
       "Taeyoon",
       "Luon",
@@ -323,9 +325,11 @@
       "Clear",
       "Kangin",
       "Raptor",
+      "Grizzly",
       "Zephyr",
       "Daystar",
       "VicLa",
+      "MG",
       "Taeyoon",
       "Slayer",
       "Diable",
@@ -470,6 +474,7 @@
       "Faker",
       "Cypher",
       "Peyz",
+      "Eclipse",
       "Jinbeom",
       "Cloud ",
       "Keria"
@@ -500,8 +505,8 @@
       "Blaber",
       "APA",
       "Loki ",
-      "Zven",
       "Tactical",
+      "Zven",
       "Vulcan"
     ]
   },
@@ -514,11 +519,11 @@
     "players": [
       "Zdz",
       "Xiaohao",
-      "sinian",
       "Angel",
+      "sinian",
       "Leave",
-      "Jwei",
-      "Parukia"
+      "Parukia",
+      "Jwei"
     ]
   },
   {
@@ -603,8 +608,8 @@
     "players": [
       "Naak Nako",
       "Lyncas",
-      "Fiesta",
       "Humanoid",
+      "Fiesta",
       "Carzzy",
       "Fleshy",
       "Lukezy"
@@ -617,10 +622,10 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
-      "Sylvie",
+      "Sero",
       "Cuzz",
+      "Sylvie",
       "Hwichan",
       "Bdd",
       "Aiming",
@@ -639,16 +644,16 @@
     "players": [
       "Lancer",
       "DuDu",
-      "Sharvel",
       "DDoiV",
       "Pyosik",
+      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
+      "Life",
       "Peter",
-      "Quantum ",
-      "Life"
+      "Quantum "
     ]
   },
   {
@@ -658,17 +663,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Frog",
       "Rich",
+      "Frog",
       "Vincenzo",
       "Willer",
       "Winner",
-      "AKaJe",
       "Ucal",
-      "Jiwoo",
+      "AKaJe",
       "LazyFeel",
-      "Minous",
-      "Andil"
+      "Jiwoo",
+      "Andil",
+      "Minous"
     ]
   },
   {
@@ -679,11 +684,11 @@
     "image": "https://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
     "players": [
       "Hery",
-      "Juhan",
       "re0",
+      "Juhan",
       "haichao",
-      "Starry",
       "Photic",
+      "Starry",
       "Moham"
     ]
   },
@@ -711,9 +716,9 @@
       "Breathe",
       "Soboro",
       "Wei",
-      "Rookie",
       "Nia1",
       "Renard",
+      "Rookie",
       "JiaQi",
       "Meiko"
     ]
