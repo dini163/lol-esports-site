@@ -2,44 +2,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "7D vs DEC",
-    "team_a": {
-      "name": "Seven Dark",
-      "code": "7D",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
-    },
-    "team_b": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
-    },
-    "start_time": "2026-07-02T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "MVG vs Z3N",
-    "team_a": {
-      "name": "Malvinas Gaming",
-      "code": "MVG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
-    },
-    "team_b": {
-      "name": "ZEN",
-      "code": "Z3N",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
-    },
-    "start_time": "2026-07-02T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "VTC vs MAZ",
     "team_a": {
       "name": "Volticons",
@@ -643,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "start_time": "2026-07-08T13:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -662,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
     },
     "start_time": "2026-07-08T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
     },
     "start_time": "2026-07-08T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-08T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-07-14T02:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "LUA vs FLK",
+    "team_a": {
+      "name": "LUA Gaming",
+      "code": "LUA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
+    },
+    "team_b": {
+      "name": "FALKE ESPORTS",
+      "code": "FLK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
+    },
+    "start_time": "2026-07-14T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "MCON vs DYN",
+    "team_a": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
+    },
+    "team_b": {
+      "name": "Dynasty",
+      "code": "DYN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
+    },
+    "start_time": "2026-07-14T17:00:00Z",
     "status": "upcoming"
   }
 ]
