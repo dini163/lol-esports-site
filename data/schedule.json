@@ -747,7 +747,7 @@
     "team_a": {
       "name": "LYON",
       "code": "LYON",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-07-08T03:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "MSI",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-08T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1218,7 +1218,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs LYON",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1226,10 +1226,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LYON",
+      "code": "LYON",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-10T08:00:00Z",
     "status": "upcoming"
