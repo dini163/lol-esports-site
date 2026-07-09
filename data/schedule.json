@@ -1,43 +1,5 @@
 [
   {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "NCG vs SDM",
-    "team_a": {
-      "name": "NCG Esports",
-      "code": "NCG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
-    },
-    "team_b": {
-      "name": "SDM Tigres",
-      "code": "SDM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
-    },
-    "start_time": "2026-07-04T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "Z5 vs PLS",
-    "team_a": {
-      "name": "Zeu5 Esports",
-      "code": "Z5",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
-    },
-    "team_b": {
-      "name": "Polar Squad",
-      "code": "PLS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
-    },
-    "start_time": "2026-07-04T22:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "MSI",
     "league_code": "msi",
     "match": "TSW vs TES",
@@ -728,17 +690,17 @@
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-09T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Maze Gaming",
       "code": "MAZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "start_time": "2026-07-09T20:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -776,23 +738,23 @@
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-07-09T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "MVG vs DEC",
+    "match": "DEC vs MVG",
     "team_a": {
+      "name": "Docta Esports Club",
+      "code": "DEC",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
+    },
+    "team_b": {
       "name": "Malvinas Gaming",
       "code": "MVG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
-    },
-    "team_b": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-09T23:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-07-15T11:20:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "HLE vs ML",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "MIBR.LOS",
+      "code": "ML",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    },
+    "start_time": "2026-07-15T12:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "JDG vs LYON",
+    "team_a": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "start_time": "2026-07-15T12:30:00Z",
     "status": "upcoming"
   }
 ]
