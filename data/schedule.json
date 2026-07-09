@@ -1,24 +1,5 @@
 [
   {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "TES vs G2",
-    "team_a": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "start_time": "2026-07-03T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "VTC vs MVG",
@@ -747,17 +728,17 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-09T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -1066,7 +1047,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs HLE",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1074,10 +1055,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-11T08:00:00Z",
     "status": "upcoming"
@@ -1161,7 +1142,7 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs TBD",
+    "match": "TBD vs BLG",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1169,10 +1150,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-12T06:00:00Z",
     "status": "upcoming"
