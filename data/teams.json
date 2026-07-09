@@ -210,9 +210,9 @@
       "Flip",
       "deokdam",
       "Enosh",
-      "Life",
+      "Peter",
       "Quantum ",
-      "Peter"
+      "Life"
     ]
   },
   {
@@ -284,15 +284,15 @@
     "players": [
       "Panther",
       "Zeus",
-      "Jackal",
       "Kanavi",
-      "Zeka",
+      "Jackal",
       "Cracker",
       "Valiant",
-      "Pyeonsik",
+      "Zeka",
       "Gumayusi",
-      "Delight",
-      "Bluffing"
+      "Pyeonsik",
+      "Bluffing",
+      "Delight"
     ]
   },
   {
@@ -302,8 +302,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "PerfecT",
       "Sero",
+      "PerfecT",
       "Cuzz",
       "Sylvie",
       "Hwichan",
@@ -324,15 +324,15 @@
     "players": [
       "Clear",
       "Kangin",
-      "Raptor",
       "Grizzly",
+      "Raptor",
       "Zephyr",
-      "Daystar",
       "VicLa",
       "MG",
+      "Daystar",
+      "Diable",
       "Taeyoon",
       "Slayer",
-      "Diable",
       "Kellin",
       "Luon"
     ]
@@ -348,13 +348,13 @@
       "Kingen",
       "Sponge",
       "MihawK",
-      "Calix",
       "Scout",
       "SeTab",
+      "Calix",
       "Lucy",
       "Diable",
-      "Lehends",
-      "Pleata"
+      "Pleata",
+      "Lehends"
     ]
   },
   {
@@ -465,17 +465,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
     "players": [
-      "Guardian",
       "Doran",
       "Haetae",
-      "Painter",
+      "Guardian",
       "Oner",
+      "Painter",
       "Guti",
       "Faker",
+      "Jinbeom",
+      "Eclipse",
       "Cypher",
       "Peyz",
-      "Eclipse",
-      "Jinbeom",
       "Cloud ",
       "Keria"
     ]
@@ -522,8 +522,8 @@
       "Angel",
       "sinian",
       "Leave",
-      "Parukia",
-      "Jwei"
+      "Jwei",
+      "Parukia"
     ]
   },
   {
@@ -534,12 +534,12 @@
     "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
     "players": [
       "Cube",
-      "Tyrion",
       "Monki",
+      "Tyrion",
       "Karis",
       "About",
-      "Erha",
-      "Dorian"
+      "Dorian",
+      "Erha"
     ]
   },
   {
@@ -608,8 +608,8 @@
     "players": [
       "Naak Nako",
       "Lyncas",
-      "Humanoid",
       "Fiesta",
+      "Humanoid",
       "Carzzy",
       "Fleshy",
       "Lukezy"
@@ -622,12 +622,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "PerfecT",
       "Sero",
-      "Cuzz",
+      "PerfecT",
       "Sylvie",
-      "Hwichan",
+      "Cuzz",
       "Bdd",
+      "Hwichan",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -651,9 +651,9 @@
       "Flip",
       "deokdam",
       "Enosh",
+      "Quantum ",
       "Life",
-      "Peter",
-      "Quantum "
+      "Peter"
     ]
   },
   {
@@ -663,17 +663,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Rich",
       "Frog",
+      "Rich",
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
-      "LazyFeel",
+      "Ucal",
       "Jiwoo",
-      "Andil",
-      "Minous"
+      "LazyFeel",
+      "Minous",
+      "Andil"
     ]
   },
   {
@@ -684,11 +684,11 @@
     "image": "https://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
     "players": [
       "Hery",
-      "re0",
       "Juhan",
+      "re0",
       "haichao",
-      "Photic",
       "Starry",
+      "Photic",
       "Moham"
     ]
   },
@@ -716,9 +716,9 @@
       "Breathe",
       "Soboro",
       "Wei",
+      "Rookie",
       "Nia1",
       "Renard",
-      "Rookie",
       "JiaQi",
       "Meiko"
     ]
@@ -787,8 +787,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
     "players": [
-      "369",
       "ZUIAN",
+      "369",
       "Tian",
       "Creme",
       "JackeyLove",

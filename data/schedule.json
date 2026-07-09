@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Valerion",
       "code": "VLR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-07-09T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1465,18 +1465,18 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "OUAT vs MYTH",
+    "match": "ZNT vs SNSH",
     "team_a": {
-      "name": "Once Upon a Team",
-      "code": "OUAT",
+      "name": "ZennIT",
+      "code": "ZNT",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
+      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "team_b": {
-      "name": "Myth Esports",
-      "code": "MYTH",
+      "name": "Senshi eSports",
+      "code": "SNSH",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
+      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "start_time": "2026-07-14T18:00:00Z",
     "status": "upcoming"
@@ -1496,6 +1496,25 @@
       "code": "MAZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "start_time": "2026-07-14T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "Z3N vs DEC",
+    "team_a": {
+      "name": "ZEN",
+      "code": "Z3N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
+    },
+    "team_b": {
+      "name": "Docta Esports Club",
+      "code": "DEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-14T20:00:00Z",
     "status": "upcoming"
