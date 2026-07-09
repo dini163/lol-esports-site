@@ -2,25 +2,6 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "HLE vs TSW",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "start_time": "2026-07-03T03:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "MSI",
-    "league_code": "msi",
     "match": "TES vs G2",
     "team_a": {
       "name": "TOP ESPORTS",
@@ -762,21 +743,21 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "HLE vs BLG",
+    "match": "BLG vs HLE",
     "team_a": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
-    "team_b": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
     "start_time": "2026-07-09T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-07-14T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "GLE vs MAZ",
+    "team_a": {
+      "name": "Golden Lions",
+      "code": "GLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "team_b": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "start_time": "2026-07-14T20:00:00Z",
     "status": "upcoming"
   }
 ]
