@@ -1,62 +1,5 @@
 [
   {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "T1 vs BLG",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "start_time": "2026-07-04T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "FUE vs KITS",
-    "team_a": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "team_b": {
-      "name": "Kits Esports",
-      "code": "KITS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
-    },
-    "start_time": "2026-07-04T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "LYON vs 3V",
-    "team_a": {
-      "name": "Lyon Academy",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
-      "name": "3V TEAM",
-      "code": "3V",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
-    },
-    "start_time": "2026-07-04T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRN",
     "league_code": "lrn",
     "match": "NCG vs SDM",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
@@ -757,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-09T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -766,7 +709,7 @@
     "team_a": {
       "name": "VfB Stuttgart",
       "code": "VFB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
     },
     "team_b": {
@@ -776,42 +719,42 @@
       "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
     },
     "start_time": "2026-07-09T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "9ZG vs VTC",
+    "match": "VTC vs 9ZG",
     "team_a": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "team_b": {
       "name": "Volticons",
       "code": "VTC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
     "start_time": "2026-07-09T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "MAZ vs Z3N",
+    "match": "Z3N vs MAZ",
     "team_a": {
-      "name": "Maze Gaming",
-      "code": "MAZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
-    },
-    "team_b": {
       "name": "ZEN",
       "code": "Z3N",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
+    },
+    "team_b": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "start_time": "2026-07-09T20:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-15T10:10:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "BLG vs MKOI",
+    "team_a": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI",
+      "code": "MKOI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    },
+    "start_time": "2026-07-15T10:10:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "DK vs AGAL",
+    "team_a": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "AG.AL",
+      "code": "AGAL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
+    },
+    "start_time": "2026-07-15T11:20:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "G2 vs FUR",
+    "team_a": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "team_b": {
+      "name": "FURIA",
+      "code": "FUR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/FURIA---black.png"
+    },
+    "start_time": "2026-07-15T11:20:00Z",
     "status": "upcoming"
   }
 ]
