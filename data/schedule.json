@@ -1,43 +1,5 @@
 [
   {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "TSW vs TES",
-    "team_a": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-07-05T03:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "HLE vs G2",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "start_time": "2026-07-05T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRN",
     "league_code": "lrn",
     "match": "3V vs PLS",
@@ -762,21 +724,21 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "LYON vs G2",
+    "match": "G2 vs LYON",
     "team_a": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
     "start_time": "2026-07-10T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -857,18 +819,18 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "TBD vs HLE",
+    "match": "HLE vs LYON",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-11T08:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-15T12:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-15T13:40:00Z",
     "status": "upcoming"
   }
 ]
