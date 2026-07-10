@@ -5281,15 +5281,15 @@
     },
     "highlights": []
   },
-  "Fiesta": {
-    "id": "Fiesta",
+  "FIESTA": {
+    "id": "FIESTA",
     "name": "Hyunseo An",
-    "ign": "Fiesta",
+    "ign": "FIESTA",
     "role": "MID",
     "team": "Team Vitality",
     "region": "LEC",
     "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Fiesta is a professional League of Legends player competing in the LEC as the MID for Team Vitality. Known for mechanical prowess and dedication to team cohesion.",
+    "bio": "FIESTA is a professional League of Legends player competing in the LEC as the MID for Team Vitality. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Azir",
       "Orianna",
@@ -5297,10 +5297,10 @@
       "Yone"
     ],
     "stats": {
-      "kda": "3.7",
-      "cs_per_min": "8.7",
+      "kda": "4.6",
+      "cs_per_min": "9.1",
       "kill_participation": "67%",
-      "win_rate": "72%"
+      "win_rate": "56%"
     },
     "highlights": []
   },

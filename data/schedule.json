@@ -1,5 +1,24 @@
 [
   {
+    "league": "MSI",
+    "league_code": "msi",
+    "match": "HLE vs G2",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-07-05T08:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LRN",
     "league_code": "lrn",
     "match": "3V vs PLS",
