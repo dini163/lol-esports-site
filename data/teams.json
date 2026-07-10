@@ -477,8 +477,8 @@
       "Eclipse",
       "Cypher",
       "Peyz",
-      "Keria",
-      "Cloud "
+      "Cloud ",
+      "Keria"
     ]
   },
   {
@@ -506,8 +506,8 @@
       "Blaber",
       "APA",
       "Loki ",
-      "Zven",
       "Tactical",
+      "Zven",
       "Vulcan"
     ]
   },
@@ -520,8 +520,8 @@
     "players": [
       "Zdz",
       "Xiaohao",
-      "sinian",
       "Angel",
+      "sinian",
       "Leave",
       "Jwei",
       "Parukia"
@@ -535,12 +535,12 @@
     "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
     "players": [
       "Cube",
-      "Tyrion",
       "Monki",
+      "Tyrion",
       "Karis",
       "About",
-      "Erha",
-      "Dorian"
+      "Dorian",
+      "Erha"
     ]
   },
   {
@@ -623,12 +623,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "PerfecT",
       "Sero",
-      "Cuzz",
+      "PerfecT",
       "Sylvie",
-      "Hwichan",
+      "Cuzz",
       "Bdd",
+      "Hwichan",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -652,9 +652,9 @@
       "Flip",
       "deokdam",
       "Enosh",
+      "Quantum ",
       "Life",
-      "Peter",
-      "Quantum "
+      "Peter"
     ]
   },
   {
@@ -664,17 +664,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Rich",
       "Frog",
+      "Rich",
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
-      "LazyFeel",
+      "Ucal",
       "Jiwoo",
-      "Andil",
-      "Minous"
+      "LazyFeel",
+      "Minous",
+      "Andil"
     ]
   },
   {
@@ -685,11 +685,11 @@
     "image": "https://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
     "players": [
       "Hery",
-      "re0",
       "Juhan",
+      "re0",
       "haichao",
-      "Photic",
       "Starry",
+      "Photic",
       "Moham"
     ]
   },
@@ -717,9 +717,9 @@
       "Breathe",
       "Soboro",
       "Wei",
+      "Rookie",
       "Nia1",
       "Renard",
-      "Rookie",
       "JiaQi",
       "Meiko"
     ]
@@ -788,8 +788,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
     "players": [
-      "369",
       "ZUIAN",
+      "369",
       "Tian",
       "Creme",
       "JackeyLove",
