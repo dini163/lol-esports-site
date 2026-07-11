@@ -1,43 +1,5 @@
 [
   {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "BLG vs LYON",
-    "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "start_time": "2026-07-06T03:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "T1 vs FUR",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "start_time": "2026-07-06T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "WLG vs TPX",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-07-11T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-15T16:10:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "MKF vs BAR",
+    "team_a": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
+    },
+    "team_b": {
+      "name": "Bar\u00e7a Esports",
+      "code": "BAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
+    },
+    "start_time": "2026-07-15T17:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "JSK vs 1M",
+    "team_a": {
+      "name": "JSK Gamefy",
+      "code": "JSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
+    },
+    "team_b": {
+      "name": "One More Esports ",
+      "code": "1M",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
+    },
+    "start_time": "2026-07-15T18:30:00Z",
     "status": "upcoming"
   }
 ]
