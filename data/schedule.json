@@ -753,7 +753,7 @@
     "team_b": {
       "name": "NCG Esports",
       "code": "NCG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
     },
     "start_time": "2026-07-11T19:00:00Z",
@@ -781,18 +781,18 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "KITS vs Z5",
+    "match": "Z5 vs KITS",
     "team_a": {
-      "name": "Kits Esports",
-      "code": "KITS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
-    },
-    "team_b": {
       "name": "Zeu5 Esports",
       "code": "Z5",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
+    },
+    "team_b": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-07-11T22:00:00Z",
     "status": "upcoming"
