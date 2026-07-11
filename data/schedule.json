@@ -747,13 +747,13 @@
     "team_a": {
       "name": "LYON",
       "code": "LYON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-11T08:00:00Z",
