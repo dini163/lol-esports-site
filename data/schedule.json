@@ -1,24 +1,5 @@
 [
   {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "NCG vs KITS",
-    "team_a": {
-      "name": "NCG Esports",
-      "code": "NCG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
-    },
-    "team_b": {
-      "name": "Kits Esports",
-      "code": "KITS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
-    },
-    "start_time": "2026-07-05T22:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "MSI",
     "league_code": "msi",
     "match": "BLG vs LYON",
@@ -762,21 +743,21 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "HLE vs LYON",
+    "match": "LYON vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "LYON",
       "code": "LYON",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
     "start_time": "2026-07-11T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-07-15T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-15T16:10:00Z",
     "status": "upcoming"
   },
   {
