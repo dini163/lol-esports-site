@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "WLG vs TPX",
-    "team_a": {
-      "name": "WLGaming",
-      "code": "WLG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
-    },
-    "team_b": {
-      "name": "TheParadOx Invaders",
-      "code": "TPX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
-    },
-    "start_time": "2026-07-07T13:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "ALMO vs GSMC",
-    "team_a": {
-      "name": "ALMO Players",
-      "code": "ALMO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
-    },
-    "team_b": {
-      "name": "Gamespace M.C.",
-      "code": "GSMC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
-    },
-    "start_time": "2026-07-07T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs TOG",
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-07-11T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
     },
     "start_time": "2026-07-11T19:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -772,11 +734,11 @@
     "team_b": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-07-11T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
     },
     "start_time": "2026-07-15T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-16T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-16T09:00:00Z",
     "status": "upcoming"
   }
 ]
