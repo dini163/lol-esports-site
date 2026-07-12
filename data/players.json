@@ -5764,29 +5764,6 @@
     },
     "highlights": []
   },
-  "Rookie": {
-    "id": "Rookie",
-    "name": "Ui-jin Song",
-    "ign": "Rookie",
-    "role": "MID",
-    "team": "Invictus Gaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225799612_rookie.png",
-    "bio": "Rookie is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.6",
-      "cs_per_min": "8.1",
-      "kill_participation": "66%",
-      "win_rate": "50%"
-    },
-    "highlights": []
-  },
   "Nia1": {
     "id": "Nia1",
     "name": "GUANGLU ZOU",
@@ -5807,6 +5784,29 @@
       "cs_per_min": "9.4",
       "kill_participation": "63%",
       "win_rate": "58%"
+    },
+    "highlights": []
+  },
+  "Rookie": {
+    "id": "Rookie",
+    "name": "Ui-jin Song",
+    "ign": "Rookie",
+    "role": "MID",
+    "team": "Invictus Gaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225799612_rookie.png",
+    "bio": "Rookie is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "4.6",
+      "cs_per_min": "8.1",
+      "kill_participation": "66%",
+      "win_rate": "50%"
     },
     "highlights": []
   },
@@ -6362,29 +6362,6 @@
     },
     "highlights": []
   },
-  "ZUIAN": {
-    "id": "ZUIAN",
-    "name": "Cheng Zi-Hao",
-    "ign": "ZUIAN",
-    "role": "TOP",
-    "team": "TOP ESPORTS",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775226028458_zuian.png",
-    "bio": "ZUIAN is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.9",
-      "cs_per_min": "9.1",
-      "kill_participation": "63%",
-      "win_rate": "54%"
-    },
-    "highlights": []
-  },
   "369": {
     "id": "369",
     "name": "Jiahao Bai",
@@ -6405,6 +6382,29 @@
       "cs_per_min": "8.5",
       "kill_participation": "63%",
       "win_rate": "48%"
+    },
+    "highlights": []
+  },
+  "ZUIAN": {
+    "id": "ZUIAN",
+    "name": "Cheng Zi-Hao",
+    "ign": "ZUIAN",
+    "role": "TOP",
+    "team": "TOP ESPORTS",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775226028458_zuian.png",
+    "bio": "ZUIAN is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.9",
+      "cs_per_min": "9.1",
+      "kill_participation": "63%",
+      "win_rate": "54%"
     },
     "highlights": []
   },
