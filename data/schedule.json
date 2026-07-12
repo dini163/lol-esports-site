@@ -2,44 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "EWI vs TOG",
-    "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
-      "name": "TeamOrangeGaming",
-      "code": "TOG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
-    },
-    "start_time": "2026-07-07T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "USE vs EINS",
-    "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "start_time": "2026-07-07T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "G2N vs SGE",
     "team_a": {
       "name": "G2 NORD",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-16T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-16T10:10:00Z",
     "status": "upcoming"
   }
 ]
