@@ -2,6 +2,25 @@
   {
     "league": "Prime League",
     "league_code": "pri",
+    "match": "USE vs EINS",
+    "team_a": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "start_time": "2026-07-07T16:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
     "match": "G2N vs SGE",
     "team_a": {
       "name": "G2 NORD",
@@ -724,21 +743,21 @@
   {
     "league": "MSI",
     "league_code": "msi",
-    "match": "HLE vs BLG",
+    "match": "BLG vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
     "start_time": "2026-07-12T06:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
