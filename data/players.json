@@ -3689,29 +3689,6 @@
     },
     "highlights": []
   },
-  "Larssen": {
-    "id": "Larssen",
-    "name": "Emil Larsson",
-    "ign": "Larssen",
-    "role": "MID",
-    "team": "Natus Vincere",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1754473073908_image6331.png",
-    "bio": "Larssen is a professional League of Legends player competing in the LEC as the MID for Natus Vincere. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.2",
-      "kill_participation": "74%",
-      "win_rate": "58%"
-    },
-    "highlights": []
-  },
   "Poby": {
     "id": "Poby",
     "name": "Sungwon Yoon",
@@ -3732,6 +3709,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "64%",
       "win_rate": "56%"
+    },
+    "highlights": []
+  },
+  "Larssen": {
+    "id": "Larssen",
+    "name": "Emil Larsson",
+    "ign": "Larssen",
+    "role": "MID",
+    "team": "Natus Vincere",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1754473073908_image6331.png",
+    "bio": "Larssen is a professional League of Legends player competing in the LEC as the MID for Natus Vincere. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "9.2",
+      "kill_participation": "74%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
@@ -6385,29 +6385,6 @@
     },
     "highlights": []
   },
-  "369": {
-    "id": "369",
-    "name": "Jiahao Bai",
-    "ign": "369",
-    "role": "TOP",
-    "team": "TOP ESPORTS",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347704727_369.png",
-    "bio": "369 is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.6",
-      "cs_per_min": "8.5",
-      "kill_participation": "63%",
-      "win_rate": "48%"
-    },
-    "highlights": []
-  },
   "ZUIAN": {
     "id": "ZUIAN",
     "name": "Cheng Zi-Hao",
@@ -6428,6 +6405,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "63%",
       "win_rate": "54%"
+    },
+    "highlights": []
+  },
+  "369": {
+    "id": "369",
+    "name": "Jiahao Bai",
+    "ign": "369",
+    "role": "TOP",
+    "team": "TOP ESPORTS",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768347704727_369.png",
+    "bio": "369 is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.6",
+      "cs_per_min": "8.5",
+      "kill_participation": "63%",
+      "win_rate": "48%"
     },
     "highlights": []
   },
