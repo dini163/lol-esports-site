@@ -203,16 +203,16 @@
     "players": [
       "DuDu",
       "Lancer",
-      "Sharvel",
       "DDoiV",
       "Pyosik",
+      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
-      "Peter",
+      "Life",
       "Quantum ",
-      "Life"
+      "Peter"
     ]
   },
   {
@@ -242,17 +242,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Frog",
       "Rich",
+      "Frog",
       "Vincenzo",
       "Willer",
       "Winner",
-      "AKaJe",
       "Ucal",
-      "Jiwoo",
+      "AKaJe",
       "LazyFeel",
-      "Minous",
-      "Andil"
+      "Jiwoo",
+      "Andil",
+      "Minous"
     ]
   },
   {
@@ -266,9 +266,9 @@
       "DDahyuk",
       "GIDEON",
       "Dinai",
+      "Pungyeon",
       "Tempester",
       "Roamer",
-      "Pungyeon",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -286,13 +286,13 @@
       "Panther",
       "Kanavi",
       "Jackal",
-      "Zeka",
       "Cracker",
       "Valiant",
+      "Zeka",
       "Gumayusi",
       "Pyeonsik",
-      "Delight",
-      "Bluffing"
+      "Bluffing",
+      "Delight"
     ]
   },
   {
@@ -302,12 +302,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
-      "Sylvie",
+      "Sero",
       "Cuzz",
-      "Hwichan",
+      "Sylvie",
       "Bdd",
+      "Hwichan",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -325,13 +325,13 @@
       "Kangin",
       "Clear",
       "Zephyr",
-      "Grizzly",
       "Raptor",
-      "MG",
-      "Daystar",
+      "Grizzly",
       "VicLa",
-      "Diable",
+      "Daystar",
+      "MG",
       "Slayer",
+      "Diable",
       "Taeyoon",
       "Luon",
       "Kellin"
@@ -351,8 +351,8 @@
       "Scout",
       "SeTab",
       "Calix",
-      "Lucy",
       "Diable",
+      "Lucy",
       "Pleata",
       "Lehends"
     ]
