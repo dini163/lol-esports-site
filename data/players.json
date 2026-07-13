@@ -3275,6 +3275,29 @@
     },
     "highlights": []
   },
+  "Hype ": {
+    "id": "Hype ",
+    "name": "Junghyun Byun",
+    "ign": "Hype ",
+    "role": "BOTTOM",
+    "team": "Team Heretics",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Hype  is a professional League of Legends player competing in the LEC as the BOTTOM for Team Heretics. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "8.2",
+      "kill_participation": "76%",
+      "win_rate": "70%"
+    },
+    "highlights": []
+  },
   "Way": {
     "id": "Way",
     "name": "Han Kil",
