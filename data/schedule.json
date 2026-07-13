@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-07-13T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
