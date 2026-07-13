@@ -3022,29 +3022,6 @@
     },
     "highlights": []
   },
-  "Sheo": {
-    "id": "Sheo",
-    "name": "Théo Borile",
-    "ign": "Sheo",
-    "role": "JUNGLE",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1774652573563_sheo.png",
-    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "10.1",
-      "kill_participation": "78%",
-      "win_rate": "67%"
-    },
-    "highlights": []
-  },
   "Boukada": {
     "id": "Boukada",
     "name": "Lahlou Mehdi",
@@ -3065,6 +3042,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "68%",
       "win_rate": "54%"
+    },
+    "highlights": []
+  },
+  "Sheo": {
+    "id": "Sheo",
+    "name": "Théo Borile",
+    "ign": "Sheo",
+    "role": "JUNGLE",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1774652573563_sheo.png",
+    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.4",
+      "cs_per_min": "10.1",
+      "kill_participation": "78%",
+      "win_rate": "67%"
     },
     "highlights": []
   },
@@ -3114,29 +3114,6 @@
     },
     "highlights": []
   },
-  "Stend": {
-    "id": "Stend",
-    "name": "Paul Lardin",
-    "ign": "Stend",
-    "role": "SUPPORT",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1768551158219_Stend-01.png",
-    "bio": "Stend is a professional League of Legends player competing in the LEC as the SUPPORT for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.5",
-      "cs_per_min": "9.7",
-      "kill_participation": "62%",
-      "win_rate": "48%"
-    },
-    "highlights": []
-  },
   "Trymbi": {
     "id": "Trymbi",
     "name": "Adrian Trybus",
@@ -3157,6 +3134,29 @@
       "cs_per_min": "8.4",
       "kill_participation": "72%",
       "win_rate": "68%"
+    },
+    "highlights": []
+  },
+  "Stend": {
+    "id": "Stend",
+    "name": "Paul Lardin",
+    "ign": "Stend",
+    "role": "SUPPORT",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1768551158219_Stend-01.png",
+    "bio": "Stend is a professional League of Legends player competing in the LEC as the SUPPORT for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.7",
+      "kill_participation": "62%",
+      "win_rate": "48%"
     },
     "highlights": []
   },
@@ -4775,29 +4775,6 @@
     },
     "highlights": []
   },
-  "Erha": {
-    "id": "Erha",
-    "name": "XUYE SHI",
-    "ign": "Erha",
-    "role": "SUPPORT",
-    "team": "Xi'an Team WE",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225577413_erha.png",
-    "bio": "Erha is a professional League of Legends player competing in the LPL as the SUPPORT for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.8",
-      "cs_per_min": "10.1",
-      "kill_participation": "67%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Dorian": {
     "id": "Dorian",
     "name": "SIYUAN CHEN",
@@ -4818,6 +4795,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "77%",
       "win_rate": "62%"
+    },
+    "highlights": []
+  },
+  "Erha": {
+    "id": "Erha",
+    "name": "XUYE SHI",
+    "ign": "Erha",
+    "role": "SUPPORT",
+    "team": "Xi'an Team WE",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225577413_erha.png",
+    "bio": "Erha is a professional League of Legends player competing in the LPL as the SUPPORT for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.8",
+      "cs_per_min": "10.1",
+      "kill_participation": "67%",
+      "win_rate": "59%"
     },
     "highlights": []
   },
