@@ -1,43 +1,5 @@
 [
   {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "VTC vs Z3N",
-    "team_a": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "team_b": {
-      "name": "ZEN",
-      "code": "Z3N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
-    },
-    "start_time": "2026-07-08T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "GLE vs MVG",
-    "team_a": {
-      "name": "Golden Lions",
-      "code": "GLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
-    },
-    "team_b": {
-      "name": "Malvinas Gaming",
-      "code": "MVG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
-    },
-    "start_time": "2026-07-08T23:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "MSI",
     "league_code": "msi",
     "match": "BLG vs HLE",
@@ -734,11 +696,11 @@
     "team_b": {
       "name": "LUA Gaming",
       "code": "LUA",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
     },
     "start_time": "2026-07-14T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -753,7 +715,7 @@
     "team_b": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-07-14T17:00:00Z",
@@ -776,23 +738,23 @@
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-07-14T17:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "ZNT vs SNSH",
+    "match": "SNSH vs ZNT",
     "team_a": {
-      "name": "ZennIT",
-      "code": "ZNT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
-    },
-    "team_b": {
       "name": "Senshi eSports",
       "code": "SNSH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
+    },
+    "team_b": {
+      "name": "ZennIT",
+      "code": "ZNT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "start_time": "2026-07-14T18:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-07-16T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "SGE vs EINS",
+    "team_a": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "start_time": "2026-07-16T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "GNG vs P4",
+    "team_a": {
+      "name": "GNG Amazigh",
+      "code": "GNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "team_b": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "start_time": "2026-07-16T18:30:00Z",
     "status": "upcoming"
   }
 ]
