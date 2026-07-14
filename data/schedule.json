@@ -715,11 +715,11 @@
     "team_b": {
       "name": "ZennIT",
       "code": "ZNT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "start_time": "2026-07-14T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Golden Lions",
       "code": "GLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "team_b": {
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "Docta Esports Club",
       "code": "DEC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-07-14T20:00:00Z",
