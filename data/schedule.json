@@ -1,24 +1,5 @@
 [
   {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "BLG vs HLE",
-    "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-07-09T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "VLR vs GSMC",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-07-14T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "UCAM Esports Club",
       "code": "UCAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Senshi eSports",
       "code": "SNSH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "start_time": "2026-07-14T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
@@ -800,25 +781,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "VTC vs 7D",
-    "team_a": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "team_b": {
-      "name": "Seven Dark",
-      "code": "7D",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
-    },
-    "start_time": "2026-07-14T23:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "9ZG vs MVG",
     "team_a": {
       "name": "9z Globant",
@@ -831,6 +793,25 @@
       "code": "MVG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
+    },
+    "start_time": "2026-07-14T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "VTC vs 7D",
+    "team_a": {
+      "name": "Volticons",
+      "code": "VTC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
+    },
+    "team_b": {
+      "name": "Seven Dark",
+      "code": "7D",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
     },
     "start_time": "2026-07-14T23:00:00Z",
     "status": "upcoming"
