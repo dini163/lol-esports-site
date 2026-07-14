@@ -2,25 +2,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "9ZG vs DEC",
-    "team_a": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "team_b": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
-    },
-    "start_time": "2026-07-08T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "7D vs MAZ",
     "team_a": {
       "name": "Seven Dark",
@@ -762,21 +743,21 @@
   {
     "league": "LES",
     "league_code": "les",
-    "match": "LUA vs FLK",
+    "match": "FLK vs LUA",
     "team_a": {
-      "name": "LUA Gaming",
-      "code": "LUA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
-    },
-    "team_b": {
       "name": "FALKE ESPORTS",
       "code": "FLK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
     },
+    "team_b": {
+      "name": "LUA Gaming",
+      "code": "LUA",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
+    },
     "start_time": "2026-07-14T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "start_time": "2026-07-16T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "BAR vs HRTS",
+    "team_a": {
+      "name": "Bar\u00e7a Esports",
+      "code": "BAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
+    },
+    "team_b": {
+      "name": "Heretics Academy",
+      "code": "HRTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
+    },
+    "start_time": "2026-07-16T17:30:00Z",
     "status": "upcoming"
   }
 ]
