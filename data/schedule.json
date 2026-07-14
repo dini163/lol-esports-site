@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "TP vs SPAR",
-    "team_a": {
-      "name": "Team Phantasma",
-      "code": "TP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
-    },
-    "team_b": {
-      "name": "Spartans EU",
-      "code": "SPAR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
-    },
-    "start_time": "2026-07-09T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "USE vs KHK",
-    "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "start_time": "2026-07-09T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs EINS",
@@ -772,7 +734,7 @@
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-14T23:00:00Z",
@@ -791,7 +753,7 @@
     "team_b": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "start_time": "2026-07-14T23:00:00Z",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-07-16T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "MU vs DOG",
+    "team_a": {
+      "name": "Maryville University",
+      "code": "MU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
+    },
+    "team_b": {
+      "name": "Dorado Gaming",
+      "code": "DOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
+    },
+    "start_time": "2026-07-17T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-17T11:00:00Z",
     "status": "upcoming"
   }
 ]
