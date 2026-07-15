@@ -2,25 +2,6 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "LYON vs FUE",
-    "team_a": {
-      "name": "Lyon Academy",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "start_time": "2026-07-11T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
     "match": "Z5 vs KITS",
     "team_a": {
       "name": "Zeu5 Esports",
@@ -671,7 +652,7 @@
     "team_a": {
       "name": "Anubis Gaming",
       "code": "ANB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "team_b": {
@@ -681,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-07-15T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -696,7 +677,7 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-15T16:55:00Z",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "MIBR.LOS",
       "code": "ML",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
     },
     "start_time": "2026-07-15T16:55:00Z",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
     },
     "start_time": "2026-07-15T18:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-18T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-18T13:30:00Z",
     "status": "upcoming"
   }
 ]
