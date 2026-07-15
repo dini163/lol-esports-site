@@ -2,44 +2,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "DEC vs MVG",
-    "team_a": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
-    },
-    "team_b": {
-      "name": "Malvinas Gaming",
-      "code": "MVG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
-    },
-    "start_time": "2026-07-09T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "MSI",
-    "league_code": "msi",
-    "match": "G2 vs LYON",
-    "team_a": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "team_b": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "start_time": "2026-07-10T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "MVG vs 7D",
     "team_a": {
       "name": "Malvinas Gaming",
@@ -629,25 +591,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "SEN vs TS",
-    "team_a": {
-      "name": "Sentinels",
-      "code": "SEN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
-    },
-    "team_b": {
-      "name": "Team Secret",
-      "code": "TS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
-    },
-    "start_time": "2026-07-15T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "GEN vs KC",
     "team_a": {
       "name": "Gen.G Esports",
@@ -660,6 +603,25 @@
       "code": "KC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "start_time": "2026-07-15T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "SEN vs TS",
+    "team_a": {
+      "name": "Sentinels",
+      "code": "SEN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
+    },
+    "team_b": {
+      "name": "Team Secret",
+      "code": "TS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
     },
     "start_time": "2026-07-15T09:00:00Z",
     "status": "upcoming"
@@ -715,7 +677,7 @@
     "team_b": {
       "name": "AG.AL",
       "code": "AGAL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
     },
     "start_time": "2026-07-15T11:20:00Z",
@@ -724,18 +686,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "G2 vs FUR",
+    "match": "FUR vs G2",
     "team_a": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "team_b": {
       "name": "FURIA",
       "code": "FUR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-15T11:20:00Z",
     "status": "upcoming"
@@ -743,18 +705,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "HLE vs ML",
+    "match": "ML vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "MIBR.LOS",
       "code": "ML",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-15T12:30:00Z",
     "status": "upcoming"
@@ -794,7 +756,7 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
     },
-    "start_time": "2026-07-15T13:40:00Z",
+    "start_time": "2026-07-15T14:25:00Z",
     "status": "upcoming"
   },
   {
@@ -813,7 +775,7 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
-    "start_time": "2026-07-15T13:40:00Z",
+    "start_time": "2026-07-15T14:25:00Z",
     "status": "upcoming"
   },
   {
@@ -857,20 +819,20 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "DK vs FUR",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dplus KIA",
+      "code": "DK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "FURIA",
+      "code": "FUR",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
-    "start_time": "2026-07-15T16:10:00Z",
+    "start_time": "2026-07-15T16:55:00Z",
     "status": "upcoming"
   },
   {
@@ -889,7 +851,7 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-07-15T16:10:00Z",
+    "start_time": "2026-07-15T16:55:00Z",
     "status": "upcoming"
   },
   {
@@ -971,18 +933,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "AGAL vs G2",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "AG.AL",
+      "code": "AGAL",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "G2 Esports",
+      "code": "G2",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-16T10:10:00Z",
     "status": "upcoming"
@@ -1498,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
     "start_time": "2026-07-17T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EINS vs BIG",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-17T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "G2N vs EINS",
+    "team_a": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "start_time": "2026-07-17T17:00:00Z",
     "status": "upcoming"
   }
 ]
