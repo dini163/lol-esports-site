@@ -1,81 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "ROSS vs VFB",
-    "team_a": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "team_b": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "start_time": "2026-07-09T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "BIG vs TOG",
-    "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
-      "name": "TeamOrangeGaming",
-      "code": "TOG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
-    },
-    "start_time": "2026-07-09T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "VFB vs SGE",
-    "team_a": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "team_b": {
-      "name": "Eintracht Frankfurt",
-      "code": "SGE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
-    },
-    "start_time": "2026-07-09T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "VTC vs 9ZG",
-    "team_a": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "team_b": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "start_time": "2026-07-09T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "Z3N vs MAZ",
@@ -743,18 +667,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TS vs SEN",
+    "match": "SEN vs TS",
     "team_a": {
-      "name": "Team Secret",
-      "code": "TS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
-    },
-    "team_b": {
       "name": "Sentinels",
       "code": "SEN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
+    },
+    "team_b": {
+      "name": "Team Secret",
+      "code": "TS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
     },
     "start_time": "2026-07-15T09:00:00Z",
     "status": "upcoming"
@@ -766,7 +690,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -971,7 +895,7 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs GEN",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -979,10 +903,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Gen.G Esports",
+      "code": "GEN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-15T16:10:00Z",
     "status": "upcoming"
@@ -990,7 +914,7 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs KC",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -998,10 +922,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Karmine Corp",
+      "code": "KC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-07-15T16:10:00Z",
     "status": "upcoming"
@@ -1482,6 +1406,25 @@
     "status": "upcoming"
   },
   {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-17T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "Esports World Cup",
     "league_code": "esp",
     "match": "TBD vs TBD",
@@ -1498,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-17T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-17T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-17T13:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-17T13:30:00Z",
     "status": "upcoming"
   }
 ]
