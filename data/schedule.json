@@ -747,7 +747,7 @@
     "team_a": {
       "name": "JSK Gamefy",
       "code": "JSK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
     },
     "start_time": "2026-07-15T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
