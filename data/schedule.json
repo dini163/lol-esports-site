@@ -677,7 +677,7 @@
     "team_b": {
       "name": "Team Secret",
       "code": "TS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
     },
     "start_time": "2026-07-15T14:25:00Z",
@@ -690,13 +690,13 @@
     "team_a": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "team_b": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-07-15T14:25:00Z",
@@ -715,11 +715,11 @@
     "team_b": {
       "name": "GIANTX ITERO",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-07-15T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-07-15T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -1479,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-07-17T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "BLUE vs CCG",
+    "team_a": {
+      "name": "Blue Otter",
+      "code": "BLUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
+    },
+    "team_b": {
+      "name": "CCG Esports",
+      "code": "CCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
+    "start_time": "2026-07-17T21:00:00Z",
     "status": "upcoming"
   }
 ]
