@@ -2,6 +2,25 @@
   {
     "league": "LRN",
     "league_code": "lrn",
+    "match": "LYON vs FUE",
+    "team_a": {
+      "name": "Lyon Academy",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-07-11T22:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
     "match": "Z5 vs KITS",
     "team_a": {
       "name": "Zeu5 Esports",
@@ -453,7 +472,7 @@
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-07-15T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -472,7 +491,7 @@
       "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
     },
     "start_time": "2026-07-15T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -491,7 +510,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-15T10:10:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -510,7 +529,7 @@
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-07-15T10:10:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -529,7 +548,7 @@
       "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
     },
     "start_time": "2026-07-15T11:20:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -548,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-15T11:20:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -567,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-15T12:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -586,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-15T12:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -605,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
     },
     "start_time": "2026-07-15T14:25:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -624,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-07-15T14:25:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -677,11 +696,11 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-15T16:55:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -696,11 +715,11 @@
     "team_b": {
       "name": "MIBR.LOS",
       "code": "ML",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
     },
     "start_time": "2026-07-15T16:55:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -719,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-07-15T17:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -734,7 +753,7 @@
     "team_b": {
       "name": "One More Esports ",
       "code": "1M",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
     },
     "start_time": "2026-07-15T18:30:00Z",
@@ -876,7 +895,7 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs DK",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -884,10 +903,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dplus KIA",
+      "code": "DK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-16T13:50:00Z",
     "status": "upcoming"
@@ -895,7 +914,7 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs ML",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -903,10 +922,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "MIBR.LOS",
+      "code": "ML",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
     },
     "start_time": "2026-07-16T13:50:00Z",
     "status": "upcoming"
