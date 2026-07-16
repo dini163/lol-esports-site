@@ -2,25 +2,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "Z3N vs DEC",
-    "team_a": {
-      "name": "ZEN",
-      "code": "Z3N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1782197670211_FULL_COLOR_FOR_LIGHT_BG.png"
-    },
-    "team_b": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
-    },
-    "start_time": "2026-07-14T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "MVG vs 9ZG",
     "team_a": {
       "name": "Malvinas Gaming",
@@ -696,11 +677,11 @@
     "team_b": {
       "name": "Myth Esports",
       "code": "MYTH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-07-16T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -762,21 +743,21 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CNV vs CPD",
+    "match": "CPD vs CNV",
     "team_a": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
+    "team_b": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
     "start_time": "2026-07-16T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-20T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "VER vs ABV",
+    "team_a": {
+      "name": "Verdant",
+      "code": "VER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
+    "team_b": {
+      "name": "Absolved",
+      "code": "ABV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
+    },
+    "start_time": "2026-07-20T16:00:00Z",
     "status": "upcoming"
   }
 ]
