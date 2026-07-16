@@ -3114,29 +3114,6 @@
     },
     "highlights": []
   },
-  "Trymbi": {
-    "id": "Trymbi",
-    "name": "Adrian Trybus",
-    "ign": "Trymbi",
-    "role": "SUPPORT",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1768550915779_Trymbi-01.png",
-    "bio": "Trymbi is a professional League of Legends player competing in the LEC as the SUPPORT for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.1",
-      "cs_per_min": "8.4",
-      "kill_participation": "72%",
-      "win_rate": "68%"
-    },
-    "highlights": []
-  },
   "Stend": {
     "id": "Stend",
     "name": "Paul Lardin",
@@ -3157,6 +3134,29 @@
       "cs_per_min": "9.7",
       "kill_participation": "62%",
       "win_rate": "48%"
+    },
+    "highlights": []
+  },
+  "Trymbi": {
+    "id": "Trymbi",
+    "name": "Adrian Trybus",
+    "ign": "Trymbi",
+    "role": "SUPPORT",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1768550915779_Trymbi-01.png",
+    "bio": "Trymbi is a professional League of Legends player competing in the LEC as the SUPPORT for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.1",
+      "cs_per_min": "8.4",
+      "kill_participation": "72%",
+      "win_rate": "68%"
     },
     "highlights": []
   },
@@ -4979,6 +4979,29 @@
       "cs_per_min": "8.2",
       "kill_participation": "67%",
       "win_rate": "56%"
+    },
+    "highlights": []
+  },
+  "Denathor": {
+    "id": "Denathor",
+    "name": "Noah Erikson",
+    "ign": "Denathor",
+    "role": "TOP",
+    "team": "Dignitas",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "bio": "Denathor is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "9.0",
+      "kill_participation": "73%",
+      "win_rate": "48%"
     },
     "highlights": []
   },

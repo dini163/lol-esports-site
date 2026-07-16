@@ -2,63 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "EWI vs USE",
-    "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "start_time": "2026-07-13T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "SGE vs KHK",
-    "team_a": {
-      "name": "Eintracht Frankfurt",
-      "code": "SGE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
-    },
-    "team_b": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "start_time": "2026-07-13T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "ROSS vs TOG",
-    "team_a": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "team_b": {
-      "name": "TeamOrangeGaming",
-      "code": "TOG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
-    },
-    "start_time": "2026-07-13T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "EWI vs SGE",
     "team_a": {
       "name": "E Wie Einfach E-Sports",
@@ -709,7 +652,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -734,7 +677,7 @@
     "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-16T11:20:00Z",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "Gamespace M.C.",
       "code": "GSMC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "team_b": {
@@ -757,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "start_time": "2026-07-16T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -781,18 +724,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "ML vs JDG",
+    "match": "JDG vs ML",
     "team_a": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "team_b": {
       "name": "MIBR.LOS",
       "code": "ML",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
-    },
-    "team_b": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-07-16T13:50:00Z",
     "status": "upcoming"
@@ -1498,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-19T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports World Cup",
+    "league_code": "esp",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-19T12:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "PLS vs FUE",
+    "team_a": {
+      "name": "Polar Squad",
+      "code": "PLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
+    },
+    "team_b": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "start_time": "2026-07-19T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "KITS vs SDM",
+    "team_a": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "team_b": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "start_time": "2026-07-19T23:00:00Z",
     "status": "upcoming"
   }
 ]
