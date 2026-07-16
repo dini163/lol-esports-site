@@ -639,11 +639,11 @@
     "team_b": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-07-16T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -681,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-07-16T17:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -690,7 +690,7 @@
     "team_a": {
       "name": "Once Upon a Team",
       "code": "OUAT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
     },
     "team_b": {
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-07-16T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "GNG Amazigh",
       "code": "GNG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
     },
     "start_time": "2026-07-16T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-16T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
