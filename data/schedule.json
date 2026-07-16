@@ -677,11 +677,11 @@
     "team_b": {
       "name": "UCAM Esports Club",
       "code": "UCAM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-07-16T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -690,13 +690,13 @@
     "team_a": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
       "name": "Team Phantasma",
       "code": "TP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-07-16T15:00:00Z",
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Rossmann Centaurs",
       "code": "ROSS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "start_time": "2026-07-16T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Disruptors",
       "code": "DS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-07-16T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-16T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-07-16T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "start_time": "2026-07-16T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -814,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-07-16T17:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -1479,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-20T06:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "BFX vs DNS",
+    "team_a": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-20T06:45:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "KT vs NS",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-07-20T07:30:00Z",
     "status": "upcoming"
   }
 ]
