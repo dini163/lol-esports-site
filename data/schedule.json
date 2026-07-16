@@ -1,100 +1,5 @@
 [
   {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "NCG vs FUE",
-    "team_a": {
-      "name": "NCG Esports",
-      "code": "NCG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
-    },
-    "team_b": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "start_time": "2026-07-14T02:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "PLS vs SDM",
-    "team_a": {
-      "name": "Polar Squad",
-      "code": "PLS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
-    },
-    "team_b": {
-      "name": "SDM Tigres",
-      "code": "SDM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
-    },
-    "start_time": "2026-07-14T02:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "FLK vs LUA",
-    "team_a": {
-      "name": "FALKE ESPORTS",
-      "code": "FLK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
-    },
-    "team_b": {
-      "name": "LUA Gaming",
-      "code": "LUA",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
-    },
-    "start_time": "2026-07-14T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "DYN vs MCON",
-    "team_a": {
-      "name": "Dynasty",
-      "code": "DYN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
-    },
-    "team_b": {
-      "name": "mCon Esports",
-      "code": "MCON",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
-    },
-    "start_time": "2026-07-14T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "UCAM vs HRTS",
-    "team_a": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "team_b": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "start_time": "2026-07-14T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "SNSH vs ZNT",
@@ -700,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-07-16T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -734,11 +639,11 @@
     "team_b": {
       "name": "Disruptors",
       "code": "DS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-07-16T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -762,18 +667,18 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "FEC vs BAN",
+    "match": "BAN vs FEC",
     "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
       "name": "The Bandits",
       "code": "BAN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
+    },
+    "team_b": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-07-16T17:00:00Z",
     "status": "live"
@@ -791,11 +696,11 @@
     "team_b": {
       "name": "Kaufland Hangry Knights",
       "code": "KHK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "start_time": "2026-07-16T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -810,7 +715,7 @@
     "team_b": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-07-16T17:30:00Z",
@@ -852,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-07-16T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -871,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-07-16T18:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1422,101 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-20T07:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "TBD vs UWS",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "UWinks",
+      "code": "UWS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
+    },
+    "start_time": "2026-07-20T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "BRO vs DNS",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-20T08:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "BFX vs DRX",
+    "team_a": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-07-20T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "KT vs DNS",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-20T09:45:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "BRO vs DRX",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-07-20T10:30:00Z",
     "status": "upcoming"
   }
 ]
