@@ -2,25 +2,6 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "MVG vs 9ZG",
-    "team_a": {
-      "name": "Malvinas Gaming",
-      "code": "MVG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
-    },
-    "team_b": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "start_time": "2026-07-14T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
     "match": "7D vs VTC",
     "team_a": {
       "name": "Seven Dark",
@@ -766,13 +747,13 @@
     "team_a": {
       "name": "Dorado Gaming",
       "code": "DOG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
     },
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-07-17T00:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "ABV",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
+    },
+    "start_time": "2026-07-20T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "BDG vs BROD",
+    "team_a": {
+      "name": "Bulldog Esports",
+      "code": "BDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
+    },
+    "team_b": {
+      "name": "Brod & Friends",
+      "code": "BROD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "start_time": "2026-07-20T16:00:00Z",
     "status": "upcoming"
