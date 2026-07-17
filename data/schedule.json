@@ -2,44 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "BLG vs MKOI",
-    "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "start_time": "2026-07-15T10:10:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
-    "match": "DK vs AGAL",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "AG.AL",
-      "code": "AGAL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
-    },
-    "start_time": "2026-07-15T11:20:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "FUR vs G2",
     "team_a": {
       "name": "FURIA",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -743,18 +705,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "AGAL vs KC",
+    "match": "KC vs AGAL",
     "team_a": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "team_b": {
       "name": "AG.AL",
       "code": "AGAL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
-    },
-    "team_b": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-07-17T13:30:00Z",
     "status": "upcoming"
@@ -762,18 +724,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "BLG vs DK",
+    "match": "DK vs BLG",
     "team_a": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-17T13:30:00Z",
     "status": "upcoming"
@@ -971,7 +933,7 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs T1",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -979,10 +941,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "T1",
+      "code": "T1",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-18T11:00:00Z",
     "status": "upcoming"
@@ -990,7 +952,7 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs TBD",
+    "match": "TBD vs GEN",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -998,10 +960,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Gen.G Esports",
+      "code": "GEN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-18T13:30:00Z",
     "status": "upcoming"
@@ -1498,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-20T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "INTZ vs 7REX",
+    "team_a": {
+      "name": "INTZ",
+      "code": "INTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
+    },
+    "team_b": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "start_time": "2026-07-20T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RED vs NERD",
+    "team_a": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
+    },
+    "start_time": "2026-07-20T22:00:00Z",
     "status": "upcoming"
   }
 ]
