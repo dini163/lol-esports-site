@@ -2,25 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "FUR vs G2",
-    "team_a": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "start_time": "2026-07-15T11:20:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "ML vs HLE",
     "team_a": {
       "name": "MIBR.LOS",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-17T13:30:00Z",
@@ -743,40 +724,40 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "G2N vs BIG",
+    "match": "BIG vs G2N",
     "team_a": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "team_b": {
       "name": "Berlin International Gaming",
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
+    "team_b": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
     "start_time": "2026-07-17T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "ANB vs JSK",
+    "match": "JSK vs ANB",
     "team_a": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
-    },
-    "team_b": {
       "name": "JSK Gamefy",
       "code": "JSK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
+    "team_b": {
+      "name": "Anubis Gaming",
+      "code": "ANB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
+    },
     "start_time": "2026-07-17T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-07-17T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -933,12 +914,12 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs T1",
+    "match": "KC vs T1",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Karmine Corp",
+      "code": "KC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
       "name": "T1",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-07-20T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "TSS vs RMD",
+    "team_a": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
+    "team_b": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "start_time": "2026-07-20T23:00:00Z",
     "status": "upcoming"
   }
 ]
