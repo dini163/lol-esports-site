@@ -734,7 +734,7 @@
     "team_b": {
       "name": "Disruptors",
       "code": "DS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-07-17T18:30:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-07-17T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
