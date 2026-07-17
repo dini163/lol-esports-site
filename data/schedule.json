@@ -1,43 +1,5 @@
 [
   {
-    "league": "Esports World Cup",
-    "league_code": "esp",
-    "match": "GAM vs MKOI",
-    "team_a": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "start_time": "2026-07-15T14:25:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "UB vs GX",
-    "team_a": {
-      "name": "UB Alma Mater",
-      "code": "UB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
-    },
-    "team_b": {
-      "name": "GIANTX ITERO",
-      "code": "GX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "start_time": "2026-07-15T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "ANB vs BAM",
@@ -743,37 +705,37 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "VFB vs EWI",
+    "match": "EWI vs VFB",
     "team_a": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "team_b": {
       "name": "VfB Stuttgart",
       "code": "VFB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
     },
-    "team_b": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
     "start_time": "2026-07-17T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "DS vs GNG",
+    "match": "GNG vs DS",
     "team_a": {
+      "name": "GNG Amazigh",
+      "code": "GNG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "team_b": {
       "name": "Disruptors",
       "code": "DS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "team_b": {
-      "name": "GNG Amazigh",
-      "code": "GNG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
     },
     "start_time": "2026-07-17T18:30:00Z",
     "status": "live"
@@ -781,21 +743,21 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "ROSS vs USE",
+    "match": "USE vs ROSS",
     "team_a": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "team_b": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
+    "team_b": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
+    },
     "start_time": "2026-07-17T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-21T07:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "KT vs DK",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-07-21T08:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "BRO vs GEN",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "start_time": "2026-07-21T09:00:00Z",
     "status": "upcoming"
   }
 ]
