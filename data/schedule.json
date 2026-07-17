@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "ANB vs BAM",
-    "team_a": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
-    },
-    "team_b": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "start_time": "2026-07-15T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports World Cup",
     "league_code": "esp",
     "match": "FUR vs DK",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Disruptors",
       "code": "DS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-07-17T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -762,21 +743,21 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "BLUE vs CCG",
+    "match": "CCG vs BLUE",
     "team_a": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "team_b": {
       "name": "CCG Esports",
       "code": "CCG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
+    "team_b": {
+      "name": "Blue Otter",
+      "code": "BLUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
+    },
     "start_time": "2026-07-17T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-21T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "HLE vs NS",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-07-21T09:45:00Z",
     "status": "upcoming"
   }
 ]
