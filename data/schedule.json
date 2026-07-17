@@ -2,25 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "SEN vs TS",
-    "team_a": {
-      "name": "Sentinels",
-      "code": "SEN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
-    },
-    "team_b": {
-      "name": "Team Secret",
-      "code": "TS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656693717651_TS.png"
-    },
-    "start_time": "2026-07-15T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "GEN vs KC",
     "team_a": {
       "name": "Gen.G Esports",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "L Guide Gaming",
       "code": "LGG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "start_time": "2026-07-17T08:00:00Z",
