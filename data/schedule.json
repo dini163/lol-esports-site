@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Dorado Gaming",
       "code": "DOG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-07-17T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LJL",
