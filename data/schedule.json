@@ -1,24 +1,5 @@
 [
   {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "7D vs VTC",
-    "team_a": {
-      "name": "Seven Dark",
-      "code": "7D",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770889439846_FULL_COLOR_FOR_DARK_BG-3.png"
-    },
-    "team_b": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "start_time": "2026-07-14T23:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports World Cup",
     "league_code": "esp",
     "match": "SEN vs TS",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "start_time": "2026-07-17T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "start_time": "2026-07-20T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "AP vs SE",
+    "team_a": {
+      "name": "Arctic Pandas",
+      "code": "AP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "team_b": {
+      "name": "S\u00f8rby Esports",
+      "code": "SE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036614109_Srby_logo1.png"
+    },
+    "start_time": "2026-07-20T18:00:00Z",
     "status": "upcoming"
   }
 ]
