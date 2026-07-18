@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-18T13:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -857,12 +857,12 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs T1",
+    "match": "GEN vs T1",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Gen.G Esports",
+      "code": "GEN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
       "name": "T1",
@@ -876,12 +876,12 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "TBD vs KC",
+    "match": "DK vs KC",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dplus KIA",
+      "code": "DK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
       "name": "Karmine Corp",
