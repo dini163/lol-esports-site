@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "MKF vs BAR",
-    "team_a": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "team_b": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "start_time": "2026-07-15T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "JSK vs 1M",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "New Meta",
       "code": "NM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
     },
     "team_b": {
