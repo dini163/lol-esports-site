@@ -3114,29 +3114,6 @@
     },
     "highlights": []
   },
-  "Stend": {
-    "id": "Stend",
-    "name": "Paul Lardin",
-    "ign": "Stend",
-    "role": "SUPPORT",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1768551158219_Stend-01.png",
-    "bio": "Stend is a professional League of Legends player competing in the LEC as the SUPPORT for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.5",
-      "cs_per_min": "9.7",
-      "kill_participation": "62%",
-      "win_rate": "48%"
-    },
-    "highlights": []
-  },
   "Trymbi": {
     "id": "Trymbi",
     "name": "Adrian Trybus",
@@ -3157,6 +3134,29 @@
       "cs_per_min": "8.4",
       "kill_participation": "72%",
       "win_rate": "68%"
+    },
+    "highlights": []
+  },
+  "Stend": {
+    "id": "Stend",
+    "name": "Paul Lardin",
+    "ign": "Stend",
+    "role": "SUPPORT",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1768551158219_Stend-01.png",
+    "bio": "Stend is a professional League of Legends player competing in the LEC as the SUPPORT for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.7",
+      "kill_participation": "62%",
+      "win_rate": "48%"
     },
     "highlights": []
   },

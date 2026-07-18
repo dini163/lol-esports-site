@@ -743,18 +743,18 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "DK vs GEN",
+    "match": "GEN vs DK",
     "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
       "name": "Gen.G Esports",
       "code": "GEN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-18T13:30:00Z",
     "status": "live"
