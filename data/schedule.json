@@ -2,25 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "FUR vs DK",
-    "team_a": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-07-15T16:55:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "LYON vs ML",
     "team_a": {
       "name": "LYON",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Ole Miss Esports",
       "code": "OME",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "team_b": {
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-21T09:45:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "T1 vs DRX",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-07-21T10:30:00Z",
     "status": "upcoming"
   }
 ]
