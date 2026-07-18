@@ -728,7 +728,7 @@
     "team_a": {
       "name": "New Meta",
       "code": "NM",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
     },
     "start_time": "2026-07-18T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-18T11:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-07-21T11:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "ALMO vs HELL",
+    "team_a": {
+      "name": "ALMO Players",
+      "code": "ALMO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
+    },
+    "team_b": {
+      "name": "Hell ZeroLag",
+      "code": "HELL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
+    },
+    "start_time": "2026-07-21T13:00:00Z",
     "status": "upcoming"
   }
 ]
