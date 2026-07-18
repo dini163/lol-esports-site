@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports World Cup",
-    "league_code": "esp",
-    "match": "LYON vs ML",
-    "team_a": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
-      "name": "MIBR.LOS",
-      "code": "ML",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
-    },
-    "start_time": "2026-07-15T16:55:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "MKF vs BAR",
@@ -762,21 +743,21 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "ARB vs NM",
+    "match": "NM vs ARB",
     "team_a": {
+      "name": "New Meta",
+      "code": "NM",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
+    },
+    "team_b": {
       "name": "Arneb",
       "code": "ARB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
     },
-    "team_b": {
-      "name": "New Meta",
-      "code": "NM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
-    },
     "start_time": "2026-07-18T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-21T10:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "HLE vs DNS",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-21T11:15:00Z",
     "status": "upcoming"
   }
 ]
