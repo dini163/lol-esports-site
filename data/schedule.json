@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "GSMC vs TPX",
-    "team_a": {
-      "name": "Gamespace M.C.",
-      "code": "GSMC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
-    },
-    "team_b": {
-      "name": "TheParadOx Invaders",
-      "code": "TPX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
-    },
-    "start_time": "2026-07-16T13:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports World Cup",
     "league_code": "esp",
     "match": "DK vs G2",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "FENNEL",
       "code": "FL",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "start_time": "2026-07-19T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports World Cup",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-19T10:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-07-21T17:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "FEC vs SNSH",
+    "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "Senshi eSports",
+      "code": "SNSH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
+    },
+    "start_time": "2026-07-21T18:00:00Z",
     "status": "upcoming"
   }
 ]
