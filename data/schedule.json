@@ -2,44 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "AGAL vs G2",
-    "team_a": {
-      "name": "AG.AL",
-      "code": "AGAL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
-    },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "start_time": "2026-07-16T10:10:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
-    "match": "JDG vs HLE",
-    "team_a": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-07-16T10:10:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "KC vs SEN",
     "team_a": {
       "name": "Karmine Corp",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Zeu5 Esports",
       "code": "Z5",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-07-18T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -753,30 +715,11 @@
     "team_b": {
       "name": "Lyon Academy",
       "code": "LYON",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-18T23:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "PLS vs KITS",
-    "team_a": {
-      "name": "Polar Squad",
-      "code": "PLS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
-    },
-    "team_b": {
-      "name": "Kits Esports",
-      "code": "KITS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
-    },
-    "start_time": "2026-07-19T02:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -791,11 +734,30 @@
     "team_b": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
+    "start_time": "2026-07-18T23:30:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "PLS vs KITS",
+    "team_a": {
+      "name": "Polar Squad",
+      "code": "PLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
+    },
+    "team_b": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
     "start_time": "2026-07-19T02:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LJL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
     },
     "start_time": "2026-07-21T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "1M vs 3BL",
+    "team_a": {
+      "name": "One More Esports ",
+      "code": "1M",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
+    },
+    "team_b": {
+      "name": "3BL GALAXY ESPORTS",
+      "code": "3BL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
+    },
+    "start_time": "2026-07-21T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EWI vs BIG",
+    "team_a": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-21T17:00:00Z",
     "status": "upcoming"
   }
 ]
