@@ -2884,29 +2884,6 @@
     },
     "highlights": []
   },
-  "FenRir": {
-    "id": "FenRir",
-    "name": "Kangjun Park",
-    "ign": "FenRir",
-    "role": "BOTTOM",
-    "team": "kt Rolster",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769085625159_image6-2026-01-22T133959.277.png",
-    "bio": "FenRir is a professional League of Legends player competing in the LCK as the BOTTOM for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "3.4",
-      "cs_per_min": "10.1",
-      "kill_participation": "69%",
-      "win_rate": "62%"
-    },
-    "highlights": []
-  },
   "Aiming": {
     "id": "Aiming",
     "name": "Haram Kim",
@@ -2927,6 +2904,29 @@
       "cs_per_min": "8.5",
       "kill_participation": "76%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "FenRir": {
+    "id": "FenRir",
+    "name": "Kangjun Park",
+    "ign": "FenRir",
+    "role": "BOTTOM",
+    "team": "kt Rolster",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769085625159_image6-2026-01-22T133959.277.png",
+    "bio": "FenRir is a professional League of Legends player competing in the LCK as the BOTTOM for kt Rolster. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "3.4",
+      "cs_per_min": "10.1",
+      "kill_participation": "69%",
+      "win_rate": "62%"
     },
     "highlights": []
   },

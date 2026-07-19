@@ -2,25 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "DK vs G2",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "start_time": "2026-07-16T13:50:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "JDG vs ML",
     "team_a": {
       "name": "Beijing JDG Esports",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-19T12:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
