@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports World Cup",
-    "league_code": "esp",
-    "match": "GAM vs T1",
-    "team_a": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-07-16T11:20:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "GSMC vs TPX",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "FENNEL",
       "code": "FL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
     },
     "team_b": {
       "name": "L Guide Gaming",
       "code": "LGG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "start_time": "2026-07-19T08:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-19T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports World Cup",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
     },
     "start_time": "2026-07-21T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "GX vs MKF",
+    "team_a": {
+      "name": "GIANTX ITERO",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
+    },
+    "start_time": "2026-07-21T17:30:00Z",
     "status": "upcoming"
   }
 ]
