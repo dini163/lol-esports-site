@@ -149,8 +149,8 @@
     "players": [
       "Janus",
       "Kingen",
-      "Sponge",
       "MihawK",
+      "Sponge",
       "Calix",
       "Scout",
       "SeTab",
@@ -181,12 +181,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "players": [
-      "Casting",
       "DDahyuk",
+      "Casting",
       "GIDEON",
       "Dinai",
-      "Roamer",
       "Tempester",
+      "Roamer",
       "Pungyeon",
       "Teddy",
       "OddEye",
@@ -225,8 +225,8 @@
       "Nevid",
       "Jaehyuk",
       "Siwoo",
-      "Lucid",
       "Solid",
+      "Lucid",
       "Garden",
       "ShowMaker",
       "Smash",
@@ -242,17 +242,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Rich",
       "Frog",
+      "Rich",
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
-      "LazyFeel",
+      "Ucal",
       "Jiwoo",
-      "Andil",
-      "Minous"
+      "LazyFeel",
+      "Minous",
+      "Andil"
     ]
   },
   {
@@ -266,9 +266,9 @@
       "DDahyuk",
       "GIDEON",
       "Dinai",
-      "Pungyeon",
       "Tempester",
       "Roamer",
+      "Pungyeon",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -282,8 +282,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
     "players": [
-      "Zeus",
       "Panther",
+      "Zeus",
       "Kanavi",
       "Jackal",
       "Cracker",
@@ -291,8 +291,8 @@
       "Zeka",
       "Gumayusi",
       "Pyeonsik",
-      "Bluffing",
-      "Delight"
+      "Delight",
+      "Bluffing"
     ]
   },
   {
@@ -308,8 +308,8 @@
       "Sylvie",
       "Bdd",
       "Hwichan",
-      "Aiming",
       "FenRir",
+      "Aiming",
       "Ghost",
       "Pollu",
       "Effort"
@@ -325,14 +325,14 @@
       "Kangin",
       "Clear",
       "Zephyr",
-      "Raptor",
       "Grizzly",
+      "Raptor",
       "VicLa",
-      "Daystar",
       "MG",
+      "Daystar",
       "Slayer",
-      "Diable",
       "Taeyoon",
+      "Diable",
       "Luon",
       "Kellin"
     ]
@@ -346,13 +346,13 @@
     "players": [
       "Janus",
       "Kingen",
-      "Sponge",
       "MihawK",
+      "Sponge",
       "Scout",
       "SeTab",
       "Calix",
-      "Diable",
       "Lucy",
+      "Diable",
       "Pleata",
       "Lehends"
     ]
@@ -365,12 +365,12 @@
     "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
     "players": [
       "Rooster",
-      "Boukada",
       "Sheo",
+      "Boukada",
       "nuc",
       "Paduck",
-      "Trymbi",
       "Stend",
+      "Trymbi",
       "JuJuTw0"
     ]
   },
@@ -626,8 +626,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "PerfecT",
       "Sero",
+      "PerfecT",
       "Sylvie",
       "Cuzz",
       "Hwichan",
@@ -648,16 +648,16 @@
     "players": [
       "Lancer",
       "DuDu",
+      "Sharvel",
       "DDoiV",
       "Pyosik",
-      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
+      "Peter",
       "Life",
-      "Quantum ",
-      "Peter"
+      "Quantum "
     ]
   },
   {
@@ -720,8 +720,8 @@
       "Breathe",
       "Soboro",
       "Wei",
-      "Renard",
       "Nia1",
+      "Renard",
       "Rookie",
       "JiaQi",
       "Meiko"
