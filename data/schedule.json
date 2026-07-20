@@ -1,62 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CPD vs CNV",
-    "team_a": {
-      "name": "Cupid Esports",
-      "code": "CPD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
-    },
-    "team_b": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "start_time": "2026-07-16T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "DOG vs MU",
-    "team_a": {
-      "name": "Dorado Gaming",
-      "code": "DOG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-07-17T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "RCK vs LGG",
-    "team_a": {
-      "name": "RAYN Clocks",
-      "code": "RCK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
-    },
-    "team_b": {
-      "name": "L Guide Gaming",
-      "code": "LGG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
-    },
-    "start_time": "2026-07-17T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports World Cup",
     "league_code": "esp",
     "match": "T1 vs HLE",
@@ -762,25 +705,6 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "VER vs ABV",
-    "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
-      "name": "Absolved",
-      "code": "ABV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
-    },
-    "start_time": "2026-07-20T16:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
     "match": "BDG vs BROD",
     "team_a": {
       "name": "Bulldog Esports",
@@ -800,20 +724,20 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "AP vs SE",
+    "match": "VER vs ABV",
     "team_a": {
-      "name": "Arctic Pandas",
-      "code": "AP",
+      "name": "Verdant",
+      "code": "VER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
-      "name": "S\u00f8rby Esports",
-      "code": "SE",
+      "name": "Absolved",
+      "code": "ABV",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1784036614109_Srby_logo1.png"
+      "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
     },
-    "start_time": "2026-07-20T18:00:00Z",
+    "start_time": "2026-07-20T16:00:00Z",
     "status": "upcoming"
   },
   {
@@ -831,6 +755,25 @@
       "code": "B2U",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
+    },
+    "start_time": "2026-07-20T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "AP vs SE",
+    "team_a": {
+      "name": "Arctic Pandas",
+      "code": "AP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "team_b": {
+      "name": "S\u00f8rby Esports",
+      "code": "SE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036614109_Srby_logo1.png"
     },
     "start_time": "2026-07-20T18:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-07-22T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "SPAR vs WLG",
+    "team_a": {
+      "name": "Spartans EU",
+      "code": "SPAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
+    },
+    "team_b": {
+      "name": "WLGaming",
+      "code": "WLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
+    },
+    "start_time": "2026-07-22T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "HELL vs GSMC",
+    "team_a": {
+      "name": "Hell ZeroLag",
+      "code": "HELL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
+    },
+    "team_b": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
+    "start_time": "2026-07-22T15:00:00Z",
     "status": "upcoming"
   }
 ]
