@@ -677,7 +677,7 @@
     "team_b": {
       "name": "Bulldog Esports",
       "code": "BDG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-07-20T16:00:00Z",
@@ -705,18 +705,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "LLS vs B2U",
+    "match": "B2U vs LLS",
     "team_a": {
-      "name": "Lundqvist Lightside",
-      "code": "LLS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
-    },
-    "team_b": {
       "name": "Bardicted to U",
       "code": "B2U",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
+    },
+    "team_b": {
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-07-20T18:00:00Z",
     "status": "upcoming"
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Arctic Pandas",
       "code": "AP",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-20T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
