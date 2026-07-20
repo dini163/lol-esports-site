@@ -2,101 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "G2N vs TOG",
-    "team_a": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "team_b": {
-      "name": "TeamOrangeGaming",
-      "code": "TOG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
-    },
-    "start_time": "2026-07-16T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "BAN vs FEC",
-    "team_a": {
-      "name": "The Bandits",
-      "code": "BAN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
-    },
-    "team_b": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "start_time": "2026-07-16T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "VFB vs KHK",
-    "team_a": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "team_b": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "start_time": "2026-07-16T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "BAR vs HRTS",
-    "team_a": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "team_b": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "start_time": "2026-07-16T17:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "OUAT vs MYTH",
-    "team_a": {
-      "name": "Once Upon a Team",
-      "code": "OUAT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
-    },
-    "team_b": {
-      "name": "Myth Esports",
-      "code": "MYTH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
-    },
-    "start_time": "2026-07-16T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "SGE vs EINS",
     "team_a": {
       "name": "Eintracht Frankfurt",
@@ -781,21 +686,21 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "UWS vs NM",
+    "match": "NM vs UWS",
     "team_a": {
+      "name": "New Meta",
+      "code": "NM",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
+    },
+    "team_b": {
       "name": "UWinks",
       "code": "UWS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
     },
-    "team_b": {
-      "name": "New Meta",
-      "code": "NM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
-    },
     "start_time": "2026-07-20T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "KeSPA Cup",
@@ -1330,6 +1235,25 @@
     "status": "upcoming"
   },
   {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "TLNP vs IJC",
+    "team_a": {
+      "name": "TLN Pirates",
+      "code": "TLNP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
+    },
+    "team_b": {
+      "name": "Ici Japon Corp",
+      "code": "IJC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
+    },
+    "start_time": "2026-07-21T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs BIG",
@@ -1344,6 +1268,25 @@
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-21T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "VITB vs ES",
+    "team_a": {
+      "name": "Vitality.Bee",
+      "code": "VITB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
+    },
+    "team_b": {
+      "name": "Esprit Shonen",
+      "code": "ES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
     },
     "start_time": "2026-07-21T17:00:00Z",
     "status": "upcoming"
@@ -1387,6 +1330,25 @@
     "status": "upcoming"
   },
   {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "KCB vs ZYB",
+    "team_a": {
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "team_b": {
+      "name": "ZYB",
+      "code": "ZYB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
+    },
+    "start_time": "2026-07-21T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "FEC vs SNSH",
@@ -1425,6 +1387,25 @@
     "status": "upcoming"
   },
   {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "GL vs JL",
+    "team_a": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "team_b": {
+      "name": "Joblife",
+      "code": "JL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
+    },
+    "start_time": "2026-07-21T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "INTZ vs RED",
@@ -1439,6 +1420,25 @@
       "code": "RED",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
+    "start_time": "2026-07-21T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SLY vs SC",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
     "status": "upcoming"
