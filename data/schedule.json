@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "WLG vs TP",
-    "team_a": {
-      "name": "WLGaming",
-      "code": "WLG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
-    },
-    "team_b": {
-      "name": "Team Phantasma",
-      "code": "TP",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
-    },
-    "start_time": "2026-07-16T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "ROSS vs KHK",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1772041837794_PLS_C.png"
     },
     "start_time": "2026-07-19T23:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Kits Esports",
       "code": "KITS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-07-19T23:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -747,17 +728,17 @@
     "team_a": {
       "name": "Lyon Academy",
       "code": "LYON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "team_b": {
       "name": "Zeu5 Esports",
       "code": "Z5",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
     },
     "start_time": "2026-07-20T02:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "3V TEAM",
       "code": "3V",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "team_b": {
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-21T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "PAIN vs RMD",
+    "team_a": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
+    "team_b": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "start_time": "2026-07-21T21:00:00Z",
     "status": "upcoming"
   }
 ]
