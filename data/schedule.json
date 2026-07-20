@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Zeu5 Esports",
       "code": "Z5",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
     },
     "start_time": "2026-07-20T02:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
     },
     "start_time": "2026-07-20T02:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
