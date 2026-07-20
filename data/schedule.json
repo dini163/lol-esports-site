@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports World Cup",
-    "league_code": "esp",
-    "match": "DK vs BLG",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "start_time": "2026-07-17T13:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "BIG vs G2N",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "INTZ",
       "code": "INTZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "team_b": {
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-07-20T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "RED vs NERD",
+    "match": "NERD vs RED",
     "team_a": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "team_b": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
+    "team_b": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
     "start_time": "2026-07-20T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1515,6 +1496,25 @@
       "code": "RG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784447284434_rg_w.png"
+    },
+    "start_time": "2026-07-22T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "GNG vs 1M",
+    "team_a": {
+      "name": "GNG Amazigh",
+      "code": "GNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "team_b": {
+      "name": "One More Esports ",
+      "code": "1M",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
     },
     "start_time": "2026-07-22T16:00:00Z",
     "status": "upcoming"
