@@ -2,25 +2,6 @@
   {
     "league": "Esports World Cup",
     "league_code": "esp",
-    "match": "KC vs AGAL",
-    "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
-      "name": "AG.AL",
-      "code": "AGAL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783069593213_t103524.png"
-    },
-    "start_time": "2026-07-17T13:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports World Cup",
-    "league_code": "esp",
     "match": "DK vs BLG",
     "team_a": {
       "name": "Dplus KIA",
@@ -667,25 +648,6 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "BROD vs BDG",
-    "team_a": {
-      "name": "Brod & Friends",
-      "code": "BROD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
-    },
-    "team_b": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "start_time": "2026-07-20T16:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
     "match": "VER vs ABV",
     "team_a": {
       "name": "Verdant",
@@ -700,26 +662,26 @@
       "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
     },
     "start_time": "2026-07-20T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "B2U vs LLS",
+    "match": "BROD vs BDG",
     "team_a": {
-      "name": "Bardicted to U",
-      "code": "B2U",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
+      "name": "Brod & Friends",
+      "code": "BROD",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "team_b": {
-      "name": "Lundqvist Lightside",
-      "code": "LLS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
+      "name": "Bulldog Esports",
+      "code": "BDG",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
-    "start_time": "2026-07-20T18:00:00Z",
-    "status": "upcoming"
+    "start_time": "2026-07-20T16:00:00Z",
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -738,7 +700,26 @@
       "image": "https://static.lolesports.com/teams/1784036614109_Srby_logo1.png"
     },
     "start_time": "2026-07-20T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "B2U vs LLS",
+    "team_a": {
+      "name": "Bardicted to U",
+      "code": "B2U",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
+    },
+    "team_b": {
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
+    },
+    "start_time": "2026-07-20T18:00:00Z",
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-20T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-07-20T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
     },
     "start_time": "2026-07-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DMG vs EA",
+    "team_a": {
+      "name": "DMG Esports",
+      "code": "DMG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
+    },
+    "team_b": {
+      "name": "Epic Avalanche",
+      "code": "EA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036463315_EAlogohighreso1.png"
+    },
+    "start_time": "2026-07-22T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "RUD vs RG",
+    "team_a": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
+    },
+    "team_b": {
+      "name": "Rich Gang",
+      "code": "RG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784447284434_rg_w.png"
+    },
+    "start_time": "2026-07-22T16:00:00Z",
     "status": "upcoming"
   }
 ]
