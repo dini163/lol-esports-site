@@ -2,44 +2,6 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "ROSS vs KHK",
-    "team_a": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "team_b": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "start_time": "2026-07-16T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "3BL vs DS",
-    "team_a": {
-      "name": "3BL GALAXY ESPORTS",
-      "code": "3BL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
-    },
-    "team_b": {
-      "name": "Disruptors",
-      "code": "DS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "start_time": "2026-07-16T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
     "match": "G2N vs TOG",
     "team_a": {
       "name": "G2 NORD",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "start_time": "2026-07-21T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "KBM vs EST",
+    "team_a": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
+    "team_b": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
+    "start_time": "2026-07-21T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "TSS vs NERD",
+    "team_a": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
+    },
+    "start_time": "2026-07-21T23:00:00Z",
     "status": "upcoming"
   }
 ]
