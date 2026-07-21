@@ -1,62 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CCG vs BLUE",
-    "team_a": {
-      "name": "CCG Esports",
-      "code": "CCG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
-    },
-    "team_b": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "start_time": "2026-07-17T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "OME vs WU",
-    "team_a": {
-      "name": "Ole Miss Esports",
-      "code": "OME",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
-    },
-    "team_b": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "start_time": "2026-07-18T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "NM vs ARB",
-    "team_a": {
-      "name": "New Meta",
-      "code": "NM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
-    },
-    "team_b": {
-      "name": "Arneb",
-      "code": "ARB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
-    },
-    "start_time": "2026-07-18T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports World Cup",
     "league_code": "esp",
     "match": "KC vs T1",
@@ -1515,6 +1458,63 @@
       "code": "2M",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784266718343_2mBW.png"
+    },
+    "start_time": "2026-07-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "LEO vs VES",
+    "team_a": {
+      "name": "Lund Esports Organization",
+      "code": "LEO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
+    },
+    "team_b": {
+      "name": "VES",
+      "code": "VES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
+    },
+    "start_time": "2026-07-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "GL vs IJC",
+    "team_a": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "team_b": {
+      "name": "Ici Japon Corp",
+      "code": "IJC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
+    },
+    "start_time": "2026-07-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "TTS vs EKO",
+    "team_a": {
+      "name": "TITANS",
+      "code": "TTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
+    },
+    "team_b": {
+      "name": "EKO Esports",
+      "code": "EKO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
     },
     "start_time": "2026-07-22T18:00:00Z",
     "status": "upcoming"

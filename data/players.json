@@ -4798,29 +4798,6 @@
     },
     "highlights": []
   },
-  "Erha": {
-    "id": "Erha",
-    "name": "XUYE SHI",
-    "ign": "Erha",
-    "role": "SUPPORT",
-    "team": "Xi'an Team WE",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225577413_erha.png",
-    "bio": "Erha is a professional League of Legends player competing in the LPL as the SUPPORT for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.8",
-      "cs_per_min": "10.1",
-      "kill_participation": "67%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Dorian": {
     "id": "Dorian",
     "name": "SIYUAN CHEN",
@@ -4841,6 +4818,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "77%",
       "win_rate": "62%"
+    },
+    "highlights": []
+  },
+  "Erha": {
+    "id": "Erha",
+    "name": "XUYE SHI",
+    "ign": "Erha",
+    "role": "SUPPORT",
+    "team": "Xi'an Team WE",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225577413_erha.png",
+    "bio": "Erha is a professional League of Legends player competing in the LPL as the SUPPORT for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.8",
+      "cs_per_min": "10.1",
+      "kill_participation": "67%",
+      "win_rate": "59%"
     },
     "highlights": []
   },
