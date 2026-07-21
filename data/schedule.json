@@ -2,44 +2,6 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "KT vs DNS",
-    "team_a": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-07-20T09:45:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "BRO vs DRX",
-    "team_a": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-07-20T10:30:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
     "match": "BFX vs NS",
     "team_a": {
       "name": "BNK FEARX",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "Golden Lions",
       "code": "GLE",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
     },
     "start_time": "2026-07-21T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-07-22T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1515,6 +1477,25 @@
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-23T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "MKF vs LUA",
+    "team_a": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
+    },
+    "team_b": {
+      "name": "LUA Gaming",
+      "code": "LUA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
     },
     "start_time": "2026-07-23T15:00:00Z",
     "status": "upcoming"
