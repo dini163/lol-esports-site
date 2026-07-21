@@ -1,62 +1,5 @@
 [
   {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "SDM vs KITS",
-    "team_a": {
-      "name": "SDM Tigres",
-      "code": "SDM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
-    },
-    "team_b": {
-      "name": "Kits Esports",
-      "code": "KITS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
-    },
-    "start_time": "2026-07-19T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "LYON vs Z5",
-    "team_a": {
-      "name": "Lyon Academy",
-      "code": "LYON",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
-      "name": "Zeu5 Esports",
-      "code": "Z5",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
-    },
-    "start_time": "2026-07-20T02:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "3V vs NCG",
-    "team_a": {
-      "name": "3V TEAM",
-      "code": "3V",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
-    },
-    "team_b": {
-      "name": "NCG Esports",
-      "code": "NCG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770887650353_FULL_COLOR_FOR_DARK_BG-1.png"
-    },
-    "start_time": "2026-07-20T02:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "KeSPA Cup",
     "league_code": "kes",
     "match": "BRO vs NS",
@@ -652,7 +595,7 @@
     "team_a": {
       "name": "3BL GALAXY ESPORTS",
       "code": "3BL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
     },
     "team_b": {
@@ -734,7 +677,7 @@
     "team_b": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-07-21T17:00:00Z",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
@@ -757,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-07-21T17:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -766,7 +709,7 @@
     "team_a": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "team_b": {
@@ -776,23 +719,23 @@
       "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
     },
     "start_time": "2026-07-21T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "FEC vs SNSH",
+    "match": "SNSH vs FEC",
     "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
       "name": "Senshi eSports",
       "code": "SNSH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
+    },
+    "team_b": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-07-21T18:00:00Z",
     "status": "upcoming"
@@ -833,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
     },
     "start_time": "2026-07-21T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-07-22T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "NRG vs CCG",
+    "team_a": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
+    },
+    "team_b": {
+      "name": "CCG Esports",
+      "code": "CCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
+    "start_time": "2026-07-22T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RMD vs VKS",
+    "team_a": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-07-22T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "NERD vs 7REX",
+    "team_a": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
+    },
+    "team_b": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "start_time": "2026-07-22T23:00:00Z",
     "status": "upcoming"
   }
 ]
