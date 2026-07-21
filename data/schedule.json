@@ -2,25 +2,6 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BFX vs DRX",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-07-20T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
     "match": "KT vs DNS",
     "team_a": {
       "name": "kt Rolster",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "Golden Lions",
       "code": "GLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Estral Esports",
       "code": "EST",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "team_b": {
@@ -776,26 +757,26 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-21T22:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "TSS vs NERD",
+    "match": "NERD vs TSS",
     "team_a": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "team_b": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
+    "team_b": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
     "start_time": "2026-07-21T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-07-23T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "SGE vs BIG",
+    "team_a": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-07-23T15:00:00Z",
     "status": "upcoming"
   }
 ]
