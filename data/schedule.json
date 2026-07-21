@@ -1,81 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "G2N vs EINS",
-    "team_a": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "team_b": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "start_time": "2026-07-17T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "EWI vs VFB",
-    "team_a": {
-      "name": "E Wie Einfach E-Sports",
-      "code": "EWI",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
-    },
-    "team_b": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "start_time": "2026-07-17T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "GNG vs DS",
-    "team_a": {
-      "name": "GNG Amazigh",
-      "code": "GNG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
-    },
-    "team_b": {
-      "name": "Disruptors",
-      "code": "DS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "start_time": "2026-07-17T18:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "USE vs ROSS",
-    "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "start_time": "2026-07-17T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CCG vs BLUE",
@@ -1517,6 +1441,82 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-07-22T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "ZYB vs SC",
+    "team_a": {
+      "name": "ZYB",
+      "code": "ZYB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
+    },
+    "team_b": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "start_time": "2026-07-22T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "HMB vs GMB",
+    "team_a": {
+      "name": "HMBLE",
+      "code": "HMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+    },
+    "team_b": {
+      "name": "GMBLERS Esports",
+      "code": "GMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
+    "start_time": "2026-07-22T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "BAR vs UCAM",
+    "team_a": {
+      "name": "Bar\u00e7a Esports",
+      "code": "BAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
+    },
+    "team_b": {
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
+    },
+    "start_time": "2026-07-22T17:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DEER vs 2M",
+    "team_a": {
+      "name": "Deer Gaming",
+      "code": "DEER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
+    },
+    "team_b": {
+      "name": "2 Massive",
+      "code": "2M",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784266718343_2mBW.png"
+    },
+    "start_time": "2026-07-22T18:00:00Z",
     "status": "upcoming"
   }
 ]
