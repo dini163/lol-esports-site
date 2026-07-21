@@ -747,7 +747,7 @@
     "team_a": {
       "name": "ALMO Players",
       "code": "ALMO",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
     },
     "start_time": "2026-07-21T13:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "start_time": "2026-07-21T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-07-21T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -1047,18 +1047,18 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "TBD vs TBD",
+    "match": "GLE vs VTC",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Golden Lions",
+      "code": "GLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Volticons",
+      "code": "VTC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
     "status": "upcoming"
@@ -1496,6 +1496,25 @@
       "code": "EKO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
+    },
+    "start_time": "2026-07-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "DRM vs GOB",
+    "team_a": {
+      "name": "Dream Esports",
+      "code": "DRM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
+    },
+    "team_b": {
+      "name": "Dominion Goblins",
+      "code": "GOB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-07-22T18:00:00Z",
     "status": "upcoming"
