@@ -2,25 +2,6 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BRO vs DNS",
-    "team_a": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-07-20T08:15:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
     "match": "BFX vs DRX",
     "team_a": {
       "name": "BNK FEARX",
@@ -677,11 +658,11 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-07-21T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "INTZ",
       "code": "INTZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Solary",
       "code": "SLY",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-07-21T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Volticons",
       "code": "VTC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
     },
     "team_b": {
@@ -762,40 +743,40 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "PAIN vs RMD",
+    "match": "RMD vs PAIN",
     "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
       "name": "RMD Gaming",
       "code": "RMD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
+    "team_b": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
     "start_time": "2026-07-21T21:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "KBM vs EST",
+    "match": "EST vs KBM",
     "team_a": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "team_b": {
       "name": "Estral Esports",
       "code": "EST",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
+    "team_b": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
     "start_time": "2026-07-21T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-23T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "AL vs LGD",
+    "team_a": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "start_time": "2026-07-23T11:00:00Z",
     "status": "upcoming"
   }
 ]
