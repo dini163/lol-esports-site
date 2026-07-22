@@ -2,40 +2,21 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BFX vs NS",
+    "match": "DRX vs KT",
     "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-07-20T11:15:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "KT vs DRX",
-    "team_a": {
       "name": "kt Rolster",
       "code": "KT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
-    "team_b": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
     "start_time": "2026-07-20T12:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -215,7 +196,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -225,26 +206,26 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-21T06:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BFX vs DK",
+    "match": "DK vs BFX",
     "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
+    "team_b": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
     "start_time": "2026-07-21T06:45:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -253,7 +234,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -263,7 +244,7 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-21T07:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -272,7 +253,7 @@
     "team_a": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
@@ -282,7 +263,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-21T08:15:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -291,7 +272,7 @@
     "team_a": {
       "name": "HANJIN BRION",
       "code": "BRO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "team_b": {
@@ -301,26 +282,26 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-21T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "HLE vs NS",
+    "match": "NS vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
     "start_time": "2026-07-21T09:45:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -329,7 +310,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -339,7 +320,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-21T10:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -354,11 +335,11 @@
     "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-07-21T11:15:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -762,21 +743,21 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "LGD vs EDG",
+    "match": "EDG vs LGD",
     "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
       "name": "EDWARD GAMING",
       "code": "EDG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
+    "team_b": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
     "start_time": "2026-07-22T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-07-22T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -1515,6 +1496,25 @@
       "code": "JSK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
+    },
+    "start_time": "2026-07-23T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SC vs ES",
+    "team_a": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "team_b": {
+      "name": "Esprit Shonen",
+      "code": "ES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
     },
     "start_time": "2026-07-23T16:00:00Z",
     "status": "upcoming"

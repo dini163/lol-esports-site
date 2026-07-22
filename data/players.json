@@ -4591,6 +4591,29 @@
     },
     "highlights": []
   },
+  "BuLLDoG": {
+    "id": "BuLLDoG",
+    "name": "Taeyoung Lee",
+    "ign": "BuLLDoG",
+    "role": "MID",
+    "team": "Suzhou LNG Esports",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768347844999_bulldog.png",
+    "bio": "BuLLDoG is a professional League of Legends player competing in the LPL as the MID for Suzhou LNG Esports. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "9.1",
+      "kill_participation": "63%",
+      "win_rate": "52%"
+    },
+    "highlights": []
+  },
   "Angel": {
     "id": "Angel",
     "name": "Tao Xiang",
@@ -5787,6 +5810,29 @@
     },
     "highlights": []
   },
+  "Crisp": {
+    "id": "Crisp",
+    "name": "Qingsong Liu",
+    "ign": "Crisp",
+    "role": "SUPPORT",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1753285845967_image6216.png",
+    "bio": "Crisp is a professional League of Legends player competing in the LPL as the SUPPORT for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.1",
+      "kill_participation": "66%",
+      "win_rate": "52%"
+    },
+    "highlights": []
+  },
   "Breathe": {
     "id": "Breathe",
     "name": "Chen Chen",
@@ -5833,6 +5879,29 @@
     },
     "highlights": []
   },
+  "Nia1": {
+    "id": "Nia1",
+    "name": "GUANGLU ZOU",
+    "ign": "Nia1",
+    "role": "MID",
+    "team": "Invictus Gaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Nia1 is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "4.7",
+      "cs_per_min": "9.4",
+      "kill_participation": "63%",
+      "win_rate": "58%"
+    },
+    "highlights": []
+  },
   "Renard": {
     "id": "Renard",
     "name": "XINGCHE ZHANG",
@@ -5876,29 +5945,6 @@
       "cs_per_min": "8.1",
       "kill_participation": "66%",
       "win_rate": "50%"
-    },
-    "highlights": []
-  },
-  "Nia1": {
-    "id": "Nia1",
-    "name": "GUANGLU ZOU",
-    "ign": "Nia1",
-    "role": "MID",
-    "team": "Invictus Gaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Nia1 is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.7",
-      "cs_per_min": "9.4",
-      "kill_participation": "63%",
-      "win_rate": "58%"
     },
     "highlights": []
   },
@@ -5990,29 +6036,6 @@
       "kda": "4.8",
       "cs_per_min": "8.1",
       "kill_participation": "75%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
-  "BuLLDoG": {
-    "id": "BuLLDoG",
-    "name": "Taeyoung Lee",
-    "ign": "BuLLDoG",
-    "role": "MID",
-    "team": "Suzhou LNG Esports",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347844999_bulldog.png",
-    "bio": "BuLLDoG is a professional League of Legends player competing in the LPL as the MID for Suzhou LNG Esports. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.1",
-      "kill_participation": "63%",
       "win_rate": "52%"
     },
     "highlights": []
