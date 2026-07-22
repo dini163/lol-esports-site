@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-07-22T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
     },
     "start_time": "2026-07-23T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "BAM vs JSK",
+    "team_a": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
+    },
+    "team_b": {
+      "name": "JSK Gamefy",
+      "code": "JSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
+    },
+    "start_time": "2026-07-23T16:00:00Z",
     "status": "upcoming"
   }
 ]
