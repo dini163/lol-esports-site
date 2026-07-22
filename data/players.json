@@ -3252,29 +3252,6 @@
     },
     "highlights": []
   },
-  "Ice": {
-    "id": "Ice",
-    "name": "Sang-hoon Yoon",
-    "ign": "Ice",
-    "role": "BOTTOM",
-    "team": "Team Heretics",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1774651565551_ice.png",
-    "bio": "Ice is a professional League of Legends player competing in the LEC as the BOTTOM for Team Heretics. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.5",
-      "cs_per_min": "9.0",
-      "kill_participation": "72%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Hype ": {
     "id": "Hype ",
     "name": "Junghyun Byun",
@@ -3295,6 +3272,29 @@
       "cs_per_min": "8.2",
       "kill_participation": "76%",
       "win_rate": "70%"
+    },
+    "highlights": []
+  },
+  "Ice": {
+    "id": "Ice",
+    "name": "Sang-hoon Yoon",
+    "ign": "Ice",
+    "role": "BOTTOM",
+    "team": "Team Heretics",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1774651565551_ice.png",
+    "bio": "Ice is a professional League of Legends player competing in the LEC as the BOTTOM for Team Heretics. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.0",
+      "kill_participation": "72%",
+      "win_rate": "59%"
     },
     "highlights": []
   },
@@ -4568,29 +4568,6 @@
     },
     "highlights": []
   },
-  "BuLLDoG": {
-    "id": "BuLLDoG",
-    "name": "Taeyoung Lee",
-    "ign": "BuLLDoG",
-    "role": "MID",
-    "team": "Suzhou LNG Esports",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347844999_bulldog.png",
-    "bio": "BuLLDoG is a professional League of Legends player competing in the LPL as the MID for Suzhou LNG Esports. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.1",
-      "kill_participation": "63%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
   "sinian": {
     "id": "sinian",
     "name": "Ding Jia-Ming",
@@ -4611,6 +4588,29 @@
       "cs_per_min": "8.7",
       "kill_participation": "75%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "BuLLDoG": {
+    "id": "BuLLDoG",
+    "name": "Taeyoung Lee",
+    "ign": "BuLLDoG",
+    "role": "MID",
+    "team": "Suzhou LNG Esports",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768347844999_bulldog.png",
+    "bio": "BuLLDoG is a professional League of Legends player competing in the LPL as the MID for Suzhou LNG Esports. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "9.1",
+      "kill_participation": "63%",
+      "win_rate": "52%"
     },
     "highlights": []
   },
@@ -4729,29 +4729,6 @@
     },
     "highlights": []
   },
-  "Tyrion": {
-    "id": "Tyrion",
-    "name": "Peng Jun-Bin",
-    "ign": "Tyrion",
-    "role": "JUNGLE",
-    "team": "Xi'an Team WE",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Tyrion is a professional League of Legends player competing in the LPL as the JUNGLE for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.2",
-      "cs_per_min": "8.4",
-      "kill_participation": "76%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
   "Monki": {
     "id": "Monki",
     "name": "MENGQI WANG",
@@ -4772,6 +4749,29 @@
       "cs_per_min": "9.4",
       "kill_participation": "67%",
       "win_rate": "63%"
+    },
+    "highlights": []
+  },
+  "Tyrion": {
+    "id": "Tyrion",
+    "name": "Peng Jun-Bin",
+    "ign": "Tyrion",
+    "role": "JUNGLE",
+    "team": "Xi'an Team WE",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Tyrion is a professional League of Legends player competing in the LPL as the JUNGLE for Xi'an Team WE. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.2",
+      "cs_per_min": "8.4",
+      "kill_participation": "76%",
+      "win_rate": "52%"
     },
     "highlights": []
   },
@@ -5787,29 +5787,6 @@
     },
     "highlights": []
   },
-  "Ycx": {
-    "id": "Ycx",
-    "name": "Wenhao Zhao",
-    "ign": "Ycx",
-    "role": "SUPPORT",
-    "team": "LGD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768349425414_ycx.png",
-    "bio": "Ycx is a professional League of Legends player competing in the LPL as the SUPPORT for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.6",
-      "cs_per_min": "8.5",
-      "kill_participation": "72%",
-      "win_rate": "53%"
-    },
-    "highlights": []
-  },
   "Crisp": {
     "id": "Crisp",
     "name": "Qingsong Liu",
@@ -5830,6 +5807,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "66%",
       "win_rate": "52%"
+    },
+    "highlights": []
+  },
+  "Ycx": {
+    "id": "Ycx",
+    "name": "Wenhao Zhao",
+    "ign": "Ycx",
+    "role": "SUPPORT",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768349425414_ycx.png",
+    "bio": "Ycx is a professional League of Legends player competing in the LPL as the SUPPORT for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.6",
+      "cs_per_min": "8.5",
+      "kill_participation": "72%",
+      "win_rate": "53%"
     },
     "highlights": []
   },
@@ -5879,15 +5879,15 @@
     },
     "highlights": []
   },
-  "Nia1": {
-    "id": "Nia1",
-    "name": "GUANGLU ZOU",
-    "ign": "Nia1",
+  "Rookie": {
+    "id": "Rookie",
+    "name": "Ui-jin Song",
+    "ign": "Rookie",
     "role": "MID",
     "team": "Invictus Gaming",
     "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Nia1 is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1775225799612_rookie.png",
+    "bio": "Rookie is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Azir",
       "Orianna",
@@ -5895,10 +5895,10 @@
       "Yone"
     ],
     "stats": {
-      "kda": "4.7",
-      "cs_per_min": "9.4",
-      "kill_participation": "63%",
-      "win_rate": "58%"
+      "kda": "4.6",
+      "cs_per_min": "8.1",
+      "kill_participation": "66%",
+      "win_rate": "50%"
     },
     "highlights": []
   },
@@ -5925,15 +5925,15 @@
     },
     "highlights": []
   },
-  "Rookie": {
-    "id": "Rookie",
-    "name": "Ui-jin Song",
-    "ign": "Rookie",
+  "Nia1": {
+    "id": "Nia1",
+    "name": "GUANGLU ZOU",
+    "ign": "Nia1",
     "role": "MID",
     "team": "Invictus Gaming",
     "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225799612_rookie.png",
-    "bio": "Rookie is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Nia1 is a professional League of Legends player competing in the LPL as the MID for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Azir",
       "Orianna",
@@ -5941,10 +5941,10 @@
       "Yone"
     ],
     "stats": {
-      "kda": "4.6",
-      "cs_per_min": "8.1",
-      "kill_participation": "66%",
-      "win_rate": "50%"
+      "kda": "4.7",
+      "cs_per_min": "9.4",
+      "kill_participation": "63%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
