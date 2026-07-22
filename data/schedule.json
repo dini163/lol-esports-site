@@ -1,24 +1,5 @@
 [
   {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "DRX vs KT",
-    "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-07-20T12:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "VER vs ABV",
@@ -249,18 +230,18 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "KT vs DK",
+    "match": "DK vs KT",
     "team_a": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-07-21T08:15:00Z",
     "status": "completed"
@@ -325,18 +306,18 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "HLE vs DNS",
+    "match": "DNS vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
       "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-07-21T11:15:00Z",
     "status": "completed"
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-07-22T09:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "ES",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
+    },
+    "start_time": "2026-07-23T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "EKO vs P11",
+    "team_a": {
+      "name": "EKO Esports",
+      "code": "EKO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
+    },
+    "team_b": {
+      "name": "P11 Esports",
+      "code": "P11",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
     },
     "start_time": "2026-07-23T16:00:00Z",
     "status": "upcoming"

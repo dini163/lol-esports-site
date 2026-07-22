@@ -4568,29 +4568,6 @@
     },
     "highlights": []
   },
-  "sinian": {
-    "id": "sinian",
-    "name": "Ding Jia-Ming",
-    "ign": "sinian",
-    "role": "MID",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "sinian is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.3",
-      "cs_per_min": "8.7",
-      "kill_participation": "75%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "BuLLDoG": {
     "id": "BuLLDoG",
     "name": "Taeyoung Lee",
@@ -4611,6 +4588,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "63%",
       "win_rate": "52%"
+    },
+    "highlights": []
+  },
+  "sinian": {
+    "id": "sinian",
+    "name": "Ding Jia-Ming",
+    "ign": "sinian",
+    "role": "MID",
+    "team": "EDWARD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "sinian is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "4.3",
+      "cs_per_min": "8.7",
+      "kill_participation": "75%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
