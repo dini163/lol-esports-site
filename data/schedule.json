@@ -2,25 +2,6 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "VER vs ABV",
-    "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
-      "name": "Absolved",
-      "code": "ABV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
-    },
-    "start_time": "2026-07-20T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
     "match": "BROD vs BDG",
     "team_a": {
       "name": "Brod & Friends",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "team_b": {
