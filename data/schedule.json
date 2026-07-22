@@ -1,24 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "SNSH vs FEC",
-    "team_a": {
-      "name": "Senshi eSports",
-      "code": "SNSH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
-    },
-    "team_b": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "start_time": "2026-07-21T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "P4 vs BAM",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "NORTHERNGRADE ESPORTS",
       "code": "NGE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-07-22T21:00:00Z",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "NRG",
       "code": "NRG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "start_time": "2026-07-22T21:00:00Z",
@@ -772,30 +753,30 @@
     "team_b": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-07-22T22:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "NERD vs 7REX",
+    "match": "7REX vs NERD",
     "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
       "name": "7REX Team",
       "code": "7REX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
+    },
     "start_time": "2026-07-22T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-07-24T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "WE vs LGD",
+    "team_a": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "team_b": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "start_time": "2026-07-25T07:00:00Z",
     "status": "upcoming"
   }
 ]
