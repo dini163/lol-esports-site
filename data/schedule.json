@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "P4 vs BAM",
-    "team_a": {
-      "name": "Pyramid IV Esports",
-      "code": "P4",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "start_time": "2026-07-21T18:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "GL vs JL",
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-07-22T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "NRG",
       "code": "NRG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "start_time": "2026-07-22T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "7REX Team",
       "code": "7REX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-07-22T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -795,26 +776,26 @@
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "start_time": "2026-07-23T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "OME vs CONT",
+    "match": "CONT vs OME",
     "team_a": {
-      "name": "Ole Miss Esports",
-      "code": "OME",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
-    },
-    "team_b": {
       "name": "Contingent Esports",
       "code": "CONT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
+    "team_b": {
+      "name": "Ole Miss Esports",
+      "code": "OME",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
+    },
     "start_time": "2026-07-23T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-07-25T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "IG vs WBG",
+    "team_a": {
+      "name": "Invictus Gaming",
+      "code": "IG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    },
+    "team_b": {
+      "name": "WeiboGaming",
+      "code": "WBG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641202879910_3.png"
+    },
+    "start_time": "2026-07-25T09:00:00Z",
     "status": "upcoming"
   }
 ]
