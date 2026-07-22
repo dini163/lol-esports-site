@@ -2,82 +2,6 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "HLE vs GEN",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "start_time": "2026-07-21T06:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "DK vs BFX",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "start_time": "2026-07-21T06:45:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "T1 vs GEN",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "start_time": "2026-07-21T07:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "DK vs KT",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-07-21T08:15:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
     "match": "BRO vs GEN",
     "team_a": {
       "name": "HANJIN BRION",
@@ -639,11 +563,11 @@
     "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-07-22T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -652,7 +576,7 @@
     "team_a": {
       "name": "UB Alma Mater",
       "code": "UB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
     },
     "team_b": {
@@ -662,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
     },
     "start_time": "2026-07-22T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -696,11 +620,11 @@
     "team_b": {
       "name": "Ruddy Corporation",
       "code": "RUD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-07-22T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -715,11 +639,11 @@
     "team_b": {
       "name": "One More Esports ",
       "code": "1M",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
     },
     "start_time": "2026-07-22T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -734,11 +658,11 @@
     "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-07-22T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -747,7 +671,7 @@
     "team_a": {
       "name": "Colossal Gaming",
       "code": "CG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
     "team_b": {
@@ -757,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
     },
     "start_time": "2026-07-22T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -776,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-07-22T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -791,11 +715,11 @@
     "team_b": {
       "name": "Skillcamp",
       "code": "SC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-07-22T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -804,7 +728,7 @@
     "team_a": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "team_b": {
@@ -814,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
     },
     "start_time": "2026-07-22T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -829,11 +753,11 @@
     "team_b": {
       "name": "UCAM Esports Club",
       "code": "UCAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-07-22T17:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -852,26 +776,26 @@
       "image": "https://static.lolesports.com/teams/1784266718343_2mBW.png"
     },
     "start_time": "2026-07-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "LEO vs VES",
+    "match": "VES vs LEO",
     "team_a": {
-      "name": "Lund Esports Organization",
-      "code": "LEO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
-    },
-    "team_b": {
       "name": "VES",
       "code": "VES",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
     },
+    "team_b": {
+      "name": "Lund Esports Organization",
+      "code": "LEO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
+    },
     "start_time": "2026-07-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -890,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
     },
     "start_time": "2026-07-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LoL Italian Tournament",
@@ -928,7 +852,7 @@
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-07-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -947,7 +871,7 @@
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-07-22T18:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -1517,6 +1441,82 @@
       "image": "https://static.lolesports.com/teams/1784499713140_exsad.png"
     },
     "start_time": "2026-07-23T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "P4 vs DS",
+    "team_a": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "Disruptors",
+      "code": "DS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
+    },
+    "start_time": "2026-07-23T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SLY vs ZYB",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "ZYB",
+      "code": "ZYB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
+    },
+    "start_time": "2026-07-23T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "CG vs HMB",
+    "team_a": {
+      "name": "Colossal Gaming",
+      "code": "CG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "team_b": {
+      "name": "HMBLE",
+      "code": "HMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+    },
+    "start_time": "2026-07-23T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "TTB vs HYPE",
+    "team_a": {
+      "name": "Tung Tung Bogi",
+      "code": "TTB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
+    },
+    "team_b": {
+      "name": "Hyperion",
+      "code": "HYPE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
+    },
+    "start_time": "2026-07-23T19:00:00Z",
     "status": "upcoming"
   }
 ]
