@@ -122,7 +122,6 @@
       "Junhao",
       "Heru",
       "Ahn",
-      "Ryan3",
       "Feather"
     ]
   },
@@ -136,8 +135,8 @@
       "Hoya",
       "Guwon",
       "Care",
-      "Assum",
-      "Zhuo"
+      "Photic",
+      "fengyue"
     ]
   },
   {
@@ -154,8 +153,8 @@
       "Calix",
       "Scout",
       "SeTab",
-      "Lucy",
       "Diable",
+      "Lucy",
       "Lehends",
       "Pleata"
     ]
@@ -185,9 +184,9 @@
       "DDahyuk",
       "Dinai",
       "GIDEON",
+      "Pungyeon",
       "Tempester",
       "Roamer",
-      "Pungyeon",
       "OddEye",
       "Teddy",
       "Namgung",
@@ -210,8 +209,8 @@
       "Flip",
       "deokdam",
       "Enosh",
-      "Life",
       "Quantum ",
+      "Life",
       "Peter"
     ]
   },
@@ -223,12 +222,12 @@
     "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
     "players": [
       "Nevid",
-      "Jaehyuk",
       "Siwoo",
+      "Jaehyuk",
       "Solid",
       "Lucid",
-      "Garden",
       "ShowMaker",
+      "Garden",
       "Smash",
       "Wayne",
       "Career",
@@ -247,8 +246,8 @@
       "Vincenzo",
       "Willer",
       "Winner",
-      "AKaJe",
       "Ucal",
+      "AKaJe",
       "Jiwoo",
       "LazyFeel",
       "Minous",
@@ -282,15 +281,15 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
     "players": [
-      "Panther",
       "Zeus",
-      "Kanavi",
+      "Panther",
       "Jackal",
+      "Kanavi",
       "Cracker",
       "Valiant",
       "Zeka",
-      "Gumayusi",
       "Pyeonsik",
+      "Gumayusi",
       "Bluffing",
       "Delight"
     ]
@@ -327,8 +326,8 @@
       "Zephyr",
       "Raptor",
       "Grizzly",
-      "Daystar",
       "VicLa",
+      "Daystar",
       "MG",
       "Slayer",
       "Diable",
@@ -522,11 +521,9 @@
     "players": [
       "Zdz",
       "Xiaohao",
-      "sinian",
       "BuLLDoG",
       "Leave",
-      "Parukia",
-      "Jwei"
+      "Parukia"
     ]
   },
   {
@@ -541,7 +538,6 @@
       "Tyrion",
       "Karis",
       "About",
-      "Dorian",
       "Erha"
     ]
   },
@@ -567,8 +563,8 @@
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/DIG-FullonDark.png",
     "players": [
-      "Denathor",
       "Photon",
+      "Denathor",
       "eXyu",
       "Palafox",
       "FBI",
@@ -612,8 +608,8 @@
     "players": [
       "Naak Nako",
       "Lyncas",
-      "FIESTA",
       "Humanoid",
+      "FIESTA",
       "Carzzy",
       "Fleshy",
       "Lukezy"
@@ -626,8 +622,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "PerfecT",
       "Sero",
+      "PerfecT",
       "Cuzz",
       "Sylvie",
       "Hwichan",
@@ -648,16 +644,16 @@
     "players": [
       "Lancer",
       "DuDu",
-      "Sharvel",
       "DDoiV",
       "Pyosik",
+      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
+      "Quantum ",
       "Peter",
-      "Life",
-      "Quantum "
+      "Life"
     ]
   },
   {
@@ -687,13 +683,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
     "players": [
-      "Hery",
       "re0",
-      "Juhan",
-      "haichao",
-      "Starry",
-      "Photic",
-      "Moham"
+      "Starry"
     ]
   },
   {
@@ -707,8 +698,7 @@
       "Heng",
       "Tangyuan",
       "Shaoye",
-      "Crisp",
-      "Ycx"
+      "Crisp"
     ]
   },
   {
@@ -718,11 +708,11 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
     "players": [
+      "TheShy",
       "Wei",
       "Rookie",
-      "Renard",
-      "Nia1",
       "JiaQi",
+      "Assum",
       "Meiko"
     ]
   },
@@ -734,9 +724,11 @@
     "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
     "players": [
       "sheer",
+      "Weiwei",
       "Croco",
-      "BuLLDoG",
+      "Nia1",
       "1xn",
+      "Ycx",
       "MISSING"
     ]
   },
@@ -765,8 +757,7 @@
       "Jiejie",
       "Xiaohu",
       "Elk",
-      "TheHank",
-      "Hang"
+      "Jwei"
     ]
   },
   {
@@ -776,6 +767,7 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
     "players": [
+      "Wenbo",
       "Bin",
       "Xun",
       "Knight",
@@ -795,7 +787,6 @@
       "Tian",
       "Creme",
       "JackeyLove",
-      "fengyue",
       "Zhuo"
     ]
   },
