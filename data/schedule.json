@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Contingent Esports",
       "code": "CONT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "start_time": "2026-07-23T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
