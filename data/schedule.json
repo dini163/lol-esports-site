@@ -2,44 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "RMD vs PAIN",
-    "team_a": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-07-21T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "EST vs KBM",
-    "team_a": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "team_b": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "start_time": "2026-07-21T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "NERD vs TSS",
     "team_a": {
       "name": "Ei Nerd Esports",
@@ -747,13 +709,13 @@
     "team_a": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-23T11:00:00Z",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-07-23T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
     },
     "start_time": "2026-07-23T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-25T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "FUR vs LOS",
+    "team_a": {
+      "name": "FURIA",
+      "code": "FUR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/FURIA---black.png"
+    },
+    "team_b": {
+      "name": "LOS",
+      "code": "LOS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
+    },
+    "start_time": "2026-07-25T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "MKOI vs KC",
+    "team_a": {
+      "name": "Movistar KOI",
+      "code": "MKOI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "start_time": "2026-07-25T17:30:00Z",
     "status": "upcoming"
   }
 ]
