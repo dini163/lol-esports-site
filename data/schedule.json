@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "GL vs IJC",
-    "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
-      "name": "Ici Japon Corp",
-      "code": "IJC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
-    },
-    "start_time": "2026-07-22T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "TTS vs EKO",
@@ -633,7 +614,7 @@
     "team_a": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "team_b": {
@@ -643,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-07-23T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-07-23T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "GD Esports",
       "code": "GDE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
     },
     "team_b": {
@@ -738,45 +719,45 @@
       "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
     },
     "start_time": "2026-07-23T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "RSW vs WD",
+    "match": "WD vs RSW",
     "team_a": {
-      "name": "Role Swappers",
-      "code": "RSW",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784474494828_role_c.png"
-    },
-    "team_b": {
       "name": "White Dragons",
       "code": "WD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
     },
+    "team_b": {
+      "name": "Role Swappers",
+      "code": "RSW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784474494828_role_c.png"
+    },
     "start_time": "2026-07-23T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "BLUE vs CPD",
+    "match": "CPD vs BLUE",
     "team_a": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
+    "team_b": {
+      "name": "Blue Otter",
+      "code": "BLUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
+    },
     "start_time": "2026-07-23T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-27T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "T1 vs DK",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-07-27T08:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "HLE vs DRX",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-07-27T09:00:00Z",
     "status": "upcoming"
   }
 ]
