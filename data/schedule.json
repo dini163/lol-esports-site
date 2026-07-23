@@ -1,62 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "BAR vs UCAM",
-    "team_a": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "team_b": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "start_time": "2026-07-22T17:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "DEER vs 2M",
-    "team_a": {
-      "name": "Deer Gaming",
-      "code": "DEER",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
-    },
-    "team_b": {
-      "name": "2 Massive",
-      "code": "2M",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784266718343_2mBW.png"
-    },
-    "start_time": "2026-07-22T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "VES vs LEO",
-    "team_a": {
-      "name": "VES",
-      "code": "VES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
-    },
-    "team_b": {
-      "name": "Lund Esports Organization",
-      "code": "LEO",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
-    },
-    "start_time": "2026-07-22T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "GL vs IJC",
@@ -525,11 +468,11 @@
     "team_b": {
       "name": "Rossmann Centaurs",
       "code": "ROSS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-07-23T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -557,7 +500,7 @@
     "team_a": {
       "name": "Myth Esports",
       "code": "MYTH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "team_b": {
@@ -567,7 +510,7 @@
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-07-23T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -639,11 +582,11 @@
     "team_b": {
       "name": "The Bandits",
       "code": "BAN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-07-23T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -696,7 +639,7 @@
     "team_b": {
       "name": "Disruptors",
       "code": "DS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-07-23T18:30:00Z",
@@ -719,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
     },
     "start_time": "2026-07-23T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -734,11 +677,11 @@
     "team_b": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-07-23T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "Hyperion",
       "code": "HYPE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
     },
     "team_b": {
@@ -757,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
     },
     "start_time": "2026-07-23T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -772,30 +715,30 @@
     "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-07-23T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "ZZG vs GDE",
+    "match": "GDE vs ZZG",
     "team_a": {
-      "name": "ZeroZone Gaming",
-      "code": "ZZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
-    },
-    "team_b": {
       "name": "GD Esports",
       "code": "GDE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
     },
+    "team_b": {
+      "name": "ZeroZone Gaming",
+      "code": "ZZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
+    },
     "start_time": "2026-07-23T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-27T06:45:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "KT vs GEN",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "start_time": "2026-07-27T07:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "T1A vs NS",
+    "team_a": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-07-27T08:00:00Z",
     "status": "upcoming"
   }
 ]
