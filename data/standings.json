@@ -14,6 +14,17 @@
       },
       {
         "rank": 1,
+        "team": "BILIBILI GAMING",
+        "teamCode": "BLG",
+        "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 1
+      },
+      {
+        "rank": 1,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
@@ -35,29 +46,18 @@
         "gameLosses": 1
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "THUNDER TALK GAMING",
         "teamCode": "TT",
         "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
+        "gameWins": 1,
+        "gameLosses": 2
       },
       {
-        "rank": 4,
-        "team": "BILIBILI GAMING",
-        "teamCode": "BLG",
-        "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 6,
+        "rank": 5,
         "team": "EDWARD GAMING",
         "teamCode": "EDG",
         "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
@@ -68,7 +68,7 @@
         "gameLosses": 2
       },
       {
-        "rank": 6,
+        "rank": 5,
         "team": "Xi'an Team WE",
         "teamCode": "WE",
         "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
@@ -79,7 +79,7 @@
         "gameLosses": 2
       },
       {
-        "rank": 6,
+        "rank": 5,
         "team": "Beijing JDG Esports",
         "teamCode": "JDG",
         "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",
