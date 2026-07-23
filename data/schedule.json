@@ -1,5 +1,24 @@
 [
   {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "TTS vs EKO",
+    "team_a": {
+      "name": "TITANS",
+      "code": "TTS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
+    },
+    "team_b": {
+      "name": "EKO Esports",
+      "code": "EKO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
+    },
+    "start_time": "2026-07-22T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "DRM vs GOB",
@@ -728,13 +747,13 @@
     "team_a": {
       "name": "Cupid Esports",
       "code": "CPD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "team_b": {
       "name": "Blue Otter",
       "code": "BLUE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
     },
     "start_time": "2026-07-23T21:00:00Z",
