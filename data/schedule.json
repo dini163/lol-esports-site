@@ -2,44 +2,6 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "GL vs JL",
-    "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
-      "name": "Joblife",
-      "code": "JL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
-    },
-    "start_time": "2026-07-21T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RED vs INTZ",
-    "team_a": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "team_b": {
-      "name": "INTZ",
-      "code": "INTZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
-    },
-    "start_time": "2026-07-21T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
     "match": "SC vs SLY",
     "team_a": {
       "name": "Skillcamp",
@@ -772,11 +734,11 @@
     "team_b": {
       "name": "paiN Gaming Academy",
       "code": "PAIN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "start_time": "2026-07-23T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -785,13 +747,13 @@
     "team_a": {
       "name": "Contingent Esports",
       "code": "CONT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "team_b": {
       "name": "Ole Miss Esports",
       "code": "OME",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "start_time": "2026-07-23T00:00:00Z",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "start_time": "2026-07-25T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "GZ vs MVK",
+    "team_a": {
+      "name": "Ground Zero Gaming",
+      "code": "GZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
+    },
+    "team_b": {
+      "name": "MVK Esports",
+      "code": "MVK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "start_time": "2026-07-25T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TES vs TT",
+    "team_a": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "team_b": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "start_time": "2026-07-25T11:00:00Z",
     "status": "upcoming"
   }
 ]
