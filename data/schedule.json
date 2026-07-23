@@ -1,24 +1,5 @@
 [
   {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "VTC vs GLE",
-    "team_a": {
-      "name": "Volticons",
-      "code": "VTC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
-    },
-    "team_b": {
-      "name": "Golden Lions",
-      "code": "GLE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
-    },
-    "start_time": "2026-07-21T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "RMD vs PAIN",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-07-23T09:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-07-25T11:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "VIT vs G2",
+    "team_a": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-07-25T14:30:00Z",
     "status": "upcoming"
   }
 ]

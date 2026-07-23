@@ -4614,29 +4614,6 @@
     },
     "highlights": []
   },
-  "Angel": {
-    "id": "Angel",
-    "name": "Tao Xiang",
-    "ign": "Angel",
-    "role": "MID",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347791801_angel.png",
-    "bio": "Angel is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "8.4",
-      "kill_participation": "67%",
-      "win_rate": "62%"
-    },
-    "highlights": []
-  },
   "Leave": {
     "id": "Leave",
     "name": "HONGCHAO HU",
