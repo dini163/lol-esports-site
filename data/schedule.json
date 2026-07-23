@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "SC vs SLY",
-    "team_a": {
-      "name": "Skillcamp",
-      "code": "SC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
-    },
-    "team_b": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "start_time": "2026-07-21T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "VTC vs GLE",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-07-23T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-23T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -814,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-07-23T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-07-25T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "SHG vs TSW",
+    "team_a": {
+      "name": "Fukuoka SoftBank HAWKS gaming",
+      "code": "SHG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
+    },
+    "team_b": {
+      "name": "Team Secret Whales",
+      "code": "TSW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    },
+    "start_time": "2026-07-25T11:30:00Z",
     "status": "upcoming"
   }
 ]
