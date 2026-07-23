@@ -4251,8 +4251,8 @@
     "name": "Sungmin Lim",
     "ign": "Soboro",
     "role": "TOP",
-    "team": "Invictus Gaming",
-    "region": "LPL",
+    "team": "Fnatic",
+    "region": "LEC",
     "image": "http://static.lolesports.com/players/default-headshot.png",
     "bio": "Soboro is a professional League of Legends player competing in the LPL as the TOP for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
@@ -5833,29 +5833,6 @@
     },
     "highlights": []
   },
-  "Breathe": {
-    "id": "Breathe",
-    "name": "Chen Chen",
-    "ign": "Breathe",
-    "role": "TOP",
-    "team": "Invictus Gaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225499864_breathe.png",
-    "bio": "Breathe is a professional League of Legends player competing in the LPL as the TOP for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.7",
-      "cs_per_min": "9.7",
-      "kill_participation": "64%",
-      "win_rate": "70%"
-    },
-    "highlights": []
-  },
   "Wei": {
     "id": "Wei",
     "name": "Yang-Wei  Yan",
@@ -6589,6 +6566,29 @@
       "cs_per_min": "8.3",
       "kill_participation": "77%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "Breathe": {
+    "id": "Breathe",
+    "name": "Chen Chen",
+    "ign": "Breathe",
+    "role": "TOP",
+    "team": "Anyone's Legend",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225499864_breathe.png",
+    "bio": "Breathe is a professional League of Legends player competing in the LPL as the TOP for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.7",
+      "cs_per_min": "9.7",
+      "kill_participation": "64%",
+      "win_rate": "70%"
     },
     "highlights": []
   },

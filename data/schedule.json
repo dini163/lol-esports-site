@@ -756,7 +756,7 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
-    "start_time": "2026-07-23T07:00:00Z",
+    "start_time": "2026-07-23T09:00:00Z",
     "status": "completed"
   },
   {
@@ -774,25 +774,6 @@
       "code": "BLG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "start_time": "2026-07-23T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "AL vs LGD",
-    "team_a": {
-      "name": "Anyone's Legend",
-      "code": "AL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1641199582689_.png"
-    },
-    "team_b": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-07-23T11:00:00Z",
     "status": "completed"
@@ -1233,6 +1214,25 @@
     },
     "start_time": "2026-07-24T00:00:00Z",
     "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "AL vs LGD",
+    "team_a": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "start_time": "2026-07-24T07:00:00Z",
+    "status": "completed"
   },
   {
     "league": "LJL",
