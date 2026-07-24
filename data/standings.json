@@ -3,17 +3,17 @@
     "regular": [
       {
         "rank": 1,
-        "team": "LGD GAMING",
-        "teamCode": "LGD",
-        "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
-        "wins": 1,
+        "team": "Anyone's Legend",
+        "teamCode": "AL",
+        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "wins": 2,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 2,
-        "gameLosses": 0
+        "gameWins": 4,
+        "gameLosses": 1
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "BILIBILI GAMING",
         "teamCode": "BLG",
         "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
@@ -24,7 +24,7 @@
         "gameLosses": 1
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
@@ -35,15 +35,15 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
-        "team": "Anyone's Legend",
-        "teamCode": "AL",
-        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "rank": 4,
+        "team": "LGD GAMING",
+        "teamCode": "LGD",
+        "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
         "wins": 1,
-        "losses": 0,
-        "winrate": "100%",
+        "losses": 1,
+        "winrate": "50%",
         "gameWins": 2,
-        "gameLosses": 1
+        "gameLosses": 2
       },
       {
         "rank": 5,

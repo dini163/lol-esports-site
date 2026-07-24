@@ -1,62 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "DRM vs GOB",
-    "team_a": {
-      "name": "Dream Esports",
-      "code": "DRM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
-    },
-    "team_b": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
-    },
-    "start_time": "2026-07-22T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "ANB vs 3BL",
-    "team_a": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
-    },
-    "team_b": {
-      "name": "3BL GALAXY ESPORTS",
-      "code": "3BL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
-    },
-    "start_time": "2026-07-22T18:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "SLY vs JL",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "Joblife",
-      "code": "JL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
-    },
-    "start_time": "2026-07-22T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "P11 vs ATA",
@@ -766,7 +709,7 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
@@ -781,21 +724,21 @@
   {
     "league": "LJL",
     "league_code": "ljl",
-    "match": "RCK vs ARB",
+    "match": "ARB vs RCK",
     "team_a": {
+      "name": "Arneb",
+      "code": "ARB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
+    },
+    "team_b": {
       "name": "RAYN Clocks",
       "code": "RCK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
     },
-    "team_b": {
-      "name": "Arneb",
-      "code": "ARB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
-    },
     "start_time": "2026-07-24T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-27T09:45:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "GGA vs BFX",
+    "team_a": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "start_time": "2026-07-27T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "BRO vs DK",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-07-27T10:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "T1 vs DNS",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-27T11:15:00Z",
     "status": "upcoming"
   }
 ]
