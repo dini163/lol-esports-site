@@ -1,24 +1,5 @@
 [
   {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "TTS vs EKO",
-    "team_a": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "team_b": {
-      "name": "EKO Esports",
-      "code": "EKO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
-    },
-    "start_time": "2026-07-22T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "DRM vs GOB",
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
     },
     "start_time": "2026-07-23T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CNV vs WU",
+    "match": "WU vs CNV",
     "team_a": {
+      "name": "Winthrop University",
+      "code": "WU",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
+    },
+    "team_b": {
       "name": "Conviction",
       "code": "CNV",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
-    "team_b": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
     "start_time": "2026-07-24T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-27T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "T1 vs NS",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-07-27T09:45:00Z",
     "status": "upcoming"
   }
 ]
