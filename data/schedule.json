@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "KCB vs ES",
-    "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "team_b": {
-      "name": "Esprit Shonen",
-      "code": "ES",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
-    },
-    "start_time": "2026-07-22T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "FCN vs WG",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-24T14:30:00Z",
@@ -743,40 +724,40 @@
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "P11 vs GMB",
+    "match": "GMB vs P11",
     "team_a": {
+      "name": "GMBLERS Esports",
+      "code": "GMB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
+    "team_b": {
       "name": "P11 Esports",
       "code": "P11",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
     },
-    "team_b": {
-      "name": "GMBLERS Esports",
-      "code": "GMB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
-    },
     "start_time": "2026-07-24T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "TTS vs CG",
+    "match": "CG vs TTS",
     "team_a": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "team_b": {
       "name": "Colossal Gaming",
       "code": "CG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
+    "team_b": {
+      "name": "TITANS",
+      "code": "TTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
+    },
     "start_time": "2026-07-24T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "start_time": "2026-07-27T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "RUD vs VES",
+    "team_a": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
+    },
+    "team_b": {
+      "name": "VES",
+      "code": "VES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
+    },
+    "start_time": "2026-07-27T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DEER vs EA",
+    "team_a": {
+      "name": "Deer Gaming",
+      "code": "DEER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
+    },
+    "team_b": {
+      "name": "Epic Avalanche",
+      "code": "EA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036463315_EAlogohighreso1.png"
+    },
+    "start_time": "2026-07-27T16:00:00Z",
     "status": "upcoming"
   }
 ]
