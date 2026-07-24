@@ -1,5 +1,24 @@
 [
   {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "OTS vs LHC",
+    "team_a": {
+      "name": "Otter Side",
+      "code": "OTS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
+    },
+    "team_b": {
+      "name": "Panel\u00e3o LHC",
+      "code": "LHC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784553835529_panelaoorange1.png"
+    },
+    "start_time": "2026-07-22T19:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "KBM vs INTZ",
@@ -728,13 +747,13 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
       "name": "EDWARD GAMING",
       "code": "EDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-07-24T11:00:00Z",
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-24T14:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LoL Italian Tournament",
