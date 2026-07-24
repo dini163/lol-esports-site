@@ -2,44 +2,6 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "FCN vs WG",
-    "team_a": {
-      "name": "Francesinhas",
-      "code": "FCN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
-    },
-    "team_b": {
-      "name": "Way Gaming Esports",
-      "code": "WG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784500521124_w_c.png"
-    },
-    "start_time": "2026-07-22T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "TSS vs EST",
-    "team_a": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "team_b": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "start_time": "2026-07-22T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
     "match": "BBK vs NGE",
     "team_a": {
       "name": "Bubliki",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-24T14:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Colossal Gaming",
       "code": "CG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
     "team_b": {
@@ -757,26 +719,26 @@
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-07-24T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "VIT vs KC",
+    "match": "KC vs VIT",
     "team_a": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "team_b": {
       "name": "Team Vitality",
       "code": "VIT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
-    "team_b": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
     "start_time": "2026-07-24T17:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LoL Italian Tournament",
@@ -791,11 +753,11 @@
     "team_b": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-07-24T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
     },
     "start_time": "2026-07-24T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1784036463315_EAlogohighreso1.png"
     },
     "start_time": "2026-07-27T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "VER vs LLS",
+    "team_a": {
+      "name": "Verdant",
+      "code": "VER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
+    "team_b": {
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
+    },
+    "start_time": "2026-07-27T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "AP vs BDG",
+    "team_a": {
+      "name": "Arctic Pandas",
+      "code": "AP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "team_b": {
+      "name": "Bulldog Esports",
+      "code": "BDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
+    },
+    "start_time": "2026-07-27T18:00:00Z",
     "status": "upcoming"
   }
 ]
