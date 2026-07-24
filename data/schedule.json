@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
     "start_time": "2026-07-24T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
