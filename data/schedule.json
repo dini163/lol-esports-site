@@ -1,5 +1,43 @@
 [
   {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "CCG vs NRG",
+    "team_a": {
+      "name": "CCG Esports",
+      "code": "CCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
+    "team_b": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
+    },
+    "start_time": "2026-07-22T21:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RMD vs VKS",
+    "team_a": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-07-22T22:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "7REX vs NERD",
@@ -720,25 +758,6 @@
     },
     "start_time": "2026-07-24T19:00:00Z",
     "status": "completed"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "TBD vs TBD",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "start_time": "2026-07-24T20:00:00Z",
-    "status": "upcoming"
   },
   {
     "league": "LPL",
