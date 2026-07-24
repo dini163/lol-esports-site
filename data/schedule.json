@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "OTS vs LHC",
-    "team_a": {
-      "name": "Otter Side",
-      "code": "OTS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
-    },
-    "team_b": {
-      "name": "Panel\u00e3o LHC",
-      "code": "LHC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784553835529_panelaoorange1.png"
-    },
-    "start_time": "2026-07-22T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "KBM vs INTZ",
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1776849368514_A_RAYN_logo_FULL2_W.png"
     },
     "start_time": "2026-07-24T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "Xi'an Team WE",
       "code": "WE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-07-24T09:00:00Z",
