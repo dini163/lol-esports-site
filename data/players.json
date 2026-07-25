@@ -1987,29 +1987,6 @@
     },
     "highlights": []
   },
-  "Dinai": {
-    "id": "Dinai",
-    "name": "ChihYun Hwang",
-    "ign": "Dinai",
-    "role": "JUNGLE",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090179597_image6-2026-01-22T145555.391.png",
-    "bio": "Dinai is a professional League of Legends player competing in the LCK as the JUNGLE for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.1",
-      "cs_per_min": "9.4",
-      "kill_participation": "75%",
-      "win_rate": "50%"
-    },
-    "highlights": []
-  },
   "GIDEON": {
     "id": "GIDEON",
     "name": "Minsung Kim",
@@ -2030,6 +2007,29 @@
       "cs_per_min": "9.4",
       "kill_participation": "65%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Dinai": {
+    "id": "Dinai",
+    "name": "ChihYun Hwang",
+    "ign": "Dinai",
+    "role": "JUNGLE",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090179597_image6-2026-01-22T145555.391.png",
+    "bio": "Dinai is a professional League of Legends player competing in the LCK as the JUNGLE for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.1",
+      "cs_per_min": "9.4",
+      "kill_participation": "75%",
+      "win_rate": "50%"
     },
     "highlights": []
   },
@@ -2056,29 +2056,6 @@
     },
     "highlights": []
   },
-  "Tempester": {
-    "id": "Tempester",
-    "name": "Yeongwoong Oh",
-    "ign": "Tempester",
-    "role": "MID",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769089985671_image6-2026-01-22T145216.586.png",
-    "bio": "Tempester is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "8.4",
-      "kill_participation": "68%",
-      "win_rate": "51%"
-    },
-    "highlights": []
-  },
   "Roamer": {
     "id": "Roamer",
     "name": "Woojin Cho",
@@ -2102,26 +2079,26 @@
     },
     "highlights": []
   },
-  "OddEye": {
-    "id": "OddEye",
-    "name": "Cho Hyungjin",
-    "ign": "OddEye",
-    "role": "BOTTOM",
+  "Tempester": {
+    "id": "Tempester",
+    "name": "Yeongwoong Oh",
+    "ign": "Tempester",
+    "role": "MID",
     "team": "BRO Challengers",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090109251_image6-2026-01-22T145445.080.png",
-    "bio": "OddEye is a professional League of Legends player competing in the LCK as the BOTTOM for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769089985671_image6-2026-01-22T145216.586.png",
+    "bio": "Tempester is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
     ],
     "stats": {
-      "kda": "4.6",
-      "cs_per_min": "8.1",
-      "kill_participation": "66%",
-      "win_rate": "65%"
+      "kda": "4.4",
+      "cs_per_min": "8.4",
+      "kill_participation": "68%",
+      "win_rate": "51%"
     },
     "highlights": []
   },
@@ -2145,6 +2122,29 @@
       "cs_per_min": "10.0",
       "kill_participation": "72%",
       "win_rate": "71%"
+    },
+    "highlights": []
+  },
+  "OddEye": {
+    "id": "OddEye",
+    "name": "Cho Hyungjin",
+    "ign": "OddEye",
+    "role": "BOTTOM",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090109251_image6-2026-01-22T145445.080.png",
+    "bio": "OddEye is a professional League of Legends player competing in the LCK as the BOTTOM for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "4.6",
+      "cs_per_min": "8.1",
+      "kill_participation": "66%",
+      "win_rate": "65%"
     },
     "highlights": []
   },
@@ -6523,29 +6523,6 @@
     },
     "highlights": []
   },
-  "Castle": {
-    "id": "Castle",
-    "name": "Hyeonseong Jo",
-    "ign": "Castle",
-    "role": "TOP",
-    "team": "LYON",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/1769752685127_castle.png",
-    "bio": "Castle is a professional League of Legends player competing in the LCS as the TOP for LYON. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.7",
-      "cs_per_min": "8.2",
-      "kill_participation": "63%",
-      "win_rate": "56%"
-    },
-    "highlights": []
-  },
   "Dhokla": {
     "id": "Dhokla",
     "name": "Niship Doshi",
@@ -6566,6 +6543,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "68%",
       "win_rate": "49%"
+    },
+    "highlights": []
+  },
+  "Armao": {
+    "id": "Armao",
+    "name": "Jonathan Armao",
+    "ign": "Armao",
+    "role": "JUNGLE",
+    "team": "LYON",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/1687315630724_EG_ARMAO.png",
+    "bio": "Armao is a professional League of Legends player competing in the LCS as the JUNGLE for LYON. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.4",
+      "cs_per_min": "9.3",
+      "kill_participation": "64%",
+      "win_rate": "65%"
     },
     "highlights": []
   },
