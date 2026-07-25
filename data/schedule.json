@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-07-25T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-07-28T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "ALMO vs SPAR",
+    "team_a": {
+      "name": "ALMO Players",
+      "code": "ALMO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
+    },
+    "team_b": {
+      "name": "Spartans EU",
+      "code": "SPAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
+    },
+    "start_time": "2026-07-28T15:00:00Z",
     "status": "upcoming"
   }
 ]

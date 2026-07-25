@@ -748,6 +748,7 @@
     ],
     "playoffs": [
       {
+        "rank": 1,
         "team": "LYON",
         "teamCode": "LYON",
         "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
@@ -755,10 +756,10 @@
         "losses": 0,
         "winrate": "100%",
         "gameWins": 12,
-        "gameLosses": 3,
-        "rank": 1
+        "gameLosses": 3
       },
       {
+        "rank": 2,
         "team": "Cloud9 Kia",
         "teamCode": "C9",
         "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
@@ -766,10 +767,10 @@
         "losses": 1,
         "winrate": "67%",
         "gameWins": 7,
-        "gameLosses": 3,
-        "rank": 2
+        "gameLosses": 3
       },
       {
+        "rank": 3,
         "team": "Sentinels",
         "teamCode": "SEN",
         "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
@@ -777,41 +778,7 @@
         "losses": 2,
         "winrate": "33%",
         "gameWins": 4,
-        "gameLosses": 8,
-        "rank": 3
-      },
-      {
-        "team": "Team Liquid Alienware",
-        "teamCode": "TL",
-        "teamImage": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-        "wins": 1,
-        "losses": 1,
-        "winrate": "50%",
-        "gameWins": 4,
-        "gameLosses": 3,
-        "rank": 4
-      },
-      {
-        "team": "Disguised",
-        "teamCode": "DSG",
-        "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
-        "wins": 0,
-        "losses": 2,
-        "winrate": "0%",
-        "gameWins": 2,
-        "gameLosses": 6,
-        "rank": 5
-      },
-      {
-        "team": "FlyQuest",
-        "teamCode": "FLY",
-        "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
-        "wins": 0,
-        "losses": 2,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 6,
-        "rank": 6
+        "gameLosses": 8
       }
     ]
   }
