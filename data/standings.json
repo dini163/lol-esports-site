@@ -25,6 +25,17 @@
       },
       {
         "rank": 3,
+        "team": "Xi'an Team WE",
+        "teamCode": "WE",
+        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+        "wins": 2,
+        "losses": 1,
+        "winrate": "67%",
+        "gameWins": 4,
+        "gameLosses": 3
+      },
+      {
+        "rank": 4,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
@@ -35,26 +46,15 @@
         "gameLosses": 0
       },
       {
-        "rank": 4,
-        "team": "Xi'an Team WE",
-        "teamCode": "WE",
-        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-        "wins": 1,
-        "losses": 1,
-        "winrate": "50%",
-        "gameWins": 2,
-        "gameLosses": 3
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
         "wins": 1,
-        "losses": 1,
-        "winrate": "50%",
+        "losses": 2,
+        "winrate": "33%",
         "gameWins": 2,
-        "gameLosses": 2
+        "gameLosses": 4
       },
       {
         "rank": 6,

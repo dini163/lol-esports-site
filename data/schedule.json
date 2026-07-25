@@ -2,25 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "7REX vs NERD",
-    "team_a": {
-      "name": "7REX Team",
-      "code": "7REX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
-    },
-    "team_b": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "start_time": "2026-07-22T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "RED vs PAIN",
     "team_a": {
       "name": "RED Kalunga Academy",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Xi'an Team WE",
       "code": "WE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "team_b": {
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "WeiboGaming",
       "code": "WBG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "start_time": "2026-07-25T09:00:00Z",
@@ -762,21 +743,21 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "GZ vs MVK",
+    "match": "MVK vs GZ",
     "team_a": {
+      "name": "MVK Esports",
+      "code": "MVK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "team_b": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
-    "team_b": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
     "start_time": "2026-07-25T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
     },
     "start_time": "2026-07-27T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "INTZ vs RMD",
+    "team_a": {
+      "name": "INTZ",
+      "code": "INTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
+    },
+    "team_b": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "start_time": "2026-07-27T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "FUE vs KITS",
+    "team_a": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "team_b": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "start_time": "2026-07-27T23:00:00Z",
     "status": "upcoming"
   }
 ]
