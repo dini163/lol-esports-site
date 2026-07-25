@@ -91,6 +91,17 @@
       },
       {
         "rank": 1,
+        "team": "Invictus Gaming",
+        "teamCode": "IG",
+        "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 1
+      },
+      {
+        "rank": 2,
         "team": "Shenzhen NINJAS IN PYJAMAS",
         "teamCode": "NIP",
         "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
@@ -101,18 +112,7 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
-        "team": "Invictus Gaming",
-        "teamCode": "IG",
-        "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 1,
+        "rank": 2,
         "team": "Suzhou LNG Esports",
         "teamCode": "LNG",
         "teamImage": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
@@ -123,15 +123,15 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
+        "rank": 4,
         "team": "WeiboGaming",
         "teamCode": "WBG",
         "teamImage": "https://static.lolesports.com/teams/1641202879910_3.png",
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
+        "gameWins": 1,
+        "gameLosses": 2
       }
     ],
     "playoffs": [
