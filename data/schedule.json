@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "BAM vs JSK",
-    "team_a": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "team_b": {
-      "name": "JSK Gamefy",
-      "code": "JSK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
-    },
-    "start_time": "2026-07-23T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "ES vs SC",
@@ -1515,6 +1496,25 @@
       "code": "SPAR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
+    },
+    "start_time": "2026-07-28T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "UB vs UCAM",
+    "team_a": {
+      "name": "UB Alma Mater",
+      "code": "UB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
+    },
+    "team_b": {
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-07-28T15:00:00Z",
     "status": "upcoming"
