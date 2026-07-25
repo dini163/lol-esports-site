@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RED vs PAIN",
-    "team_a": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-07-23T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CONT vs OME",
-    "team_a": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "team_b": {
-      "name": "Ole Miss Esports",
-      "code": "OME",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
-    },
-    "start_time": "2026-07-23T00:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "AL vs JDG",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "team_b": {
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "MVK Esports",
       "code": "MVK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "start_time": "2026-07-25T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -781,21 +743,21 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "SHG vs TSW",
+    "match": "TSW vs SHG",
     "team_a": {
-      "name": "Fukuoka SoftBank HAWKS gaming",
-      "code": "SHG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
-    },
-    "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
+    "team_b": {
+      "name": "Fukuoka SoftBank HAWKS gaming",
+      "code": "SHG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
+    },
     "start_time": "2026-07-25T11:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-07-25T14:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-07-27T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "VKS vs EST",
+    "team_a": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "team_b": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
+    "start_time": "2026-07-28T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "HLE vs BRO",
+    "team_a": {
+      "name": "HLE Challengers",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "start_time": "2026-07-28T08:00:00Z",
     "status": "upcoming"
   }
 ]
