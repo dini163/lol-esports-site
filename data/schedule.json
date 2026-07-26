@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "GX vs HRTS",
-    "team_a": {
-      "name": "GIANTX ITERO",
-      "code": "GX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "team_b": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "start_time": "2026-07-23T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "GL vs VITB",
