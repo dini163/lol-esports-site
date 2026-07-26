@@ -14,8 +14,8 @@
       "Kemish",
       "MUDAI",
       "Ruler",
-      "SIRIUSS",
       "Lumos",
+      "SIRIUSS",
       "Duro"
     ]
   },
@@ -146,15 +146,15 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "players": [
-      "Kingen",
       "Janus",
+      "Kingen",
       "Sponge",
       "MihawK",
       "Calix",
       "Scout",
       "SeTab",
-      "Diable",
       "Lucy",
+      "Diable",
       "Lehends",
       "Pleata"
     ]
@@ -180,13 +180,13 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "players": [
-      "DDahyuk",
       "Casting",
+      "DDahyuk",
       "GIDEON",
       "Dinai",
+      "Pungyeon",
       "Tempester",
       "Roamer",
-      "Pungyeon",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -202,9 +202,9 @@
     "players": [
       "DuDu",
       "Lancer",
+      "Sharvel",
       "DDoiV",
       "Pyosik",
-      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
@@ -222,12 +222,12 @@
     "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
     "players": [
       "Nevid",
-      "Siwoo",
       "Jaehyuk",
-      "Solid",
+      "Siwoo",
       "Lucid",
-      "ShowMaker",
+      "Solid",
       "Garden",
+      "ShowMaker",
       "Smash",
       "Wayne",
       "Career",
@@ -281,15 +281,15 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
     "players": [
-      "Zeus",
       "Panther",
-      "Jackal",
+      "Zeus",
       "Kanavi",
-      "Zeka",
+      "Jackal",
       "Cracker",
       "Valiant",
-      "Pyeonsik",
+      "Zeka",
       "Gumayusi",
+      "Pyeonsik",
       "Bluffing",
       "Delight"
     ]
@@ -301,12 +301,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
-      "Sylvie",
+      "Sero",
       "Cuzz",
-      "Hwichan",
+      "Sylvie",
       "Bdd",
+      "Hwichan",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -321,19 +321,19 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "players": [
-      "Clear",
       "Kangin",
-      "Raptor",
+      "Clear",
       "Zephyr",
+      "Raptor",
       "Grizzly",
       "Daystar",
       "VicLa",
       "MG",
       "Slayer",
-      "Diable",
       "Taeyoon",
-      "Kellin",
-      "Luon"
+      "Diable",
+      "Luon",
+      "Kellin"
     ]
   },
   {
@@ -352,8 +352,8 @@
       "SeTab",
       "Diable",
       "Lucy",
-      "Lehends",
-      "Pleata"
+      "Pleata",
+      "Lehends"
     ]
   },
   {

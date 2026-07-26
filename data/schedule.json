@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "P4 vs DS",
-    "team_a": {
-      "name": "Pyramid IV Esports",
-      "code": "P4",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Disruptors",
-      "code": "DS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "start_time": "2026-07-23T18:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "SLY vs ZYB",
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-07-26T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "DSG vs SR",
+    "match": "SR vs DSG",
     "team_a": {
+      "name": "Shopify Rebellion",
+      "code": "SR",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+    },
+    "team_b": {
       "name": "Disguised",
       "code": "DSG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
     },
-    "team_b": {
-      "name": "Shopify Rebellion",
-      "code": "SR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-    },
     "start_time": "2026-07-26T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "KeSPA Cup",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-07-28T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "1M vs P4",
+    "team_a": {
+      "name": "One More Esports ",
+      "code": "1M",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
+    },
+    "team_b": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "start_time": "2026-07-28T18:30:00Z",
     "status": "upcoming"
   }
 ]
