@@ -1,24 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "ZNT vs BAN",
-    "team_a": {
-      "name": "ZennIT",
-      "code": "ZNT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
-    },
-    "team_b": {
-      "name": "The Bandits",
-      "code": "BAN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
-    },
-    "start_time": "2026-07-23T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "GMB vs TTS",
@@ -1515,6 +1496,25 @@
       "code": "GL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "start_time": "2026-07-28T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "TSC vs CF",
+    "team_a": {
+      "name": "The Secret Club",
+      "code": "TSC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "Croatian Flair",
+      "code": "CF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776207835031_CFW1.png"
     },
     "start_time": "2026-07-28T18:00:00Z",
     "status": "upcoming"
