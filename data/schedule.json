@@ -1,24 +1,5 @@
 [
   {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "ZENA vs ATA",
-    "team_a": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "team_b": {
-      "name": "Aeterna Esports",
-      "code": "ATA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
-    },
-    "start_time": "2026-07-23T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "GX vs HRTS",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
     },
     "start_time": "2026-07-26T11:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
