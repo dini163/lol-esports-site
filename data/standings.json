@@ -6,17 +6,17 @@
         "team": "BILIBILI GAMING",
         "teamCode": "BLG",
         "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 4,
-        "gameLosses": 2
+        "gameWins": 6,
+        "gameLosses": 3
       },
       {
-        "rank": 1,
-        "team": "Anyone's Legend",
-        "teamCode": "AL",
-        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "rank": 2,
+        "team": "TOP ESPORTS",
+        "teamCode": "TES",
+        "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
         "wins": 2,
         "losses": 0,
         "winrate": "100%",
@@ -35,15 +35,26 @@
         "gameLosses": 3
       },
       {
-        "rank": 4,
-        "team": "TOP ESPORTS",
-        "teamCode": "TES",
-        "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+        "rank": 3,
+        "team": "Anyone's Legend",
+        "teamCode": "AL",
+        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "wins": 2,
+        "losses": 1,
+        "winrate": "67%",
+        "gameWins": 5,
+        "gameLosses": 3
+      },
+      {
+        "rank": 5,
+        "team": "THUNDER TALK GAMING",
+        "teamCode": "TT",
+        "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
         "wins": 1,
-        "losses": 0,
-        "winrate": "100%",
-        "gameWins": 2,
-        "gameLosses": 0
+        "losses": 2,
+        "winrate": "33%",
+        "gameWins": 4,
+        "gameLosses": 4
       },
       {
         "rank": 5,
@@ -54,28 +65,6 @@
         "losses": 2,
         "winrate": "33%",
         "gameWins": 2,
-        "gameLosses": 4
-      },
-      {
-        "rank": 6,
-        "team": "THUNDER TALK GAMING",
-        "teamCode": "TT",
-        "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
-        "wins": 0,
-        "losses": 1,
-        "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 2
-      },
-      {
-        "rank": 7,
-        "team": "EDWARD GAMING",
-        "teamCode": "EDG",
-        "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-        "wins": 0,
-        "losses": 2,
-        "winrate": "0%",
-        "gameWins": 1,
         "gameLosses": 4
       },
       {
@@ -90,6 +79,28 @@
         "gameLosses": 4
       },
       {
+        "rank": 8,
+        "team": "EDWARD GAMING",
+        "teamCode": "EDG",
+        "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
+        "wins": 0,
+        "losses": 3,
+        "winrate": "0%",
+        "gameWins": 1,
+        "gameLosses": 6
+      },
+      {
+        "rank": 1,
+        "team": "Shenzhen NINJAS IN PYJAMAS",
+        "teamCode": "NIP",
+        "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 0
+      },
+      {
         "rank": 1,
         "team": "Invictus Gaming",
         "teamCode": "IG",
@@ -101,29 +112,18 @@
         "gameLosses": 1
       },
       {
-        "rank": 2,
-        "team": "Shenzhen NINJAS IN PYJAMAS",
-        "teamCode": "NIP",
-        "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 2,
+        "rank": 3,
         "team": "Suzhou LNG Esports",
         "teamCode": "LNG",
         "teamImage": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "winrate": "0%",
         "gameWins": 0,
-        "gameLosses": 0
+        "gameLosses": 2
       },
       {
-        "rank": 4,
+        "rank": 3,
         "team": "WeiboGaming",
         "teamCode": "WBG",
         "teamImage": "https://static.lolesports.com/teams/1641202879910_3.png",
@@ -458,10 +458,10 @@
         "team": "Karmine Corp",
         "teamCode": "KC",
         "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 2,
+        "gameWins": 4,
         "gameLosses": 0
       },
       {
@@ -469,10 +469,10 @@
         "team": "G2 Esports",
         "teamCode": "G2",
         "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 2,
+        "gameWins": 4,
         "gameLosses": 1
       },
       {
@@ -543,25 +543,25 @@
       },
       {
         "rank": 9,
+        "team": "Team Vitality",
+        "teamCode": "VIT",
+        "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+        "wins": 1,
+        "losses": 2,
+        "winrate": "33%",
+        "gameWins": 2,
+        "gameLosses": 5
+      },
+      {
+        "rank": 10,
         "team": "Movistar KOI",
         "teamCode": "MKOI",
         "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
         "wins": 0,
-        "losses": 1,
+        "losses": 3,
         "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 2
-      },
-      {
-        "rank": 9,
-        "team": "Team Vitality",
-        "teamCode": "VIT",
-        "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
-        "wins": 0,
-        "losses": 1,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 2
+        "gameWins": 2,
+        "gameLosses": 6
       }
     ],
     "playoffs": [
@@ -659,6 +659,28 @@
     "regular": [
       {
         "rank": 1,
+        "team": "Sentinels",
+        "teamCode": "SEN",
+        "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 1
+      },
+      {
+        "rank": 1,
+        "team": "LYON",
+        "teamCode": "LYON",
+        "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 0
+      },
+      {
+        "rank": 3,
         "team": "Disguised",
         "teamCode": "DSG",
         "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
@@ -669,7 +691,7 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
+        "rank": 3,
         "team": "Shopify Rebellion",
         "teamCode": "SR",
         "teamImage": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
@@ -680,18 +702,7 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
-        "team": "Sentinels",
-        "teamCode": "SEN",
-        "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 1,
+        "rank": 3,
         "team": "Cloud9 Kia",
         "teamCode": "C9",
         "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
@@ -702,18 +713,7 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
-        "team": "Dignitas",
-        "teamCode": "DIG",
-        "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 1,
+        "rank": 3,
         "team": "Team Liquid Alienware",
         "teamCode": "TL",
         "teamImage": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
@@ -724,26 +724,26 @@
         "gameLosses": 0
       },
       {
-        "rank": 1,
+        "rank": 7,
+        "team": "Dignitas",
+        "teamCode": "DIG",
+        "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
+        "wins": 0,
+        "losses": 1,
+        "winrate": "0%",
+        "gameWins": 1,
+        "gameLosses": 2
+      },
+      {
+        "rank": 7,
         "team": "FlyQuest",
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "winrate": "0%",
         "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 1,
-        "team": "LYON",
-        "teamCode": "LYON",
-        "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
+        "gameLosses": 2
       }
     ],
     "playoffs": [

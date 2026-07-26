@@ -89,8 +89,8 @@
     "players": [
       "Wunder",
       "Skeanz",
-      "LIDER",
       "SlowQ",
+      "LIDER",
       "Jopa",
       "Mikyx"
     ]
@@ -146,15 +146,15 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "players": [
-      "Janus",
       "Kingen",
+      "Janus",
       "Sponge",
       "MihawK",
       "Calix",
       "Scout",
       "SeTab",
-      "Diable",
       "Lucy",
+      "Diable",
       "Lehends",
       "Pleata"
     ]
@@ -180,13 +180,13 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "players": [
-      "Casting",
       "DDahyuk",
+      "Casting",
       "GIDEON",
       "Dinai",
-      "Pungyeon",
-      "Roamer",
       "Tempester",
+      "Roamer",
+      "Pungyeon",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -202,9 +202,9 @@
     "players": [
       "DuDu",
       "Lancer",
-      "Sharvel",
       "DDoiV",
       "Pyosik",
+      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
@@ -246,8 +246,8 @@
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
+      "Ucal",
       "Jiwoo",
       "LazyFeel",
       "Minous",
@@ -285,9 +285,9 @@
       "Panther",
       "Jackal",
       "Kanavi",
+      "Zeka",
       "Cracker",
       "Valiant",
-      "Zeka",
       "Pyeonsik",
       "Gumayusi",
       "Bluffing",
@@ -301,12 +301,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "PerfecT",
       "Sero",
-      "Cuzz",
+      "PerfecT",
       "Sylvie",
-      "Bdd",
+      "Cuzz",
       "Hwichan",
+      "Bdd",
       "Aiming",
       "FenRir",
       "Ghost",
@@ -321,19 +321,19 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "players": [
-      "Kangin",
       "Clear",
-      "Zephyr",
+      "Kangin",
       "Raptor",
+      "Zephyr",
       "Grizzly",
-      "VicLa",
       "Daystar",
+      "VicLa",
       "MG",
       "Slayer",
       "Diable",
       "Taeyoon",
-      "Luon",
-      "Kellin"
+      "Kellin",
+      "Luon"
     ]
   },
   {
@@ -347,13 +347,13 @@
       "Kingen",
       "Sponge",
       "MihawK",
+      "Calix",
       "Scout",
       "SeTab",
-      "Calix",
       "Diable",
       "Lucy",
-      "Pleata",
-      "Lehends"
+      "Lehends",
+      "Pleata"
     ]
   },
   {
@@ -383,8 +383,8 @@
       "Tracyn",
       "Daglas",
       "Serin",
-      "Hype ",
       "Ice",
+      "Hype ",
       "Way"
     ]
   },
@@ -466,19 +466,19 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
     "players": [
+      "Guardian",
       "Doran",
       "Haetae",
-      "Guardian",
-      "Oner",
       "Painter",
+      "Oner",
       "Guti",
       "Faker",
       "Eclipse",
+      "Jinbeom",
       "Cypher",
       "Peyz",
-      "Jinbeom",
-      "Keria",
-      "Cloud "
+      "Cloud ",
+      "Keria"
     ]
   },
   {
@@ -488,8 +488,8 @@
     "region": "LEC",
     "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
     "players": [
-      "Empyros",
       "Soboro",
+      "Empyros",
       "Razork",
       "Vladi",
       "Upset",
@@ -505,10 +505,10 @@
     "players": [
       "Thanatos",
       "Blaber",
-      "Loki ",
       "APA",
-      "Tactical",
+      "Loki ",
       "Zven",
+      "Tactical",
       "Vulcan"
     ]
   },
@@ -622,10 +622,10 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
-      "Cuzz",
+      "Sero",
       "Sylvie",
+      "Cuzz",
       "Hwichan",
       "Bdd",
       "Aiming",
@@ -644,15 +644,15 @@
     "players": [
       "Lancer",
       "DuDu",
+      "Sharvel",
       "DDoiV",
       "Pyosik",
-      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
-      "Quantum ",
       "Peter",
+      "Quantum ",
       "Life"
     ]
   },
@@ -663,17 +663,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Rich",
       "Frog",
+      "Rich",
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
-      "LazyFeel",
+      "Ucal",
       "Jiwoo",
-      "Andil",
-      "Minous"
+      "LazyFeel",
+      "Minous",
+      "Andil"
     ]
   },
   {
@@ -711,8 +711,8 @@
       "TheShy",
       "Wei",
       "Rookie",
-      "JiaQi",
       "Assum",
+      "JiaQi",
       "Meiko"
     ]
   },
