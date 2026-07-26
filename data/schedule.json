@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "ES vs SC",
-    "team_a": {
-      "name": "Esprit Shonen",
-      "code": "ES",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
-    },
-    "team_b": {
-      "name": "Skillcamp",
-      "code": "SC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
-    },
-    "start_time": "2026-07-23T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "EKO vs P11",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-07-28T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "JSK vs 3BL",
+    "team_a": {
+      "name": "JSK Gamefy",
+      "code": "JSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
+    },
+    "team_b": {
+      "name": "3BL GALAXY ESPORTS",
+      "code": "3BL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
+    },
+    "start_time": "2026-07-28T16:00:00Z",
     "status": "upcoming"
   }
 ]
