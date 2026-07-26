@@ -458,22 +458,22 @@
         "team": "Karmine Corp",
         "teamCode": "KC",
         "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 4,
-        "gameLosses": 0
+        "gameWins": 6,
+        "gameLosses": 1
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "G2 Esports",
         "teamCode": "G2",
         "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
         "wins": 2,
-        "losses": 0,
-        "winrate": "100%",
-        "gameWins": 4,
-        "gameLosses": 1
+        "losses": 1,
+        "winrate": "67%",
+        "gameWins": 5,
+        "gameLosses": 3
       },
       {
         "rank": 3,

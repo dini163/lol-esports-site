@@ -1734,29 +1734,6 @@
     },
     "highlights": []
   },
-  "Lucy": {
-    "id": "Lucy",
-    "name": "Soohoon Hyun",
-    "ign": "Lucy",
-    "role": "BOTTOM",
-    "team": "NS Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769084487004_image6-2026-01-22T132101.252.png",
-    "bio": "Lucy is a professional League of Legends player competing in the LCK as the BOTTOM for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.0",
-      "cs_per_min": "8.1",
-      "kill_participation": "66%",
-      "win_rate": "57%"
-    },
-    "highlights": []
-  },
   "Diable": {
     "id": "Diable",
     "name": "Nam Daegeun",
@@ -1777,6 +1754,29 @@
       "cs_per_min": "8.5",
       "kill_participation": "78%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "Lucy": {
+    "id": "Lucy",
+    "name": "Soohoon Hyun",
+    "ign": "Lucy",
+    "role": "BOTTOM",
+    "team": "NS Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769084487004_image6-2026-01-22T132101.252.png",
+    "bio": "Lucy is a professional League of Legends player competing in the LCK as the BOTTOM for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.0",
+      "cs_per_min": "8.1",
+      "kill_participation": "66%",
+      "win_rate": "57%"
     },
     "highlights": []
   },
