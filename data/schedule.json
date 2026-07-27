@@ -1,81 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "BLG vs EDG",
-    "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "start_time": "2026-07-24T11:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "MKOI vs G2",
-    "team_a": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "start_time": "2026-07-24T14:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "GMB vs P11",
-    "team_a": {
-      "name": "GMBLERS Esports",
-      "code": "GMB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
-    },
-    "team_b": {
-      "name": "P11 Esports",
-      "code": "P11",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
-    },
-    "start_time": "2026-07-24T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "CG vs TTS",
-    "team_a": {
-      "name": "Colossal Gaming",
-      "code": "CG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
-    },
-    "team_b": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "start_time": "2026-07-24T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "KC vs VIT",
@@ -747,7 +671,7 @@
     "team_a": {
       "name": "Team Phantasma",
       "code": "TP",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "team_b": {
@@ -757,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
     },
     "start_time": "2026-07-27T13:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -766,7 +690,7 @@
     "team_a": {
       "name": "Valerion",
       "code": "VLR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "team_b": {
@@ -776,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "start_time": "2026-07-27T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -990,12 +914,12 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BFX vs DRX",
+    "match": "KT vs DRX",
     "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
+      "name": "kt Rolster",
+      "code": "KT",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
       "name": "KIWOOM DRX",
@@ -1028,7 +952,7 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BRO vs GEN",
+    "match": "BRO vs DNS",
     "team_a": {
       "name": "HANJIN BRION",
       "code": "BRO",
@@ -1036,10 +960,10 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "team_b": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
+      "name": "DN SOOPers",
+      "code": "DNS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-07-28T10:30:00Z",
     "status": "upcoming"
@@ -1517,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
     },
     "start_time": "2026-07-29T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "NS vs DNS",
+    "team_a": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "team_b": {
+      "name": "DNS Challengers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-29T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "DRX vs GGA",
+    "team_a": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "start_time": "2026-07-29T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "ARB vs LGG",
+    "team_a": {
+      "name": "Arneb",
+      "code": "ARB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
+    },
+    "team_b": {
+      "name": "L Guide Gaming",
+      "code": "LGG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
+    },
+    "start_time": "2026-07-29T08:00:00Z",
     "status": "upcoming"
   }
 ]
