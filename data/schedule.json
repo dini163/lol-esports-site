@@ -681,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
     },
     "start_time": "2026-07-27T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1784036463315_EAlogohighreso1.png"
     },
     "start_time": "2026-07-27T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Verdant",
       "code": "VER",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-07-27T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Bulldog Esports",
       "code": "BDG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-07-27T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
     },
     "start_time": "2026-07-27T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-07-29T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "T1 vs KT",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "start_time": "2026-07-29T10:00:00Z",
     "status": "upcoming"
   }
 ]
