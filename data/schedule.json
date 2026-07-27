@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "MVK vs GZ",
-    "team_a": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
-    "team_b": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "start_time": "2026-07-25T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "TES vs TT",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Estral Esports",
       "code": "EST",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-07-27T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -776,26 +757,26 @@
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-07-27T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "INTZ vs RMD",
+    "match": "RMD vs INTZ",
     "team_a": {
-      "name": "INTZ",
-      "code": "INTZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
-    },
-    "team_b": {
       "name": "RMD Gaming",
       "code": "RMD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
+    "team_b": {
+      "name": "INTZ",
+      "code": "INTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
+    },
     "start_time": "2026-07-28T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "start_time": "2026-07-29T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "SA vs DP",
+    "team_a": {
+      "name": "Shark Attack",
+      "code": "SA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
+    },
+    "team_b": {
+      "name": "Dark Passage",
+      "code": "DP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
+    },
+    "start_time": "2026-07-29T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "TPX vs HELL",
+    "team_a": {
+      "name": "TheParadOx Invaders",
+      "code": "TPX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "Hell ZeroLag",
+      "code": "HELL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
+    },
+    "start_time": "2026-07-29T15:00:00Z",
     "status": "upcoming"
   }
 ]
