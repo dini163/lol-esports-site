@@ -1,81 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "SLY vs ZYB",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "ZYB",
-      "code": "ZYB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
-    },
-    "start_time": "2026-07-23T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "CG vs HMB",
-    "team_a": {
-      "name": "Colossal Gaming",
-      "code": "CG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
-    },
-    "team_b": {
-      "name": "HMBLE",
-      "code": "HMB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
-    },
-    "start_time": "2026-07-23T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "HYPE vs TTB",
-    "team_a": {
-      "name": "Hyperion",
-      "code": "HYPE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
-    },
-    "team_b": {
-      "name": "Tung Tung Bogi",
-      "code": "TTB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
-    },
-    "start_time": "2026-07-23T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "KCB vs TLNP",
-    "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "team_b": {
-      "name": "TLN Pirates",
-      "code": "TLNP",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
-    },
-    "start_time": "2026-07-23T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "GDE vs ZZG",
@@ -762,21 +686,21 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "BFX vs GEN",
+    "match": "GEN vs BFX",
     "team_a": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
       "name": "BNK FEARX",
       "code": "BFX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
-    "team_b": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
     "start_time": "2026-07-27T06:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -795,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-27T06:45:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -814,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-07-27T07:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -852,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-27T08:15:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -871,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-27T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -890,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-27T09:45:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -928,7 +852,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-27T10:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -947,7 +871,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-07-27T11:15:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -1517,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-07-28T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-07-28T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "JL vs VITB",
+    "team_a": {
+      "name": "Joblife",
+      "code": "JL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
+    },
+    "team_b": {
+      "name": "Vitality.Bee",
+      "code": "VITB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
+    },
+    "start_time": "2026-07-28T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "9ZG vs MAZ",
+    "team_a": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
+    "team_b": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "start_time": "2026-07-28T20:00:00Z",
     "status": "upcoming"
   }
 ]
