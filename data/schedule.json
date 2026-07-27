@@ -1,43 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "KC vs VIT",
-    "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "start_time": "2026-07-24T17:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "ZENA vs HMB",
-    "team_a": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "team_b": {
-      "name": "HMBLE",
-      "code": "HMB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
-    },
-    "start_time": "2026-07-24T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "ATA vs EKO",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Deer Gaming",
       "code": "DEER",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "team_b": {
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Verdant",
       "code": "VER",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
@@ -772,7 +734,7 @@
     "team_b": {
       "name": "Bulldog Esports",
       "code": "BDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-07-27T18:00:00Z",
@@ -1498,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "start_time": "2026-07-29T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "DRX vs NS",
+    "team_a": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-07-29T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TES vs AL",
+    "team_a": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "start_time": "2026-07-29T09:00:00Z",
     "status": "upcoming"
   }
 ]
