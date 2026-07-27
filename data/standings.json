@@ -659,6 +659,17 @@
     "regular": [
       {
         "rank": 1,
+        "team": "Shopify Rebellion",
+        "teamCode": "SR",
+        "teamImage": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
         "team": "Sentinels",
         "teamCode": "SEN",
         "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
@@ -691,29 +702,18 @@
         "gameLosses": 0
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "Disguised",
         "teamCode": "DSG",
         "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "winrate": "0%",
         "gameWins": 0,
-        "gameLosses": 0
+        "gameLosses": 2
       },
       {
-        "rank": 4,
-        "team": "Shopify Rebellion",
-        "teamCode": "SR",
-        "teamImage": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 6,
+        "rank": 5,
         "team": "Cloud9 Kia",
         "teamCode": "C9",
         "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
@@ -724,7 +724,7 @@
         "gameLosses": 2
       },
       {
-        "rank": 6,
+        "rank": 5,
         "team": "Dignitas",
         "teamCode": "DIG",
         "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
@@ -735,7 +735,7 @@
         "gameLosses": 2
       },
       {
-        "rank": 6,
+        "rank": 5,
         "team": "FlyQuest",
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",

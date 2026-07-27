@@ -14,8 +14,8 @@
       "Kemish",
       "MUDAI",
       "Ruler",
-      "Lumos",
       "SIRIUSS",
+      "Lumos",
       "Duro"
     ]
   },
@@ -368,8 +368,8 @@
       "Boukada",
       "nuc",
       "Paduck",
-      "Stend",
       "Trymbi",
+      "Stend",
       "JuJuTw0"
     ]
   },
@@ -474,11 +474,11 @@
       "Guti",
       "Faker",
       "Eclipse",
-      "Jinbeom",
       "Cypher",
       "Peyz",
-      "Cloud ",
-      "Keria"
+      "Jinbeom",
+      "Keria",
+      "Cloud "
     ]
   },
   {
@@ -488,8 +488,8 @@
     "region": "LEC",
     "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
     "players": [
-      "Soboro",
       "Empyros",
+      "Soboro",
       "Razork",
       "Vladi",
       "Upset",
