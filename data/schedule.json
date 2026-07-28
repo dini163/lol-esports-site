@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TES vs TT",
-    "team_a": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "start_time": "2026-07-25T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "TSW vs SHG",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "FUEGO",
       "code": "FUE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "team_b": {
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "INTZ",
       "code": "INTZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "start_time": "2026-07-28T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -1515,6 +1496,25 @@
       "code": "HELL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
+    },
+    "start_time": "2026-07-29T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "LUA vs HRTS",
+    "team_a": {
+      "name": "LUA Gaming",
+      "code": "LUA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
+    },
+    "team_b": {
+      "name": "Heretics Academy",
+      "code": "HRTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-07-29T15:00:00Z",
     "status": "upcoming"
