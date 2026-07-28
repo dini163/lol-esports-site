@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "GGA vs BFX",
-    "team_a": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "team_b": {
-      "name": "BNK FEARX Youth",
-      "code": "BFX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "start_time": "2026-07-27T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "KeSPA Cup",
     "league_code": "kes",
     "match": "DK vs BRO",
@@ -576,7 +557,7 @@
     "team_a": {
       "name": "The Secret Club",
       "code": "TSC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "team_b": {
@@ -595,7 +576,7 @@
     "team_a": {
       "name": "The Bandits",
       "code": "BAN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "team_b": {
@@ -605,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-07-28T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -667,18 +648,18 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "9ZG vs MAZ",
+    "match": "MAZ vs 9ZG",
     "team_a": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "team_b": {
       "name": "Maze Gaming",
       "code": "MAZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-28T20:00:00Z",
     "status": "live"
@@ -696,11 +677,11 @@
     "team_b": {
       "name": "Dominion Goblins",
       "code": "GOB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-07-28T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "TEAM SOLID",
       "code": "TSS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
     },
     "start_time": "2026-07-28T20:00:00Z",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Solary",
       "code": "SLY",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-07-28T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -757,23 +738,23 @@
       "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "start_time": "2026-07-28T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "NERD vs VKS",
+    "match": "VKS vs NERD",
     "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-07-28T21:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
     "start_time": "2026-07-29T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "PAIN vs 7REX",
+    "team_a": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
+    "team_b": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "start_time": "2026-07-29T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RED vs EST",
+    "team_a": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
+    "team_b": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
+    "start_time": "2026-07-29T23:00:00Z",
     "status": "upcoming"
   }
 ]
