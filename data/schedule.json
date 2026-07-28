@@ -2,25 +2,6 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "DK vs BRO",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-07-27T10:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
     "match": "T1 vs DNS",
     "team_a": {
       "name": "T1",
@@ -557,7 +538,7 @@
     "team_a": {
       "name": "The Secret Club",
       "code": "TSC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "team_b": {
@@ -567,7 +548,7 @@
       "image": "https://static.lolesports.com/teams/1776207835031_CFW1.png"
     },
     "start_time": "2026-07-28T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -652,7 +633,7 @@
     "team_a": {
       "name": "Maze Gaming",
       "code": "MAZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "team_b": {
@@ -700,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
     },
     "start_time": "2026-07-28T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Hyperion",
       "code": "HYPE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "start_time": "2026-07-28T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -753,30 +734,30 @@
     "team_b": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-07-28T21:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "EST vs INTZ",
+    "match": "INTZ vs EST",
     "team_a": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "team_b": {
       "name": "INTZ",
       "code": "INTZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
+    "team_b": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
     "start_time": "2026-07-28T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "start_time": "2026-07-29T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "TSS vs VKS",
+    "team_a": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-07-30T00:00:00Z",
     "status": "upcoming"
   }
 ]
