@@ -1,81 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "NGE vs GDE",
-    "team_a": {
-      "name": "NORTHERNGRADE ESPORTS",
-      "code": "NGE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
-    },
-    "team_b": {
-      "name": "GD Esports",
-      "code": "GDE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
-    },
-    "start_time": "2026-07-28T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "VITB vs JL",
-    "team_a": {
-      "name": "Vitality.Bee",
-      "code": "VITB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
-    },
-    "team_b": {
-      "name": "Joblife",
-      "code": "JL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
-    },
-    "start_time": "2026-07-28T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "MAZ vs 9ZG",
-    "team_a": {
-      "name": "Maze Gaming",
-      "code": "MAZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
-    },
-    "team_b": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "start_time": "2026-07-28T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "CE vs GOB",
-    "team_a": {
-      "name": "Capybara Esports",
-      "code": "CE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
-    },
-    "team_b": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
-    },
-    "start_time": "2026-07-28T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "PAIN vs TSS",
@@ -557,7 +481,7 @@
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "team_b": {
@@ -567,7 +491,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-07-29T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -595,7 +519,7 @@
     "team_a": {
       "name": "DIA Ozarox Esports",
       "code": "DIA",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
     },
     "team_b": {
@@ -605,7 +529,7 @@
       "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
     },
     "start_time": "2026-07-29T17:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -614,7 +538,7 @@
     "team_a": {
       "name": "DMG Esports",
       "code": "DMG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "team_b": {
@@ -633,7 +557,7 @@
     "team_a": {
       "name": "Brod & Friends",
       "code": "BROD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "team_b": {
@@ -643,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/1784036614109_Srby_logo1.png"
     },
     "start_time": "2026-07-29T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -690,7 +614,7 @@
     "team_a": {
       "name": "MAGAZA",
       "code": "MGZ",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "team_b": {
@@ -700,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1776205469628_LUP_c.png"
     },
     "start_time": "2026-07-29T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -715,11 +639,11 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-07-29T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -734,11 +658,11 @@
     "team_b": {
       "name": "Dream Esports",
       "code": "DRM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
     },
     "start_time": "2026-07-29T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -753,11 +677,11 @@
     "team_b": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-07-29T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -776,26 +700,26 @@
       "image": "https://static.lolesports.com/teams/1784499713140_exsad.png"
     },
     "start_time": "2026-07-29T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "NERD vs INTZ",
+    "match": "INTZ vs NERD",
     "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
       "name": "INTZ",
       "code": "INTZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
+    },
     "start_time": "2026-07-29T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -814,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-07-29T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "start_time": "2026-07-30T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "CNV vs DOG",
+    "team_a": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
+    "team_b": {
+      "name": "Dorado Gaming",
+      "code": "DOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
+    },
+    "start_time": "2026-07-31T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "KT vs DNS",
+    "team_a": {
+      "name": "kt Challengers",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "DNS Challengers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-07-31T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "DRX vs BRO",
+    "team_a": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "start_time": "2026-07-31T05:00:00Z",
     "status": "upcoming"
   }
 ]
