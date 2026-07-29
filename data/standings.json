@@ -6,11 +6,11 @@
         "team": "BILIBILI GAMING",
         "teamCode": "BLG",
         "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 6,
-        "gameLosses": 3
+        "gameWins": 8,
+        "gameLosses": 4
       },
       {
         "rank": 2,
@@ -57,15 +57,15 @@
         "gameLosses": 4
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
         "wins": 1,
-        "losses": 2,
-        "winrate": "33%",
-        "gameWins": 2,
-        "gameLosses": 4
+        "losses": 3,
+        "winrate": "25%",
+        "gameWins": 3,
+        "gameLosses": 6
       },
       {
         "rank": 7,
