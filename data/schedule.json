@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "HYPE vs FCN",
-    "team_a": {
-      "name": "Hyperion",
-      "code": "HYPE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
-    },
-    "team_b": {
-      "name": "Francesinhas",
-      "code": "FCN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
-    },
-    "start_time": "2026-07-28T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "VKS vs NERD",
@@ -662,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-07-29T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -705,21 +686,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "LHC vs RSW",
+    "match": "RSW vs LHC",
     "team_a": {
-      "name": "Panel\u00e3o LHC",
-      "code": "LHC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784553835529_panelaoorange1.png"
-    },
-    "team_b": {
       "name": "Role Swappers",
       "code": "RSW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784474494828_role_c.png"
     },
+    "team_b": {
+      "name": "Panel\u00e3o LHC",
+      "code": "LHC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784553835529_panelaoorange1.png"
+    },
     "start_time": "2026-07-29T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-29T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "CCG Esports",
       "code": "CCG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-07-29T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1515,6 +1496,25 @@
       "code": "MVK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "start_time": "2026-07-31T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "WE vs BLG",
+    "team_a": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-31T09:00:00Z",
     "status": "upcoming"
