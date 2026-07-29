@@ -2,25 +2,6 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "TP vs ALMO",
-    "team_a": {
-      "name": "Team Phantasma",
-      "code": "TP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
-    },
-    "team_b": {
-      "name": "ALMO Players",
-      "code": "ALMO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
-    },
-    "start_time": "2026-07-27T13:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
     "match": "VLR vs TPX",
     "team_a": {
       "name": "Valerion",
@@ -620,11 +601,11 @@
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-07-28T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "KaBuM! Eports",
       "code": "KBM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-28T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "RED Kalunga Academy",
       "code": "RED",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
     },
     "start_time": "2026-07-29T00:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-07-30T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "DK vs T1A",
+    "team_a": {
+      "name": "DK Challengers",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "start_time": "2026-07-30T05:00:00Z",
     "status": "upcoming"
   }
 ]
