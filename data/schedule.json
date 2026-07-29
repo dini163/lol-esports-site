@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "PAIN vs TSS",
-    "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "start_time": "2026-07-28T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "IJC vs SLY",
-    "team_a": {
-      "name": "Ici Japon Corp",
-      "code": "IJC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
-    },
-    "team_b": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "start_time": "2026-07-28T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "HYPE vs FCN",
@@ -686,18 +648,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "BBK vs EXS",
+    "match": "EXS vs BBK",
     "team_a": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
-    },
-    "team_b": {
       "name": "EXSAD",
       "code": "EXS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784499713140_exsad.png"
+    },
+    "team_b": {
+      "name": "Bubliki",
+      "code": "BBK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-07-29T20:00:00Z",
     "status": "live"
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-07-29T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Galions",
       "code": "GL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-07-29T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -776,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-07-29T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "OME vs CCG",
+    "match": "CCG vs OME",
     "team_a": {
-      "name": "Ole Miss Esports",
-      "code": "OME",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
-    },
-    "team_b": {
       "name": "CCG Esports",
       "code": "CCG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
+    "team_b": {
+      "name": "Ole Miss Esports",
+      "code": "OME",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
+    },
     "start_time": "2026-07-29T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1498,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-07-31T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "AL vs EDG",
+    "team_a": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "EDWARD GAMING",
+      "code": "EDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
+    },
+    "start_time": "2026-07-31T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "GEN vs T1",
+    "team_a": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "start_time": "2026-07-31T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "TSW vs MVK",
+    "team_a": {
+      "name": "Team Secret Whales",
+      "code": "TSW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    },
+    "team_b": {
+      "name": "MVK Esports",
+      "code": "MVK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "start_time": "2026-07-31T09:00:00Z",
     "status": "upcoming"
   }
 ]
