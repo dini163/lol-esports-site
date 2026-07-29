@@ -2,25 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "VKS vs NERD",
-    "team_a": {
-      "name": "Vivo Keyd Stars Academy",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
-    },
-    "team_b": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "start_time": "2026-07-28T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "INTZ vs EST",
     "team_a": {
       "name": "INTZ",
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "Role Swappers",
       "code": "RSW",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784474494828_role_c.png"
     },
     "team_b": {
@@ -700,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1784553835529_panelaoorange1.png"
     },
     "start_time": "2026-07-29T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "Ole Miss Esports",
       "code": "OME",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "start_time": "2026-07-29T21:00:00Z",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "paiN Gaming Academy",
       "code": "PAIN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-07-29T22:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "start_time": "2026-07-29T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-31T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "BRO vs DRX",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-07-31T10:00:00Z",
     "status": "upcoming"
   }
 ]
