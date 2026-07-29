@@ -2,44 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "7REX vs RED",
-    "team_a": {
-      "name": "7REX Team",
-      "code": "7REX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
-    },
-    "team_b": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "start_time": "2026-07-27T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "NERD vs PAIN",
-    "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-07-27T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "TSS vs KBM",
     "team_a": {
       "name": "TEAM SOLID",
@@ -709,13 +671,13 @@
     "team_a": {
       "name": "L Guide Gaming",
       "code": "LGG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "team_b": {
       "name": "Arneb",
       "code": "ARB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
     },
     "start_time": "2026-07-29T08:00:00Z",
@@ -734,11 +696,11 @@
     "team_b": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-07-29T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
@@ -772,27 +734,27 @@
     "team_b": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-07-29T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "BLG vs LGD",
+    "match": "LGD vs BLG",
     "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-29T11:00:00Z",
     "status": "completed"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-07-30T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "HLE vs DK",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-07-30T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "JDG vs TT",
+    "team_a": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "team_b": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "start_time": "2026-07-30T11:00:00Z",
     "status": "upcoming"
   }
 ]
