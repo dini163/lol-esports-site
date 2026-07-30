@@ -153,8 +153,8 @@
       "Calix",
       "Scout",
       "SeTab",
-      "Lucy",
       "Diable",
+      "Lucy",
       "Lehends",
       "Pleata"
     ]
@@ -181,13 +181,13 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "players": [
-      "Casting",
       "DDahyuk",
+      "Casting",
       "GIDEON",
       "Dinai",
       "Pungyeon",
-      "Tempester",
       "Roamer",
+      "Tempester",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -249,7 +249,7 @@
       "Winner",
       "AKaJe",
       "Ucal",
-      "Jiwoo",
+      "Aiming",
       "LazyFeel",
       "Minous",
       "Andil"
@@ -308,8 +308,8 @@
       "Sylvie",
       "Bdd",
       "Hwichan",
-      "Aiming",
       "FenRir",
+      "Jiwoo",
       "Ghost",
       "Pollu",
       "Effort"
@@ -322,16 +322,16 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "players": [
-      "Kangin",
       "Clear",
-      "Zephyr",
-      "Raptor",
+      "Kangin",
       "Grizzly",
+      "Raptor",
+      "Zephyr",
+      "MG",
       "Daystar",
       "VicLa",
-      "MG",
-      "Slayer",
       "Taeyoon",
+      "Slayer",
       "Diable",
       "Luon",
       "Kellin"
@@ -351,10 +351,10 @@
       "Calix",
       "Scout",
       "SeTab",
-      "Diable",
       "Lucy",
-      "Pleata",
-      "Lehends"
+      "Diable",
+      "Lehends",
+      "Pleata"
     ]
   },
   {
@@ -365,8 +365,8 @@
     "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
     "players": [
       "Rooster",
-      "Boukada",
       "Sheo",
+      "Boukada",
       "nuc",
       "Paduck",
       "Trymbi",
@@ -440,8 +440,8 @@
     "players": [
       "Maynter",
       "Rhilech",
-      "Poby",
       "Larssen",
+      "Poby",
       "SamD",
       "Parus"
     ]
@@ -629,7 +629,7 @@
       "Cuzz",
       "Bdd",
       "Hwichan",
-      "Aiming",
+      "Jiwoo",
       "FenRir",
       "Ghost",
       "Pollu",
@@ -671,8 +671,8 @@
       "Winner",
       "Ucal",
       "AKaJe",
+      "Aiming",
       "LazyFeel",
-      "Jiwoo",
       "Andil",
       "Minous"
     ]
@@ -725,12 +725,12 @@
     "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
     "players": [
       "sheer",
-      "Weiwei",
       "Croco",
+      "Weiwei",
       "Nia1",
       "1xn",
-      "Ycx",
-      "MISSING"
+      "MISSING",
+      "Ycx"
     ]
   },
   {

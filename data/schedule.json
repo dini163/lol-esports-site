@@ -1,62 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "GGA vs DRX",
-    "team_a": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "team_b": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-07-29T05:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "LGG vs ARB",
-    "team_a": {
-      "name": "L Guide Gaming",
-      "code": "LGG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
-    },
-    "team_b": {
-      "name": "Arneb",
-      "code": "ARB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784111170695__-arthur1.png"
-    },
-    "start_time": "2026-07-29T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DRX vs NS",
-    "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-07-29T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "AL vs TES",
@@ -728,13 +671,13 @@
     "team_a": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
       "name": "DK Challengers",
       "code": "DK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-30T05:00:00Z",
@@ -753,7 +696,7 @@
     "team_b": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-07-30T05:00:00Z",
@@ -766,7 +709,7 @@
     "team_a": {
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "code": "NIP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "team_b": {
@@ -785,7 +728,7 @@
     "team_a": {
       "name": "BNK FEARX",
       "code": "BFX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
@@ -795,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-07-30T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCP",
@@ -881,7 +824,7 @@
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
+      "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
     },
     "team_b": {
       "name": "Ground Zero Gaming",
@@ -1517,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-07-31T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "SHFT vs MKOI",
+    "team_a": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI",
+      "code": "MKOI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    },
+    "start_time": "2026-07-31T17:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "ATA vs CG",
+    "team_a": {
+      "name": "Aeterna Esports",
+      "code": "ATA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
+    },
+    "team_b": {
+      "name": "Colossal Gaming",
+      "code": "CG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "start_time": "2026-07-31T18:00:00Z",
     "status": "upcoming"
   }
 ]
