@@ -2,44 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "INTZ vs EST",
-    "team_a": {
-      "name": "INTZ",
-      "code": "INTZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
-    },
-    "team_b": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "start_time": "2026-07-28T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "7REX vs KBM",
-    "team_a": {
-      "name": "7REX Team",
-      "code": "7REX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
-    },
-    "team_b": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "start_time": "2026-07-28T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "RMD vs RED",
     "team_a": {
       "name": "RMD Gaming",
@@ -263,7 +225,7 @@
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-07-29T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -434,7 +396,7 @@
       "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
     },
     "start_time": "2026-07-29T17:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "Ole Miss Esports",
       "code": "OME",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "start_time": "2026-07-29T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Estral Esports",
       "code": "EST",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "start_time": "2026-07-29T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-07-30T00:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-07-30T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-31T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "CFO vs GAM",
+    "team_a": {
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    },
+    "team_b": {
+      "name": "GAM Esports",
+      "code": "GAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
+    },
+    "start_time": "2026-07-31T11:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TH vs VIT",
+    "team_a": {
+      "name": "Team Heretics",
+      "code": "TH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
+    },
+    "team_b": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "start_time": "2026-07-31T15:00:00Z",
     "status": "upcoming"
   }
 ]
