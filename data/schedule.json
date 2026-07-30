@@ -743,21 +743,21 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "BLUE vs CONT",
+    "match": "CONT vs BLUE",
     "team_a": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "team_b": {
       "name": "Contingent Esports",
       "code": "CONT",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
+    "team_b": {
+      "name": "Blue Otter",
+      "code": "BLUE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
+    },
     "start_time": "2026-07-30T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
