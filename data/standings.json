@@ -94,14 +94,14 @@
         "team": "Shenzhen NINJAS IN PYJAMAS",
         "teamCode": "NIP",
         "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 2,
+        "gameWins": 4,
         "gameLosses": 0
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "Invictus Gaming",
         "teamCode": "IG",
         "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
@@ -123,15 +123,15 @@
         "gameLosses": 2
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": "WeiboGaming",
         "teamCode": "WBG",
         "teamImage": "https://static.lolesports.com/teams/1641202879910_3.png",
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "winrate": "0%",
         "gameWins": 1,
-        "gameLosses": 2
+        "gameLosses": 4
       }
     ],
     "playoffs": [
@@ -328,6 +328,17 @@
       },
       {
         "rank": 1,
+        "team": "BNK FEARX",
+        "teamCode": "BFX",
+        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+        "wins": 1,
+        "losses": 0,
+        "winrate": "100%",
+        "gameWins": 2,
+        "gameLosses": 0
+      },
+      {
+        "rank": 1,
         "team": "NONGSHIM RED FORCE",
         "teamCode": "NS",
         "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
@@ -338,18 +349,7 @@
         "gameLosses": 0
       },
       {
-        "rank": 2,
-        "team": "BNK FEARX",
-        "teamCode": "BFX",
-        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
-      },
-      {
-        "rank": 2,
+        "rank": 3,
         "team": "HANJIN BRION",
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -360,18 +360,18 @@
         "gameLosses": 0
       },
       {
-        "rank": 2,
+        "rank": 4,
         "team": "DN SOOPers",
         "teamCode": "DNS",
         "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "winrate": "0%",
         "gameWins": 0,
-        "gameLosses": 0
+        "gameLosses": 2
       },
       {
-        "rank": 5,
+        "rank": 4,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
