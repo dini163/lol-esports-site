@@ -14,6 +14,17 @@
       },
       {
         "rank": 2,
+        "team": "Xi'an Team WE",
+        "teamCode": "WE",
+        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+        "wins": 3,
+        "losses": 1,
+        "winrate": "75%",
+        "gameWins": 6,
+        "gameLosses": 3
+      },
+      {
+        "rank": 2,
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
@@ -24,18 +35,7 @@
         "gameLosses": 3
       },
       {
-        "rank": 3,
-        "team": "Xi'an Team WE",
-        "teamCode": "WE",
-        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-        "wins": 2,
-        "losses": 1,
-        "winrate": "67%",
-        "gameWins": 4,
-        "gameLosses": 3
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
@@ -84,10 +84,10 @@
         "teamCode": "EDG",
         "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "winrate": "0%",
         "gameWins": 1,
-        "gameLosses": 6
+        "gameLosses": 8
       },
       {
         "rank": 1,
