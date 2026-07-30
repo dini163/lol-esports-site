@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RMD vs RED",
-    "team_a": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "team_b": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "start_time": "2026-07-29T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "DNS vs NS",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-07-29T05:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "GGA vs DRX",
@@ -762,18 +724,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DK vs T1A",
+    "match": "T1A vs DK",
     "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
       "name": "T1 Esports Academy",
       "code": "T1A",
       "score": 0,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "DK Challengers",
+      "code": "DK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-07-30T05:00:00Z",
     "status": "upcoming"
@@ -781,18 +743,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BFX vs HLE",
+    "match": "HLE vs BFX",
     "team_a": {
-      "name": "BNK FEARX Youth",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
       "name": "HLE Challengers",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-07-30T05:00:00Z",
     "status": "upcoming"
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "start_time": "2026-07-30T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -871,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-07-30T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -909,7 +871,7 @@
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-07-30T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
     "start_time": "2026-07-31T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "EKO vs GMB",
+    "team_a": {
+      "name": "EKO Esports",
+      "code": "EKO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
+    },
+    "team_b": {
+      "name": "GMBLERS Esports",
+      "code": "GMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
+    "start_time": "2026-07-31T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "P11 vs HMB",
+    "team_a": {
+      "name": "P11 Esports",
+      "code": "P11",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
+    },
+    "team_b": {
+      "name": "HMBLE",
+      "code": "HMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+    },
+    "start_time": "2026-07-31T17:00:00Z",
     "status": "upcoming"
   }
 ]
