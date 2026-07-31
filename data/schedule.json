@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "DFM vs SHG",
-    "team_a": {
-      "name": "DetonatioN FocusMe",
-      "code": "DFM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
-    },
-    "team_b": {
-      "name": "Fukuoka SoftBank HAWKS gaming",
-      "code": "SHG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
-    },
-    "start_time": "2026-07-30T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "EDG vs WE",
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-07-31T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "team_b": {
@@ -738,26 +719,26 @@
       "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
     },
     "start_time": "2026-07-31T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "ATA vs CG",
+    "match": "CG vs ATA",
     "team_a": {
-      "name": "Aeterna Esports",
-      "code": "ATA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
-    },
-    "team_b": {
       "name": "Colossal Gaming",
       "code": "CG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
+    "team_b": {
+      "name": "Aeterna Esports",
+      "code": "ATA",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
+    },
     "start_time": "2026-07-31T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-07-31T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-03T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "TSS vs VKS",
+    "team_a": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-08-03T19:00:00Z",
     "status": "upcoming"
   }
 ]
