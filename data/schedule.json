@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-07-31T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
     },
     "start_time": "2026-08-01T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
