@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "PAIN vs 7REX",
-    "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
-      "name": "7REX Team",
-      "code": "7REX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
-    },
-    "start_time": "2026-07-29T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RED vs EST",
-    "team_a": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "team_b": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "start_time": "2026-07-29T23:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CONT vs BLUE",
@@ -684,6 +646,25 @@
     "status": "upcoming"
   },
   {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "AL vs EDG",
+    "team_a": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "EDWARD GAMING",
+      "code": "EDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
+    },
+    "start_time": "2026-07-31T07:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LCK",
     "league_code": "lck",
     "match": "GEN vs T1",
@@ -696,7 +677,7 @@
     "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-07-31T08:00:00Z",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-07-31T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-07-31T09:00:00Z",
@@ -743,18 +724,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "BRO vs DRX",
+    "match": "DRX vs BRO",
     "team_a": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
       "name": "KIWOOM DRX",
       "code": "DRX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-07-31T10:00:00Z",
     "status": "live"
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-07-31T11:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
     },
     "start_time": "2026-08-03T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "NAVI vs SHFT",
+    "team_a": {
+      "name": "Natus Vincere",
+      "code": "NAVI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
+    },
+    "team_b": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "start_time": "2026-08-03T15:00:00Z",
     "status": "upcoming"
   }
 ]
