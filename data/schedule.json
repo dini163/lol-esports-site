@@ -491,7 +491,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-07-31T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -510,7 +510,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-07-31T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-07-31T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-08-03T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "DEC vs VTC",
+    "team_a": {
+      "name": "Docta Esports Club",
+      "code": "DEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
+    },
+    "team_b": {
+      "name": "Volticons",
+      "code": "VTC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
+    },
+    "start_time": "2026-08-03T20:00:00Z",
     "status": "upcoming"
   }
 ]
