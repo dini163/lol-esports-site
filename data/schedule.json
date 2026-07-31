@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Dorado Gaming",
       "code": "DOG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
     },
     "start_time": "2026-07-31T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
