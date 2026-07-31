@@ -1,11 +1,11 @@
 [
   {
     "rank": 1,
-    "teamId": "hle-challengers",
-    "name": "HLE Challengers",
+    "teamId": "hanwha-life-esports",
+    "name": "Hanwha Life Esports",
     "code": "HLE",
     "region": "LCK",
-    "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+    "image": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
     "record": "22-8",
     "winrate": "73%",
     "rating": 1570.0,
@@ -451,8 +451,8 @@
   },
   {
     "rank": 31,
-    "teamId": "ns-challengers",
-    "name": "NS Challengers",
+    "teamId": "nongshim-redforce",
+    "name": "NONGSHIM RED FORCE",
     "code": "NS",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
@@ -462,7 +462,7 @@
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "7th in LCK",
-    "reason": "NS Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1211 and a 8-18 (31%) match record."
+    "reason": "NONGSHIM RED FORCE occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1211 and a 8-18 (31%) match record."
   },
   {
     "rank": 31,
@@ -496,8 +496,8 @@
   },
   {
     "rank": 34,
-    "teamId": "bro-challengers",
-    "name": "BRO Challengers",
+    "teamId": "fredit-brion",
+    "name": "HANJIN BRION",
     "code": "BRO",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -507,7 +507,7 @@
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "8th in LCK",
-    "reason": "BRO Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1198 and a 6-19 (24%) match record."
+    "reason": "HANJIN BRION occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1198 and a 6-19 (24%) match record."
   },
   {
     "rank": 34,

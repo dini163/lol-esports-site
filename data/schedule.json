@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CONT vs BLUE",
-    "team_a": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "team_b": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "start_time": "2026-07-30T00:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "T1A vs DK",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "KIWOOM DRX",
       "code": "DRX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-07-31T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-07-31T11:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -952,18 +933,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs TBD",
+    "match": "DCG vs DFM",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Relove Deep Cross Gaming",
+      "code": "DCG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DetonatioN FocusMe",
+      "code": "DFM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
     },
     "start_time": "2026-08-01T09:00:00Z",
     "status": "upcoming"
@@ -1028,18 +1009,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs TBD",
+    "match": "MVK vs GAM",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "MVK Esports",
+      "code": "MVK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "GAM Esports",
+      "code": "GAM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-01T11:30:00Z",
     "status": "upcoming"
@@ -1199,18 +1180,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs TBD",
+    "match": "TSW vs CFO",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Secret Whales",
+      "code": "TSW",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-02T09:00:00Z",
     "status": "upcoming"
