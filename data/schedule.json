@@ -762,18 +762,18 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "NRG vs DOG",
+    "match": "DOG vs NRG",
     "team_a": {
-      "name": "NRG",
-      "code": "NRG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
-    },
-    "team_b": {
       "name": "Dorado Gaming",
       "code": "DOG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
+    },
+    "team_b": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "start_time": "2026-08-01T00:00:00Z",
     "status": "live"
