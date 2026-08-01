@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "HLE vs DK",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-07-30T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "JDG vs TT",
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "NRG",
       "code": "NRG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "start_time": "2026-08-01T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -1515,6 +1496,25 @@
       "code": "VTC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889539409_FULL_COLOR_FOR_DARK_BG2.png"
+    },
+    "start_time": "2026-08-03T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RMD vs NERD",
+    "team_a": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-08-03T20:00:00Z",
     "status": "upcoming"
