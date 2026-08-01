@@ -1,43 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "PCF vs BGT",
-    "team_a": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "team_b": {
-      "name": "BoostGate Esports",
-      "code": "BGT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737386212434_BoostGate.png"
-    },
-    "start_time": "2026-07-30T14:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "LUA vs BAR",
-    "team_a": {
-      "name": "LUA Gaming",
-      "code": "LUA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
-    },
-    "team_b": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "start_time": "2026-07-30T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "ROSS vs EINS",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-01T07:00:00Z",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
@@ -757,26 +719,26 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-01T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "DCG vs DFM",
+    "match": "DFM vs DCG",
     "team_a": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
-    },
-    "team_b": {
       "name": "DetonatioN FocusMe",
       "code": "DFM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
     },
+    "team_b": {
+      "name": "Relove Deep Cross Gaming",
+      "code": "DCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
+    },
     "start_time": "2026-08-01T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1498,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "start_time": "2026-08-03T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "PAIN vs VKS",
+    "team_a": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-08-03T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "7REX vs EST",
+    "team_a": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "team_b": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
+    "start_time": "2026-08-03T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "KBM vs RED",
+    "team_a": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
+    "team_b": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
+    "start_time": "2026-08-04T00:00:00Z",
     "status": "upcoming"
   }
 ]

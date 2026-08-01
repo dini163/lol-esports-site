@@ -17,10 +17,10 @@
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
-        "wins": 4,
+        "wins": 5,
         "losses": 1,
-        "winrate": "80%",
-        "gameWins": 9,
+        "winrate": "83%",
+        "gameWins": 11,
         "gameLosses": 3
       },
       {
@@ -58,17 +58,6 @@
       },
       {
         "rank": 6,
-        "team": "THUNDER TALK GAMING",
-        "teamCode": "TT",
-        "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
-        "wins": 1,
-        "losses": 3,
-        "winrate": "25%",
-        "gameWins": 5,
-        "gameLosses": 6
-      },
-      {
-        "rank": 6,
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
@@ -77,6 +66,17 @@
         "winrate": "25%",
         "gameWins": 3,
         "gameLosses": 6
+      },
+      {
+        "rank": 7,
+        "team": "THUNDER TALK GAMING",
+        "teamCode": "TT",
+        "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
+        "wins": 1,
+        "losses": 4,
+        "winrate": "20%",
+        "gameWins": 5,
+        "gameLosses": 8
       },
       {
         "rank": 8,
