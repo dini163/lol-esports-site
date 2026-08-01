@@ -1,43 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "JDG vs TT",
-    "team_a": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "team_b": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "start_time": "2026-07-30T11:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "GZ vs DCG",
-    "team_a": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "team_b": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
-    },
-    "start_time": "2026-07-30T11:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "PCF vs BGT",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-01T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-01T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -871,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-08-01T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-08-03T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "TSS vs INTZ",
+    "team_a": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
+    "team_b": {
+      "name": "INTZ",
+      "code": "INTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
+    },
+    "start_time": "2026-08-03T21:00:00Z",
     "status": "upcoming"
   }
 ]
