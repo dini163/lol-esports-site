@@ -1,43 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "DS vs 1M",
-    "team_a": {
-      "name": "Disruptors",
-      "code": "DS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "team_b": {
-      "name": "One More Esports ",
-      "code": "1M",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
-    },
-    "start_time": "2026-07-30T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "IJC vs KCB",
-    "team_a": {
-      "name": "Ici Japon Corp",
-      "code": "IJC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
-    },
-    "team_b": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "start_time": "2026-07-30T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "MGZ vs RXCF",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
     },
     "start_time": "2026-08-01T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "team_b": {
@@ -753,7 +715,7 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-01T10:00:00Z",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-01T11:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-04T06:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "GGA vs HLE",
+    "team_a": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "team_b": {
+      "name": "HLE Challengers",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "start_time": "2026-08-04T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "TBD vs DNS",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-08-04T08:15:00Z",
     "status": "upcoming"
   }
 ]
