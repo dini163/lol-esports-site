@@ -276,14 +276,14 @@
         "team": "Dplus KIA",
         "teamCode": "DK",
         "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 2,
+        "gameWins": 4,
         "gameLosses": 1
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
@@ -306,17 +306,6 @@
       },
       {
         "rank": 4,
-        "team": "Gen.G Esports",
-        "teamCode": "GEN",
-        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 0,
-        "losses": 1,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 2
-      },
-      {
-        "rank": 4,
         "team": "Hanwha Life Esports",
         "teamCode": "HLE",
         "teamImage": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
@@ -325,6 +314,17 @@
         "winrate": "0%",
         "gameWins": 1,
         "gameLosses": 2
+      },
+      {
+        "rank": 5,
+        "team": "Gen.G Esports",
+        "teamCode": "GEN",
+        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+        "wins": 0,
+        "losses": 2,
+        "winrate": "0%",
+        "gameWins": 0,
+        "gameLosses": 4
       },
       {
         "rank": 1,
