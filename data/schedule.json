@@ -1,43 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "FEC vs OUAT",
-    "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Once Upon a Team",
-      "code": "OUAT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
-    },
-    "start_time": "2026-07-30T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "KHK vs VFB",
-    "team_a": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "team_b": {
-      "name": "VfB Stuttgart",
-      "code": "VFB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
-    },
-    "start_time": "2026-07-30T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "GMB vs ATA",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "paiN Gaming",
       "code": "PAIN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
     },
     "start_time": "2026-08-01T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-04T10:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "SSG vs RNF",
+    "team_a": {
+      "name": "SillySilly Gaming",
+      "code": "SSG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
+    },
+    "team_b": {
+      "name": "Reignfall",
+      "code": "RNF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
+    },
+    "start_time": "2026-08-04T12:00:00Z",
     "status": "upcoming"
   }
 ]
