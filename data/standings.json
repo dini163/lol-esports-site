@@ -703,6 +703,17 @@
       },
       {
         "rank": 5,
+        "team": "Cloud9 Kia",
+        "teamCode": "C9",
+        "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+        "wins": 1,
+        "losses": 1,
+        "winrate": "50%",
+        "gameWins": 2,
+        "gameLosses": 3
+      },
+      {
+        "rank": 6,
         "team": "Disguised",
         "teamCode": "DSG",
         "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
@@ -713,29 +724,7 @@
         "gameLosses": 2
       },
       {
-        "rank": 5,
-        "team": "Cloud9 Kia",
-        "teamCode": "C9",
-        "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-        "wins": 0,
-        "losses": 1,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 2
-      },
-      {
-        "rank": 5,
-        "team": "Dignitas",
-        "teamCode": "DIG",
-        "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
-        "wins": 0,
-        "losses": 1,
-        "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 2
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "team": "FlyQuest",
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
@@ -744,6 +733,17 @@
         "winrate": "0%",
         "gameWins": 0,
         "gameLosses": 2
+      },
+      {
+        "rank": 8,
+        "team": "Dignitas",
+        "teamCode": "DIG",
+        "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
+        "wins": 0,
+        "losses": 2,
+        "winrate": "0%",
+        "gameWins": 2,
+        "gameLosses": 4
       }
     ],
     "playoffs": [
