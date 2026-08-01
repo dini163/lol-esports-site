@@ -715,11 +715,11 @@
     "team_b": {
       "name": "SK Gaming",
       "code": "SK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
     },
     "start_time": "2026-08-01T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -738,45 +738,45 @@
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-01T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "NAVI vs KC",
+    "match": "KC vs NAVI",
     "team_a": {
-      "name": "Natus Vincere",
-      "code": "NAVI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
-    },
-    "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
+    "team_b": {
+      "name": "Natus Vincere",
+      "code": "NAVI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
+    },
     "start_time": "2026-08-01T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "LEV vs PAIN",
+    "match": "PAIN vs LEV",
     "team_a": {
+      "name": "paiN Gaming",
+      "code": "PAIN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
+    },
+    "team_b": {
       "name": "LEVIAT\u00c1N",
       "code": "LEV",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
     },
-    "team_b": {
-      "name": "paiN Gaming",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
-    },
     "start_time": "2026-08-01T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
