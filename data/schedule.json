@@ -728,17 +728,17 @@
     "team_a": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "team_b": {
       "name": "Fnatic",
       "code": "FNC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-02T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "start_time": "2026-08-02T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-08-02T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1496,6 +1496,25 @@
       "code": "ES",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766136918134_CopyofLogo-ES-Flat.png"
+    },
+    "start_time": "2026-08-04T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "MCON vs BAN",
+    "team_a": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
+    },
+    "team_b": {
+      "name": "The Bandits",
+      "code": "BAN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-08-04T17:00:00Z",
     "status": "upcoming"

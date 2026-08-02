@@ -499,14 +499,14 @@
       },
       {
         "rank": 5,
-        "team": "Fnatic",
-        "teamCode": "FNC",
-        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
-        "wins": 0,
-        "losses": 0,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 0
+        "team": "Movistar KOI",
+        "teamCode": "MKOI",
+        "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+        "wins": 2,
+        "losses": 3,
+        "winrate": "40%",
+        "gameWins": 6,
+        "gameLosses": 8
       },
       {
         "rank": 6,
@@ -553,15 +553,15 @@
         "gameLosses": 2
       },
       {
-        "rank": 10,
-        "team": "Movistar KOI",
-        "teamCode": "MKOI",
-        "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
-        "wins": 1,
-        "losses": 3,
-        "winrate": "25%",
-        "gameWins": 4,
-        "gameLosses": 7
+        "rank": 6,
+        "team": "Fnatic",
+        "teamCode": "FNC",
+        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
+        "wins": 0,
+        "losses": 1,
+        "winrate": "0%",
+        "gameWins": 1,
+        "gameLosses": 2
       }
     ],
     "playoffs": [
