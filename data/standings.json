@@ -101,14 +101,14 @@
         "gameLosses": 0
       },
       {
-        "rank": 2,
+        "rank": 1,
         "team": "Invictus Gaming",
         "teamCode": "IG",
         "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 2,
+        "gameWins": 4,
         "gameLosses": 1
       },
       {
@@ -117,13 +117,13 @@
         "teamCode": "LNG",
         "teamImage": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "winrate": "0%",
         "gameWins": 0,
-        "gameLosses": 2
+        "gameLosses": 4
       },
       {
-        "rank": 4,
+        "rank": 3,
         "team": "WeiboGaming",
         "teamCode": "WBG",
         "teamImage": "https://static.lolesports.com/teams/1641202879910_3.png",

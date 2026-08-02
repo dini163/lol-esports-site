@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "JSK vs GNG",
-    "team_a": {
-      "name": "JSK Gamefy",
-      "code": "JSK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
-    },
-    "team_b": {
-      "name": "GNG Amazigh",
-      "code": "GNG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
-    },
-    "start_time": "2026-07-30T18:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "ZYB vs GL",
@@ -700,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-02T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-02T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "team_b": {
@@ -743,21 +724,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "KT vs HLE",
+    "match": "HLE vs KT",
     "team_a": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
     "start_time": "2026-08-02T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1515,6 +1496,25 @@
       "code": "SC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "start_time": "2026-08-04T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "MGZ vs TSC",
+    "team_a": {
+      "name": "MAGAZA",
+      "code": "MGZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "The Secret Club",
+      "code": "TSC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-04T16:00:00Z",
     "status": "upcoming"
