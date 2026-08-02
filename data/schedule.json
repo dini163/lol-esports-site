@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "HRTS vs FLK",
-    "team_a": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "team_b": {
-      "name": "FALKE ESPORTS",
-      "code": "FLK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
-    },
-    "start_time": "2026-07-30T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "BW vs SU",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-08-02T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
     },
     "start_time": "2026-08-02T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -871,7 +852,7 @@
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-02T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1515,6 +1496,25 @@
       "code": "HELL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/ZRLLogowhite600x600.png"
+    },
+    "start_time": "2026-08-04T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EINS vs BIG",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-08-04T15:00:00Z",
     "status": "upcoming"
