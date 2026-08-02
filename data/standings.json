@@ -25,6 +25,17 @@
       },
       {
         "rank": 3,
+        "team": "Xi'an Team WE",
+        "teamCode": "WE",
+        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+        "wins": 4,
+        "losses": 2,
+        "winrate": "67%",
+        "gameWins": 8,
+        "gameLosses": 6
+      },
+      {
+        "rank": 4,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
@@ -33,17 +44,6 @@
         "winrate": "75%",
         "gameWins": 6,
         "gameLosses": 4
-      },
-      {
-        "rank": 4,
-        "team": "Xi'an Team WE",
-        "teamCode": "WE",
-        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-        "wins": 3,
-        "losses": 2,
-        "winrate": "60%",
-        "gameWins": 6,
-        "gameLosses": 5
       },
       {
         "rank": 5,
@@ -58,17 +58,6 @@
       },
       {
         "rank": 6,
-        "team": "THUNDER TALK GAMING",
-        "teamCode": "TT",
-        "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
-        "wins": 1,
-        "losses": 4,
-        "winrate": "20%",
-        "gameWins": 5,
-        "gameLosses": 8
-      },
-      {
-        "rank": 6,
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
@@ -77,6 +66,17 @@
         "winrate": "20%",
         "gameWins": 4,
         "gameLosses": 8
+      },
+      {
+        "rank": 7,
+        "team": "THUNDER TALK GAMING",
+        "teamCode": "TT",
+        "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
+        "wins": 1,
+        "losses": 5,
+        "winrate": "17%",
+        "gameWins": 6,
+        "gameLosses": 10
       },
       {
         "rank": 8,
@@ -350,6 +350,17 @@
       },
       {
         "rank": 2,
+        "team": "DN SOOPers",
+        "teamCode": "DNS",
+        "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+        "wins": 1,
+        "losses": 1,
+        "winrate": "50%",
+        "gameWins": 2,
+        "gameLosses": 3
+      },
+      {
+        "rank": 2,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
@@ -360,26 +371,15 @@
         "gameLosses": 3
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "HANJIN BRION",
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 2
-      },
-      {
-        "rank": 4,
-        "team": "DN SOOPers",
-        "teamCode": "DNS",
-        "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-        "wins": 0,
-        "losses": 1,
-        "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 2
+        "gameWins": 2,
+        "gameLosses": 4
       }
     ],
     "playoffs": [
