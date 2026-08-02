@@ -469,25 +469,14 @@
         "team": "G2 Esports",
         "teamCode": "G2",
         "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
-        "winrate": "67%",
-        "gameWins": 5,
+        "winrate": "75%",
+        "gameWins": 7,
         "gameLosses": 3
       },
       {
         "rank": 3,
-        "team": "SK Gaming",
-        "teamCode": "SK",
-        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-        "wins": 1,
-        "losses": 0,
-        "winrate": "100%",
-        "gameWins": 2,
-        "gameLosses": 1
-      },
-      {
-        "rank": 4,
         "team": "Team Vitality",
         "teamCode": "VIT",
         "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
@@ -496,6 +485,17 @@
         "winrate": "50%",
         "gameWins": 4,
         "gameLosses": 5
+      },
+      {
+        "rank": 4,
+        "team": "SK Gaming",
+        "teamCode": "SK",
+        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+        "wins": 1,
+        "losses": 1,
+        "winrate": "50%",
+        "gameWins": 2,
+        "gameLosses": 3
       },
       {
         "rank": 5,
