@@ -1,24 +1,5 @@
 [
   {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "ZENA vs EKO",
-    "team_a": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "team_b": {
-      "name": "EKO Esports",
-      "code": "EKO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
-    },
-    "start_time": "2026-07-30T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "ES vs TLNP",
@@ -743,21 +724,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "SK vs G2",
+    "match": "G2 vs SK",
     "team_a": {
-      "name": "SK Gaming",
-      "code": "SK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
+    "team_b": {
+      "name": "SK Gaming",
+      "code": "SK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
+    },
     "start_time": "2026-08-02T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-04T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "VFB vs USE",
+    "team_a": {
+      "name": "VfB Stuttgart",
+      "code": "VFB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
+    },
+    "team_b": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "start_time": "2026-08-04T17:00:00Z",
     "status": "upcoming"
   }
 ]
