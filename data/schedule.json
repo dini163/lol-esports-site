@@ -753,11 +753,11 @@
     "team_b": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-08-01T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
