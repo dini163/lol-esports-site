@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DRX vs BRO",
-    "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-07-31T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "CFO vs GAM",
-    "team_a": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "team_b": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "start_time": "2026-07-31T11:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "TH vs VIT",
@@ -671,7 +633,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "DNS Challengers",
       "code": "DNS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-03T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -747,13 +709,13 @@
     "team_a": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-03T10:30:00Z",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "Embrace Whatever Happens",
       "code": "EWH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1776611990170_PCS2026_TeamLogo_GZ.png"
     },
     "start_time": "2026-08-03T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1028,18 +990,18 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "TBD vs TBD",
+    "match": "HLE vs T1",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "T1",
+      "code": "T1",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-04T06:00:00Z",
     "status": "upcoming"
@@ -1066,18 +1028,18 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "TBD vs DNS",
+    "match": "DNS vs GEN",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-08-04T08:15:00Z",
     "status": "upcoming"
@@ -1515,6 +1477,25 @@
       "code": "GDE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
+    },
+    "start_time": "2026-08-04T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "TLNP vs SLY",
+    "team_a": {
+      "name": "TLN Pirates",
+      "code": "TLNP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
+    },
+    "team_b": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-08-04T19:00:00Z",
     "status": "upcoming"

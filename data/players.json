@@ -3252,29 +3252,6 @@
     },
     "highlights": []
   },
-  "Ice": {
-    "id": "Ice",
-    "name": "Sang-hoon Yoon",
-    "ign": "Ice",
-    "role": "BOTTOM",
-    "team": "Team Heretics",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1774651565551_ice.png",
-    "bio": "Ice is a professional League of Legends player competing in the LEC as the BOTTOM for Team Heretics. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.5",
-      "cs_per_min": "9.0",
-      "kill_participation": "72%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Hype ": {
     "id": "Hype ",
     "name": "Junghyun Byun",
@@ -3295,6 +3272,29 @@
       "cs_per_min": "8.2",
       "kill_participation": "76%",
       "win_rate": "70%"
+    },
+    "highlights": []
+  },
+  "Ice": {
+    "id": "Ice",
+    "name": "Sang-hoon Yoon",
+    "ign": "Ice",
+    "role": "BOTTOM",
+    "team": "Team Heretics",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1774651565551_ice.png",
+    "bio": "Ice is a professional League of Legends player competing in the LEC as the BOTTOM for Team Heretics. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.0",
+      "kill_participation": "72%",
+      "win_rate": "59%"
     },
     "highlights": []
   },
