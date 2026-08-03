@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TT vs AL",
-    "team_a": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Anyone's Legend",
-      "code": "AL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641199582689_.png"
-    },
-    "start_time": "2026-08-01T07:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "NS vs BFX",
@@ -677,11 +658,11 @@
     "team_b": {
       "name": "Deer Gaming",
       "code": "DEER",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "start_time": "2026-08-03T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -690,17 +671,17 @@
     "team_a": {
       "name": "Lund Esports Organization",
       "code": "LEO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
     },
     "team_b": {
       "name": "Lundqvist Lightside",
       "code": "LLS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-08-03T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -753,30 +734,30 @@
     "team_b": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "start_time": "2026-08-03T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "TSS vs INTZ",
+    "match": "INTZ vs TSS",
     "team_a": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "team_b": {
       "name": "INTZ",
       "code": "INTZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
+    "team_b": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
     "start_time": "2026-08-03T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-08-05T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "DK vs NS",
+    "team_a": {
+      "name": "DK Challengers",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-08-05T05:00:00Z",
     "status": "upcoming"
   }
 ]
