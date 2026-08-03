@@ -467,17 +467,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
     "players": [
+      "Guardian",
       "Doran",
       "Haetae",
-      "Guardian",
-      "Oner",
       "Painter",
+      "Oner",
       "Guti",
       "Faker",
-      "Jinbeom",
-      "Eclipse",
       "Cypher",
       "Peyz",
+      "Eclipse",
+      "Jinbeom",
       "Cloud ",
       "Keria"
     ]

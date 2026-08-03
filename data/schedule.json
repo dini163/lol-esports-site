@@ -2,63 +2,6 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "GEN vs T1",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-07-31T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "TSW vs MVK",
-    "team_a": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "team_b": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
-    "start_time": "2026-07-31T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "WE vs BLG",
-    "team_a": {
-      "name": "Xi'an Team WE",
-      "code": "WE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-    },
-    "team_b": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "start_time": "2026-07-31T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
     "match": "DRX vs BRO",
     "team_a": {
       "name": "KIWOOM DRX",
@@ -738,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-08-03T08:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -747,36 +690,36 @@
     "team_a": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
       "name": "BRO Challengers",
       "code": "BRO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-03T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "CFOA vs SG7",
+    "match": "SG7 vs CFOA",
     "team_a": {
-      "name": "CTBC Flying Oyster Academy",
-      "code": "CFOA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
-    },
-    "team_b": {
       "name": "Sponge Gaming",
       "code": "SG7",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1785098422022_spg.png"
     },
+    "team_b": {
+      "name": "CTBC Flying Oyster Academy",
+      "code": "CFOA",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
+    },
     "start_time": "2026-08-03T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -785,7 +728,7 @@
     "team_a": {
       "name": "DNS Challengers",
       "code": "DNS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
@@ -795,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-03T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "KeSPA Cup",
@@ -814,26 +757,26 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-03T10:30:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "GZA vs EWH",
+    "match": "EWH vs GZA",
     "team_a": {
+      "name": "Embrace Whatever Happens",
+      "code": "EWH",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
+    },
+    "team_b": {
       "name": "GZ Academy",
       "code": "GZA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1776611990170_PCS2026_TeamLogo_GZ.png"
     },
-    "team_b": {
-      "name": "Embrace Whatever Happens",
-      "code": "EWH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
-    },
     "start_time": "2026-08-03T12:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -857,18 +800,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "VER vs BDG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Verdant",
+      "code": "VER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bulldog Esports",
+      "code": "BDG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-08-03T16:00:00Z",
     "status": "upcoming"
@@ -876,18 +819,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "B2U vs VES",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bardicted to U",
+      "code": "B2U",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "VES",
+      "code": "VES",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
     },
     "start_time": "2026-08-03T16:00:00Z",
     "status": "upcoming"
@@ -914,18 +857,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "RUD vs DEER",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Ruddy Corporation",
+      "code": "RUD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Deer Gaming",
+      "code": "DEER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "start_time": "2026-08-03T18:00:00Z",
     "status": "upcoming"
@@ -933,18 +876,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "LEO vs LLS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Lund Esports Organization",
+      "code": "LEO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-08-03T18:00:00Z",
     "status": "upcoming"
@@ -1465,18 +1408,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "CE vs WG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Capybara Esports",
+      "code": "CE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Way Gaming Esports",
+      "code": "WG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784500521124_w_c.png"
     },
     "start_time": "2026-08-04T18:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1776205469628_LUP_c.png"
     },
     "start_time": "2026-08-04T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "OUAT vs ZNT",
+    "team_a": {
+      "name": "Once Upon a Team",
+      "code": "OUAT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
+    },
+    "team_b": {
+      "name": "ZennIT",
+      "code": "ZNT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
+    },
+    "start_time": "2026-08-04T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "BAM vs 3BL",
+    "team_a": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
+    },
+    "team_b": {
+      "name": "3BL GALAXY ESPORTS",
+      "code": "3BL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
+    },
+    "start_time": "2026-08-04T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "DRM vs GDE",
+    "team_a": {
+      "name": "Dream Esports",
+      "code": "DRM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
+    },
+    "team_b": {
+      "name": "GD Esports",
+      "code": "GDE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
+    },
+    "start_time": "2026-08-04T19:00:00Z",
     "status": "upcoming"
   }
 ]
