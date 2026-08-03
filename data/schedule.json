@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "NS vs BFX",
-    "team_a": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "start_time": "2026-08-01T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "DFM vs DCG",
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
     },
     "start_time": "2026-08-03T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "PAIN vs VKS",
+    "match": "VKS vs PAIN",
     "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
+    "team_b": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
     "start_time": "2026-08-03T22:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1515,6 +1496,25 @@
       "code": "NS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-08-05T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "BFX vs DRX",
+    "team_a": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-05T05:00:00Z",
     "status": "upcoming"
