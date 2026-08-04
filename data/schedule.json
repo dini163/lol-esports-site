@@ -2,44 +2,6 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "VKS vs FUR",
-    "team_a": {
-      "name": "Vivo Keyd Stars",
-      "code": "VKS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
-    },
-    "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "start_time": "2026-08-01T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "KC vs NAVI",
-    "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
-      "name": "Natus Vincere",
-      "code": "NAVI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
-    },
-    "start_time": "2026-08-01T17:15:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "CBLOL",
-    "league_code": "cbl",
     "match": "PAIN vs LEV",
     "team_a": {
       "name": "paiN Gaming",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "HLE Challengers",
       "code": "HLE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -719,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
     },
     "start_time": "2026-08-04T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Frank Esports",
       "code": "FAK",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
     },
     "start_time": "2026-08-04T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -776,23 +738,23 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-04T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "DRX vs BRO",
+    "match": "BRO vs DRX",
     "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
       "name": "HANJIN BRION",
       "code": "BRO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-04T10:30:00Z",
     "status": "completed"
@@ -804,7 +766,7 @@
     "team_a": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "team_b": {
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "start_time": "2026-08-04T12:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-08-05T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "SA vs DIA",
+    "team_a": {
+      "name": "Shark Attack",
+      "code": "SA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
+    },
+    "team_b": {
+      "name": "DIA Ozarox Esports",
+      "code": "DIA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
+    },
+    "start_time": "2026-08-05T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "WLG vs ALMO",
+    "team_a": {
+      "name": "WLGaming",
+      "code": "WLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
+    },
+    "team_b": {
+      "name": "ALMO Players",
+      "code": "ALMO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
+    },
+    "start_time": "2026-08-05T15:00:00Z",
     "status": "upcoming"
   }
 ]
