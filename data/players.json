@@ -4011,6 +4011,29 @@
     },
     "highlights": []
   },
+  "Carim": {
+    "id": "Carim",
+    "name": "Jaeseung Oh",
+    "ign": "Carim",
+    "role": "JUNGLE",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Carim is a professional League of Legends player competing in the LCK as the JUNGLE for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.2",
+      "cs_per_min": "8.6",
+      "kill_participation": "77%",
+      "win_rate": "66%"
+    },
+    "highlights": []
+  },
   "Oner": {
     "id": "Oner",
     "name": "Hyunjun Mun",
