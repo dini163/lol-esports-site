@@ -1,62 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "RUD vs DEER",
-    "team_a": {
-      "name": "Ruddy Corporation",
-      "code": "RUD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
-    },
-    "team_b": {
-      "name": "Deer Gaming",
-      "code": "DEER",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
-    },
-    "start_time": "2026-08-03T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "LEO vs LLS",
-    "team_a": {
-      "name": "Lund Esports Organization",
-      "code": "LEO",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
-    },
-    "team_b": {
-      "name": "Lundqvist Lightside",
-      "code": "LLS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
-    },
-    "start_time": "2026-08-03T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "VKS vs TSS",
-    "team_a": {
-      "name": "Vivo Keyd Stars Academy",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
-    },
-    "team_b": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "start_time": "2026-08-03T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "DEC vs VTC",
@@ -595,7 +538,7 @@
     "team_a": {
       "name": "Croatian Flair",
       "code": "RXCF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1776207835031_CFW1.png"
     },
     "team_b": {
@@ -605,7 +548,7 @@
       "image": "https://static.lolesports.com/teams/1776205469628_LUP_c.png"
     },
     "start_time": "2026-08-04T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -639,11 +582,11 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-04T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -690,7 +633,7 @@
     "team_a": {
       "name": "Malvinas Gaming",
       "code": "MVG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "team_b": {
@@ -715,11 +658,11 @@
     "team_b": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
     },
     "start_time": "2026-08-04T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -728,7 +671,7 @@
     "team_a": {
       "name": "INTZ",
       "code": "INTZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "team_b": {
@@ -738,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-08-04T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "team_b": {
@@ -757,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
     },
     "start_time": "2026-08-04T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -772,30 +715,30 @@
     "team_b": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-08-04T21:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "RED vs TSS",
+    "match": "TSS vs RED",
     "team_a": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "team_b": {
       "name": "TEAM SOLID",
       "code": "TSS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
     },
+    "team_b": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
     "start_time": "2026-08-04T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "start_time": "2026-08-05T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "NERD vs KBM",
+    "team_a": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
+    },
+    "team_b": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
+    "start_time": "2026-08-05T22:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RED vs VKS",
+    "team_a": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-08-05T23:00:00Z",
     "status": "upcoming"
   }
 ]
