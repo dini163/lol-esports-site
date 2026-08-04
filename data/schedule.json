@@ -1,43 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "PAIN vs LEV",
-    "team_a": {
-      "name": "paiN Gaming",
-      "code": "PAIN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
-    },
-    "team_b": {
-      "name": "LEVIAT\u00c1N",
-      "code": "LEV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
-    },
-    "start_time": "2026-08-01T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "DIG vs C9",
-    "team_a": {
-      "name": "Dignitas",
-      "code": "DIG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Cloud9 Kia",
-      "code": "C9",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-    },
-    "start_time": "2026-08-01T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCS",
     "league_code": "lcs",
     "match": "DSG vs FLY",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-04T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "start_time": "2026-08-04T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-08-04T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1515,6 +1477,44 @@
       "code": "ALMO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766149888302_Ogi7qeR.webp"
+    },
+    "start_time": "2026-08-05T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "SGE vs EWI",
+    "team_a": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "start_time": "2026-08-05T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "GX vs LUA",
+    "team_a": {
+      "name": "GIANTX ITERO",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "team_b": {
+      "name": "LUA Gaming",
+      "code": "LUA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
     },
     "start_time": "2026-08-05T15:00:00Z",
     "status": "upcoming"
