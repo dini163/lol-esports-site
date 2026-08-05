@@ -2,25 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "NERD vs RMD",
-    "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "start_time": "2026-08-03T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "INTZ vs TSS",
     "team_a": {
       "name": "INTZ",
@@ -614,7 +595,7 @@
     "team_a": {
       "name": "Malvinas Gaming",
       "code": "MVG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770889502736_FULL_COLOR_FOR_DARK_BG1.png"
     },
     "team_b": {
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "7REX Team",
       "code": "7REX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "start_time": "2026-08-04T22:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "KaBuM! Eports",
       "code": "KBM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "start_time": "2026-08-04T23:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-08-05T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-06T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "DNS vs T1A",
+    "team_a": {
+      "name": "DNS Challengers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "start_time": "2026-08-06T05:00:00Z",
     "status": "upcoming"
   }
 ]
