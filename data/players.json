@@ -3919,29 +3919,6 @@
     },
     "highlights": []
   },
-  "Guardian": {
-    "id": "Guardian",
-    "name": "Taehyo Seong",
-    "ign": "Guardian",
-    "role": "TOP",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769083424311_image6-2026-01-22T130312.532.png",
-    "bio": "Guardian is a professional League of Legends player competing in the LCK as the TOP for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "4.7",
-      "cs_per_min": "8.3",
-      "kill_participation": "62%",
-      "win_rate": "66%"
-    },
-    "highlights": []
-  },
   "Doran": {
     "id": "Doran",
     "name": "Hyeonjun Choi",
@@ -3988,26 +3965,26 @@
     },
     "highlights": []
   },
-  "Painter": {
-    "id": "Painter",
-    "name": "Eunhu Kim",
-    "ign": "Painter",
-    "role": "JUNGLE",
+  "Guardian": {
+    "id": "Guardian",
+    "name": "Taehyo Seong",
+    "ign": "Guardian",
+    "role": "TOP",
     "team": "T1",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769084021546_image6-2026-01-22T131032.591.png",
-    "bio": "Painter is a professional League of Legends player competing in the LCK as the JUNGLE for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769083424311_image6-2026-01-22T130312.532.png",
+    "bio": "Guardian is a professional League of Legends player competing in the LCK as the TOP for T1. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
     ],
     "stats": {
-      "kda": "4.9",
+      "kda": "4.7",
       "cs_per_min": "8.3",
-      "kill_participation": "66%",
-      "win_rate": "68%"
+      "kill_participation": "62%",
+      "win_rate": "66%"
     },
     "highlights": []
   },
@@ -4054,6 +4031,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "73%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "Painter": {
+    "id": "Painter",
+    "name": "Eunhu Kim",
+    "ign": "Painter",
+    "role": "JUNGLE",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769084021546_image6-2026-01-22T131032.591.png",
+    "bio": "Painter is a professional League of Legends player competing in the LCK as the JUNGLE for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.9",
+      "cs_per_min": "8.3",
+      "kill_participation": "66%",
+      "win_rate": "68%"
     },
     "highlights": []
   },
@@ -4108,6 +4108,52 @@
       }
     ]
   },
+  "Jinbeom": {
+    "id": "Jinbeom",
+    "name": "Jinbeom Cheon",
+    "ign": "Jinbeom",
+    "role": "BOTTOM",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Jinbeom is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "9.3",
+      "kill_participation": "72%",
+      "win_rate": "67%"
+    },
+    "highlights": []
+  },
+  "Eclipse": {
+    "id": "Eclipse",
+    "name": "Minjun Kim",
+    "ign": "Eclipse",
+    "role": "BOTTOM",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Eclipse is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "4.1",
+      "cs_per_min": "9.3",
+      "kill_participation": "75%",
+      "win_rate": "70%"
+    },
+    "highlights": []
+  },
   "Cypher": {
     "id": "Cypher",
     "name": "Yoojun Kim",
@@ -4151,52 +4197,6 @@
       "cs_per_min": "8.3",
       "kill_participation": "63%",
       "win_rate": "55%"
-    },
-    "highlights": []
-  },
-  "Eclipse": {
-    "id": "Eclipse",
-    "name": "Minjun Kim",
-    "ign": "Eclipse",
-    "role": "BOTTOM",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Eclipse is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "4.1",
-      "cs_per_min": "9.3",
-      "kill_participation": "75%",
-      "win_rate": "70%"
-    },
-    "highlights": []
-  },
-  "Jinbeom": {
-    "id": "Jinbeom",
-    "name": "Jinbeom Cheon",
-    "ign": "Jinbeom",
-    "role": "BOTTOM",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Jinbeom is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.7",
-      "cs_per_min": "9.3",
-      "kill_participation": "72%",
-      "win_rate": "67%"
     },
     "highlights": []
   },
