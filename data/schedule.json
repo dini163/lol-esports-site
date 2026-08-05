@@ -2,25 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "TSS vs RED",
-    "team_a": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "team_b": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "start_time": "2026-08-04T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "7REX vs RMD",
     "team_a": {
       "name": "7REX Team",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "Vivo Keyd Stars Academy",
       "code": "VKS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-08-05T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "start_time": "2026-08-06T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-08-07T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "DFM vs GAM",
+    "team_a": {
+      "name": "DetonatioN FocusMe",
+      "code": "DFM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
+    },
+    "team_b": {
+      "name": "GAM Esports",
+      "code": "GAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
+    },
+    "start_time": "2026-08-07T09:00:00Z",
     "status": "upcoming"
   }
 ]
