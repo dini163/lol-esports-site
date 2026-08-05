@@ -4591,6 +4591,29 @@
     },
     "highlights": []
   },
+  "Jiejie": {
+    "id": "Jiejie",
+    "name": "Li-Jie Zhao",
+    "ign": "Jiejie",
+    "role": "JUNGLE",
+    "team": "EDWARD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1772229587324_jiejie.png",
+    "bio": "Jiejie is a professional League of Legends player competing in the LPL as the JUNGLE for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.7",
+      "cs_per_min": "8.4",
+      "kill_participation": "64%",
+      "win_rate": "72%"
+    },
+    "highlights": []
+  },
   "BuLLDoG": {
     "id": "BuLLDoG",
     "name": "Taeyoung Lee",
@@ -6063,29 +6086,6 @@
     },
     "highlights": []
   },
-  "Jiejie": {
-    "id": "Jiejie",
-    "name": "Li-Jie Zhao",
-    "ign": "Jiejie",
-    "role": "JUNGLE",
-    "team": "WeiboGaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1772229587324_jiejie.png",
-    "bio": "Jiejie is a professional League of Legends player competing in the LPL as the JUNGLE for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.7",
-      "cs_per_min": "8.4",
-      "kill_participation": "64%",
-      "win_rate": "72%"
-    },
-    "highlights": []
-  },
   "Xiaohu": {
     "id": "Xiaohu",
     "name": "Yuanhao  Li",
@@ -6152,6 +6152,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "71%",
       "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Moham": {
+    "id": "Moham",
+    "name": "Jaehun Jeong",
+    "ign": "Moham",
+    "role": "SUPPORT",
+    "team": "WeiboGaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348738615_moham.png",
+    "bio": "Moham is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "9.8",
+      "kill_participation": "76%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
