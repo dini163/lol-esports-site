@@ -506,7 +506,7 @@
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-08-05T17:30:00Z",
@@ -690,7 +690,7 @@
     "team_a": {
       "name": "White Dragons",
       "code": "WD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
     },
     "team_b": {
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-08-05T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -715,11 +715,11 @@
     "team_b": {
       "name": "Estral Esports",
       "code": "EST",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "start_time": "2026-08-05T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "Blue Otter",
       "code": "BLUE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
     },
     "start_time": "2026-08-05T21:00:00Z",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "KaBuM! Eports",
       "code": "KBM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-08-05T22:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-08-05T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-07T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "KT vs GEN",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "start_time": "2026-08-07T08:00:00Z",
     "status": "upcoming"
   }
 ]
