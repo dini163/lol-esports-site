@@ -47,28 +47,17 @@
       },
       {
         "rank": 5,
-        "team": "LGD GAMING",
-        "teamCode": "LGD",
-        "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
-        "wins": 1,
-        "losses": 4,
-        "winrate": "20%",
-        "gameWins": 4,
-        "gameLosses": 8
-      },
-      {
-        "rank": 5,
         "team": "Beijing JDG Esports",
         "teamCode": "JDG",
         "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 4,
-        "winrate": "20%",
-        "gameWins": 4,
-        "gameLosses": 9
+        "winrate": "33%",
+        "gameWins": 6,
+        "gameLosses": 10
       },
       {
-        "rank": 7,
+        "rank": 6,
         "team": "THUNDER TALK GAMING",
         "teamCode": "TT",
         "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
@@ -76,6 +65,17 @@
         "losses": 5,
         "winrate": "17%",
         "gameWins": 6,
+        "gameLosses": 10
+      },
+      {
+        "rank": 6,
+        "team": "LGD GAMING",
+        "teamCode": "LGD",
+        "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
+        "wins": 1,
+        "losses": 5,
+        "winrate": "17%",
+        "gameWins": 5,
         "gameLosses": 10
       },
       {
