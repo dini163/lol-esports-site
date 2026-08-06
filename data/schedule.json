@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "GEN vs HLE",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-08-05T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TES vs EDG",
-    "team_a": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "start_time": "2026-08-05T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "SPAR vs GSMC",
@@ -696,7 +658,7 @@
     "team_b": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-08-06T07:00:00Z",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "KIWOOM DRX",
       "code": "DRX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "team_b": {
@@ -719,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-06T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "team_b": {
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "team_b": {
@@ -762,21 +724,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "DK vs T1",
+    "match": "T1 vs DK",
     "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
     "start_time": "2026-08-06T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-08-07T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "GMB vs CG",
+    "team_a": {
+      "name": "GMBLERS Esports",
+      "code": "GMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
+    "team_b": {
+      "name": "Colossal Gaming",
+      "code": "CG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "start_time": "2026-08-07T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "BLUE vs DOG",
+    "team_a": {
+      "name": "Blue Otter",
+      "code": "BLUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
+    },
+    "team_b": {
+      "name": "Dorado Gaming",
+      "code": "DOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
+    },
+    "start_time": "2026-08-07T21:00:00Z",
     "status": "upcoming"
   }
 ]
