@@ -2,44 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "7REX vs RMD",
-    "team_a": {
-      "name": "7REX Team",
-      "code": "7REX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
-    },
-    "team_b": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "start_time": "2026-08-04T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "KBM vs PAIN",
-    "team_a": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-08-04T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "EST vs NERD",
     "team_a": {
       "name": "Estral Esports",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
@@ -719,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
     },
     "start_time": "2026-08-05T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "INTZ",
       "code": "INTZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "start_time": "2026-08-06T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -785,7 +747,7 @@
     "team_a": {
       "name": "NRG",
       "code": "NRG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "team_b": {
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-06T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-07T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "WE vs TT",
+    "team_a": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "team_b": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "start_time": "2026-08-07T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "BFX vs BRO",
+    "team_a": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "start_time": "2026-08-07T10:00:00Z",
     "status": "upcoming"
   }
 ]
