@@ -94,22 +94,22 @@
         "team": "Shenzhen NINJAS IN PYJAMAS",
         "teamCode": "NIP",
         "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 4,
-        "gameLosses": 0
+        "gameWins": 6,
+        "gameLosses": 1
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "Invictus Gaming",
         "teamCode": "IG",
         "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
         "wins": 2,
-        "losses": 0,
-        "winrate": "100%",
-        "gameWins": 4,
-        "gameLosses": 1
+        "losses": 1,
+        "winrate": "67%",
+        "gameWins": 5,
+        "gameLosses": 3
       },
       {
         "rank": 3,
@@ -273,17 +273,6 @@
     "regular": [
       {
         "rank": 1,
-        "team": "Dplus KIA",
-        "teamCode": "DK",
-        "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 2,
-        "losses": 0,
-        "winrate": "100%",
-        "gameWins": 4,
-        "gameLosses": 1
-      },
-      {
-        "rank": 1,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
@@ -294,14 +283,25 @@
         "gameLosses": 1
       },
       {
-        "rank": 3,
+        "rank": 2,
+        "team": "Dplus KIA",
+        "teamCode": "DK",
+        "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+        "wins": 2,
+        "losses": 1,
+        "winrate": "67%",
+        "gameWins": 4,
+        "gameLosses": 3
+      },
+      {
+        "rank": 2,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
-        "winrate": "50%",
-        "gameWins": 2,
+        "winrate": "67%",
+        "gameWins": 4,
         "gameLosses": 2
       },
       {

@@ -690,7 +690,7 @@
     "team_a": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "team_b": {
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
     },
     "start_time": "2026-08-06T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "code": "NIP",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "start_time": "2026-08-06T09:00:00Z",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-06T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
