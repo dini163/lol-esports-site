@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "EST vs NERD",
-    "team_a": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "team_b": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "start_time": "2026-08-05T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "DK vs NS",
-    "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-05T05:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "DRX vs BFX",
@@ -781,18 +743,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BRO vs GGA",
+    "match": "GGA vs BRO",
     "team_a": {
-      "name": "BRO Challengers",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
       "name": "Gen.G Global Academy",
       "code": "GGA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "team_b": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-06T05:00:00Z",
     "status": "upcoming"
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-08-06T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -871,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "start_time": "2026-08-06T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -909,7 +871,7 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-06T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-07T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TES vs BLG",
+    "team_a": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "start_time": "2026-08-07T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "SHFT vs GX",
+    "team_a": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "team_b": {
+      "name": "GIANTX",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "start_time": "2026-08-07T15:00:00Z",
     "status": "upcoming"
   }
 ]
