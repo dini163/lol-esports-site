@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "PHX vs DP",
-    "team_a": {
-      "name": "Team Phoenix",
-      "code": "PHX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
-    },
-    "team_b": {
-      "name": "Dark Passage",
-      "code": "DP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
-    },
-    "start_time": "2026-08-06T14:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "USE vs G2N",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-07T14:00:00Z",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-08-07T15:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-08-07T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LoL Italian Tournament",
@@ -1518,5 +1499,24 @@
     },
     "start_time": "2026-08-10T08:15:00Z",
     "status": "completed"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "SG7 vs GZA",
+    "team_a": {
+      "name": "Sponge Gaming",
+      "code": "SG7",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785098422022_spg.png"
+    },
+    "team_b": {
+      "name": "GZ Academy",
+      "code": "GZA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776611990170_PCS2026_TeamLogo_GZ.png"
+    },
+    "start_time": "2026-08-10T09:00:00Z",
+    "status": "upcoming"
   }
 ]
