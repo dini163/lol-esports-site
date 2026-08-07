@@ -4982,6 +4982,29 @@
     },
     "highlights": []
   },
+  "Dardoch": {
+    "id": "Dardoch",
+    "name": "Joshua Hartnett",
+    "ign": "Dardoch",
+    "role": "TOP",
+    "team": "Dignitas",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.2",
+      "cs_per_min": "9.6",
+      "kill_participation": "68%",
+      "win_rate": "60%"
+    },
+    "highlights": []
+  },
   "Denathor": {
     "id": "Denathor",
     "name": "Noah Erikson",

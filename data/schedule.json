@@ -437,25 +437,6 @@
     "status": "completed"
   },
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "BGT vs SU",
-    "team_a": {
-      "name": "BoostGate Esports",
-      "code": "BGT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737386212434_BoostGate.png"
-    },
-    "team_b": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "start_time": "2026-08-06T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "FLK vs BAR",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-07T07:00:00Z",
@@ -762,18 +743,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "KT vs GEN",
+    "match": "GEN vs KT",
     "team_a": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
       "name": "Gen.G Esports",
       "code": "GEN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-07T08:00:00Z",
     "status": "live"
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-07T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -852,6 +833,25 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-08-07T11:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "BGT vs SU",
+    "team_a": {
+      "name": "BoostGate Esports",
+      "code": "BGT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737386212434_BoostGate.png"
+    },
+    "team_b": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
+    },
+    "start_time": "2026-08-07T14:00:00Z",
     "status": "completed"
   },
   {
