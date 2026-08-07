@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "T1 vs DK",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-08-06T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WE vs AL",
@@ -696,11 +677,11 @@
     "team_b": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-07T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "HANJIN BRION",
       "code": "BRO",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-07T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",

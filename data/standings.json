@@ -350,25 +350,25 @@
       },
       {
         "rank": 3,
+        "team": "HANJIN BRION",
+        "teamCode": "BRO",
+        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+        "wins": 2,
+        "losses": 2,
+        "winrate": "50%",
+        "gameWins": 6,
+        "gameLosses": 5
+      },
+      {
+        "rank": 4,
         "team": "BNK FEARX",
         "teamCode": "BFX",
         "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
         "wins": 1,
-        "losses": 1,
-        "winrate": "50%",
-        "gameWins": 3,
-        "gameLosses": 2
-      },
-      {
-        "rank": 4,
-        "team": "HANJIN BRION",
-        "teamCode": "BRO",
-        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-        "wins": 1,
         "losses": 2,
         "winrate": "33%",
-        "gameWins": 4,
-        "gameLosses": 5
+        "gameWins": 3,
+        "gameLosses": 4
       },
       {
         "rank": 4,
