@@ -1,157 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "NERD vs KBM",
-    "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "start_time": "2026-08-05T22:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RED vs VKS",
-    "team_a": {
-      "name": "RED Kalunga Academy",
-      "code": "RED",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
-    },
-    "team_b": {
-      "name": "Vivo Keyd Stars Academy",
-      "code": "VKS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
-    },
-    "start_time": "2026-08-05T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "INTZ vs PAIN",
-    "team_a": {
-      "name": "INTZ",
-      "code": "INTZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-08-06T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "NRG vs CPD",
-    "team_a": {
-      "name": "NRG",
-      "code": "NRG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
-    },
-    "team_b": {
-      "name": "Cupid Esports",
-      "code": "CPD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
-    },
-    "start_time": "2026-08-06T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "DNS vs T1A",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-08-06T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "GGA vs BRO",
-    "team_a": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "team_b": {
-      "name": "BRO Challengers",
-      "code": "BRO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-08-06T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs TT",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "start_time": "2026-08-06T07:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DRX vs DNS",
-    "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-08-06T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "GZ vs SHG",
@@ -551,6 +399,25 @@
     "status": "completed"
   },
   {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "VEN vs DOM",
+    "team_a": {
+      "name": "Venezuela",
+      "code": "VEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
+    },
+    "team_b": {
+      "name": "Dominican Republic",
+      "code": "DOM",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
+    },
+    "start_time": "2026-08-06T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "GNG vs 3BL",
@@ -567,6 +434,25 @@
       "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
     },
     "start_time": "2026-08-06T18:30:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "GTM vs COL",
+    "team_a": {
+      "name": "Guatemala",
+      "code": "GTM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093886101_GTM_WHITE.png"
+    },
+    "team_b": {
+      "name": "Colombia",
+      "code": "COL",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
+    },
+    "start_time": "2026-08-06T18:50:00Z",
     "status": "completed"
   },
   {
@@ -608,6 +494,25 @@
     "status": "completed"
   },
   {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "PAN vs DOM",
+    "team_a": {
+      "name": "Panama",
+      "code": "PAN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093928905_PAN_WHITE.png"
+    },
+    "team_b": {
+      "name": "Dominican Republic",
+      "code": "DOM",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
+    },
+    "start_time": "2026-08-06T19:40:00Z",
+    "status": "completed"
+  },
+  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "VITB vs ZYB",
@@ -624,6 +529,25 @@
       "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
     },
     "start_time": "2026-08-06T20:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "HND vs COL",
+    "team_a": {
+      "name": "Honduras",
+      "code": "HND",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093896209_HND_WHITE.png"
+    },
+    "team_b": {
+      "name": "Colombia",
+      "code": "COL",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
+    },
+    "start_time": "2026-08-06T20:30:00Z",
     "status": "completed"
   },
   {
@@ -662,6 +586,44 @@
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-08-06T21:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "PAN vs VEN",
+    "team_a": {
+      "name": "Panama",
+      "code": "PAN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093928905_PAN_WHITE.png"
+    },
+    "team_b": {
+      "name": "Venezuela",
+      "code": "VEN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
+    },
+    "start_time": "2026-08-06T21:20:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "HND vs GTM",
+    "team_a": {
+      "name": "Honduras",
+      "code": "HND",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093896209_HND_WHITE.png"
+    },
+    "team_b": {
+      "name": "Guatemala",
+      "code": "GTM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093886101_GTM_WHITE.png"
+    },
+    "start_time": "2026-08-06T22:10:00Z",
     "status": "completed"
   },
   {
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-07T07:00:00Z",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-07T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-07T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -931,6 +893,25 @@
     "status": "upcoming"
   },
   {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "HND vs DOM",
+    "team_a": {
+      "name": "Honduras",
+      "code": "HND",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093896209_HND_WHITE.png"
+    },
+    "team_b": {
+      "name": "Dominican Republic",
+      "code": "DOM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
+    },
+    "start_time": "2026-08-07T17:25:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "EKO vs HMB",
@@ -950,6 +931,25 @@
     "status": "upcoming"
   },
   {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "VEN vs COL",
+    "team_a": {
+      "name": "Venezuela",
+      "code": "VEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
+    },
+    "team_b": {
+      "name": "Colombia",
+      "code": "COL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
+    },
+    "start_time": "2026-08-07T18:15:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "GMB vs CG",
@@ -966,6 +966,44 @@
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
     "start_time": "2026-08-07T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-07T20:05:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CACG",
+    "league_code": "cac",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-07T20:55:00Z",
     "status": "upcoming"
   },
   {
@@ -1480,43 +1518,5 @@
     },
     "start_time": "2026-08-09T20:00:00Z",
     "status": "upcoming"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "FLY vs TL",
-    "team_a": {
-      "name": "FlyQuest",
-      "code": "FLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-    },
-    "team_b": {
-      "name": "Team Liquid Alienware",
-      "code": "TL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-    },
-    "start_time": "2026-08-09T23:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "GEN vs HLE",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-08-10T06:00:00Z",
-    "status": "completed"
   }
 ]

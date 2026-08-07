@@ -3022,29 +3022,6 @@
     },
     "highlights": []
   },
-  "Sheo": {
-    "id": "Sheo",
-    "name": "Théo Borile",
-    "ign": "Sheo",
-    "role": "JUNGLE",
-    "team": "Shifters",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1784889258942_Sheo-01.png",
-    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "10.1",
-      "kill_participation": "78%",
-      "win_rate": "67%"
-    },
-    "highlights": []
-  },
   "Boukada": {
     "id": "Boukada",
     "name": "Lahlou Mehdi",
@@ -3065,6 +3042,29 @@
       "cs_per_min": "9.0",
       "kill_participation": "68%",
       "win_rate": "54%"
+    },
+    "highlights": []
+  },
+  "Sheo": {
+    "id": "Sheo",
+    "name": "Théo Borile",
+    "ign": "Sheo",
+    "role": "JUNGLE",
+    "team": "Shifters",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1784889258942_Sheo-01.png",
+    "bio": "Sheo is a professional League of Legends player competing in the LEC as the JUNGLE for Shifters. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.4",
+      "cs_per_min": "10.1",
+      "kill_participation": "78%",
+      "win_rate": "67%"
     },
     "highlights": []
   },
@@ -3942,29 +3942,6 @@
     },
     "highlights": []
   },
-  "Doran": {
-    "id": "Doran",
-    "name": "Hyeonjun Choi",
-    "ign": "Doran",
-    "role": "TOP",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769087520664_LCK_T1_Doran_F.PNG",
-    "bio": "Doran is a professional League of Legends player competing in the LCK as the TOP for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "9.9",
-      "kill_participation": "77%",
-      "win_rate": "70%"
-    },
-    "highlights": []
-  },
   "Haetae": {
     "id": "Haetae",
     "name": "Suhyeon Sim",
@@ -3985,6 +3962,29 @@
       "cs_per_min": "9.7",
       "kill_participation": "69%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "Doran": {
+    "id": "Doran",
+    "name": "Hyeonjun Choi",
+    "ign": "Doran",
+    "role": "TOP",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769087520664_LCK_T1_Doran_F.PNG",
+    "bio": "Doran is a professional League of Legends player competing in the LCK as the TOP for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.2",
+      "cs_per_min": "9.9",
+      "kill_participation": "77%",
+      "win_rate": "70%"
     },
     "highlights": []
   },
@@ -4108,15 +4108,15 @@
       }
     ]
   },
-  "Jinbeom": {
-    "id": "Jinbeom",
-    "name": "Jinbeom Cheon",
-    "ign": "Jinbeom",
+  "Peyz": {
+    "id": "Peyz",
+    "name": "SOOHWAN Kim",
+    "ign": "Peyz",
     "role": "BOTTOM",
     "team": "T1",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Jinbeom is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769087491906_LCK_T1_Peyz_F.PNG",
+    "bio": "Peyz is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Aphelios",
       "Jinx",
@@ -4124,10 +4124,10 @@
       "Kaisa"
     ],
     "stats": {
-      "kda": "5.7",
-      "cs_per_min": "9.3",
-      "kill_participation": "72%",
-      "win_rate": "67%"
+      "kda": "5.1",
+      "cs_per_min": "8.3",
+      "kill_participation": "63%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -4154,29 +4154,6 @@
     },
     "highlights": []
   },
-  "Peyz": {
-    "id": "Peyz",
-    "name": "SOOHWAN Kim",
-    "ign": "Peyz",
-    "role": "BOTTOM",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769087491906_LCK_T1_Peyz_F.PNG",
-    "bio": "Peyz is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.1",
-      "cs_per_min": "8.3",
-      "kill_participation": "63%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Eclipse": {
     "id": "Eclipse",
     "name": "Minjun Kim",
@@ -4197,6 +4174,29 @@
       "cs_per_min": "9.3",
       "kill_participation": "75%",
       "win_rate": "70%"
+    },
+    "highlights": []
+  },
+  "Jinbeom": {
+    "id": "Jinbeom",
+    "name": "Jinbeom Cheon",
+    "ign": "Jinbeom",
+    "role": "BOTTOM",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Jinbeom is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "9.3",
+      "kill_participation": "72%",
+      "win_rate": "67%"
     },
     "highlights": []
   },
