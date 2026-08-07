@@ -1,43 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "USE vs G2N",
-    "team_a": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-08-06T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "UB vs HRTS",
-    "team_a": {
-      "name": "UB Alma Mater",
-      "code": "UB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
-    },
-    "team_b": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "start_time": "2026-08-06T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "BAM vs 1M",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-07T14:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Shifters",
       "code": "SHFT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
     },
     "team_b": {
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1776611990170_PCS2026_TeamLogo_GZ.png"
     },
     "start_time": "2026-08-10T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "HLE vs GGA",
+    "team_a": {
+      "name": "HLE Challengers",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "start_time": "2026-08-10T10:00:00Z",
     "status": "upcoming"
   }
 ]
