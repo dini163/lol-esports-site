@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "WU vs BLUE",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "start_time": "2026-08-05T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "NERD vs KBM",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-08-07T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCP",
@@ -1518,5 +1499,24 @@
     },
     "start_time": "2026-08-09T23:00:00Z",
     "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "GEN vs HLE",
+    "team_a": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "start_time": "2026-08-10T06:00:00Z",
+    "status": "completed"
   }
 ]
