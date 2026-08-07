@@ -728,7 +728,7 @@
     "team_a": {
       "name": "BoostGate Esports",
       "code": "BGT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1737386212434_BoostGate.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-08-07T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LoL Italian Tournament",
@@ -1499,5 +1499,24 @@
     },
     "start_time": "2026-08-10T08:00:00Z",
     "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "DRX vs DNS",
+    "team_a": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-08-10T08:15:00Z",
+    "status": "completed"
   }
 ]
