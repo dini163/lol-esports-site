@@ -453,7 +453,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-07T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -472,7 +472,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-07T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -677,7 +677,7 @@
     "team_b": {
       "name": "Fnatic",
       "code": "FNC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-07T17:15:00Z",
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
     },
     "start_time": "2026-08-07T17:25:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -715,11 +715,11 @@
     "team_b": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-08-07T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CACG",
@@ -738,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
     },
     "start_time": "2026-08-07T18:15:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "GMB vs CG",
+    "match": "CG vs GMB",
     "team_a": {
-      "name": "GMBLERS Esports",
-      "code": "GMB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
-    },
-    "team_b": {
       "name": "Colossal Gaming",
       "code": "CG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
+    "team_b": {
+      "name": "GMBLERS Esports",
+      "code": "GMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
     "start_time": "2026-08-07T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CACG",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-07T20:05:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "CACG",
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-07T20:55:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NACL",
