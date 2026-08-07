@@ -1,43 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "BAM vs 1M",
-    "team_a": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "team_b": {
-      "name": "One More Esports ",
-      "code": "1M",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
-    },
-    "start_time": "2026-08-06T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "JL vs TLNP",
-    "team_a": {
-      "name": "Joblife",
-      "code": "JL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
-    },
-    "team_b": {
-      "name": "TLN Pirates",
-      "code": "TLNP",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
-    },
-    "start_time": "2026-08-06T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "TSC vs LUP",
@@ -696,11 +658,11 @@
     "team_b": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-08-07T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "Aeterna Esports",
       "code": "ATA",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
     },
     "team_b": {
@@ -719,26 +681,26 @@
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-08-07T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "ZENA vs P11",
+    "match": "P11 vs ZENA",
     "team_a": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "team_b": {
       "name": "P11 Esports",
       "code": "P11",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
     },
+    "team_b": {
+      "name": "Zena Esports",
+      "code": "ZENA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
+    },
     "start_time": "2026-08-07T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-07T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CACG",
@@ -1498,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
     },
     "start_time": "2026-08-10T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "KeSPA Cup",
+    "league_code": "kes",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-10T10:30:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "RSM vs RNF",
+    "team_a": {
+      "name": "RogerSaMa",
+      "code": "RSM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785098374028_rsm-Photoroom.png"
+    },
+    "team_b": {
+      "name": "Reignfall",
+      "code": "RNF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
+    },
+    "start_time": "2026-08-10T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "VIT vs SK",
+    "team_a": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "team_b": {
+      "name": "SK Gaming",
+      "code": "SK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
+    },
+    "start_time": "2026-08-10T15:00:00Z",
     "status": "upcoming"
   }
 ]
