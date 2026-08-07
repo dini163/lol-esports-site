@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "GZ vs SHG",
-    "team_a": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "team_b": {
-      "name": "Fukuoka SoftBank HAWKS gaming",
-      "code": "SHG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1725885083108_SHG_White_Main.png"
-    },
-    "start_time": "2026-08-06T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "IG vs NIP",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "GAM Esports",
       "code": "GAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-07T09:00:00Z",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-08-07T09:00:00Z",
@@ -762,18 +743,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "BFX vs BRO",
+    "match": "BRO vs BFX",
     "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
       "name": "HANJIN BRION",
       "code": "BRO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-07T10:00:00Z",
     "status": "live"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-08-09T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "FLY vs TL",
+    "team_a": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
+    "team_b": {
+      "name": "Team Liquid Alienware",
+      "code": "TL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "start_time": "2026-08-09T23:00:00Z",
     "status": "upcoming"
   }
 ]
