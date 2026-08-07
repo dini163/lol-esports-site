@@ -25,17 +25,6 @@
       },
       {
         "rank": 3,
-        "team": "Xi'an Team WE",
-        "teamCode": "WE",
-        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-        "wins": 5,
-        "losses": 2,
-        "winrate": "71%",
-        "gameWins": 10,
-        "gameLosses": 6
-      },
-      {
-        "rank": 3,
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
@@ -44,6 +33,17 @@
         "winrate": "71%",
         "gameWins": 11,
         "gameLosses": 5
+      },
+      {
+        "rank": 4,
+        "team": "Xi'an Team WE",
+        "teamCode": "WE",
+        "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+        "wins": 5,
+        "losses": 3,
+        "winrate": "62%",
+        "gameWins": 11,
+        "gameLosses": 8
       },
       {
         "rank": 5,
@@ -61,11 +61,11 @@
         "team": "THUNDER TALK GAMING",
         "teamCode": "TT",
         "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 5,
-        "winrate": "29%",
-        "gameWins": 8,
-        "gameLosses": 11
+        "winrate": "38%",
+        "gameWins": 10,
+        "gameLosses": 12
       },
       {
         "rank": 7,

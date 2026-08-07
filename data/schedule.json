@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "T1 vs DK",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-08-06T10:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WE vs AL",
@@ -696,7 +715,7 @@
     "team_b": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-08-07T09:00:00Z",
