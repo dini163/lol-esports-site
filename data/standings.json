@@ -7,20 +7,20 @@
         "teamCode": "BLG",
         "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
         "wins": 6,
-        "losses": 0,
-        "winrate": "100%",
+        "losses": 1,
+        "winrate": "86%",
         "gameWins": 12,
-        "gameLosses": 4
+        "gameLosses": 6
       },
       {
-        "rank": 2,
+        "rank": 1,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 1,
-        "winrate": "83%",
-        "gameWins": 10,
+        "winrate": "86%",
+        "gameWins": 12,
         "gameLosses": 4
       },
       {
