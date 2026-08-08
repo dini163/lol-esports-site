@@ -1,24 +1,5 @@
 [
   {
-    "league": "CACG",
-    "league_code": "cac",
-    "match": "VEN vs DOM",
-    "team_a": {
-      "name": "Venezuela",
-      "code": "VEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
-    },
-    "team_b": {
-      "name": "Dominican Republic",
-      "code": "DOM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
-    },
-    "start_time": "2026-08-06T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "GNG vs 3BL",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-08T08:00:00Z",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
     },
     "team_b": {
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-11T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "FAK vs SSG",
+    "team_a": {
+      "name": "Frank Esports",
+      "code": "FAK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
+    },
+    "team_b": {
+      "name": "SillySilly Gaming",
+      "code": "SSG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
+    },
+    "start_time": "2026-08-11T12:00:00Z",
     "status": "upcoming"
   }
 ]
