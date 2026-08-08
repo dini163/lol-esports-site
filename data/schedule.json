@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "VITB vs ZYB",
-    "team_a": {
-      "name": "Vitality.Bee",
-      "code": "VITB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
-    },
-    "team_b": {
-      "name": "ZYB",
-      "code": "ZYB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
-    },
-    "start_time": "2026-08-06T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CACG",
     "league_code": "cac",
     "match": "HND vs COL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "start_time": "2026-08-11T16:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "LDS vs FSK",
+    "team_a": {
+      "name": "LODIS",
+      "code": "LDS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
+    },
+    "team_b": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "start_time": "2026-08-11T17:00:00Z",
     "status": "upcoming"
   }
 ]
