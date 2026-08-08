@@ -5741,29 +5741,6 @@
     },
     "highlights": []
   },
-  "JiaQi": {
-    "id": "JiaQi",
-    "name": "Jiaqi Zi",
-    "ign": "JiaQi",
-    "role": "BOTTOM",
-    "team": "Invictus Gaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775225631369_jiaqi.png",
-    "bio": "JiaQi is a professional League of Legends player competing in the LPL as the BOTTOM for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "3.6",
-      "cs_per_min": "8.0",
-      "kill_participation": "77%",
-      "win_rate": "58%"
-    },
-    "highlights": []
-  },
   "Assum": {
     "id": "Assum",
     "name": "Wei Zou",
@@ -5784,6 +5761,29 @@
       "cs_per_min": "8.4",
       "kill_participation": "77%",
       "win_rate": "69%"
+    },
+    "highlights": []
+  },
+  "JiaQi": {
+    "id": "JiaQi",
+    "name": "Jiaqi Zi",
+    "ign": "JiaQi",
+    "role": "BOTTOM",
+    "team": "Invictus Gaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225631369_jiaqi.png",
+    "bio": "JiaQi is a professional League of Legends player competing in the LPL as the BOTTOM for Invictus Gaming. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "3.6",
+      "cs_per_min": "8.0",
+      "kill_participation": "77%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
@@ -6339,29 +6339,6 @@
     },
     "highlights": []
   },
-  "369": {
-    "id": "369",
-    "name": "Jiahao Bai",
-    "ign": "369",
-    "role": "TOP",
-    "team": "TOP ESPORTS",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347704727_369.png",
-    "bio": "369 is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.6",
-      "cs_per_min": "8.5",
-      "kill_participation": "63%",
-      "win_rate": "48%"
-    },
-    "highlights": []
-  },
   "ZUIAN": {
     "id": "ZUIAN",
     "name": "Cheng Zi-Hao",
@@ -6382,6 +6359,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "63%",
       "win_rate": "54%"
+    },
+    "highlights": []
+  },
+  "369": {
+    "id": "369",
+    "name": "Jiahao Bai",
+    "ign": "369",
+    "role": "TOP",
+    "team": "TOP ESPORTS",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768347704727_369.png",
+    "bio": "369 is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.6",
+      "cs_per_min": "8.5",
+      "kill_participation": "63%",
+      "win_rate": "48%"
     },
     "highlights": []
   },

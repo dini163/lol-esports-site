@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "SLY vs GL",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "start_time": "2026-08-06T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "P11 vs TTS",
@@ -1515,6 +1496,25 @@
       "code": "DV1",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
+    },
+    "start_time": "2026-08-11T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "KHK vs G2N",
+    "team_a": {
+      "name": "Kaufland Hangry Knights",
+      "code": "KHK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
+    },
+    "team_b": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-08-11T15:00:00Z",
     "status": "upcoming"
