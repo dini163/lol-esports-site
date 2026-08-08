@@ -734,7 +734,7 @@
     "team_b": {
       "name": "SK Gaming",
       "code": "SK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
     },
     "start_time": "2026-08-08T15:00:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "RED Kalunga",
       "code": "RED",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "team_b": {
