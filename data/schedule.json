@@ -696,7 +696,7 @@
     "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-08-08T09:00:00Z",
@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-08T09:00:00Z",
@@ -724,18 +724,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "NS vs DNS",
+    "match": "DNS vs NS",
     "team_a": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-08T10:00:00Z",
     "status": "live"

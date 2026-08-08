@@ -28,10 +28,10 @@
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 2,
-        "winrate": "71%",
-        "gameWins": 11,
+        "winrate": "75%",
+        "gameWins": 13,
         "gameLosses": 5
       },
       {
@@ -73,10 +73,10 @@
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
         "wins": 1,
-        "losses": 6,
-        "winrate": "14%",
+        "losses": 7,
+        "winrate": "12%",
         "gameWins": 6,
-        "gameLosses": 12
+        "gameLosses": 14
       },
       {
         "rank": 8,
