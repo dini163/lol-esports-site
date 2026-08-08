@@ -1,24 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "FEC vs DYN",
-    "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "Dynasty",
-      "code": "DYN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
-    },
-    "start_time": "2026-08-06T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "ZENA vs GMB",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "WeiboGaming",
       "code": "WBG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
