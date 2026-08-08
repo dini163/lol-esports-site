@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-08-08T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-08T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
