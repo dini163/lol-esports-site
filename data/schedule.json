@@ -1,5 +1,24 @@
 [
   {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SLY vs GL",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "start_time": "2026-08-06T19:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "P11 vs TTS",
@@ -728,7 +747,7 @@
     "team_a": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "team_b": {
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "start_time": "2026-08-08T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
