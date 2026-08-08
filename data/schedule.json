@@ -1,43 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "FLK vs BAR",
-    "team_a": {
-      "name": "FALKE ESPORTS",
-      "code": "FLK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
-    },
-    "team_b": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "start_time": "2026-08-06T17:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "ZZG vs EXS",
-    "team_a": {
-      "name": "ZeroZone Gaming",
-      "code": "ZZG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
-    },
-    "team_b": {
-      "name": "EXSAD",
-      "code": "EXS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499713140_exsad.png"
-    },
-    "start_time": "2026-08-06T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "IJC vs ES",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "team_b": {
@@ -791,7 +753,7 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-08T00:00:00Z",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "start_time": "2026-08-10T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "LOS vs PAIN",
+    "team_a": {
+      "name": "LOS",
+      "code": "LOS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
+    },
+    "team_b": {
+      "name": "paiN Gaming",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
+    },
+    "start_time": "2026-08-11T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LJL",
+    "league_code": "ljl",
+    "match": "LGG vs UWS",
+    "team_a": {
+      "name": "L Guide Gaming",
+      "code": "LGG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
+    },
+    "team_b": {
+      "name": "UWinks",
+      "code": "UWS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
+    },
+    "start_time": "2026-08-11T08:00:00Z",
     "status": "upcoming"
   }
 ]
