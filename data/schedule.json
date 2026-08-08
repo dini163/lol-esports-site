@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "GNG vs 3BL",
-    "team_a": {
-      "name": "GNG Amazigh",
-      "code": "GNG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
-    },
-    "team_b": {
-      "name": "3BL GALAXY ESPORTS",
-      "code": "3BL",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
-    },
-    "start_time": "2026-08-06T18:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CACG",
     "league_code": "cac",
     "match": "GTM vs COL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "start_time": "2026-08-11T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "NBS vs ONT",
+    "team_a": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "team_b": {
+      "name": "Onion Team",
+      "code": "ONT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
+    },
+    "start_time": "2026-08-11T14:00:00Z",
     "status": "upcoming"
   }
 ]
