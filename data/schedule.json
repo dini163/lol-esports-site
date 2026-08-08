@@ -1,5 +1,24 @@
 [
   {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "VITB vs ZYB",
+    "team_a": {
+      "name": "Vitality.Bee",
+      "code": "VITB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
+    },
+    "team_b": {
+      "name": "ZYB",
+      "code": "ZYB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767950581466_ZYB_LOGO_PNG_2026.png"
+    },
+    "start_time": "2026-08-06T20:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "CACG",
     "league_code": "cac",
     "match": "HND vs COL",
@@ -719,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-08-08T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-08-08T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -895,18 +914,18 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TH vs G2",
+    "match": "G2 vs TH",
     "team_a": {
-      "name": "Team Heretics",
-      "code": "TH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Team Heretics",
+      "code": "TH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
     },
     "start_time": "2026-08-09T15:00:00Z",
     "status": "upcoming"
@@ -933,18 +952,18 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "FNC vs KC",
+    "match": "KC vs FNC",
     "team_a": {
-      "name": "Fnatic",
-      "code": "FNC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
-    },
-    "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "team_b": {
+      "name": "Fnatic",
+      "code": "FNC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-09T17:15:00Z",
     "status": "upcoming"
