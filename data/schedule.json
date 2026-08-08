@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-08-08T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "start_time": "2026-08-08T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
