@@ -696,11 +696,11 @@
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-08T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-08T09:00:00Z",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-08T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
