@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "TTB vs LHC",
-    "team_a": {
-      "name": "Tung Tung Bogi",
-      "code": "TTB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
-    },
-    "team_b": {
-      "name": "Panel\u00e3o LHC",
-      "code": "LHC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784553835529_panelaoorange1.png"
-    },
-    "start_time": "2026-08-06T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CCG vs MU",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-08-09T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-09T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -871,7 +852,7 @@
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-09T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1515,6 +1496,25 @@
       "code": "TOG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
+    },
+    "start_time": "2026-08-11T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "FEC vs MCON",
+    "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-08-11T17:00:00Z",
     "status": "upcoming"
