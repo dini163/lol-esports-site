@@ -1,43 +1,5 @@
 [
   {
-    "league": "CACG",
-    "league_code": "cac",
-    "match": "PAN vs VEN",
-    "team_a": {
-      "name": "Panama",
-      "code": "PAN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1786093928905_PAN_WHITE.png"
-    },
-    "team_b": {
-      "name": "Venezuela",
-      "code": "VEN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
-    },
-    "start_time": "2026-08-06T21:20:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "CACG",
-    "league_code": "cac",
-    "match": "HND vs GTM",
-    "team_a": {
-      "name": "Honduras",
-      "code": "HND",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1786093896209_HND_WHITE.png"
-    },
-    "team_b": {
-      "name": "Guatemala",
-      "code": "GTM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1786093886101_GTM_WHITE.png"
-    },
-    "start_time": "2026-08-06T22:10:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CONT vs CNV",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-08-09T07:00:00Z",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "start_time": "2026-08-09T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "start_time": "2026-08-11T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "BAM vs GNG",
+    "team_a": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
+    },
+    "team_b": {
+      "name": "GNG Amazigh",
+      "code": "GNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "start_time": "2026-08-11T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "TSS vs 7REX",
+    "team_a": {
+      "name": "TEAM SOLID",
+      "code": "TSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
+    },
+    "team_b": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "start_time": "2026-08-11T20:00:00Z",
     "status": "upcoming"
   }
 ]

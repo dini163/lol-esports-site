@@ -105,10 +105,10 @@
         "team": "Invictus Gaming",
         "teamCode": "IG",
         "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
-        "winrate": "67%",
-        "gameWins": 5,
+        "winrate": "75%",
+        "gameWins": 7,
         "gameLosses": 3
       },
       {
@@ -128,10 +128,10 @@
         "teamCode": "LNG",
         "teamImage": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "winrate": "0%",
         "gameWins": 0,
-        "gameLosses": 6
+        "gameLosses": 8
       }
     ],
     "playoffs": [
