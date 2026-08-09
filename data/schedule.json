@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CCG vs MU",
-    "team_a": {
-      "name": "CCG Esports",
-      "code": "CCG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-08-06T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CACG",
     "league_code": "cac",
     "match": "PAN vs VEN",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-08-09T07:00:00Z",
@@ -762,21 +743,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "DK vs KT",
+    "match": "KT vs DK",
     "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
       "name": "kt Rolster",
       "code": "KT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
     "start_time": "2026-08-09T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCP",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-08-11T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "DYN vs SNSH",
+    "team_a": {
+      "name": "Dynasty",
+      "code": "DYN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
+    },
+    "team_b": {
+      "name": "Senshi eSports",
+      "code": "SNSH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
+    },
+    "start_time": "2026-08-11T18:00:00Z",
     "status": "upcoming"
   }
 ]
