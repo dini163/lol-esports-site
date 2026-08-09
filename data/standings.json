@@ -458,10 +458,10 @@
         "team": "Karmine Corp",
         "teamCode": "KC",
         "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 10,
+        "gameWins": 12,
         "gameLosses": 1
       },
       {
@@ -543,20 +543,20 @@
       },
       {
         "rank": 9,
-        "team": "Fnatic",
-        "teamCode": "FNC",
-        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
-        "wins": 0,
-        "losses": 2,
-        "winrate": "0%",
-        "gameWins": 2,
-        "gameLosses": 4
-      },
-      {
-        "rank": 10,
         "team": "Shifters",
         "teamCode": "SHFT",
         "teamImage": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
+        "wins": 0,
+        "losses": 3,
+        "winrate": "0%",
+        "gameWins": 2,
+        "gameLosses": 6
+      },
+      {
+        "rank": 9,
+        "team": "Fnatic",
+        "teamCode": "FNC",
+        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
         "wins": 0,
         "losses": 3,
         "winrate": "0%",

@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "DFM vs GAM",
-    "team_a": {
-      "name": "DetonatioN FocusMe",
-      "code": "DFM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
-    },
-    "team_b": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "start_time": "2026-08-07T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WE vs TT",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-09T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-09T19:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-12T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "KT vs DK",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-08-12T10:00:00Z",
     "status": "upcoming"
   }
 ]
