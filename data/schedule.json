@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
     },
     "start_time": "2026-08-09T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-12T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "DNS vs NS",
+    "team_a": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "start_time": "2026-08-12T08:00:00Z",
     "status": "upcoming"
   }
 ]
