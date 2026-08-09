@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CONT vs CNV",
-    "team_a": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "team_b": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "start_time": "2026-08-07T00:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "NS vs KT",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "team_b": {
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-09T09:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-08-11T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRN",
+    "league_code": "lrn",
+    "match": "SDM vs KITS",
+    "team_a": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
+    "team_b": {
+      "name": "Kits Esports",
+      "code": "KITS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "start_time": "2026-08-11T23:00:00Z",
     "status": "upcoming"
   }
 ]
