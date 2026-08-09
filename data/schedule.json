@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "NS vs KT",
-    "team_a": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-08-07T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "HLE vs DRX",
     "team_a": {
       "name": "HLE Challengers",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-09T09:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "KITS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "start_time": "2026-08-11T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "RMD vs RED",
+    "team_a": {
+      "name": "RMD Gaming",
+      "code": "RMD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
+    },
+    "team_b": {
+      "name": "RED Kalunga Academy",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
     },
     "start_time": "2026-08-11T23:00:00Z",
     "status": "upcoming"

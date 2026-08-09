@@ -20,7 +20,7 @@
         "wins": 7,
         "losses": 1,
         "winrate": "88%",
-        "gameWins": 12,
+        "gameWins": 14,
         "gameLosses": 4
       },
       {
@@ -65,7 +65,7 @@
         "losses": 6,
         "winrate": "33%",
         "gameWins": 10,
-        "gameLosses": 12
+        "gameLosses": 14
       },
       {
         "rank": 7,
