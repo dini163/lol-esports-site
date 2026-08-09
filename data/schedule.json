@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "EDG vs JDG",
-    "team_a": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "start_time": "2026-08-07T07:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "GEN vs KT",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
     },
     "start_time": "2026-08-09T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1642969030123_REDlogo_REDCanids-RGB-linhabranca1.png"
     },
     "start_time": "2026-08-11T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "BRO vs HLE",
+    "team_a": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "HLE Challengers",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "start_time": "2026-08-12T05:00:00Z",
     "status": "upcoming"
   }
 ]
