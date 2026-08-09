@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-09T08:00:00Z",
@@ -724,18 +724,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "CFO vs GZ",
+    "match": "GZ vs CFO",
     "team_a": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "team_b": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
+    },
+    "team_b": {
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-09T09:00:00Z",
     "status": "live"
