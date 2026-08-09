@@ -696,11 +696,11 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-09T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-09T09:00:00Z",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-09T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",

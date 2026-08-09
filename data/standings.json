@@ -13,13 +13,13 @@
         "gameLosses": 6
       },
       {
-        "rank": 2,
+        "rank": 1,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-        "wins": 6,
+        "wins": 7,
         "losses": 1,
-        "winrate": "86%",
+        "winrate": "88%",
         "gameWins": 12,
         "gameLosses": 4
       },
@@ -62,8 +62,8 @@
         "teamCode": "TT",
         "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
         "wins": 3,
-        "losses": 5,
-        "winrate": "38%",
+        "losses": 6,
+        "winrate": "33%",
         "gameWins": 10,
         "gameLosses": 12
       },
@@ -276,25 +276,14 @@
         "team": "Dplus KIA",
         "teamCode": "DK",
         "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
-        "winrate": "67%",
-        "gameWins": 4,
-        "gameLosses": 3
+        "winrate": "75%",
+        "gameWins": 6,
+        "gameLosses": 4
       },
       {
-        "rank": 1,
-        "team": "kt Rolster",
-        "teamCode": "KT",
-        "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
-        "wins": 2,
-        "losses": 1,
-        "winrate": "67%",
-        "gameWins": 4,
-        "gameLosses": 3
-      },
-      {
-        "rank": 3,
+        "rank": 2,
         "team": "Gen.G Esports",
         "teamCode": "GEN",
         "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
@@ -305,7 +294,7 @@
         "gameLosses": 5
       },
       {
-        "rank": 3,
+        "rank": 2,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
@@ -314,6 +303,17 @@
         "winrate": "50%",
         "gameWins": 5,
         "gameLosses": 4
+      },
+      {
+        "rank": 2,
+        "team": "kt Rolster",
+        "teamCode": "KT",
+        "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
+        "wins": 2,
+        "losses": 2,
+        "winrate": "50%",
+        "gameWins": 5,
+        "gameLosses": 5
       },
       {
         "rank": 5,
