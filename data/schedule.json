@@ -728,7 +728,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
     },
     "start_time": "2026-08-09T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "LOUD",
       "code": "LOUD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
     "team_b": {
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-09T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
