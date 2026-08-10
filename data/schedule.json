@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "DOG vs BLUE",
-    "team_a": {
-      "name": "Dorado Gaming",
-      "code": "DOG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
-    },
-    "team_b": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "start_time": "2026-08-07T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "VKS vs FX",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Arctic Pandas",
       "code": "AP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "start_time": "2026-08-10T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "start_time": "2026-08-10T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -1515,6 +1496,25 @@
       "code": "DP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
+    },
+    "start_time": "2026-08-12T17:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "UCAM vs LUA",
+    "team_a": {
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
+    },
+    "team_b": {
+      "name": "LUA Gaming",
+      "code": "LUA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
     },
     "start_time": "2026-08-12T17:30:00Z",
     "status": "upcoming"
