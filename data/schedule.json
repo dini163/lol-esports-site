@@ -1,43 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "SHFT vs GX",
-    "team_a": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "team_b": {
-      "name": "GIANTX",
-      "code": "GX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "start_time": "2026-08-07T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "ATA vs TTS",
-    "team_a": {
-      "name": "Aeterna Esports",
-      "code": "ATA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
-    },
-    "team_b": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "start_time": "2026-08-07T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "P11 vs ZENA",
@@ -728,13 +690,13 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-10T06:00:00Z",
@@ -747,13 +709,13 @@
     "team_a": {
       "name": "DNS Challengers",
       "code": "DNS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
       "name": "kt Challengers",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-10T08:00:00Z",
@@ -781,21 +743,21 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "SG7 vs GZA",
+    "match": "GZA vs SG7",
     "team_a": {
-      "name": "Sponge Gaming",
-      "code": "SG7",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785098422022_spg.png"
-    },
-    "team_b": {
       "name": "GZ Academy",
       "code": "GZA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1776611990170_PCS2026_TeamLogo_GZ.png"
     },
+    "team_b": {
+      "name": "Sponge Gaming",
+      "code": "SG7",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1785098422022_spg.png"
+    },
     "start_time": "2026-08-10T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -819,7 +781,7 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "TBD vs TBD",
+    "match": "TBD vs GEN",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -827,10 +789,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Gen.G Esports",
+      "code": "GEN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-08-10T10:30:00Z",
     "status": "completed"
@@ -1066,7 +1028,7 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "TBD vs TBD",
+    "match": "TBD vs HLE",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1074,10 +1036,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-11T09:00:00Z",
     "status": "upcoming"
@@ -1484,18 +1446,18 @@
   {
     "league": "TCL",
     "league_code": "tcl",
-    "match": "SU vs SA",
+    "match": "SA vs SU",
     "team_a": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "team_b": {
       "name": "Shark Attack",
       "code": "SA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
+    },
+    "team_b": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-12T14:30:00Z",
     "status": "upcoming"
@@ -1515,6 +1477,44 @@
       "code": "ANO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
+    },
+    "start_time": "2026-08-12T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EINS vs EWI",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "start_time": "2026-08-12T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "BAR vs UB",
+    "team_a": {
+      "name": "Bar\u00e7a Esports",
+      "code": "BAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
+    },
+    "team_b": {
+      "name": "UB Alma Mater",
+      "code": "UB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
     },
     "start_time": "2026-08-12T15:00:00Z",
     "status": "upcoming"
