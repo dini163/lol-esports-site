@@ -1,43 +1,5 @@
 [
   {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "P11 vs ZENA",
-    "team_a": {
-      "name": "P11 Esports",
-      "code": "P11",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
-    },
-    "team_b": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "start_time": "2026-08-07T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "TH vs FNC",
-    "team_a": {
-      "name": "Team Heretics",
-      "code": "TH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
-    },
-    "team_b": {
-      "name": "Fnatic",
-      "code": "FNC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
-    },
-    "start_time": "2026-08-07T17:15:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CACG",
     "league_code": "cac",
     "match": "HND vs DOM",
@@ -715,11 +677,11 @@
     "team_b": {
       "name": "kt Challengers",
       "code": "KT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-10T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Sponge Gaming",
       "code": "SG7",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785098422022_spg.png"
     },
     "start_time": "2026-08-10T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
     },
     "start_time": "2026-08-10T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "KeSPA Cup",
@@ -800,21 +762,21 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "RSM vs RNF",
+    "match": "RNF vs RSM",
     "team_a": {
-      "name": "RogerSaMa",
-      "code": "RSM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785098374028_rsm-Photoroom.png"
-    },
-    "team_b": {
       "name": "Reignfall",
       "code": "RNF",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
+    "team_b": {
+      "name": "RogerSaMa",
+      "code": "RSM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785098374028_rsm-Photoroom.png"
+    },
     "start_time": "2026-08-10T12:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774563483977_alma_c.png"
     },
     "start_time": "2026-08-12T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "VES vs RG",
+    "team_a": {
+      "name": "VES",
+      "code": "VES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
+    },
+    "team_b": {
+      "name": "Rich Gang",
+      "code": "RG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784447284434_rg_w.png"
+    },
+    "start_time": "2026-08-12T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "SGE vs ROSS",
+    "team_a": {
+      "name": "Eintracht Frankfurt",
+      "code": "SGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
+    },
+    "team_b": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
+    },
+    "start_time": "2026-08-12T16:00:00Z",
     "status": "upcoming"
   }
 ]
