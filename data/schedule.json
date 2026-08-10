@@ -1,24 +1,5 @@
 [
   {
-    "league": "CACG",
-    "league_code": "cac",
-    "match": "COL vs DOM",
-    "team_a": {
-      "name": "Colombia",
-      "code": "COL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
-    },
-    "team_b": {
-      "name": "Dominican Republic",
-      "code": "DOM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
-    },
-    "start_time": "2026-08-07T20:55:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "DOG vs BLUE",
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-08-10T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-08-10T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "start_time": "2026-08-10T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-12T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "BW vs DP",
+    "team_a": {
+      "name": "Bushido Wildcats",
+      "code": "BW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
+    },
+    "team_b": {
+      "name": "Dark Passage",
+      "code": "DP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
+    },
+    "start_time": "2026-08-12T17:30:00Z",
     "status": "upcoming"
   }
 ]

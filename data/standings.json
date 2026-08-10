@@ -469,10 +469,10 @@
         "team": "G2 Esports",
         "teamCode": "G2",
         "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
-        "wins": 4,
+        "wins": 5,
         "losses": 1,
-        "winrate": "80%",
-        "gameWins": 9,
+        "winrate": "83%",
+        "gameWins": 11,
         "gameLosses": 3
       },
       {
@@ -498,15 +498,15 @@
         "gameLosses": 3
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
         "wins": 2,
-        "losses": 1,
-        "winrate": "67%",
+        "losses": 2,
+        "winrate": "50%",
         "gameWins": 4,
-        "gameLosses": 3
+        "gameLosses": 5
       },
       {
         "rank": 6,
