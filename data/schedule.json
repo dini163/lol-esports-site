@@ -914,18 +914,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "RUD vs LLS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Ruddy Corporation",
+      "code": "RUD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-08-10T16:00:00Z",
     "status": "upcoming"
@@ -933,18 +933,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "BDG vs B2U",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bulldog Esports",
+      "code": "BDG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bardicted to U",
+      "code": "B2U",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
     },
     "start_time": "2026-08-10T17:00:00Z",
     "status": "upcoming"
@@ -971,18 +971,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "AP vs BROD",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Arctic Pandas",
+      "code": "AP",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Brod & Friends",
+      "code": "BROD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "start_time": "2026-08-10T18:00:00Z",
     "status": "upcoming"

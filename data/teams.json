@@ -203,16 +203,16 @@
     "players": [
       "DuDu",
       "Lancer",
-      "DDoiV",
       "Pyosik",
       "Sharvel",
+      "DDoiV",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
       "Quantum ",
-      "Life",
-      "Peter"
+      "Peter",
+      "Life"
     ]
   },
   {
@@ -467,20 +467,20 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/T1-FullonDark.png",
     "players": [
+      "Doran",
       "Guardian",
       "Haetae",
-      "Doran",
       "Painter",
-      "Carim",
       "Oner",
-      "Guti",
+      "Carim",
       "Faker",
+      "Guti",
       "Peyz",
       "Cypher",
       "Eclipse",
       "Jinbeom",
-      "Cloud ",
-      "Keria"
+      "Keria",
+      "Cloud "
     ]
   },
   {
@@ -628,12 +628,12 @@
     "players": [
       "Sero",
       "PerfecT",
-      "Sylvie",
       "Cuzz",
+      "Sylvie",
       "Hwichan",
       "Bdd",
-      "FenRir",
       "Jiwoo",
+      "FenRir",
       "Ghost",
       "Pollu",
       "Effort"
@@ -648,15 +648,15 @@
     "players": [
       "Lancer",
       "DuDu",
-      "DDoiV",
       "Sharvel",
+      "DDoiV",
       "Pyosik",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
-      "Peter",
       "Quantum ",
+      "Peter",
       "Life"
     ]
   },
@@ -667,17 +667,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Rich",
       "Frog",
+      "Rich",
       "Vincenzo",
       "Willer",
       "Winner",
-      "Ucal",
       "AKaJe",
+      "Ucal",
       "LazyFeel",
       "Aiming",
-      "Andil",
-      "Minous"
+      "Minous",
+      "Andil"
     ]
   },
   {
@@ -728,12 +728,12 @@
     "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
     "players": [
       "sheer",
-      "Weiwei",
       "Croco",
+      "Weiwei",
       "Nia1",
       "1xn",
-      "Ycx",
-      "MISSING"
+      "MISSING",
+      "Ycx"
     ]
   },
   {
@@ -801,8 +801,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1641199582689_.png",
     "players": [
-      "Breathe",
       "Flandre",
+      "Breathe",
       "Tarzan",
       "Shanks",
       "Hope",
