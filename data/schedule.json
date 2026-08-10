@@ -2,25 +2,6 @@
   {
     "league": "CACG",
     "league_code": "cac",
-    "match": "VEN vs HND",
-    "team_a": {
-      "name": "Venezuela",
-      "code": "VEN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
-    },
-    "team_b": {
-      "name": "Honduras",
-      "code": "HND",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1786093896209_HND_WHITE.png"
-    },
-    "start_time": "2026-08-07T20:05:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "CACG",
-    "league_code": "cac",
     "match": "COL vs DOM",
     "team_a": {
       "name": "Colombia",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Ruddy Corporation",
       "code": "RUD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "start_time": "2026-08-10T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Bardicted to U",
       "code": "B2U",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-08-10T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -1515,6 +1496,25 @@
       "code": "EA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784036463315_EAlogohighreso1.png"
+    },
+    "start_time": "2026-08-12T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "UP2U vs DOC",
+    "team_a": {
+      "name": "Up2umedia Cebulaki",
+      "code": "UP2U",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
+    },
+    "team_b": {
+      "name": "DOCISK",
+      "code": "DOC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-12T17:00:00Z",
     "status": "upcoming"
