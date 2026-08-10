@@ -477,6 +477,17 @@
       },
       {
         "rank": 3,
+        "team": "Team Vitality",
+        "teamCode": "VIT",
+        "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+        "wins": 3,
+        "losses": 2,
+        "winrate": "60%",
+        "gameWins": 6,
+        "gameLosses": 5
+      },
+      {
+        "rank": 4,
         "team": "GIANTX",
         "teamCode": "GX",
         "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
@@ -487,7 +498,7 @@
         "gameLosses": 3
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
@@ -498,29 +509,7 @@
         "gameLosses": 3
       },
       {
-        "rank": 5,
-        "team": "Team Vitality",
-        "teamCode": "VIT",
-        "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
-        "wins": 2,
-        "losses": 2,
-        "winrate": "50%",
-        "gameWins": 4,
-        "gameLosses": 5
-      },
-      {
         "rank": 6,
-        "team": "SK Gaming",
-        "teamCode": "SK",
-        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-        "wins": 1,
-        "losses": 2,
-        "winrate": "33%",
-        "gameWins": 3,
-        "gameLosses": 5
-      },
-      {
-        "rank": 7,
         "team": "Movistar KOI",
         "teamCode": "MKOI",
         "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
@@ -531,7 +520,18 @@
         "gameLosses": 10
       },
       {
-        "rank": 8,
+        "rank": 7,
+        "team": "SK Gaming",
+        "teamCode": "SK",
+        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+        "wins": 1,
+        "losses": 3,
+        "winrate": "25%",
+        "gameWins": 3,
+        "gameLosses": 7
+      },
+      {
+        "rank": 7,
         "team": "Team Heretics",
         "teamCode": "TH",
         "teamImage": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
