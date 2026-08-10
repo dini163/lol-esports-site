@@ -747,7 +747,7 @@
     "team_a": {
       "name": "LEVIAT\u00c1N",
       "code": "LEV",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
     },
     "team_b": {
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "start_time": "2026-08-10T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
