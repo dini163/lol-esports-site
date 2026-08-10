@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "TES vs BLG",
-    "team_a": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "start_time": "2026-08-07T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "BGT vs SU",
@@ -126,7 +107,7 @@
     "team_b": {
       "name": "Dominican Republic",
       "code": "DOM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
     },
     "start_time": "2026-08-07T17:25:00Z",
@@ -164,7 +145,7 @@
     "team_b": {
       "name": "Colombia",
       "code": "COL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
     },
     "start_time": "2026-08-07T18:15:00Z",
@@ -192,18 +173,18 @@
   {
     "league": "CACG",
     "league_code": "cac",
-    "match": "TBD vs TBD",
+    "match": "VEN vs HND",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "name": "Venezuela",
+      "code": "VEN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1786093845824_VEN_WHITE.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Honduras",
+      "code": "HND",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1786093896209_HND_WHITE.png"
     },
     "start_time": "2026-08-07T20:05:00Z",
     "status": "completed"
@@ -211,18 +192,18 @@
   {
     "league": "CACG",
     "league_code": "cac",
-    "match": "TBD vs TBD",
+    "match": "COL vs DOM",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "name": "Colombia",
+      "code": "COL",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1786093855740_COL_WHITE.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dominican Republic",
+      "code": "DOM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1786093876773_DOM_WHITE.png"
     },
     "start_time": "2026-08-07T20:55:00Z",
     "status": "completed"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-08-12T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "SU vs SA",
+    "team_a": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
+    },
+    "team_b": {
+      "name": "Shark Attack",
+      "code": "SA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
+    },
+    "start_time": "2026-08-12T14:30:00Z",
     "status": "upcoming"
   }
 ]
