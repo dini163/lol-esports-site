@@ -1,5 +1,24 @@
 [
   {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "EKO vs HMB",
+    "team_a": {
+      "name": "EKO Esports",
+      "code": "EKO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
+    },
+    "team_b": {
+      "name": "HMBLE",
+      "code": "HMB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+    },
+    "start_time": "2026-08-07T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "CACG",
     "league_code": "cac",
     "match": "VEN vs COL",
@@ -709,7 +728,7 @@
     "team_a": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
@@ -728,7 +747,7 @@
     "team_a": {
       "name": "Reignfall",
       "code": "RNF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "team_b": {
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1785098374028_rsm-Photoroom.png"
     },
     "start_time": "2026-08-10T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -952,12 +971,12 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "TBD vs HLE",
+    "match": "DNS vs HLE",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DN SOOPers",
+      "code": "DNS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
       "name": "Hanwha Life Esports",
