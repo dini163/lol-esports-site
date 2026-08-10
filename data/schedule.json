@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "BGT vs SU",
-    "team_a": {
-      "name": "BoostGate Esports",
-      "code": "BGT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1737386212434_BoostGate.png"
-    },
-    "team_b": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "start_time": "2026-08-07T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "SHFT vs GX",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-10T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "KeSPA Cup",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
     },
     "start_time": "2026-08-12T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "BOOM vs ANO",
+    "team_a": {
+      "name": "BOMBA Team",
+      "code": "BOOM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "team_b": {
+      "name": "Anonymo",
+      "code": "ANO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
+    },
+    "start_time": "2026-08-12T15:00:00Z",
     "status": "upcoming"
   }
 ]
