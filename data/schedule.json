@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "MU vs CONT",
-    "team_a": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "team_b": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "start_time": "2026-08-08T00:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "LOUD vs FUR",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "3V TEAM",
       "code": "3V",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
     "team_b": {
       "name": "Zeu5 Esports",
       "code": "Z5",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1742462885664_FULL_COLOR_FOR_DARK_BG7.png"
     },
     "start_time": "2026-08-10T23:00:00Z",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "start_time": "2026-08-11T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LJL",
@@ -1515,6 +1496,25 @@
       "code": "ABV",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
+    },
+    "start_time": "2026-08-12T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-12T18:00:00Z",
     "status": "upcoming"
