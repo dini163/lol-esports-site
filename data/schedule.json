@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "GZ vs CFO",
-    "team_a": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "team_b": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "start_time": "2026-08-09T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "TT vs TES",
@@ -677,27 +658,27 @@
     "team_b": {
       "name": "BRUTE",
       "code": "BRT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-11T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "LDS vs FSK",
+    "match": "FSK vs LDS",
     "team_a": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "team_b": {
       "name": "Forsaken",
       "code": "FSK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "team_b": {
+      "name": "LODIS",
+      "code": "LDS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
     },
     "start_time": "2026-08-11T17:00:00Z",
     "status": "live"
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "VfB Stuttgart",
       "code": "VFB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774439138920_VfB.png"
     },
     "team_b": {
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-08-11T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Senshi eSports",
       "code": "SNSH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-11T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-11T18:30:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-13T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "BLG vs TT",
+    "team_a": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "team_b": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "start_time": "2026-08-13T11:00:00Z",
     "status": "upcoming"
   }
 ]
