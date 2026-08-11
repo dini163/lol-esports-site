@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "KT vs DK",
-    "team_a": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-08-09T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "GZ vs CFO",
@@ -633,7 +614,7 @@
     "team_a": {
       "name": "DV1 inStreamly",
       "code": "DV1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
     "team_b": {
@@ -643,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
     },
     "start_time": "2026-08-11T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -658,11 +639,11 @@
     "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-08-11T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -681,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1767880818037_Copyof3BLLOGO.png"
     },
     "start_time": "2026-08-11T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "Bohemian Guardians",
       "code": "BG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-08-11T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1758889281207_TOG.png"
     },
     "start_time": "2026-08-11T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "team_b": {
@@ -762,18 +743,18 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "DYN vs SNSH",
+    "match": "SNSH vs DYN",
     "team_a": {
-      "name": "Dynasty",
-      "code": "DYN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
-    },
-    "team_b": {
       "name": "Senshi eSports",
       "code": "SNSH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
+    },
+    "team_b": {
+      "name": "Dynasty",
+      "code": "DYN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-11T18:00:00Z",
     "status": "upcoming"
@@ -781,21 +762,21 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "BAM vs GNG",
+    "match": "GNG vs BAM",
     "team_a": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "team_b": {
       "name": "GNG Amazigh",
       "code": "GNG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
     },
+    "team_b": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
+    },
     "start_time": "2026-08-11T18:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-13T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "GEN vs HLE",
+    "team_a": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "start_time": "2026-08-13T10:00:00Z",
     "status": "upcoming"
   }
 ]
