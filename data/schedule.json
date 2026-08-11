@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs AL",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "Anyone's Legend",
-      "code": "AL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641199582689_.png"
-    },
-    "start_time": "2026-08-08T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "DNS vs NS",
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "L Guide Gaming",
       "code": "LGG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "team_b": {
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "KRX Challengers",
       "code": "DRX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-11T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "CTBC Flying Oyster Academy",
       "code": "CFOA",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
     },
     "start_time": "2026-08-11T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-11T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "start_time": "2026-08-11T12:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -1515,6 +1496,25 @@
       "code": "TBD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-12T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "OME vs CPD",
+    "team_a": {
+      "name": "Ole Miss Esports",
+      "code": "OME",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
+    },
+    "team_b": {
+      "name": "Cupid Esports",
+      "code": "CPD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-12T21:00:00Z",
     "status": "upcoming"
