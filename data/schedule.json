@@ -652,17 +652,17 @@
     "team_a": {
       "name": "L Guide Gaming",
       "code": "LGG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
     },
     "team_b": {
       "name": "UWinks",
       "code": "UWS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
     },
     "start_time": "2026-08-11T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "DK Challengers",
       "code": "DK",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-11T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
@@ -747,17 +747,17 @@
     "team_a": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "team_b": {
       "name": "Frank Esports",
       "code": "FAK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
     },
     "start_time": "2026-08-11T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
