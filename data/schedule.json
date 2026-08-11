@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BFX vs DRX",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-08-09T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WE vs JDG",
@@ -791,7 +772,7 @@
     "team_b": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "start_time": "2026-08-11T23:00:00Z",

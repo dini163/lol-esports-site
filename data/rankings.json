@@ -204,8 +204,8 @@
     "record": "16-9",
     "winrate": "64%",
     "rating": 1347.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in LCS",
     "reason": "Team Liquid features an unyielding defensive macro and highly methodical scaling setups, establishing themselves as a primary title contender in North America."
   },
@@ -219,8 +219,8 @@
     "record": "24-20",
     "winrate": "55%",
     "rating": 1345.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in LPL",
     "reason": "JDG Esports displays strong teamfight coordination and a solid structural foundation, though recent inconsistency has caused minor setbacks domestically."
   },
@@ -564,10 +564,10 @@
     "record": "18-10",
     "winrate": "64%",
     "rating": 1183.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "1st in CBLOL",
-    "reason": "FURIA occupies a competitive standing in the CBLOL region, climbing 1 spots recently with a power rating score of 1183 and a 18-10 (64%) match record."
+    "reason": "FURIA occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1183 and a 18-10 (64%) match record."
   },
   {
     "rank": 39,
@@ -586,21 +586,6 @@
   },
   {
     "rank": 40,
-    "teamId": "red-kalunga",
-    "name": "RED Kalunga",
-    "code": "RED",
-    "region": "CBLOL",
-    "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
-    "record": "15-9",
-    "winrate": "62%",
-    "rating": 1173.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "2nd in CBLOL",
-    "reason": "RED Kalunga occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1173 and a 15-9 (62%) match record."
-  },
-  {
-    "rank": 41,
     "teamId": "fukuoka-softbank-hawks-gaming",
     "name": "Fukuoka SoftBank HAWKS gaming",
     "code": "SHG",
@@ -609,13 +594,13 @@
     "record": "9-13",
     "winrate": "41%",
     "rating": 1171.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "up",
+    "trendValue": 1,
     "domesticRank": "6th in LCP",
-    "reason": "Fukuoka SoftBank HAWKS gaming occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1171 and a 9-13 (41%) match record."
+    "reason": "Fukuoka SoftBank HAWKS gaming occupies a competitive standing in the LCP region, climbing 1 spots recently with a power rating score of 1171 and a 9-13 (41%) match record."
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamId": "vivo-keyd",
     "name": "Vivo Keyd Stars",
     "code": "VKS",
@@ -624,10 +609,25 @@
     "record": "11-12",
     "winrate": "48%",
     "rating": 1170.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "up",
+    "trendValue": 1,
+    "domesticRank": "2nd in CBLOL",
+    "reason": "Vivo Keyd Stars occupies a competitive standing in the CBLOL region, climbing 1 spots recently with a power rating score of 1170 and a 11-12 (48%) match record."
+  },
+  {
+    "rank": 42,
+    "teamId": "red-kalunga",
+    "name": "RED Kalunga",
+    "code": "RED",
+    "region": "CBLOL",
+    "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+    "record": "15-10",
+    "winrate": "60%",
+    "rating": 1169.0,
+    "trend": "down",
+    "trendValue": 2,
     "domesticRank": "3rd in CBLOL",
-    "reason": "Vivo Keyd Stars occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1170 and a 11-12 (48%) match record."
+    "reason": "RED Kalunga occupies a competitive standing in the CBLOL region, experiencing a minor rank drop of 2 spots with a power rating score of 1169 and a 15-10 (60%) match record."
   },
   {
     "rank": 43,
@@ -661,6 +661,21 @@
   },
   {
     "rank": 45,
+    "teamId": "los",
+    "name": "LOS",
+    "code": "LOS",
+    "region": "CBLOL",
+    "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+    "record": "18-8",
+    "winrate": "69%",
+    "rating": 1159.0,
+    "trend": "up",
+    "trendValue": 1,
+    "domesticRank": "5th in CBLOL",
+    "reason": "LOS occupies a competitive standing in the CBLOL region, climbing 1 spots recently with a power rating score of 1159 and a 18-8 (69%) match record."
+  },
+  {
+    "rank": 46,
     "teamId": "edward-gaming",
     "name": "EDWARD GAMING",
     "code": "EDG",
@@ -669,25 +684,10 @@
     "record": "8-15",
     "winrate": "35%",
     "rating": 1157.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "down",
+    "trendValue": 1,
     "domesticRank": "12th in LPL",
-    "reason": "EDWARD GAMING occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1157 and a 8-15 (35%) match record."
-  },
-  {
-    "rank": 46,
-    "teamId": "los",
-    "name": "LOS",
-    "code": "LOS",
-    "region": "CBLOL",
-    "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
-    "record": "17-8",
-    "winrate": "68%",
-    "rating": 1153.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "5th in CBLOL",
-    "reason": "LOS occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1153 and a 17-8 (68%) match record."
+    "reason": "EDWARD GAMING occupies a competitive standing in the LPL region, experiencing a minor rank drop of 1 spots with a power rating score of 1157 and a 8-15 (35%) match record."
   },
   {
     "rank": 47,
@@ -736,21 +736,6 @@
   },
   {
     "rank": 50,
-    "teamId": "pain-gaming",
-    "name": "paiN Gaming",
-    "code": "PAIN",
-    "region": "CBLOL",
-    "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
-    "record": "4-15",
-    "winrate": "21%",
-    "rating": 1129.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "6th in CBLOL",
-    "reason": "paiN Gaming occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1129 and a 4-15 (21%) match record."
-  },
-  {
-    "rank": 50,
     "teamId": "dignitas",
     "name": "Dignitas",
     "code": "DIG",
@@ -765,7 +750,22 @@
     "reason": "Dignitas occupies a competitive standing in the LCS region, maintaining a highly stable competitive position with a power rating score of 1129 and a 1-13 (7%) match record."
   },
   {
-    "rank": 52,
+    "rank": 51,
+    "teamId": "pain-gaming",
+    "name": "paiN Gaming",
+    "code": "PAIN",
+    "region": "CBLOL",
+    "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+    "record": "4-16",
+    "winrate": "20%",
+    "rating": 1124.0,
+    "trend": "down",
+    "trendValue": 1,
+    "domesticRank": "6th in CBLOL",
+    "reason": "paiN Gaming occupies a competitive standing in the CBLOL region, experiencing a minor rank drop of 1 spots with a power rating score of 1124 and a 4-16 (20%) match record."
+  },
+  {
+    "rank": 51,
     "teamId": "ultra-prime",
     "name": "Ultra Prime",
     "code": "UP",
@@ -789,10 +789,10 @@
     "record": "6-18",
     "winrate": "25%",
     "rating": 1118.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "9th in LEC",
-    "reason": "SK Gaming occupies a competitive standing in the LEC region, experiencing a minor rank drop of 1 spots with a power rating score of 1118 and a 6-18 (25%) match record."
+    "reason": "SK Gaming occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1118 and a 6-18 (25%) match record."
   },
   {
     "rank": 54,
@@ -861,12 +861,12 @@
     "code": "LEV",
     "region": "CBLOL",
     "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
-    "record": "6-17",
-    "winrate": "26%",
-    "rating": 1057.0,
+    "record": "7-16",
+    "winrate": "30%",
+    "rating": 1061.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "8th in CBLOL",
-    "reason": "LEVIATÁN occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1057 and a 6-17 (26%) match record."
+    "reason": "LEVIATÁN occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1061 and a 7-16 (30%) match record."
   }
 ]
