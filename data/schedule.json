@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DNS vs NS",
-    "team_a": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-08T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "EDG vs BLG",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "NS Challengers",
       "code": "NS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "Frank Esports",
       "code": "FAK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
     },
     "start_time": "2026-08-11T12:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-12T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "CNV vs CCG",
+    "team_a": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
+    "team_b": {
+      "name": "CCG Esports",
+      "code": "CCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
+    "start_time": "2026-08-13T00:00:00Z",
     "status": "upcoming"
   }
 ]
