@@ -1,24 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "RED vs PAIN",
-    "team_a": {
-      "name": "RED Kalunga",
-      "code": "RED",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
-    },
-    "start_time": "2026-08-08T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "GX vs MKOI",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "NightBirds",
       "code": "NBS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "start_time": "2026-08-11T14:00:00Z",
@@ -743,21 +724,21 @@
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "BCE vs DV1",
+    "match": "DV1 vs BCE",
     "team_a": {
-      "name": "Barcz\u0105ca Esports",
-      "code": "BCE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
-    },
-    "team_b": {
       "name": "DV1 inStreamly",
       "code": "DV1",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
+    "team_b": {
+      "name": "Barcz\u0105ca Esports",
+      "code": "BCE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
+    },
     "start_time": "2026-08-11T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-08-11T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-12T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "CNV vs CCG",
+    "team_a": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
+    "team_b": {
+      "name": "CCG Esports",
+      "code": "CCG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
+    "start_time": "2026-08-13T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "GGA vs DRX",
+    "team_a": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "team_b": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "start_time": "2026-08-13T05:00:00Z",
     "status": "upcoming"
   }
 ]
