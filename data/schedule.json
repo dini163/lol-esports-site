@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "T1 vs HLE",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-08-08T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "DCG vs MVK",
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1771324707957_uw_full_color_onW.png"
     },
     "start_time": "2026-08-11T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-11T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -1479,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-12T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "HLG vs MGZ",
+    "team_a": {
+      "name": "Hooligans",
+      "code": "HLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "MAGAZA",
+      "code": "MGZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
+    },
+    "start_time": "2026-08-12T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "1M vs ANB",
+    "team_a": {
+      "name": "One More Esports ",
+      "code": "1M",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
+    },
+    "team_b": {
+      "name": "Anubis Gaming",
+      "code": "ANB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
+    },
+    "start_time": "2026-08-12T18:30:00Z",
     "status": "upcoming"
   }
 ]
