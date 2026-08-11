@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "WE vs JDG",
-    "team_a": {
-      "name": "Xi'an Team WE",
-      "code": "WE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-    },
-    "team_b": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "start_time": "2026-08-09T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "G2 vs TH",
@@ -743,21 +724,21 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "SDM vs KITS",
+    "match": "KITS vs SDM",
     "team_a": {
-      "name": "SDM Tigres",
-      "code": "SDM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
-    },
-    "team_b": {
       "name": "Kits Esports",
       "code": "KITS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
+    "team_b": {
+      "name": "SDM Tigres",
+      "code": "SDM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
+    },
     "start_time": "2026-08-11T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-08-13T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "TBD vs PHX",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Team Phoenix",
+      "code": "PHX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
+    },
+    "start_time": "2026-08-13T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "FLK vs GX",
+    "team_a": {
+      "name": "FALKE ESPORTS",
+      "code": "FLK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
+    },
+    "team_b": {
+      "name": "GIANTX ITERO",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "start_time": "2026-08-13T15:00:00Z",
     "status": "upcoming"
   }
 ]
