@@ -1,43 +1,5 @@
 [
   {
-    "league": "PCS",
-    "league_code": "pcs",
-    "match": "SSG vs FAK",
-    "team_a": {
-      "name": "SillySilly Gaming",
-      "code": "SSG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
-    },
-    "team_b": {
-      "name": "Frank Esports",
-      "code": "FAK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
-    },
-    "start_time": "2026-08-11T12:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "ONT vs NBS",
-    "team_a": {
-      "name": "Onion Team",
-      "code": "ONT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
-    },
-    "team_b": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "start_time": "2026-08-11T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "DV1 vs BCE",
@@ -677,11 +639,11 @@
     "team_b": {
       "name": "Dream Esports",
       "code": "DRM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
     },
     "start_time": "2026-08-12T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-08-12T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-12T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-15T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "NIP vs LNG",
+    "team_a": {
+      "name": "Shenzhen NINJAS IN PYJAMAS",
+      "code": "NIP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
+    },
+    "team_b": {
+      "name": "Suzhou LNG Esports",
+      "code": "LNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
+    },
+    "start_time": "2026-08-15T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "HLE vs KT",
+    "team_a": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "start_time": "2026-08-15T08:00:00Z",
     "status": "upcoming"
   }
 ]
