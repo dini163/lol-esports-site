@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Kits Esports",
       "code": "KITS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1742463079753_FULL_COLOR_FOR_DARK_BG6.png"
     },
     "start_time": "2026-08-11T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
