@@ -1,24 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "G2 vs TH",
-    "team_a": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Team Heretics",
-      "code": "TH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
-    },
-    "start_time": "2026-08-09T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "LOUD vs VKS",
@@ -762,18 +743,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BRO vs HLE",
+    "match": "HLE vs BRO",
     "team_a": {
-      "name": "BRO Challengers",
-      "code": "BRO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
       "name": "HLE Challengers",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-12T05:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-08-13T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SC vs KCB",
+    "team_a": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "start_time": "2026-08-13T16:00:00Z",
     "status": "upcoming"
   }
 ]
