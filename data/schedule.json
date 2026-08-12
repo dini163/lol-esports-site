@@ -1,24 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "FX vs FUR",
-    "team_a": {
-      "name": "Fluxo W7M",
-      "code": "FX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
-    },
-    "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "start_time": "2026-08-09T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCS",
     "league_code": "lcs",
     "match": "DIG vs LYON",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-12T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "EDWARD GAMING",
       "code": "EDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-12T09:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-12T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1104,18 +1085,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "DRM vs CE",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dream Esports",
+      "code": "DRM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Capybara Esports",
+      "code": "CE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
     },
     "start_time": "2026-08-12T18:00:00Z",
     "status": "upcoming"
@@ -1199,18 +1180,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "BBK vs GOB",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bubliki",
+      "code": "BBK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dominion Goblins",
+      "code": "GOB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-08-12T21:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "start_time": "2026-08-13T16:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "BAN vs OUAT",
+    "team_a": {
+      "name": "The Bandits",
+      "code": "BAN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
+    },
+    "team_b": {
+      "name": "Once Upon a Team",
+      "code": "OUAT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
+    },
+    "start_time": "2026-08-13T17:00:00Z",
     "status": "upcoming"
   }
 ]
