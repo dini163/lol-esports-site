@@ -1,24 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "LOUD vs VKS",
-    "team_a": {
-      "name": "LOUD",
-      "code": "LOUD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
-    },
-    "team_b": {
-      "name": "Vivo Keyd Stars",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
-    },
-    "start_time": "2026-08-09T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "KC vs FNC",
@@ -762,21 +743,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "DNS vs NS",
+    "match": "NS vs DNS",
     "team_a": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
     "start_time": "2026-08-12T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-12T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-12T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -1515,6 +1496,25 @@
       "code": "KCB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "start_time": "2026-08-13T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "SPK vs LUP",
+    "team_a": {
+      "name": "SPIKE Syndicate",
+      "code": "SPK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776205305925_SPK_w.png"
+    },
+    "team_b": {
+      "name": "Lupus Esports",
+      "code": "LUP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776205469628_LUP_c.png"
     },
     "start_time": "2026-08-13T16:00:00Z",
     "status": "upcoming"
