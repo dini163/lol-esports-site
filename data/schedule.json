@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TL vs FLY",
+    "team_a": {
+      "name": "Team Liquid Alienware",
+      "code": "TL",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "team_b": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
+    "start_time": "2026-08-09T23:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "KeSPA Cup",
     "league_code": "kes",
     "match": "GEN vs HLE",
@@ -724,18 +743,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "BLG vs JDG",
+    "match": "JDG vs BLG",
     "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-08-12T11:00:00Z",
     "status": "completed"
@@ -776,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-12T14:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",

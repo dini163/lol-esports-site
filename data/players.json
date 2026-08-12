@@ -6201,6 +6201,29 @@
     },
     "highlights": []
   },
+  "Flandre": {
+    "id": "Flandre",
+    "name": "Xuan-jun Li",
+    "ign": "Flandre",
+    "role": "TOP",
+    "team": "Anyone's Legend",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
+    "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "9.8",
+      "kill_participation": "67%",
+      "win_rate": "48%"
+    },
+    "highlights": []
+  },
   "Wenbo": {
     "id": "Wenbo",
     "name": "Wenbo Yang",
@@ -6497,29 +6520,6 @@
       "cs_per_min": "9.7",
       "kill_participation": "64%",
       "win_rate": "70%"
-    },
-    "highlights": []
-  },
-  "Flandre": {
-    "id": "Flandre",
-    "name": "Xuan-jun Li",
-    "ign": "Flandre",
-    "role": "TOP",
-    "team": "Anyone's Legend",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
-    "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.7",
-      "cs_per_min": "9.8",
-      "kill_participation": "67%",
-      "win_rate": "48%"
     },
     "highlights": []
   },
