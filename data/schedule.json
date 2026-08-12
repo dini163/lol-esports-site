@@ -1,24 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "KC vs FNC",
-    "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
-      "name": "Fnatic",
-      "code": "FNC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
-    },
-    "start_time": "2026-08-09T17:15:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "FX vs FUR",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-12T08:00:00Z",
@@ -762,18 +743,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "EDG vs AL",
+    "match": "AL vs EDG",
     "team_a": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "EDWARD GAMING",
+      "code": "EDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-12T09:00:00Z",
     "status": "completed"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1776205469628_LUP_c.png"
     },
     "start_time": "2026-08-13T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "MVE vs EXE",
+    "team_a": {
+      "name": "UP2U Meavedron",
+      "code": "MVE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
+    },
+    "team_b": {
+      "name": "EXILE Esports",
+      "code": "EXE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
+    },
+    "start_time": "2026-08-13T16:30:00Z",
     "status": "upcoming"
   }
 ]
