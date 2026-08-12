@@ -28,11 +28,11 @@
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
-        "wins": 6,
+        "wins": 7,
         "losses": 2,
-        "winrate": "75%",
-        "gameWins": 13,
-        "gameLosses": 5
+        "winrate": "78%",
+        "gameWins": 15,
+        "gameLosses": 6
       },
       {
         "rank": 4,
@@ -84,10 +84,10 @@
         "teamCode": "EDG",
         "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
         "wins": 0,
-        "losses": 8,
+        "losses": 9,
         "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 16
+        "gameWins": 2,
+        "gameLosses": 18
       },
       {
         "rank": 1,
@@ -276,10 +276,10 @@
         "team": "Dplus KIA",
         "teamCode": "DK",
         "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 3,
+        "wins": 4,
         "losses": 1,
-        "winrate": "75%",
-        "gameWins": 6,
+        "winrate": "80%",
+        "gameWins": 8,
         "gameLosses": 4
       },
       {
@@ -305,15 +305,15 @@
         "gameLosses": 4
       },
       {
-        "rank": 2,
+        "rank": 4,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
         "wins": 2,
-        "losses": 2,
-        "winrate": "50%",
+        "losses": 3,
+        "winrate": "40%",
         "gameWins": 5,
-        "gameLosses": 5
+        "gameLosses": 7
       },
       {
         "rank": 5,
