@@ -709,7 +709,7 @@
     "team_a": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "team_b": {
@@ -724,18 +724,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "BBK vs GOB",
+    "match": "GOB vs BBK",
     "team_a": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
-    },
-    "team_b": {
       "name": "Dominion Goblins",
       "code": "GOB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
+    },
+    "team_b": {
+      "name": "Bubliki",
+      "code": "BBK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-08-12T21:00:00Z",
     "status": "live"
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-12T21:00:00Z",
