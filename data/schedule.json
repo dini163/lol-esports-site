@@ -1,24 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "SGE vs ROSS",
-    "team_a": {
-      "name": "Eintracht Frankfurt",
-      "code": "SGE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674832854605_SGE.png"
-    },
-    "team_b": {
-      "name": "Rossmann Centaurs",
-      "code": "ROSS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
-    },
-    "start_time": "2026-08-12T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "JSK vs DS",
@@ -677,11 +658,11 @@
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-08-13T17:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
     },
     "team_b": {
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "ZennIT",
       "code": "ZNT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "start_time": "2026-08-13T18:00:00Z",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Hooligans",
       "code": "HLG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-13T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Vitality.Bee",
       "code": "VITB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
     },
     "team_b": {
