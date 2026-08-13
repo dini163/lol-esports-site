@@ -601,11 +601,11 @@
     "team_b": {
       "name": "SPIKE Syndicate",
       "code": "SPK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1776205305925_SPK_w.png"
     },
     "start_time": "2026-08-13T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -633,7 +633,7 @@
     "team_a": {
       "name": "The Bandits",
       "code": "BAN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "team_b": {
@@ -643,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
     },
     "start_time": "2026-08-13T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -677,7 +677,7 @@
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-08-13T17:30:00Z",
@@ -696,11 +696,11 @@
     "team_b": {
       "name": "NORTHERNGRADE ESPORTS",
       "code": "NGE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-08-13T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Myth Esports",
       "code": "MYTH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "team_b": {
@@ -719,26 +719,26 @@
       "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "start_time": "2026-08-13T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "HLG vs RXCF",
+    "match": "RXCF vs HLG",
     "team_a": {
-      "name": "Hooligans",
-      "code": "HLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
-    },
-    "team_b": {
       "name": "Croatian Flair",
       "code": "RXCF",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1776207835031_CFW1.png"
     },
+    "team_b": {
+      "name": "Hooligans",
+      "code": "HLG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
+    },
     "start_time": "2026-08-13T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "Solary",
       "code": "SLY",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-08-13T19:00:00Z",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-08-16T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "C9 vs FLY",
+    "team_a": {
+      "name": "Cloud9 Kia",
+      "code": "C9",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
+    "team_b": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
+    "start_time": "2026-08-16T20:00:00Z",
     "status": "upcoming"
   }
 ]
