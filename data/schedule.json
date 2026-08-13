@@ -633,7 +633,7 @@
     "team_a": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
     },
     "team_b": {
@@ -643,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-08-13T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -705,21 +705,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "ZZG vs RSW",
+    "match": "RSW vs ZZG",
     "team_a": {
-      "name": "ZeroZone Gaming",
-      "code": "ZZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
-    },
-    "team_b": {
       "name": "Role Swappers",
       "code": "RSW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784474494828_role_c.png"
     },
+    "team_b": {
+      "name": "ZeroZone Gaming",
+      "code": "ZZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
+    },
     "start_time": "2026-08-13T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
