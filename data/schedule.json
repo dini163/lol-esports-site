@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "start_time": "2026-08-13T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-13T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -871,7 +871,7 @@
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-08-13T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -909,6 +909,25 @@
       "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
     },
     "start_time": "2026-08-13T14:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "ROSS vs EWI",
+    "team_a": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
+    },
+    "team_b": {
+      "name": "E Wie Einfach E-Sports",
+      "code": "EWI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832938539_MicrosoftTeams-image14.png"
+    },
+    "start_time": "2026-08-13T15:00:00Z",
     "status": "upcoming"
   },
   {
@@ -1498,25 +1517,6 @@
       "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
     },
     "start_time": "2026-08-15T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BFX vs DNS",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-08-15T10:00:00Z",
     "status": "upcoming"
   }
 ]
