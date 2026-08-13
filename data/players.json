@@ -1734,29 +1734,6 @@
     },
     "highlights": []
   },
-  "Lucy": {
-    "id": "Lucy",
-    "name": "Soohoon Hyun",
-    "ign": "Lucy",
-    "role": "BOTTOM",
-    "team": "NS Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769084487004_image6-2026-01-22T132101.252.png",
-    "bio": "Lucy is a professional League of Legends player competing in the LCK as the BOTTOM for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "3.7",
-      "cs_per_min": "9.7",
-      "kill_participation": "73%",
-      "win_rate": "51%"
-    },
-    "highlights": []
-  },
   "Diable": {
     "id": "Diable",
     "name": "Nam Daegeun",
@@ -1780,26 +1757,26 @@
     },
     "highlights": []
   },
-  "Pleata": {
-    "id": "Pleata",
-    "name": "Minwoo Son",
-    "ign": "Pleata",
-    "role": "SUPPORT",
+  "Lucy": {
+    "id": "Lucy",
+    "name": "Soohoon Hyun",
+    "ign": "Lucy",
+    "role": "BOTTOM",
     "team": "NS Challengers",
     "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769084677995_image6-2026-01-22T132347.123.png",
-    "bio": "Pleata is a professional League of Legends player competing in the LCK as the SUPPORT for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769084487004_image6-2026-01-22T132101.252.png",
+    "bio": "Lucy is a professional League of Legends player competing in the LCK as the BOTTOM for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
     ],
     "stats": {
-      "kda": "5.2",
-      "cs_per_min": "8.5",
-      "kill_participation": "76%",
-      "win_rate": "67%"
+      "kda": "3.7",
+      "cs_per_min": "9.7",
+      "kill_participation": "73%",
+      "win_rate": "51%"
     },
     "highlights": []
   },
@@ -1823,6 +1800,29 @@
       "cs_per_min": "8.8",
       "kill_participation": "67%",
       "win_rate": "68%"
+    },
+    "highlights": []
+  },
+  "Pleata": {
+    "id": "Pleata",
+    "name": "Minwoo Son",
+    "ign": "Pleata",
+    "role": "SUPPORT",
+    "team": "NS Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769084677995_image6-2026-01-22T132347.123.png",
+    "bio": "Pleata is a professional League of Legends player competing in the LCK as the SUPPORT for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.2",
+      "cs_per_min": "8.5",
+      "kill_participation": "76%",
+      "win_rate": "67%"
     },
     "highlights": []
   },
@@ -4591,29 +4591,6 @@
     },
     "highlights": []
   },
-  "Xiaohao": {
-    "id": "Xiaohao",
-    "name": "HAO PENG",
-    "ign": "Xiaohao",
-    "role": "JUNGLE",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768349300073_xiaohao.png",
-    "bio": "Xiaohao is a professional League of Legends player competing in the LPL as the JUNGLE for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "5.5",
-      "cs_per_min": "8.8",
-      "kill_participation": "78%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "BuLLDoG": {
     "id": "BuLLDoG",
     "name": "Taeyoung Lee",
@@ -6017,6 +5994,29 @@
     },
     "highlights": []
   },
+  "xiaofang": {
+    "id": "xiaofang",
+    "name": "ZHEYU FANG",
+    "ign": "xiaofang",
+    "role": "JUNGLE",
+    "team": "Beijing JDG Esports",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1753282860904_image6311.png",
+    "bio": "xiaofang is a professional League of Legends player competing in the LPL as the JUNGLE for Beijing JDG Esports. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "3.7",
+      "cs_per_min": "8.1",
+      "kill_participation": "74%",
+      "win_rate": "53%"
+    },
+    "highlights": []
+  },
   "HongQ": {
     "id": "HongQ",
     "name": "MING-HUNG TSAI",
@@ -6106,6 +6106,29 @@
       "cs_per_min": "8.4",
       "kill_participation": "63%",
       "win_rate": "63%"
+    },
+    "highlights": []
+  },
+  "Xiaohao": {
+    "id": "Xiaohao",
+    "name": "HAO PENG",
+    "ign": "Xiaohao",
+    "role": "JUNGLE",
+    "team": "WeiboGaming",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768349300073_xiaohao.png",
+    "bio": "Xiaohao is a professional League of Legends player competing in the LPL as the JUNGLE for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "8.8",
+      "kill_participation": "78%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -6206,7 +6229,7 @@
     "name": "Xuan-jun Li",
     "ign": "Flandre",
     "role": "TOP",
-    "team": "Anyone's Legend",
+    "team": "BILIBILI GAMING",
     "region": "LPL",
     "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
     "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
