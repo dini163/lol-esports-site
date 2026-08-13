@@ -1,24 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "SNSH vs DYN",
-    "team_a": {
-      "name": "Senshi eSports",
-      "code": "SNSH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
-    },
-    "team_b": {
-      "name": "Dynasty",
-      "code": "DYN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
-    },
-    "start_time": "2026-08-11T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "GNG vs BAM",
@@ -696,7 +677,7 @@
     "team_b": {
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "code": "NIP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "start_time": "2026-08-13T07:00:00Z",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "BNK FEARX",
       "code": "BFX",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-13T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Relove Deep Cross Gaming",
       "code": "DCG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-13T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "start_time": "2026-08-15T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "SHFT vs G2",
+    "team_a": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-08-15T17:15:00Z",
     "status": "upcoming"
   }
 ]
