@@ -747,7 +747,7 @@
     "team_a": {
       "name": "SK Gaming",
       "code": "SK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
     },
     "team_b": {
@@ -757,26 +757,26 @@
       "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
     },
     "start_time": "2026-08-14T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "VIT vs GX",
+    "match": "GX vs VIT",
     "team_a": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "team_b": {
       "name": "GIANTX",
       "code": "GX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
+    "team_b": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
     "start_time": "2026-08-14T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
