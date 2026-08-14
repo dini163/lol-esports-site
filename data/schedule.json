@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "JL vs GL",
-    "team_a": {
-      "name": "Joblife",
-      "code": "JL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
-    },
-    "team_b": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "start_time": "2026-08-12T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "RMD vs TSS",
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "Team Vitality",
       "code": "VIT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
     "start_time": "2026-08-14T17:15:00Z",
@@ -1515,6 +1496,25 @@
       "code": "3V",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
+    },
+    "start_time": "2026-08-17T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "PAIN vs NERD",
+    "team_a": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
+    "team_b": {
+      "name": "Ei Nerd Esports",
+      "code": "NERD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-08-17T23:00:00Z",
     "status": "upcoming"
