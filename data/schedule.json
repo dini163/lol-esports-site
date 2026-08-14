@@ -1,24 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "LEO vs EA",
-    "team_a": {
-      "name": "Lund Esports Organization",
-      "code": "LEO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
-    },
-    "team_b": {
-      "name": "Epic Avalanche",
-      "code": "EA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784036463315_EAlogohighreso1.png"
-    },
-    "start_time": "2026-08-12T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "DOC vs UP2U",
@@ -762,18 +743,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BFX vs BRO",
+    "match": "BRO vs BFX",
     "team_a": {
-      "name": "BNK FEARX Youth",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
       "name": "BRO Challengers",
       "code": "BRO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-14T05:00:00Z",
     "status": "upcoming"
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-14T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-14T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -890,7 +871,7 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-14T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-17T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "EWH vs RNF",
+    "team_a": {
+      "name": "Embrace Whatever Happens",
+      "code": "EWH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
+    },
+    "team_b": {
+      "name": "Reignfall",
+      "code": "RNF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
+    },
+    "start_time": "2026-08-17T12:00:00Z",
     "status": "upcoming"
   }
 ]
