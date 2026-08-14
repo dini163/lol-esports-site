@@ -1,24 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "DOC vs UP2U",
-    "team_a": {
-      "name": "DOCISK",
-      "code": "DOC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
-    },
-    "team_b": {
-      "name": "Up2umedia Cebulaki",
-      "code": "UP2U",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
-    },
-    "start_time": "2026-08-12T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "BW vs DP",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "start_time": "2026-08-17T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TH vs NAVI",
+    "team_a": {
+      "name": "Team Heretics",
+      "code": "TH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
+    },
+    "team_b": {
+      "name": "Natus Vincere",
+      "code": "NAVI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
+    },
+    "start_time": "2026-08-17T15:00:00Z",
     "status": "upcoming"
   }
 ]
