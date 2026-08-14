@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Team Vitality",
       "code": "VIT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
     "start_time": "2026-08-14T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",

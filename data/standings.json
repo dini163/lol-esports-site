@@ -480,11 +480,11 @@
         "team": "Team Vitality",
         "teamCode": "VIT",
         "teamImage": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
-        "wins": 3,
+        "wins": 4,
         "losses": 2,
-        "winrate": "60%",
-        "gameWins": 6,
-        "gameLosses": 5
+        "winrate": "67%",
+        "gameWins": 8,
+        "gameLosses": 6
       },
       {
         "rank": 4,
@@ -492,13 +492,13 @@
         "teamCode": "GX",
         "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
         "wins": 2,
-        "losses": 1,
-        "winrate": "67%",
-        "gameWins": 5,
-        "gameLosses": 3
+        "losses": 2,
+        "winrate": "50%",
+        "gameWins": 6,
+        "gameLosses": 5
       },
       {
-        "rank": 5,
+        "rank": 4,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
