@@ -747,7 +747,7 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
@@ -762,18 +762,18 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "TBD vs TBD",
+    "match": "BLUE vs CNV",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Blue Otter",
+      "code": "BLUE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Conviction",
+      "code": "CNV",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
     },
     "start_time": "2026-08-14T21:00:00Z",
     "status": "upcoming"
@@ -781,18 +781,18 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "TBD vs TBD",
+    "match": "CONT vs CCG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Contingent Esports",
+      "code": "CONT",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "CCG Esports",
+      "code": "CCG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
     },
     "start_time": "2026-08-15T00:00:00Z",
     "status": "upcoming"
