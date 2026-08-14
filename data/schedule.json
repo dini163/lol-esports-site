@@ -1,24 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RMD vs TSS",
-    "team_a": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "team_b": {
-      "name": "TEAM SOLID",
-      "code": "TSS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199850391_solid_w.png"
-    },
-    "start_time": "2026-08-12T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "GOB vs BBK",
