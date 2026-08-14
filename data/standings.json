@@ -68,14 +68,14 @@
         "gameLosses": 16
       },
       {
-        "rank": 7,
+        "rank": 6,
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 7,
-        "winrate": "22%",
-        "gameWins": 8,
+        "winrate": "30%",
+        "gameWins": 10,
         "gameLosses": 14
       },
       {
@@ -84,10 +84,10 @@
         "teamCode": "EDG",
         "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
         "wins": 0,
-        "losses": 9,
+        "losses": 10,
         "winrate": "0%",
         "gameWins": 2,
-        "gameLosses": 18
+        "gameLosses": 20
       },
       {
         "rank": 1,

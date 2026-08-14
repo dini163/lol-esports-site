@@ -1,24 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "ABV vs DMG",
-    "team_a": {
-      "name": "Absolved",
-      "code": "ABV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784185867070_ABVWhite21.png"
-    },
-    "team_b": {
-      "name": "DMG Esports",
-      "code": "DMG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
-    },
-    "start_time": "2026-08-12T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "CE vs DRM",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-14T07:00:00Z",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-14T08:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-08-14T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-17T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-17T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "GX vs KC",
+    "team_a": {
+      "name": "GIANTX",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "start_time": "2026-08-17T17:15:00Z",
     "status": "upcoming"
   }
 ]
