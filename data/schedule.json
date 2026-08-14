@@ -1,43 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "BW vs DP",
-    "team_a": {
-      "name": "Bushido Wildcats",
-      "code": "BW",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
-    },
-    "team_b": {
-      "name": "Dark Passage",
-      "code": "DP",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
-    },
-    "start_time": "2026-08-12T17:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LES",
-    "league_code": "les",
-    "match": "UCAM vs LUA",
-    "team_a": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "team_b": {
-      "name": "LUA Gaming",
-      "code": "LUA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1715245265080_658435d7e218f402908540.png"
-    },
-    "start_time": "2026-08-12T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "ABV vs DMG",
@@ -211,25 +173,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "KT vs NS",
-    "team_a": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-13T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "DRX vs GGA",
     "team_a": {
       "name": "KRX Challengers",
@@ -242,6 +185,25 @@
       "code": "GGA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "start_time": "2026-08-13T05:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "KT vs NS",
+    "team_a": {
+      "name": "kt Challengers",
+      "code": "KT",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-13T05:00:00Z",
     "status": "completed"
@@ -700,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-14T03:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-14T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -753,7 +715,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-14T07:00:00Z",
@@ -762,21 +724,21 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "T1 vs DK",
+    "match": "DK vs T1",
     "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
+    "team_b": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
     "start_time": "2026-08-14T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-08-17T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-17T16:00:00Z",
     "status": "upcoming"
   }
 ]
