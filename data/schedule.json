@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "CE vs DRM",
-    "team_a": {
-      "name": "Capybara Esports",
-      "code": "CE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
-    },
-    "team_b": {
-      "name": "Dream Esports",
-      "code": "DRM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
-    },
-    "start_time": "2026-08-12T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "HLG vs MGZ",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Xi'an Team WE",
       "code": "WE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "team_b": {
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-08-14T09:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-08-17T17:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-17T18:00:00Z",
     "status": "upcoming"
   }
 ]
