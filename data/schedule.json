@@ -709,7 +709,7 @@
     "team_a": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "team_b": {
@@ -724,18 +724,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "NS vs BRO",
+    "match": "BRO vs NS",
     "team_a": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
       "name": "HANJIN BRION",
       "code": "BRO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-14T10:00:00Z",
     "status": "live"
