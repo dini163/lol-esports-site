@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "1M vs ANB",
-    "team_a": {
-      "name": "One More Esports ",
-      "code": "1M",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738572035889_OneMoreEsportslogo3.4transaprentbackground.png"
-    },
-    "team_b": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
-    },
-    "start_time": "2026-08-12T18:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "JL vs GL",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-08-14T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-14T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-08-14T11:00:00Z",
@@ -1142,12 +1123,12 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs TSW",
+    "match": "CFO vs TSW",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "team_b": {
       "name": "Team Secret Whales",

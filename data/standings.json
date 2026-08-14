@@ -350,20 +350,20 @@
       },
       {
         "rank": 3,
-        "team": "HANJIN BRION",
-        "teamCode": "BRO",
-        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-        "wins": 2,
-        "losses": 2,
-        "winrate": "50%",
-        "gameWins": 6,
-        "gameLosses": 5
-      },
-      {
-        "rank": 4,
         "team": "NONGSHIM RED FORCE",
         "teamCode": "NS",
         "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
+        "wins": 3,
+        "losses": 3,
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 7
+      },
+      {
+        "rank": 4,
+        "team": "HANJIN BRION",
+        "teamCode": "BRO",
+        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
         "wins": 2,
         "losses": 3,
         "winrate": "40%",
