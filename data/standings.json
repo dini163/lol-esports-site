@@ -305,25 +305,25 @@
         "gameLosses": 6
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "team": "Hanwha Life Esports",
+        "teamCode": "HLE",
+        "teamImage": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+        "wins": 2,
+        "losses": 4,
+        "winrate": "33%",
+        "gameWins": 7,
+        "gameLosses": 10
+      },
+      {
+        "rank": 4,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
         "wins": 2,
-        "losses": 3,
-        "winrate": "40%",
-        "gameWins": 5,
-        "gameLosses": 7
-      },
-      {
-        "rank": 5,
-        "team": "Hanwha Life Esports",
-        "teamCode": "HLE",
-        "teamImage": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
-        "wins": 1,
         "losses": 4,
-        "winrate": "20%",
-        "gameWins": 5,
+        "winrate": "33%",
+        "gameWins": 6,
         "gameLosses": 9
       },
       {
