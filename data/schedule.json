@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
     },
     "start_time": "2026-08-15T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-15T16:00:00Z",
@@ -762,21 +762,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "SHFT vs G2",
+    "match": "G2 vs SHFT",
     "team_a": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
+    "team_b": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
     "start_time": "2026-08-15T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
