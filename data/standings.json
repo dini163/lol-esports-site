@@ -3,9 +3,9 @@
     "regular": [
       {
         "rank": 1,
-        "team": "Anyone's Legend",
-        "teamCode": "AL",
-        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "team": "BILIBILI GAMING",
+        "teamCode": "BLG",
+        "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
         "wins": 9,
         "losses": 2,
         "winrate": "82%",
@@ -13,14 +13,14 @@
         "gameLosses": 8
       },
       {
-        "rank": 2,
-        "team": "BILIBILI GAMING",
-        "teamCode": "BLG",
-        "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-        "wins": 8,
+        "rank": 1,
+        "team": "Anyone's Legend",
+        "teamCode": "AL",
+        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "wins": 9,
         "losses": 2,
-        "winrate": "80%",
-        "gameWins": 17,
+        "winrate": "82%",
+        "gameWins": 19,
         "gameLosses": 8
       },
       {
@@ -40,10 +40,10 @@
         "teamCode": "WE",
         "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
         "wins": 6,
-        "losses": 4,
-        "winrate": "60%",
+        "losses": 5,
+        "winrate": "55%",
         "gameWins": 13,
-        "gameLosses": 10
+        "gameLosses": 12
       },
       {
         "rank": 5,
