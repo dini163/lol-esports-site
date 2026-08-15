@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "WBG vs NIP",
-    "team_a": {
-      "name": "WeiboGaming",
-      "code": "WBG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1641202879910_3.png"
-    },
-    "team_b": {
-      "name": "Shenzhen NINJAS IN PYJAMAS",
-      "code": "NIP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
-    },
-    "start_time": "2026-08-13T07:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "DRX vs BFX",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "start_time": "2026-08-15T09:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "FSK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "start_time": "2026-08-18T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "MKF vs BAR",
+    "team_a": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
+    },
+    "team_b": {
+      "name": "Bar\u00e7a Esports",
+      "code": "BAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
     "status": "upcoming"
