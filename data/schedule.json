@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "DCG vs GAM",
-    "team_a": {
-      "name": "Relove Deep Cross Gaming",
-      "code": "DCG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png"
-    },
-    "team_b": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "start_time": "2026-08-13T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "LGD vs TES",
