@@ -94,11 +94,11 @@
         "team": "Shenzhen NINJAS IN PYJAMAS",
         "teamCode": "NIP",
         "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
-        "wins": 4,
+        "wins": 5,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 8,
-        "gameLosses": 2
+        "gameWins": 10,
+        "gameLosses": 3
       },
       {
         "rank": 2,
@@ -128,10 +128,10 @@
         "teamCode": "LNG",
         "teamImage": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "winrate": "0%",
-        "gameWins": 0,
-        "gameLosses": 8
+        "gameWins": 1,
+        "gameLosses": 10
       }
     ],
     "playoffs": [
