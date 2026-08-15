@@ -469,10 +469,10 @@
         "team": "G2 Esports",
         "teamCode": "G2",
         "teamImage": "https://static.lolesports.com/teams/G2-FullonDark.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 1,
-        "winrate": "83%",
-        "gameWins": 11,
+        "winrate": "86%",
+        "gameWins": 13,
         "gameLosses": 3
       },
       {
@@ -558,10 +558,10 @@
         "teamCode": "SHFT",
         "teamImage": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "winrate": "0%",
         "gameWins": 2,
-        "gameLosses": 8
+        "gameLosses": 10
       }
     ],
     "playoffs": [

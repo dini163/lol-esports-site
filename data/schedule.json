@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "NBS vs ESB",
-    "team_a": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "team_b": {
-      "name": "eSuba",
-      "code": "ESB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
-    },
-    "start_time": "2026-08-13T14:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "PHX vs SA",
-    "team_a": {
-      "name": "Team Phoenix",
-      "code": "PHX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
-    },
-    "team_b": {
-      "name": "Shark Attack",
-      "code": "SA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
-    },
-    "start_time": "2026-08-13T14:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs ROSS",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
     },
     "start_time": "2026-08-15T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -1498,6 +1460,25 @@
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-18T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "MCON vs MYTH",
+    "team_a": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
+    },
+    "team_b": {
+      "name": "Myth Esports",
+      "code": "MYTH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
+    },
+    "start_time": "2026-08-18T18:00:00Z",
     "status": "upcoming"
   }
 ]
