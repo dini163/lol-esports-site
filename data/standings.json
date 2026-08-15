@@ -514,13 +514,13 @@
         "teamCode": "SK",
         "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
         "wins": 2,
-        "losses": 3,
-        "winrate": "40%",
+        "losses": 4,
+        "winrate": "33%",
         "gameWins": 5,
-        "gameLosses": 7
+        "gameLosses": 9
       },
       {
-        "rank": 7,
+        "rank": 6,
         "team": "Movistar KOI",
         "teamCode": "MKOI",
         "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
@@ -542,14 +542,14 @@
         "gameLosses": 7
       },
       {
-        "rank": 9,
+        "rank": 8,
         "team": "Fnatic",
         "teamCode": "FNC",
         "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
-        "wins": 0,
+        "wins": 1,
         "losses": 3,
-        "winrate": "0%",
-        "gameWins": 2,
+        "winrate": "25%",
+        "gameWins": 4,
         "gameLosses": 6
       },
       {
