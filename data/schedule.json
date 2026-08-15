@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DRX vs BFX",
-    "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "start_time": "2026-08-13T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "DCG vs GAM",
@@ -700,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-15T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "start_time": "2026-08-15T09:00:00Z",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-15T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SLY vs TLNP",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "TLN Pirates",
+      "code": "TLNP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
+    },
+    "start_time": "2026-08-18T16:00:00Z",
     "status": "upcoming"
   }
 ]
