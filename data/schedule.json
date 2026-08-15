@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "KT vs NS",
-    "team_a": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-13T05:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "WBG vs NIP",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "Suzhou LNG Esports",
       "code": "LNG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
     },
     "start_time": "2026-08-15T07:00:00Z",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
     },
     "start_time": "2026-08-15T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-18T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "NBS vs CKZ",
+    "team_a": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "team_b": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "start_time": "2026-08-18T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "ANO vs FSK",
+    "team_a": {
+      "name": "Anonymo",
+      "code": "ANO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
+    },
+    "team_b": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "start_time": "2026-08-18T15:00:00Z",
     "status": "upcoming"
   }
 ]
