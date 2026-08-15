@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DRX vs GGA",
-    "team_a": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "start_time": "2026-08-13T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "KT vs NS",
     "team_a": {
       "name": "kt Challengers",
@@ -743,18 +724,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "HLE vs KT",
+    "match": "KT vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "kt Rolster",
       "code": "KT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-15T08:00:00Z",
     "status": "live"
