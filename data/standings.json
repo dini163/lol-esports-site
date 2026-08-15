@@ -662,14 +662,14 @@
         "team": "Team Liquid Alienware",
         "teamCode": "TL",
         "teamImage": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 6,
+        "gameWins": 8,
         "gameLosses": 0
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "LYON",
         "teamCode": "LYON",
         "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
@@ -725,17 +725,6 @@
       },
       {
         "rank": 7,
-        "team": "Disguised",
-        "teamCode": "DSG",
-        "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
-        "wins": 0,
-        "losses": 3,
-        "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 6
-      },
-      {
-        "rank": 7,
         "team": "Dignitas",
         "teamCode": "DIG",
         "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
@@ -744,6 +733,17 @@
         "winrate": "0%",
         "gameWins": 2,
         "gameLosses": 6
+      },
+      {
+        "rank": 8,
+        "team": "Disguised",
+        "teamCode": "DSG",
+        "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+        "wins": 0,
+        "losses": 4,
+        "winrate": "0%",
+        "gameWins": 1,
+        "gameLosses": 8
       }
     ],
     "playoffs": [
