@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs TES",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-08-13T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "HLE vs GEN",
@@ -743,18 +724,18 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "SK vs FNC",
+    "match": "FNC vs SK",
     "team_a": {
-      "name": "SK Gaming",
-      "code": "SK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
-    },
-    "team_b": {
       "name": "Fnatic",
       "code": "FNC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
+    },
+    "team_b": {
+      "name": "SK Gaming",
+      "code": "SK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
     },
     "start_time": "2026-08-15T15:00:00Z",
     "status": "live"
