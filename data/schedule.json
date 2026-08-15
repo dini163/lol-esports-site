@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "BLG vs TT",
-    "team_a": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "team_b": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "start_time": "2026-08-13T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "NBS vs ESB",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-15T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -762,37 +743,37 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "VKS vs LOS",
+    "match": "LOS vs VKS",
     "team_a": {
-      "name": "Vivo Keyd Stars",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
-    },
-    "team_b": {
       "name": "LOS",
       "code": "LOS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
     },
+    "team_b": {
+      "name": "Vivo Keyd Stars",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
+    },
     "start_time": "2026-08-15T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "DSG vs TL",
+    "match": "TL vs DSG",
     "team_a": {
-      "name": "Disguised",
-      "code": "DSG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-    },
-    "team_b": {
       "name": "Team Liquid Alienware",
       "code": "TL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "team_b": {
+      "name": "Disguised",
+      "code": "DSG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
     },
     "start_time": "2026-08-15T20:00:00Z",
     "status": "upcoming"
@@ -800,18 +781,18 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "DIG vs SR",
+    "match": "SR vs DIG",
     "team_a": {
-      "name": "Dignitas",
-      "code": "DIG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
-    },
-    "team_b": {
       "name": "Shopify Rebellion",
       "code": "SR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+    },
+    "team_b": {
+      "name": "Dignitas",
+      "code": "DIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
     },
     "start_time": "2026-08-15T23:00:00Z",
     "status": "upcoming"
