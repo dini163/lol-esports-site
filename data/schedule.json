@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "GOB vs BBK",
-    "team_a": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
-    },
-    "team_b": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
-    },
-    "start_time": "2026-08-12T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "OME vs CPD",
@@ -762,18 +743,18 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CONT vs CCG",
+    "match": "CCG vs CONT",
     "team_a": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "team_b": {
       "name": "CCG Esports",
       "code": "CCG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743818097778__CCGIcon_Main.png"
+    },
+    "team_b": {
+      "name": "Contingent Esports",
+      "code": "CONT",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-08-15T00:00:00Z",
     "status": "live"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-18T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "FAK vs CFOA",
+    "team_a": {
+      "name": "Frank Esports",
+      "code": "FAK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
+    },
+    "team_b": {
+      "name": "CTBC Flying Oyster Academy",
+      "code": "CFOA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
+    },
+    "start_time": "2026-08-18T09:00:00Z",
     "status": "upcoming"
   }
 ]
