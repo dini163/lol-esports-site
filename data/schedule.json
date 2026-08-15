@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "PHX vs SA",
-    "team_a": {
-      "name": "Team Phoenix",
-      "code": "PHX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
-    },
-    "team_b": {
-      "name": "Shark Attack",
-      "code": "SA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
-    },
-    "start_time": "2026-08-13T14:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs ROSS",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-08-18T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "7REX vs INTZ",
+    "team_a": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "team_b": {
+      "name": "INTZ",
+      "code": "INTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
+    },
+    "start_time": "2026-08-18T20:00:00Z",
     "status": "upcoming"
   }
 ]
