@@ -715,11 +715,11 @@
     "team_b": {
       "name": "Ground Zero Gaming",
       "code": "GZ",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
     },
     "start_time": "2026-08-15T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-15T10:00:00Z",
