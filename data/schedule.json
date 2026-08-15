@@ -1,5 +1,24 @@
 [
   {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "PHX vs SA",
+    "team_a": {
+      "name": "Team Phoenix",
+      "code": "PHX",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
+    },
+    "team_b": {
+      "name": "Shark Attack",
+      "code": "SA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784629718506_SharkAttackWhiteLogo1.png"
+    },
+    "start_time": "2026-08-13T14:30:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "EWI vs ROSS",
@@ -709,7 +728,7 @@
     "team_a": {
       "name": "LOS",
       "code": "LOS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
     },
     "team_b": {
