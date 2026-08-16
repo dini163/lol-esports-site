@@ -1480,5 +1480,24 @@
     },
     "start_time": "2026-08-19T10:00:00Z",
     "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "ONT vs BRT",
+    "team_a": {
+      "name": "Onion Team",
+      "code": "ONT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
+    },
+    "team_b": {
+      "name": "BRUTE",
+      "code": "BRT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
+    },
+    "start_time": "2026-08-19T14:00:00Z",
+    "status": "upcoming"
   }
 ]
