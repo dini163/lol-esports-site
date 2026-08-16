@@ -498,18 +498,29 @@
         "gameLosses": 5
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "team": "Movistar KOI",
+        "teamCode": "MKOI",
+        "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+        "wins": 3,
+        "losses": 4,
+        "winrate": "43%",
+        "gameWins": 8,
+        "gameLosses": 10
+      },
+      {
+        "rank": 6,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
         "wins": 2,
-        "losses": 2,
-        "winrate": "50%",
+        "losses": 3,
+        "winrate": "40%",
         "gameWins": 4,
-        "gameLosses": 5
+        "gameLosses": 7
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": "SK Gaming",
         "teamCode": "SK",
         "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
@@ -518,17 +529,6 @@
         "winrate": "33%",
         "gameWins": 5,
         "gameLosses": 9
-      },
-      {
-        "rank": 6,
-        "team": "Movistar KOI",
-        "teamCode": "MKOI",
-        "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
-        "wins": 2,
-        "losses": 4,
-        "winrate": "33%",
-        "gameWins": 6,
-        "gameLosses": 10
       },
       {
         "rank": 8,

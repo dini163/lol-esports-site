@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-08-16T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "LOUD",
       "code": "LOUD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
     "start_time": "2026-08-16T16:00:00Z",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-08-16T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
