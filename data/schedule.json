@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "BGT vs DP",
-    "team_a": {
-      "name": "BoostGate Esports",
-      "code": "BGT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737386212434_BoostGate.png"
-    },
-    "team_b": {
-      "name": "Dark Passage",
-      "code": "DP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
-    },
-    "start_time": "2026-08-13T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "HRTS vs MKF",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-08-16T09:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "TES",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "start_time": "2026-08-19T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "GEN vs KT",
+    "team_a": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-19T08:00:00Z",
     "status": "upcoming"
