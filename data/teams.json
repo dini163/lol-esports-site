@@ -20,6 +20,26 @@
     ]
   },
   {
+    "id": "hanwha-life-esports",
+    "name": "Hanwha Life Esports",
+    "code": "HLE",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+    "players": [
+      "Panther",
+      "Zeus",
+      "Kanavi",
+      "Jackal",
+      "Cracker",
+      "Valiant",
+      "Zeka",
+      "Gumayusi",
+      "Pyeonsik",
+      "Delight",
+      "Bluffing"
+    ]
+  },
+  {
     "id": "dwg-kia",
     "name": "Dplus KIA",
     "code": "DK",
@@ -120,6 +140,26 @@
     ]
   },
   {
+    "id": "nongshim-redforce",
+    "name": "NONGSHIM RED FORCE",
+    "code": "NS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
+    "players": [
+      "Kingen",
+      "Janus",
+      "Sponge",
+      "MihawK",
+      "Calix",
+      "Scout",
+      "SeTab",
+      "Diable",
+      "Lucy",
+      "Lehends",
+      "Pleata"
+    ]
+  },
+  {
     "id": "mad-lions",
     "name": "Movistar KOI",
     "code": "MKOI",
@@ -132,6 +172,26 @@
       "Jojopyun",
       "Supa",
       "Alvaro"
+    ]
+  },
+  {
+    "id": "fredit-brion",
+    "name": "HANJIN BRION",
+    "code": "BRO",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+    "players": [
+      "DDahyuk",
+      "Casting",
+      "GIDEON",
+      "Dinai",
+      "Pungyeon",
+      "Roamer",
+      "Tempester",
+      "Teddy",
+      "OddEye",
+      "Namgung",
+      "PlanB"
     ]
   },
   {
@@ -196,6 +256,66 @@
     ]
   },
   {
+    "id": "bro-challengers",
+    "name": "BRO Challengers",
+    "code": "BRO",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+    "players": [
+      "Casting",
+      "DDahyuk",
+      "GIDEON",
+      "Dinai",
+      "Pungyeon",
+      "Roamer",
+      "Tempester",
+      "Teddy",
+      "OddEye",
+      "Namgung",
+      "PlanB"
+    ]
+  },
+  {
+    "id": "hle-challengers",
+    "name": "HLE Challengers",
+    "code": "HLE",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+    "players": [
+      "Zeus",
+      "Panther",
+      "Jackal",
+      "Kanavi",
+      "Cracker",
+      "Valiant",
+      "Zeka",
+      "Pyeonsik",
+      "Gumayusi",
+      "Bluffing",
+      "Delight"
+    ]
+  },
+  {
+    "id": "kt-challengers",
+    "name": "kt Challengers",
+    "code": "KT",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
+    "players": [
+      "Sero",
+      "PerfecT",
+      "Sylvie",
+      "Cuzz",
+      "Bdd",
+      "Hwichan",
+      "FenRir",
+      "Jiwoo",
+      "Ghost",
+      "Pollu",
+      "Effort"
+    ]
+  },
+  {
     "id": "fearx-youth",
     "name": "BNK FEARX Youth",
     "code": "BFX",
@@ -215,6 +335,26 @@
       "Taeyoon",
       "Kellin",
       "Luon"
+    ]
+  },
+  {
+    "id": "ns-challengers",
+    "name": "NS Challengers",
+    "code": "NS",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
+    "players": [
+      "Janus",
+      "Kingen",
+      "Sponge",
+      "MihawK",
+      "Calix",
+      "Scout",
+      "SeTab",
+      "Diable",
+      "Lucy",
+      "Pleata",
+      "Lehends"
     ]
   },
   {
@@ -477,6 +617,26 @@
       "Carzzy",
       "Fleshy",
       "Lukezy"
+    ]
+  },
+  {
+    "id": "kt-rolster",
+    "name": "kt Rolster",
+    "code": "KT",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
+    "players": [
+      "Sero",
+      "PerfecT",
+      "Cuzz",
+      "Sylvie",
+      "Hwichan",
+      "Bdd",
+      "Jiwoo",
+      "FenRir",
+      "Ghost",
+      "Pollu",
+      "Effort"
     ]
   },
   {

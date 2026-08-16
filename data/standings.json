@@ -273,25 +273,113 @@
     "regular": [
       {
         "rank": 1,
-        "team": "Gen.G Esports",
-        "teamCode": "GEN",
-        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 16,
-        "losses": 2,
-        "winrate": "89%",
-        "gameWins": 33,
-        "gameLosses": 8
+        "team": "Dplus KIA",
+        "teamCode": "DK",
+        "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+        "wins": 5,
+        "losses": 1,
+        "winrate": "83%",
+        "gameWins": 10,
+        "gameLosses": 5
       },
       {
         "rank": 2,
+        "team": "Gen.G Esports",
+        "teamCode": "GEN",
+        "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+        "wins": 4,
+        "losses": 2,
+        "winrate": "67%",
+        "gameWins": 8,
+        "gameLosses": 5
+      },
+      {
+        "rank": 3,
+        "team": "Hanwha Life Esports",
+        "teamCode": "HLE",
+        "teamImage": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
+        "wins": 2,
+        "losses": 4,
+        "winrate": "33%",
+        "gameWins": 7,
+        "gameLosses": 10
+      },
+      {
+        "rank": 3,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 15,
+        "wins": 2,
+        "losses": 4,
+        "winrate": "33%",
+        "gameWins": 6,
+        "gameLosses": 8
+      },
+      {
+        "rank": 3,
+        "team": "kt Rolster",
+        "teamCode": "KT",
+        "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
+        "wins": 2,
+        "losses": 4,
+        "winrate": "33%",
+        "gameWins": 6,
+        "gameLosses": 9
+      },
+      {
+        "rank": 1,
+        "team": "DN SOOPers",
+        "teamCode": "DNS",
+        "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+        "wins": 4,
+        "losses": 2,
+        "winrate": "67%",
+        "gameWins": 8,
+        "gameLosses": 6
+      },
+      {
+        "rank": 2,
+        "team": "BNK FEARX",
+        "teamCode": "BFX",
+        "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+        "wins": 3,
         "losses": 3,
-        "winrate": "83%",
-        "gameWins": 31,
-        "gameLosses": 11
+        "winrate": "50%",
+        "gameWins": 7,
+        "gameLosses": 7
+      },
+      {
+        "rank": 2,
+        "team": "NONGSHIM RED FORCE",
+        "teamCode": "NS",
+        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
+        "wins": 3,
+        "losses": 3,
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 7
+      },
+      {
+        "rank": 2,
+        "team": "HANJIN BRION",
+        "teamCode": "BRO",
+        "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+        "wins": 3,
+        "losses": 3,
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 8
+      },
+      {
+        "rank": 5,
+        "team": "KIWOOM DRX",
+        "teamCode": "DRX",
+        "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+        "wins": 2,
+        "losses": 4,
+        "winrate": "33%",
+        "gameWins": 6,
+        "gameLosses": 9
       }
     ],
     "playoffs": [
@@ -603,14 +691,14 @@
         "gameLosses": 4
       },
       {
-        "rank": 4,
+        "rank": 3,
         "team": "Cloud9 Kia",
         "teamCode": "C9",
         "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
-        "winrate": "67%",
-        "gameWins": 4,
+        "winrate": "75%",
+        "gameWins": 6,
         "gameLosses": 4
       },
       {
@@ -625,15 +713,15 @@
         "gameLosses": 5
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": "FlyQuest",
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
         "wins": 1,
-        "losses": 2,
-        "winrate": "33%",
+        "losses": 3,
+        "winrate": "25%",
         "gameWins": 2,
-        "gameLosses": 4
+        "gameLosses": 6
       },
       {
         "rank": 7,

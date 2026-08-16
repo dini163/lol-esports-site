@@ -16,11 +16,11 @@
   },
   {
     "rank": 2,
-    "teamId": "hanwha-life-esports",
-    "name": "Hanwha Life Esports",
+    "teamId": "hle-challengers",
+    "name": "HLE Challengers",
     "code": "HLE",
     "region": "LCK",
-    "image": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+    "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png",
     "record": "24-11",
     "winrate": "69%",
     "rating": 1529.0,
@@ -511,8 +511,8 @@
   },
   {
     "rank": 35,
-    "teamId": "nongshim-redforce",
-    "name": "NONGSHIM RED FORCE",
+    "teamId": "ns-challengers",
+    "name": "NS Challengers",
     "code": "NS",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
@@ -522,12 +522,12 @@
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "8th in LCK",
-    "reason": "NONGSHIM RED FORCE occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1197 and a 10-21 (32%) match record."
+    "reason": "NS Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1197 and a 10-21 (32%) match record."
   },
   {
     "rank": 36,
-    "teamId": "fredit-brion",
-    "name": "HANJIN BRION",
+    "teamId": "bro-challengers",
+    "name": "BRO Challengers",
     "code": "BRO",
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -537,7 +537,7 @@
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "9th in LCK",
-    "reason": "HANJIN BRION occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1186 and a 8-22 (27%) match record."
+    "reason": "BRO Challengers occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1186 and a 8-22 (27%) match record."
   },
   {
     "rank": 36,

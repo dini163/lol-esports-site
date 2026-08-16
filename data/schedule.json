@@ -102,7 +102,7 @@
       "name": "BRO Challengers",
       "code": "BRO",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+      "image": "https://static.lolesports.com/teams/1716454310243_Nowyprojekt.png"
     },
     "team_b": {
       "name": "BNK FEARX Youth",
@@ -336,7 +336,7 @@
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+      "image": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
     },
     "start_time": "2026-08-15T08:00:00Z",
     "status": "completed"
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-08-16T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-08-16T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1096,7 +1096,7 @@
       "name": "BRO Challengers",
       "code": "BRO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+      "image": "https://static.lolesports.com/teams/1716454310243_Nowyprojekt.png"
     },
     "start_time": "2026-08-18T10:00:00Z",
     "status": "upcoming"
