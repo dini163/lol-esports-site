@@ -1,24 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "MYTH vs ZNT",
-    "team_a": {
-      "name": "Myth Esports",
-      "code": "MYTH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
-    },
-    "team_b": {
-      "name": "ZennIT",
-      "code": "ZNT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
-    },
-    "start_time": "2026-08-13T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "RXCF vs HLG",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "LOUD",
       "code": "LOUD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
     "start_time": "2026-08-16T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-08-16T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-19T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "BRO vs DNS",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "DN SOOPers",
+      "code": "DNS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-08-19T10:00:00Z",
     "status": "upcoming"
   }
 ]
