@@ -102,7 +102,7 @@
       "name": "BRO Challengers",
       "code": "BRO",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/1716454310243_Nowyprojekt.png"
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "team_b": {
       "name": "BNK FEARX Youth",
@@ -336,7 +336,7 @@
       "name": "Hanwha Life Esports",
       "code": "HLE",
       "score": 2,
-      "image": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-15T08:00:00Z",
     "status": "completed"
@@ -895,18 +895,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "BROD vs DMG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Brod & Friends",
+      "code": "BROD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DMG Esports",
+      "code": "DMG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-17T16:00:00Z",
     "status": "upcoming"
@@ -914,18 +914,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "BDG vs LEO",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bulldog Esports",
+      "code": "BDG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Lund Esports Organization",
+      "code": "LEO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
     },
     "start_time": "2026-08-17T17:00:00Z",
     "status": "upcoming"
@@ -952,18 +952,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "LLS vs VES",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "VES",
+      "code": "VES",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
     },
     "start_time": "2026-08-17T18:00:00Z",
     "status": "upcoming"
@@ -1096,7 +1096,7 @@
       "name": "BRO Challengers",
       "code": "BRO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1716454310243_Nowyprojekt.png"
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-18T10:00:00Z",
     "status": "upcoming"
