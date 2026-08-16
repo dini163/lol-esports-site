@@ -684,14 +684,14 @@
         "team": "Shopify Rebellion",
         "teamCode": "SR",
         "teamImage": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
-        "winrate": "67%",
-        "gameWins": 4,
-        "gameLosses": 3
+        "winrate": "75%",
+        "gameWins": 6,
+        "gameLosses": 4
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": "Cloud9 Kia",
         "teamCode": "C9",
         "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
@@ -725,17 +725,6 @@
       },
       {
         "rank": 7,
-        "team": "Dignitas",
-        "teamCode": "DIG",
-        "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
-        "wins": 0,
-        "losses": 3,
-        "winrate": "0%",
-        "gameWins": 2,
-        "gameLosses": 6
-      },
-      {
-        "rank": 8,
         "team": "Disguised",
         "teamCode": "DSG",
         "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
@@ -743,6 +732,17 @@
         "losses": 4,
         "winrate": "0%",
         "gameWins": 1,
+        "gameLosses": 8
+      },
+      {
+        "rank": 7,
+        "team": "Dignitas",
+        "teamCode": "DIG",
+        "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
+        "wins": 0,
+        "losses": 4,
+        "winrate": "0%",
+        "gameWins": 3,
         "gameLosses": 8
       }
     ],

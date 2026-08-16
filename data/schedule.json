@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Shopify Rebellion",
       "code": "SR",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
     },
     "start_time": "2026-08-15T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
