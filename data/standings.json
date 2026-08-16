@@ -105,11 +105,11 @@
         "team": "Invictus Gaming",
         "teamCode": "IG",
         "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-        "wins": 3,
+        "wins": 4,
         "losses": 1,
-        "winrate": "75%",
-        "gameWins": 7,
-        "gameLosses": 3
+        "winrate": "80%",
+        "gameWins": 9,
+        "gameLosses": 4
       },
       {
         "rank": 3,
@@ -117,10 +117,10 @@
         "teamCode": "WBG",
         "teamImage": "https://static.lolesports.com/teams/1641202879910_3.png",
         "wins": 1,
-        "losses": 3,
-        "winrate": "25%",
-        "gameWins": 4,
-        "gameLosses": 6
+        "losses": 4,
+        "winrate": "20%",
+        "gameWins": 5,
+        "gameLosses": 8
       },
       {
         "rank": 4,
