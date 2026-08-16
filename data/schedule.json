@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "EXE vs MVE",
-    "team_a": {
-      "name": "EXILE Esports",
-      "code": "EXE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
-    },
-    "team_b": {
-      "name": "UP2U Meavedron",
-      "code": "MVE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
-    },
-    "start_time": "2026-08-13T16:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "BAN vs OUAT",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -762,21 +743,21 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "CFO vs TSW",
+    "match": "TSW vs CFO",
     "team_a": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
+    "team_b": {
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    },
     "start_time": "2026-08-16T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-19T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "HLE vs BFX",
+    "team_a": {
+      "name": "HLE Challengers",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "start_time": "2026-08-19T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "LNG vs WBG",
+    "team_a": {
+      "name": "Suzhou LNG Esports",
+      "code": "LNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
+    },
+    "team_b": {
+      "name": "WeiboGaming",
+      "code": "WBG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641202879910_3.png"
+    },
+    "start_time": "2026-08-19T07:00:00Z",
     "status": "upcoming"
   }
 ]
