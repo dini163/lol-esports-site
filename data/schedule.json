@@ -1,43 +1,5 @@
 [
   {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "RXCF vs HLG",
-    "team_a": {
-      "name": "Croatian Flair",
-      "code": "RXCF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776207835031_CFW1.png"
-    },
-    "team_b": {
-      "name": "Hooligans",
-      "code": "HLG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
-    },
-    "start_time": "2026-08-13T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "VITB vs SLY",
-    "team_a": {
-      "name": "Vitality.Bee",
-      "code": "VITB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
-    },
-    "team_b": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "start_time": "2026-08-13T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "RSW vs ZZG",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Fnatic",
       "code": "FNC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-08-16T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "paiN Gaming",
       "code": "PAIN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "team_b": {
