@@ -1,24 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "BAN vs OUAT",
-    "team_a": {
-      "name": "The Bandits",
-      "code": "BAN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
-    },
-    "team_b": {
-      "name": "Once Upon a Team",
-      "code": "OUAT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
-    },
-    "start_time": "2026-08-13T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "BGT vs DP",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "start_time": "2026-08-19T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "AL vs TES",
+    "team_a": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "start_time": "2026-08-19T08:00:00Z",
     "status": "upcoming"
   }
 ]
