@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "HRTS vs MKF",
-    "team_a": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "start_time": "2026-08-13T17:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "OTS vs NGE",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-16T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "HANJIN BRION",
       "code": "BRO",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-16T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",

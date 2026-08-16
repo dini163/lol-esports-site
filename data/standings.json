@@ -360,26 +360,26 @@
         "gameLosses": 7
       },
       {
-        "rank": 4,
+        "rank": 2,
         "team": "HANJIN BRION",
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 3,
-        "winrate": "40%",
-        "gameWins": 6,
-        "gameLosses": 7
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 8
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
         "wins": 2,
-        "losses": 3,
-        "winrate": "40%",
-        "gameWins": 5,
-        "gameLosses": 7
+        "losses": 4,
+        "winrate": "33%",
+        "gameWins": 6,
+        "gameLosses": 9
       }
     ],
     "playoffs": [
