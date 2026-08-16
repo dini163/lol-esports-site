@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "GX vs FLK",
-    "team_a": {
-      "name": "GIANTX ITERO",
-      "code": "GX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "team_b": {
-      "name": "FALKE ESPORTS",
-      "code": "FLK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563552660_falke_w.png"
-    },
-    "start_time": "2026-08-13T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "KCB vs SC",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-16T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -814,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-08-16T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -871,7 +852,7 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-16T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1515,6 +1496,25 @@
       "code": "KITS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
+    },
+    "start_time": "2026-08-18T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "KBM vs VKS",
+    "team_a": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-08-18T23:00:00Z",
     "status": "upcoming"
