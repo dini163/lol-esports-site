@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-08-16T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-19T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "UP2U vs DV1",
+    "team_a": {
+      "name": "Up2umedia Cebulaki",
+      "code": "UP2U",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
+    },
+    "team_b": {
+      "name": "DV1 inStreamly",
+      "code": "DV1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
+    },
+    "start_time": "2026-08-19T15:00:00Z",
     "status": "upcoming"
   }
 ]
