@@ -734,7 +734,7 @@
     "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-16T09:00:00Z",
@@ -743,18 +743,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "DRX vs BRO",
+    "match": "BRO vs DRX",
     "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
       "name": "HANJIN BRION",
       "code": "BRO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "KIWOOM DRX",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-16T10:00:00Z",
     "status": "live"
