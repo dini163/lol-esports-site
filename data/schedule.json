@@ -1,43 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "SK vs SHFT",
-    "team_a": {
-      "name": "SK Gaming",
-      "code": "SK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
-    },
-    "team_b": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "start_time": "2026-08-14T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "GX vs VIT",
-    "team_a": {
-      "name": "GIANTX",
-      "code": "GX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "team_b": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "start_time": "2026-08-14T17:15:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CNV vs BLUE",
@@ -762,21 +724,21 @@
   {
     "league": "LRN",
     "league_code": "lrn",
-    "match": "LYON vs 3V",
+    "match": "3V vs LYON",
     "team_a": {
-      "name": "Lyon Academy",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
       "name": "3V TEAM",
       "code": "3V",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
     },
+    "team_b": {
+      "name": "Lyon Academy",
+      "code": "LYON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
     "start_time": "2026-08-17T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -785,7 +747,7 @@
     "team_a": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "team_b": {
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "HLG vs LLH",
+    "team_a": {
+      "name": "Hooligans",
+      "code": "HLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "Lenovo Legion Honv\u00e9d",
+      "code": "LLH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
+    },
+    "start_time": "2026-08-19T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "GNG vs DS",
+    "team_a": {
+      "name": "GNG Amazigh",
+      "code": "GNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "team_b": {
+      "name": "Disruptors",
+      "code": "DS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
+    },
+    "start_time": "2026-08-19T18:30:00Z",
     "status": "upcoming"
   }
 ]
