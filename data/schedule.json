@@ -709,7 +709,7 @@
     "team_a": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1785098422022_spg.png"
     },
     "start_time": "2026-08-17T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "KeSPA Cup",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "start_time": "2026-08-17T12:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1465,18 +1465,18 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "TBD vs TBD",
+    "match": "BIG vs USE",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Berlin International Gaming",
+      "code": "BIG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
     "status": "upcoming"
