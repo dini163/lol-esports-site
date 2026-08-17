@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "NRG vs CONT",
-    "team_a": {
-      "name": "NRG",
-      "code": "NRG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
-    },
-    "team_b": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "start_time": "2026-08-14T03:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "BRO vs BFX",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "kt Challengers",
       "code": "KT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-17T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "team_b": {
@@ -762,21 +743,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DRX vs HLE",
+    "match": "HLE vs DRX",
     "team_a": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
       "name": "HLE Challengers",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
+    "team_b": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
     "start_time": "2026-08-17T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -1515,6 +1496,25 @@
       "code": "VITB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704733356167_VITA.png"
+    },
+    "start_time": "2026-08-19T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "BAM vs P4",
+    "team_a": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
+    },
+    "team_b": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
     "status": "upcoming"
