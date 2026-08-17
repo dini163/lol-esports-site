@@ -753,7 +753,7 @@
     "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-17T10:00:00Z",
@@ -762,18 +762,18 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "EWH vs RNF",
+    "match": "RNF vs EWH",
     "team_a": {
-      "name": "Embrace Whatever Happens",
-      "code": "EWH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
-    },
-    "team_b": {
       "name": "Reignfall",
       "code": "RNF",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
+    },
+    "team_b": {
+      "name": "Embrace Whatever Happens",
+      "code": "EWH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
     },
     "start_time": "2026-08-17T12:00:00Z",
     "status": "live"
