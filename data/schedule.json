@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Reignfall",
       "code": "RNF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
     },
     "start_time": "2026-08-17T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
