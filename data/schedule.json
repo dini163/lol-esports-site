@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-17T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -1496,6 +1496,25 @@
       "code": "P11",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
+    },
+    "start_time": "2026-08-19T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "MGZ vs RP",
+    "team_a": {
+      "name": "MAGAZA",
+      "code": "MGZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "REDPack Esports",
+      "code": "RP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786972398642_RedPackW.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
     "status": "upcoming"
