@@ -734,7 +734,7 @@
     "team_b": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-08-17T15:00:00Z",
@@ -743,18 +743,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "BROD vs DMG",
+    "match": "DMG vs BROD",
     "team_a": {
-      "name": "Brod & Friends",
-      "code": "BROD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
-    },
-    "team_b": {
       "name": "DMG Esports",
       "code": "DMG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
+    },
+    "team_b": {
+      "name": "Brod & Friends",
+      "code": "BROD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
     },
     "start_time": "2026-08-17T16:00:00Z",
     "status": "live"
