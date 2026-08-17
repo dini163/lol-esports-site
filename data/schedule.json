@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "EDG vs LGD",
-    "team_a": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "start_time": "2026-08-14T07:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "DK vs T1",
@@ -709,13 +690,13 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
       "name": "DN SOOPers",
       "code": "DNS",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-17T09:00:00Z",
@@ -952,12 +933,12 @@
   {
     "league": "KeSPA Cup",
     "league_code": "kes",
-    "match": "TBD vs NS",
+    "match": "DNS vs NS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DN SOOPers",
+      "code": "DNS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
       "name": "NONGSHIM RED FORCE",
