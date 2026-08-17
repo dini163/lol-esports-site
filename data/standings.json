@@ -670,17 +670,6 @@
       },
       {
         "rank": 2,
-        "team": "LYON",
-        "teamCode": "LYON",
-        "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
-        "wins": 3,
-        "losses": 0,
-        "winrate": "100%",
-        "gameWins": 7,
-        "gameLosses": 2
-      },
-      {
-        "rank": 3,
         "team": "Shopify Rebellion",
         "teamCode": "SR",
         "teamImage": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
@@ -691,7 +680,7 @@
         "gameLosses": 4
       },
       {
-        "rank": 3,
+        "rank": 2,
         "team": "Cloud9 Kia",
         "teamCode": "C9",
         "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
@@ -702,13 +691,24 @@
         "gameLosses": 4
       },
       {
+        "rank": 2,
+        "team": "LYON",
+        "teamCode": "LYON",
+        "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+        "wins": 3,
+        "losses": 1,
+        "winrate": "75%",
+        "gameWins": 7,
+        "gameLosses": 2
+      },
+      {
         "rank": 5,
         "team": "Sentinels",
         "teamCode": "SEN",
         "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
-        "winrate": "33%",
+        "winrate": "50%",
         "gameWins": 5,
         "gameLosses": 6
       },
