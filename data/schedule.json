@@ -2,25 +2,6 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "WU vs MU",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-08-13T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
     "match": "OME vs DOG",
     "team_a": {
       "name": "Ole Miss Esports",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Sentinels",
       "code": "SEN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-08-16T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",

@@ -676,8 +676,8 @@
         "wins": 3,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 6,
-        "gameLosses": 0
+        "gameWins": 7,
+        "gameLosses": 2
       },
       {
         "rank": 3,
@@ -709,8 +709,8 @@
         "wins": 1,
         "losses": 2,
         "winrate": "33%",
-        "gameWins": 3,
-        "gameLosses": 5
+        "gameWins": 5,
+        "gameLosses": 6
       },
       {
         "rank": 6,
