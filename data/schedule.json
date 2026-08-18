@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "DFM vs GZ",
-    "team_a": {
-      "name": "DetonatioN FocusMe",
-      "code": "DFM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
-    },
-    "team_b": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "start_time": "2026-08-15T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "BFX vs DNS",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
