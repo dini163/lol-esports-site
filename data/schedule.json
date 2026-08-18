@@ -662,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -671,7 +671,7 @@
     "team_a": {
       "name": "Bushido Wildcats",
       "code": "BW",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
     },
     "team_b": {
@@ -681,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -690,7 +690,7 @@
     "team_a": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "team_b": {
@@ -700,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-08-18T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -709,7 +709,7 @@
     "team_a": {
       "name": "UP2U Meavedron",
       "code": "MVE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "start_time": "2026-08-18T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -781,21 +781,21 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "GL vs KCB",
+    "match": "KCB vs GL",
     "team_a": {
-      "name": "Galions",
-      "code": "GL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-    },
-    "team_b": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
+    "team_b": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
     "start_time": "2026-08-18T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
