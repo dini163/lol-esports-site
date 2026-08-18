@@ -1,43 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "AL vs TT",
-    "team_a": {
-      "name": "Anyone's Legend",
-      "code": "AL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641199582689_.png"
-    },
-    "team_b": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "start_time": "2026-08-15T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "DFM vs GZ",
-    "team_a": {
-      "name": "DetonatioN FocusMe",
-      "code": "DFM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
-    },
-    "team_b": {
-      "name": "Ground Zero Gaming",
-      "code": "GZ",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
-    },
-    "start_time": "2026-08-15T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "BFX vs DNS",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "BRO Challengers",
       "code": "BRO",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
     },
     "start_time": "2026-08-18T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -895,25 +857,6 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "OUAT vs DYN",
-    "team_a": {
-      "name": "Once Upon a Team",
-      "code": "OUAT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
-    },
-    "team_b": {
-      "name": "Dynasty",
-      "code": "DYN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
-    },
-    "start_time": "2026-08-18T17:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "Road of Legends",
-    "league_code": "roa",
     "match": "MCON vs MYTH",
     "team_a": {
       "name": "mCon Esports",
@@ -926,6 +869,25 @@
       "code": "MYTH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
+    },
+    "start_time": "2026-08-18T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "OUAT vs DYN",
+    "team_a": {
+      "name": "Once Upon a Team",
+      "code": "OUAT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
+    },
+    "team_b": {
+      "name": "Dynasty",
+      "code": "DYN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-18T18:00:00Z",
     "status": "upcoming"
