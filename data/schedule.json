@@ -2,25 +2,6 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CNV vs BLUE",
-    "team_a": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "team_b": {
-      "name": "Blue Otter",
-      "code": "BLUE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1686625849125_BlueOtter.png"
-    },
-    "start_time": "2026-08-14T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
     "match": "CCG vs CONT",
     "team_a": {
       "name": "CCG Esports",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-18T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-08-19T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SC vs JL",
+    "team_a": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "team_b": {
+      "name": "Joblife",
+      "code": "JL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
+    },
+    "start_time": "2026-08-19T19:00:00Z",
     "status": "upcoming"
   }
 ]
