@@ -1,43 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "G2 vs SHFT",
-    "team_a": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "start_time": "2026-08-15T17:15:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "LOS vs VKS",
-    "team_a": {
-      "name": "LOS",
-      "code": "LOS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
-    },
-    "team_b": {
-      "name": "Vivo Keyd Stars",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
-    },
-    "start_time": "2026-08-15T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCS",
     "league_code": "lcs",
     "match": "TL vs DSG",
@@ -671,7 +633,7 @@
     "team_a": {
       "name": "Forsaken",
       "code": "FSK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "team_b": {
@@ -681,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -690,7 +652,7 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "Bushido Wildcats",
       "code": "BW",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
     },
     "team_b": {
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "team_b": {
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "UP2U Meavedron",
       "code": "MVE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
     },
     "start_time": "2026-08-18T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "start_time": "2026-08-18T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-08-20T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-20T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-20T14:00:00Z",
     "status": "upcoming"
   }
 ]
