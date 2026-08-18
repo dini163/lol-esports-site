@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "SR vs DIG",
-    "team_a": {
-      "name": "Shopify Rebellion",
-      "code": "SR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-    },
-    "team_b": {
-      "name": "Dignitas",
-      "code": "DIG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
-    },
-    "start_time": "2026-08-15T23:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "T1A vs DNS",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Myth Esports",
       "code": "MYTH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "start_time": "2026-08-18T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Dynasty",
       "code": "DYN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
     },
     "start_time": "2026-08-18T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "start_time": "2026-08-20T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "UP2U vs BOOM",
+    "team_a": {
+      "name": "Up2umedia Cebulaki",
+      "code": "UP2U",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
+    },
+    "team_b": {
+      "name": "BOMBA Team",
+      "code": "BOOM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "start_time": "2026-08-20T15:00:00Z",
     "status": "upcoming"
   }
 ]
