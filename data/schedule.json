@@ -2,25 +2,6 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TL vs DSG",
-    "team_a": {
-      "name": "Team Liquid Alienware",
-      "code": "TL",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-    },
-    "team_b": {
-      "name": "Disguised",
-      "code": "DSG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-    },
-    "start_time": "2026-08-15T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
     "match": "SR vs DIG",
     "team_a": {
       "name": "Shopify Rebellion",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Myth Esports",
       "code": "MYTH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
     "team_b": {
@@ -762,18 +743,18 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "OUAT vs DYN",
+    "match": "DYN vs OUAT",
     "team_a": {
-      "name": "Once Upon a Team",
-      "code": "OUAT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
-    },
-    "team_b": {
       "name": "Dynasty",
       "code": "DYN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
+    },
+    "team_b": {
+      "name": "Once Upon a Team",
+      "code": "OUAT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704706849093_Once_Upon_A_Teamlogo_square.webp"
     },
     "start_time": "2026-08-18T18:00:00Z",
     "status": "upcoming"
@@ -791,7 +772,7 @@
     "team_b": {
       "name": "Galions",
       "code": "GL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "start_time": "2026-08-18T19:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "TBD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-20T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "NBS vs EXE",
+    "team_a": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "team_b": {
+      "name": "EXILE Esports",
+      "code": "EXE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "start_time": "2026-08-20T14:00:00Z",
     "status": "upcoming"
