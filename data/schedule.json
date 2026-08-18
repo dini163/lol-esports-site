@@ -1,24 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "RED vs FUR",
-    "team_a": {
-      "name": "RED Kalunga",
-      "code": "RED",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "start_time": "2026-08-15T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "G2 vs SHFT",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
@@ -743,18 +724,18 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "SLY vs TLNP",
+    "match": "TLNP vs SLY",
     "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
+    },
+    "team_b": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
     },
     "start_time": "2026-08-18T16:00:00Z",
     "status": "live"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-20T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "LGD vs BLG",
+    "team_a": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "start_time": "2026-08-20T11:00:00Z",
     "status": "upcoming"
   }
 ]
