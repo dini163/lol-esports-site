@@ -2,44 +2,6 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "JDG vs LGD",
-    "team_a": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "team_b": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "start_time": "2026-08-16T07:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "GEN vs T1",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-08-16T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
     "match": "WBG vs IG",
     "team_a": {
       "name": "WeiboGaming",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1781849092985_KITSLOGONEGRO.png"
     },
     "start_time": "2026-08-18T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "G2N vs EINS",
+    "team_a": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
+    "team_b": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "start_time": "2026-08-20T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LES",
+    "league_code": "les",
+    "match": "TBD vs MKF",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
+    },
+    "start_time": "2026-08-20T16:00:00Z",
     "status": "upcoming"
   }
 ]
