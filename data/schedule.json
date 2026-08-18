@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "DFM vs GZ",
+    "team_a": {
+      "name": "DetonatioN FocusMe",
+      "code": "DFM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673415140442_dfm.png"
+    },
+    "team_b": {
+      "name": "Ground Zero Gaming",
+      "code": "GZ",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
+    },
+    "start_time": "2026-08-15T09:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LCK",
     "league_code": "lck",
     "match": "BFX vs DNS",
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "start_time": "2026-08-18T14:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -795,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
     },
     "start_time": "2026-08-18T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -1477,6 +1496,25 @@
       "code": "DNS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "start_time": "2026-08-20T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "BRO vs DRX",
+    "team_a": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-20T05:00:00Z",
     "status": "upcoming"
