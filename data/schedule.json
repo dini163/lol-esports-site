@@ -1,5 +1,43 @@
 [
   {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "KC vs GX",
+    "team_a": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "team_b": {
+      "name": "GIANTX",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "start_time": "2026-08-17T17:15:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "VES vs LLS",
+    "team_a": {
+      "name": "VES",
+      "code": "VES",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
+    },
+    "team_b": {
+      "name": "Lundqvist Lightside",
+      "code": "LLS",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
+    },
+    "start_time": "2026-08-17T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "RMD vs EST",
@@ -582,7 +620,7 @@
     "team_b": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -601,7 +639,7 @@
     "team_b": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -624,23 +662,23 @@
       "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "BAM vs P4",
+    "match": "P4 vs BAM",
     "team_a": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "team_b": {
       "name": "Pyramid IV Esports",
       "code": "P4",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
     "status": "live"
@@ -648,40 +686,40 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "VER vs BDG",
+    "match": "BDG vs VER",
     "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
       "name": "Bulldog Esports",
       "code": "BDG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
+    "team_b": {
+      "name": "Verdant",
+      "code": "VER",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "TTS vs P11",
+    "match": "P11 vs TTS",
     "team_a": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "team_b": {
       "name": "P11 Esports",
       "code": "P11",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
     },
+    "team_b": {
+      "name": "TITANS",
+      "code": "TTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
+    },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports Balkan League",
@@ -1458,6 +1496,25 @@
       "code": "WE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "start_time": "2026-08-21T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "TSW vs GAM",
+    "team_a": {
+      "name": "Team Secret Whales",
+      "code": "TSW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    },
+    "team_b": {
+      "name": "GAM Esports",
+      "code": "GAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
     "status": "upcoming"
