@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BRO vs DRX",
-    "team_a": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "start_time": "2026-08-16T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "EDG vs TES",
-    "team_a": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-08-16T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LEC",
     "league_code": "lec",
     "match": "NAVI vs MKOI",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-19T05:00:00Z",
@@ -762,18 +724,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "LNG vs WBG",
+    "match": "WBG vs LNG",
     "team_a": {
-      "name": "Suzhou LNG Esports",
-      "code": "LNG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
-    },
-    "team_b": {
       "name": "WeiboGaming",
       "code": "WBG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
+    },
+    "team_b": {
+      "name": "Suzhou LNG Esports",
+      "code": "LNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png"
     },
     "start_time": "2026-08-19T07:00:00Z",
     "status": "completed"
@@ -1515,6 +1477,25 @@
       "code": "GMB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
+    "start_time": "2026-08-20T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "TSC vs DNWU",
+    "team_a": {
+      "name": "The Secret Club",
+      "code": "TSC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "Definitely Not Washed Up",
+      "code": "DNWU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1786972606651_images.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
     "status": "upcoming"
