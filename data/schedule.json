@@ -1,43 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "NERD vs PAIN",
-    "team_a": {
-      "name": "Ei Nerd Esports",
-      "code": "NERD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-08-17T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "NS vs DNS",
-    "team_a": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-08-18T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "PCS",
     "league_code": "pcs",
     "match": "FAK vs CFOA",
@@ -538,7 +500,7 @@
     "team_a": {
       "name": "Dark Passage",
       "code": "DP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
     },
     "team_b": {
@@ -639,11 +601,11 @@
     "team_b": {
       "name": "TITANS",
       "code": "TTS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -658,11 +620,11 @@
     "team_b": {
       "name": "MAGAZA",
       "code": "MGZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -671,7 +633,7 @@
     "team_a": {
       "name": "EXILE Esports",
       "code": "EXE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "team_b": {
@@ -681,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "start_time": "2026-08-19T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -715,7 +677,7 @@
     "team_b": {
       "name": "Francesinhas",
       "code": "FCN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "Arctic Pandas",
       "code": "AP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
@@ -743,21 +705,21 @@
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "HLG vs LLH",
+    "match": "LLH vs HLG",
     "team_a": {
-      "name": "Hooligans",
-      "code": "HLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
-    },
-    "team_b": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
+    "team_b": {
+      "name": "Hooligans",
+      "code": "HLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
+    },
     "start_time": "2026-08-19T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "GNG Amazigh",
       "code": "GNG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
     },
     "team_b": {
@@ -785,7 +747,7 @@
     "team_a": {
       "name": "Skillcamp",
       "code": "SC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "team_b": {
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
     "start_time": "2026-08-21T17:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "CONT vs NRG",
+    "team_a": {
+      "name": "Contingent Esports",
+      "code": "CONT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
+    },
+    "team_b": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
+    },
+    "start_time": "2026-08-21T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "WU vs OME",
+    "team_a": {
+      "name": "Winthrop University",
+      "code": "WU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
+    },
+    "team_b": {
+      "name": "Ole Miss Esports",
+      "code": "OME",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
+    },
+    "start_time": "2026-08-22T00:00:00Z",
     "status": "upcoming"
   }
 ]
