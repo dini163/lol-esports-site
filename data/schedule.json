@@ -1,24 +1,5 @@
 [
   {
-    "league": "PCS",
-    "league_code": "pcs",
-    "match": "FAK vs CFOA",
-    "team_a": {
-      "name": "Frank Esports",
-      "code": "FAK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
-    },
-    "team_b": {
-      "name": "CTBC Flying Oyster Academy",
-      "code": "CFOA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
-    },
-    "start_time": "2026-08-18T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "KeSPA Cup",
     "league_code": "kes",
     "match": "DNS vs NS",
@@ -506,11 +487,11 @@
     "team_b": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -519,7 +500,7 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
@@ -658,11 +639,11 @@
     "team_b": {
       "name": "DOCISK",
       "code": "DOC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-19T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -696,11 +677,11 @@
     "team_b": {
       "name": "Arctic Pandas",
       "code": "AP",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "team_b": {
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Skillcamp",
       "code": "SC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
     },
     "start_time": "2026-08-19T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
