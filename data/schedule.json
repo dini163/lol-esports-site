@@ -567,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -624,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -662,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -677,7 +677,7 @@
     "team_b": {
       "name": "TITANS",
       "code": "TTS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -690,7 +690,7 @@
     "team_a": {
       "name": "REDPack Esports",
       "code": "RP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1786972398642_RedPackW.png"
     },
     "team_b": {
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports Balkan League",
@@ -833,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
     },
     "start_time": "2026-08-19T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
