@@ -753,7 +753,7 @@
     "team_b": {
       "name": "BRUTE",
       "code": "BRT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-19T14:00:00Z",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LES",
@@ -795,23 +795,23 @@
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "TCL",
     "league_code": "tcl",
-    "match": "SU vs DP",
+    "match": "DP vs SU",
     "team_a": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "team_b": {
       "name": "Dark Passage",
       "code": "DP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
+    },
+    "team_b": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
     "status": "live"
@@ -833,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
