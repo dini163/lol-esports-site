@@ -1,5 +1,24 @@
 [
   {
+    "league": "PCS",
+    "league_code": "pcs",
+    "match": "FAK vs CFOA",
+    "team_a": {
+      "name": "Frank Esports",
+      "code": "FAK",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
+    },
+    "team_b": {
+      "name": "CTBC Flying Oyster Academy",
+      "code": "CFOA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
+    },
+    "start_time": "2026-08-18T09:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "KeSPA Cup",
     "league_code": "kes",
     "match": "DNS vs NS",
@@ -658,7 +677,7 @@
     "team_b": {
       "name": "Francesinhas",
       "code": "FCN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
     },
     "start_time": "2026-08-19T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
