@@ -728,7 +728,7 @@
     "team_a": {
       "name": "kt Challengers",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "start_time": "2026-08-19T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
     },
     "start_time": "2026-08-19T08:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -833,7 +833,7 @@
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-19T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
