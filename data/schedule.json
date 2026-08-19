@@ -1,24 +1,5 @@
 [
   {
-    "league": "KeSPA Cup",
-    "league_code": "kes",
-    "match": "DNS vs NS",
-    "team_a": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-18T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "BRO vs GGA",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Maze Gaming",
       "code": "MAZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "team_b": {
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "Tung Tung Bogi",
       "code": "TTB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
     },
     "start_time": "2026-08-19T21:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-08-22T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "DK vs GEN",
+    "team_a": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "Gen.G Esports",
+      "code": "GEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    },
+    "start_time": "2026-08-22T08:00:00Z",
     "status": "upcoming"
   }
 ]
