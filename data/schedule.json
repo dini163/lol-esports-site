@@ -1,24 +1,5 @@
 [
   {
-    "league": "PCS",
-    "league_code": "pcs",
-    "match": "FAK vs CFOA",
-    "team_a": {
-      "name": "Frank Esports",
-      "code": "FAK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
-    },
-    "team_b": {
-      "name": "CTBC Flying Oyster Academy",
-      "code": "CFOA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
-    },
-    "start_time": "2026-08-18T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "KeSPA Cup",
     "league_code": "kes",
     "match": "DNS vs NS",
@@ -519,7 +500,7 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
@@ -681,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "GNG Amazigh",
       "code": "GNG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-08-19T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
     },
     "start_time": "2026-08-19T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1066,12 +1047,12 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs P4",
+    "match": "DS vs P4",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Disruptors",
+      "code": "DS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "team_b": {
       "name": "Pyramid IV Esports",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "start_time": "2026-08-22T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "LGD vs WE",
+    "team_a": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "team_b": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "start_time": "2026-08-22T07:00:00Z",
     "status": "upcoming"
   }
 ]
