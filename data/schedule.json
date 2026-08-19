@@ -1,24 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "NAVI vs MKOI",
-    "team_a": {
-      "name": "Natus Vincere",
-      "code": "NAVI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "start_time": "2026-08-16T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "LEV vs LOUD",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "WeiboGaming",
       "code": "WBG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-19T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -952,18 +933,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "VER vs BDG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Verdant",
+      "code": "VER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bulldog Esports",
+      "code": "BDG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
     "status": "upcoming"
@@ -1066,18 +1047,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "B2U vs AP",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bardicted to U",
+      "code": "B2U",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Arctic Pandas",
+      "code": "AP",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-08-19T18:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1786972606651_images.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "CKZ vs BG",
+    "team_a": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "team_b": {
+      "name": "Bohemian Guardians",
+      "code": "BG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
+    },
+    "start_time": "2026-08-20T16:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-20T17:00:00Z",
     "status": "upcoming"
   }
 ]
