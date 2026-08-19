@@ -690,7 +690,7 @@
     "team_a": {
       "name": "WeiboGaming",
       "code": "WBG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641202879910_3.png"
     },
     "team_b": {
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-19T08:00:00Z",
@@ -1457,7 +1457,7 @@
       "name": "Definitely Not Washed Up",
       "code": "DNWU",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1786972606651_images.png"
+      "image": "https://static.lolesports.com/teams/1787133005884_EBL_DNWU-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
     "status": "upcoming"

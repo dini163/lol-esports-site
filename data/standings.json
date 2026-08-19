@@ -116,11 +116,11 @@
         "team": "WeiboGaming",
         "teamCode": "WBG",
         "teamImage": "https://static.lolesports.com/teams/1641202879910_3.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 4,
-        "winrate": "20%",
-        "gameWins": 5,
-        "gameLosses": 8
+        "winrate": "33%",
+        "gameWins": 7,
+        "gameLosses": 9
       },
       {
         "rank": 4,
@@ -128,10 +128,10 @@
         "teamCode": "LNG",
         "teamImage": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
         "wins": 0,
-        "losses": 5,
+        "losses": 6,
         "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 10
+        "gameWins": 2,
+        "gameLosses": 12
       }
     ],
     "playoffs": [
