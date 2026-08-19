@@ -1,24 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "KC vs GX",
-    "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
-      "name": "GIANTX",
-      "code": "GX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "start_time": "2026-08-17T17:15:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "VES vs LLS",
@@ -563,11 +544,11 @@
     "team_b": {
       "name": "BRUTE",
       "code": "BRT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-19T14:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -576,7 +557,7 @@
     "team_a": {
       "name": "DV1 inStreamly",
       "code": "DV1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
     "team_b": {
@@ -586,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -601,7 +582,7 @@
     "team_b": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -658,7 +639,7 @@
     "team_b": {
       "name": "Ici Japon Corp",
       "code": "IJC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -677,7 +658,7 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -715,7 +696,7 @@
     "team_b": {
       "name": "TITANS",
       "code": "TTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "MAGAZA",
       "code": "MGZ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "start_time": "2026-08-19T16:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
     },
     "start_time": "2026-08-19T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "KT vs T1",
+    "team_a": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "team_b": {
+      "name": "T1",
+      "code": "T1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "start_time": "2026-08-21T10:00:00Z",
     "status": "upcoming"
   }
 ]
