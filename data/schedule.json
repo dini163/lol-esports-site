@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "BRO vs GGA",
+    "team_a": {
+      "name": "BRO Challengers",
+      "code": "BRO",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "start_time": "2026-08-18T10:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "NBS vs CKZ",
