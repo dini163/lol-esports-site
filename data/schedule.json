@@ -2,44 +2,6 @@
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "RMD vs EST",
-    "team_a": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "team_b": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
-    "start_time": "2026-08-17T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LRN",
-    "league_code": "lrn",
-    "match": "3V vs LYON",
-    "team_a": {
-      "name": "3V TEAM",
-      "code": "3V",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1781969964341_3v_w.png"
-    },
-    "team_b": {
-      "name": "Lyon Academy",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "start_time": "2026-08-17T23:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
     "match": "NERD vs PAIN",
     "team_a": {
       "name": "Ei Nerd Esports",
@@ -601,7 +563,7 @@
     "team_b": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -643,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -709,7 +671,7 @@
     "team_a": {
       "name": "EXILE Esports",
       "code": "EXE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "team_b": {
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "DOCISK",
       "code": "DOC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-19T17:00:00Z",
@@ -743,21 +705,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "FCN vs GDE",
+    "match": "GDE vs FCN",
     "team_a": {
-      "name": "Francesinhas",
-      "code": "FCN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
-    },
-    "team_b": {
       "name": "GD Esports",
       "code": "GDE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
     },
+    "team_b": {
+      "name": "Francesinhas",
+      "code": "FCN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
+    },
     "start_time": "2026-08-19T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -814,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "start_time": "2026-08-19T18:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -1498,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-21T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "BLG vs TES",
+    "team_a": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "team_b": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "start_time": "2026-08-21T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TH vs SK",
+    "team_a": {
+      "name": "Team Heretics",
+      "code": "TH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
+    },
+    "team_b": {
+      "name": "SK Gaming",
+      "code": "SK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
+    },
+    "start_time": "2026-08-21T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "NAVI vs VIT",
+    "team_a": {
+      "name": "Natus Vincere",
+      "code": "NAVI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
+    },
+    "team_b": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "start_time": "2026-08-21T17:15:00Z",
     "status": "upcoming"
   }
 ]
