@@ -1,24 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "VES vs LLS",
-    "team_a": {
-      "name": "VES",
-      "code": "VES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
-    },
-    "team_b": {
-      "name": "Lundqvist Lightside",
-      "code": "LLS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
-    },
-    "start_time": "2026-08-17T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "RMD vs EST",
@@ -582,7 +563,7 @@
     "team_b": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -595,7 +576,7 @@
     "team_a": {
       "name": "Dark Passage",
       "code": "DP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
     },
     "team_b": {
@@ -614,7 +595,7 @@
     "team_a": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "team_b": {
@@ -639,7 +620,7 @@
     "team_b": {
       "name": "Ici Japon Corp",
       "code": "IJC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -658,7 +639,7 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -677,7 +658,7 @@
     "team_b": {
       "name": "Verdant",
       "code": "VER",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
@@ -743,18 +724,18 @@
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "DOC vs BCE",
+    "match": "BCE vs DOC",
     "team_a": {
-      "name": "DOCISK",
-      "code": "DOC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
-    },
-    "team_b": {
       "name": "Barcz\u0105ca Esports",
       "code": "BCE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
+    },
+    "team_b": {
+      "name": "DOCISK",
+      "code": "DOC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-19T17:00:00Z",
     "status": "live"
@@ -1028,12 +1009,12 @@
   {
     "league": "LES",
     "league_code": "les",
-    "match": "TBD vs BAR",
+    "match": "UCAM vs BAR",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "team_b": {
       "name": "Bar\u00e7a Esports",
@@ -1142,12 +1123,12 @@
   {
     "league": "LES",
     "league_code": "les",
-    "match": "TBD vs MKF",
+    "match": "HRTS vs MKF",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Heretics Academy",
+      "code": "HRTS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
@@ -1161,7 +1142,7 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs TBD",
+    "match": "TBD vs P4",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1169,10 +1150,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Pyramid IV Esports",
+      "code": "P4",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
     "status": "upcoming"
