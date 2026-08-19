@@ -287,11 +287,11 @@
         "team": "Gen.G Esports",
         "teamCode": "GEN",
         "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
-        "winrate": "67%",
-        "gameWins": 8,
-        "gameLosses": 5
+        "winrate": "71%",
+        "gameWins": 10,
+        "gameLosses": 6
       },
       {
         "rank": 3,
@@ -316,15 +316,15 @@
         "gameLosses": 8
       },
       {
-        "rank": 3,
+        "rank": 5,
         "team": "kt Rolster",
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
         "wins": 2,
-        "losses": 4,
-        "winrate": "33%",
-        "gameWins": 6,
-        "gameLosses": 9
+        "losses": 5,
+        "winrate": "29%",
+        "gameWins": 7,
+        "gameLosses": 11
       },
       {
         "rank": 1,
