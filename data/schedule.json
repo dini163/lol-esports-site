@@ -1,119 +1,5 @@
 [
   {
-    "league": "PCS",
-    "league_code": "pcs",
-    "match": "RNF vs EWH",
-    "team_a": {
-      "name": "Reignfall",
-      "code": "RNF",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
-    },
-    "team_b": {
-      "name": "Embrace Whatever Happens",
-      "code": "EWH",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1785098318980_ewh-Photoroom.png"
-    },
-    "start_time": "2026-08-17T12:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "TH vs NAVI",
-    "team_a": {
-      "name": "Team Heretics",
-      "code": "TH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
-    },
-    "team_b": {
-      "name": "Natus Vincere",
-      "code": "NAVI",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
-    },
-    "start_time": "2026-08-17T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "DMG vs BROD",
-    "team_a": {
-      "name": "DMG Esports",
-      "code": "DMG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
-    },
-    "team_b": {
-      "name": "Brod & Friends",
-      "code": "BROD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784036686907_BrodLogo1.png"
-    },
-    "start_time": "2026-08-17T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "BDG vs LEO",
-    "team_a": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "team_b": {
-      "name": "Lund Esports Organization",
-      "code": "LEO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767707264821_leo.png"
-    },
-    "start_time": "2026-08-17T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "KC vs GX",
-    "team_a": {
-      "name": "Karmine Corp",
-      "code": "KC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
-    },
-    "team_b": {
-      "name": "GIANTX",
-      "code": "GX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "start_time": "2026-08-17T17:15:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "VES vs LLS",
-    "team_a": {
-      "name": "VES",
-      "code": "VES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
-    },
-    "team_b": {
-      "name": "Lundqvist Lightside",
-      "code": "LLS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1736207650239_LLS1.png"
-    },
-    "start_time": "2026-08-17T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Circuito Desafiante",
     "league_code": "cir",
     "match": "RMD vs EST",
@@ -633,7 +519,7 @@
     "team_a": {
       "name": "Onion Team",
       "code": "ONT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770636854068_image.png"
     },
     "team_b": {
@@ -652,7 +538,7 @@
     "team_a": {
       "name": "DV1 inStreamly",
       "code": "DV1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
     "team_b": {
@@ -677,7 +563,7 @@
     "team_b": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -696,7 +582,7 @@
     "team_b": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-19T15:00:00Z",
@@ -757,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -800,21 +686,21 @@
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "MGZ vs RP",
+    "match": "RP vs MGZ",
     "team_a": {
-      "name": "MAGAZA",
-      "code": "MGZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
-    },
-    "team_b": {
       "name": "REDPack Esports",
       "code": "RP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1786972398642_RedPackW.png"
     },
+    "team_b": {
+      "name": "MAGAZA",
+      "code": "MGZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
+    },
     "start_time": "2026-08-19T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -1479,6 +1365,101 @@
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
     },
     "start_time": "2026-08-21T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "NS vs T1A",
+    "team_a": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
+    },
+    "team_b": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "start_time": "2026-08-21T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "BFX vs GGA",
+    "team_a": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "Gen.G Global Academy",
+      "code": "GGA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
+    },
+    "start_time": "2026-08-21T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TT vs EDG",
+    "team_a": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "team_b": {
+      "name": "EDWARD GAMING",
+      "code": "EDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
+    },
+    "start_time": "2026-08-21T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "BRO vs BFX",
+    "team_a": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "start_time": "2026-08-21T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "AL vs WE",
+    "team_a": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
+    },
+    "team_b": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "start_time": "2026-08-21T09:00:00Z",
     "status": "upcoming"
   }
 ]
