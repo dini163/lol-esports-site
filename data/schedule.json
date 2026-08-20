@@ -914,18 +914,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "CE vs BBK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Capybara Esports",
+      "code": "CE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bubliki",
+      "code": "BBK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-08-20T14:00:00Z",
     "status": "upcoming"
@@ -1104,18 +1104,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "NGE vs TTB",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "NORTHERNGRADE ESPORTS",
+      "code": "NGE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Tung Tung Bogi",
+      "code": "TTB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
     "status": "upcoming"
@@ -1199,18 +1199,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "FCN vs ZZG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Francesinhas",
+      "code": "FCN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "ZeroZone Gaming",
+      "code": "ZZG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
     },
     "start_time": "2026-08-20T20:00:00Z",
     "status": "upcoming"
