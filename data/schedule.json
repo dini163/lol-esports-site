@@ -601,7 +601,7 @@
     "team_b": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -620,7 +620,7 @@
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -677,7 +677,7 @@
     "team_b": {
       "name": "Definitely Not Washed Up",
       "code": "DNWU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1787133005884_EBL_DNWU-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -705,18 +705,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "NGE vs TTB",
+    "match": "TTB vs NGE",
     "team_a": {
-      "name": "NORTHERNGRADE ESPORTS",
-      "code": "NGE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
-    },
-    "team_b": {
       "name": "Tung Tung Bogi",
       "code": "TTB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
+    },
+    "team_b": {
+      "name": "NORTHERNGRADE ESPORTS",
+      "code": "NGE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
     "status": "live"
