@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "start_time": "2026-08-20T09:00:00Z",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-20T09:00:00Z",
@@ -743,18 +743,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "NS vs DRX",
+    "match": "DRX vs NS",
     "team_a": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
       "name": "KIWOOM DRX",
       "code": "DRX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-20T10:00:00Z",
     "status": "live"
