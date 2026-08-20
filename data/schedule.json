@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "DP vs SU",
-    "team_a": {
-      "name": "Dark Passage",
-      "code": "DP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
-    },
-    "team_b": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "start_time": "2026-08-19T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "BIG vs USE",
@@ -519,7 +500,7 @@
     "team_a": {
       "name": "Bushido Wildcats",
       "code": "BW",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
     },
     "team_b": {
@@ -529,7 +510,7 @@
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -576,7 +557,7 @@
     "team_a": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "team_b": {
@@ -601,7 +582,7 @@
     "team_b": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -696,7 +677,7 @@
     "team_b": {
       "name": "Barcz\u0105ca Esports",
       "code": "BCE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "ONLY THE FAMILY",
       "code": "OTF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "team_b": {
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-08-23T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-24T05:00:00Z",
     "status": "upcoming"
   }
 ]
