@@ -1,43 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "BOOM vs LDS",
-    "team_a": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "team_b": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "start_time": "2026-08-18T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "MYTH vs MCON",
-    "team_a": {
-      "name": "Myth Esports",
-      "code": "MYTH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
-    },
-    "team_b": {
-      "name": "mCon Esports",
-      "code": "MCON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
-    },
-    "start_time": "2026-08-18T17:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "DYN vs OUAT",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "team_b": {
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-08-20T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "LEV vs VKS",
+    "team_a": {
+      "name": "LEVIAT\u00c1N",
+      "code": "LEV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
+    },
+    "start_time": "2026-08-22T16:00:00Z",
     "status": "upcoming"
   }
 ]
