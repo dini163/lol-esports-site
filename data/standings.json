@@ -46,15 +46,15 @@
         "gameLosses": 14
       },
       {
-        "rank": 5,
+        "rank": 4,
         "team": "Beijing JDG Esports",
         "teamCode": "JDG",
         "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 6,
-        "winrate": "45%",
-        "gameWins": 14,
-        "gameLosses": 15
+        "winrate": "50%",
+        "gameWins": 16,
+        "gameLosses": 16
       },
       {
         "rank": 6,
@@ -73,10 +73,10 @@
         "teamCode": "TT",
         "teamImage": "https://static.lolesports.com/teams/TT-FullonDark.png",
         "wins": 3,
-        "losses": 8,
-        "winrate": "27%",
-        "gameWins": 11,
-        "gameLosses": 18
+        "losses": 9,
+        "winrate": "25%",
+        "gameWins": 12,
+        "gameLosses": 20
       },
       {
         "rank": 8,
