@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "P4 vs BAM",
-    "team_a": {
-      "name": "Pyramid IV Esports",
-      "code": "P4",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "start_time": "2026-08-19T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "BDG vs VER",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Francesinhas",
       "code": "FCN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
     },
     "start_time": "2026-08-20T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
