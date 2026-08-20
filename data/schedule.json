@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-08-20T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "THUNDER TALK GAMING",
       "code": "TT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
     },
     "team_b": {
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-20T09:00:00Z",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-20T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -909,6 +909,25 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "KCB vs IJC",
+    "team_a": {
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "team_b": {
+      "name": "Ici Japon Corp",
+      "code": "IJC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
+    },
+    "start_time": "2026-08-20T16:00:00Z",
     "status": "upcoming"
   },
   {
@@ -1099,6 +1118,25 @@
       "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-08-20T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "SLY vs SC",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "start_time": "2026-08-20T19:00:00Z",
     "status": "upcoming"
   },
   {
@@ -1479,44 +1517,6 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-22T10:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "JDG vs TES",
-    "team_a": {
-      "name": "Beijing JDG Esports",
-      "code": "JDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-08-22T11:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "SHFT vs FNC",
-    "team_a": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "team_b": {
-      "name": "Fnatic",
-      "code": "FNC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
-    },
-    "start_time": "2026-08-22T15:00:00Z",
     "status": "upcoming"
   }
 ]
