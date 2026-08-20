@@ -328,6 +328,17 @@
       },
       {
         "rank": 1,
+        "team": "NONGSHIM RED FORCE",
+        "teamCode": "NS",
+        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
+        "wins": 4,
+        "losses": 3,
+        "winrate": "57%",
+        "gameWins": 10,
+        "gameLosses": 7
+      },
+      {
+        "rank": 1,
         "team": "HANJIN BRION",
         "teamCode": "BRO",
         "teamImage": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -349,7 +360,7 @@
         "gameLosses": 8
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": "BNK FEARX",
         "teamCode": "BFX",
         "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
@@ -360,26 +371,15 @@
         "gameLosses": 7
       },
       {
-        "rank": 3,
-        "team": "NONGSHIM RED FORCE",
-        "teamCode": "NS",
-        "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
-        "wins": 3,
-        "losses": 3,
-        "winrate": "50%",
-        "gameWins": 8,
-        "gameLosses": 7
-      },
-      {
         "rank": 5,
         "team": "KIWOOM DRX",
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
         "wins": 2,
-        "losses": 4,
-        "winrate": "33%",
+        "losses": 5,
+        "winrate": "29%",
         "gameWins": 6,
-        "gameLosses": 9
+        "gameLosses": 11
       }
     ],
     "playoffs": [

@@ -734,11 +734,11 @@
     "team_b": {
       "name": "NONGSHIM RED FORCE",
       "code": "NS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-20T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
