@@ -1,24 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "BIG vs USE",
-    "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "start_time": "2026-08-19T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "VITB vs IJC",
@@ -563,11 +544,11 @@
     "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -662,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -677,11 +658,11 @@
     "team_b": {
       "name": "Barcz\u0105ca Esports",
       "code": "BCE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -700,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-08-20T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "ONLY THE FAMILY",
       "code": "OTF",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1776205305925_SPK_w.png"
     },
     "start_time": "2026-08-20T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
     },
     "start_time": "2026-08-20T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-24T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-24T08:00:00Z",
     "status": "upcoming"
   }
 ]
