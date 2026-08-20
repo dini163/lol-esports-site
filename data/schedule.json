@@ -757,26 +757,26 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-20T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "MU vs DOG",
+    "match": "DOG vs MU",
     "team_a": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "team_b": {
       "name": "Dorado Gaming",
       "code": "DOG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
     },
+    "team_b": {
+      "name": "Maryville University",
+      "code": "MU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
+    },
     "start_time": "2026-08-21T00:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
