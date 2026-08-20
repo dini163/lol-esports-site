@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Bar\u00e7a Esports",
       "code": "BAR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-08-20T13:00:00Z",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Capybara Esports",
       "code": "CE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
     },
     "team_b": {
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "NightBirds",
       "code": "NBS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "start_time": "2026-08-20T14:00:00Z",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "TCL",
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
@@ -814,7 +814,7 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
