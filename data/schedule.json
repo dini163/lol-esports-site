@@ -586,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -652,7 +652,7 @@
     "team_a": {
       "name": "Tung Tung Bogi",
       "code": "TTB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
     },
     "team_b": {
@@ -690,7 +690,7 @@
     "team_a": {
       "name": "The Bandits",
       "code": "BAN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "team_b": {
@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-08-20T18:00:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Skillcamp",
       "code": "SC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "team_b": {
