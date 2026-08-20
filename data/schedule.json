@@ -538,7 +538,7 @@
     "team_a": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
@@ -582,7 +582,7 @@
     "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
@@ -605,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LES",
@@ -639,7 +639,7 @@
     "team_b": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -658,7 +658,7 @@
     "team_b": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -715,7 +715,7 @@
     "team_b": {
       "name": "NORTHERNGRADE ESPORTS",
       "code": "NGE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499952260_cw.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
@@ -800,21 +800,21 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "SLY vs SC",
+    "match": "SC vs SLY",
     "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
       "name": "Skillcamp",
       "code": "SC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
+    "team_b": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
     "start_time": "2026-08-20T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
