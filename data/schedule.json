@@ -1,43 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "MKF vs BAR",
-    "team_a": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "team_b": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "start_time": "2026-08-18T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "BW vs PHX",
-    "team_a": {
-      "name": "Bushido Wildcats",
-      "code": "BW",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
-    },
-    "team_b": {
-      "name": "Team Phoenix",
-      "code": "PHX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
-    },
-    "start_time": "2026-08-18T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "TLNP vs SLY",
@@ -781,18 +743,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "CFO vs MVK",
+    "match": "MVK vs CFO",
     "team_a": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "team_b": {
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-20T09:00:00Z",
     "status": "live"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-22T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "JDG vs TES",
+    "team_a": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "team_b": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "start_time": "2026-08-22T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "SHFT vs FNC",
+    "team_a": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "team_b": {
+      "name": "Fnatic",
+      "code": "FNC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
+    },
+    "start_time": "2026-08-22T15:00:00Z",
     "status": "upcoming"
   }
 ]
