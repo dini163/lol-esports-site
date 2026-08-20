@@ -1,62 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "EDG vs WE",
-    "team_a": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "Xi'an Team WE",
-      "code": "WE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-    },
-    "start_time": "2026-08-19T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DNS vs BRO",
-    "team_a": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-08-19T10:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "ONT vs BRT",
-    "team_a": {
-      "name": "Onion Team",
-      "code": "ONT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
-    },
-    "team_b": {
-      "name": "BRUTE",
-      "code": "BRT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
-    },
-    "start_time": "2026-08-19T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "DV1 vs UP2U",
@@ -563,11 +506,11 @@
     "team_b": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-08-20T14:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -601,7 +544,7 @@
     "team_b": {
       "name": "Up2umedia Cebulaki",
       "code": "UP2U",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
@@ -614,7 +557,7 @@
     "team_a": {
       "name": "Bushido Wildcats",
       "code": "BW",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
     },
     "team_b": {
@@ -639,7 +582,7 @@
     "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
     "start_time": "2026-08-20T15:00:00Z",
@@ -658,7 +601,7 @@
     "team_b": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -671,7 +614,7 @@
     "team_a": {
       "name": "Heretics Academy",
       "code": "HRTS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
     },
     "team_b": {
@@ -690,7 +633,7 @@
     "team_a": {
       "name": "Disruptors",
       "code": "DS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
     },
     "team_b": {
@@ -715,7 +658,7 @@
     "team_b": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-08-20T16:00:00Z",
@@ -728,7 +671,7 @@
     "team_a": {
       "name": "The Secret Club",
       "code": "TSC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "team_b": {
@@ -753,11 +696,11 @@
     "team_b": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "start_time": "2026-08-20T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -776,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -814,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "start_time": "2026-08-20T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-08-23T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "RED vs FX",
+    "team_a": {
+      "name": "RED Kalunga",
+      "code": "RED",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+    },
+    "team_b": {
+      "name": "Fluxo W7M",
+      "code": "FX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
+    },
+    "start_time": "2026-08-23T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "SHFT vs KC",
+    "team_a": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp",
+      "code": "KC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    },
+    "start_time": "2026-08-23T17:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "LOS vs LOUD",
+    "team_a": {
+      "name": "LOS",
+      "code": "LOS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
+    },
+    "team_b": {
+      "name": "LOUD",
+      "code": "LOUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
+    },
+    "start_time": "2026-08-23T19:00:00Z",
     "status": "upcoming"
   }
 ]
