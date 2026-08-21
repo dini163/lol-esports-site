@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "LLH vs HLG",
-    "team_a": {
-      "name": "Lenovo Legion Honv\u00e9d",
-      "code": "LLH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
-    },
-    "team_b": {
-      "name": "Hooligans",
-      "code": "HLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785943823454_EBL_HLG-MonochromeDarkBG.png"
-    },
-    "start_time": "2026-08-19T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Arabian League",
     "league_code": "ara",
     "match": "GNG vs DS",
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "BNK FEARX",
       "code": "BFX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
@@ -700,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-21T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -734,7 +715,7 @@
     "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-21T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
     },
     "start_time": "2026-08-25T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "ONT vs CKZ",
+    "team_a": {
+      "name": "Onion Team",
+      "code": "ONT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
+    },
+    "team_b": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "start_time": "2026-08-25T14:00:00Z",
     "status": "upcoming"
   }
 ]
