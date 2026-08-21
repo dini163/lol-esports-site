@@ -1,43 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "BCE vs DOC",
-    "team_a": {
-      "name": "Barcz\u0105ca Esports",
-      "code": "BCE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
-    },
-    "team_b": {
-      "name": "DOCISK",
-      "code": "DOC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
-    },
-    "start_time": "2026-08-19T17:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "GDE vs FCN",
-    "team_a": {
-      "name": "GD Esports",
-      "code": "GDE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770650387702_GDLOGO.png"
-    },
-    "team_b": {
-      "name": "Francesinhas",
-      "code": "FCN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
-    },
-    "start_time": "2026-08-19T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "B2U vs AP",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "EDWARD GAMING",
       "code": "EDG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-21T07:00:00Z",
@@ -781,18 +743,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TSW vs GAM",
+    "match": "GAM vs TSW",
     "team_a": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "team_b": {
       "name": "GAM Esports",
       "code": "GAM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
+    },
+    "team_b": {
+      "name": "Team Secret Whales",
+      "code": "TSW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
     "status": "live"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-08-24T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "VKS vs INTZ",
+    "team_a": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "team_b": {
+      "name": "INTZ",
+      "code": "INTZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
+    },
+    "start_time": "2026-08-24T23:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-25T08:00:00Z",
     "status": "upcoming"
   }
 ]
