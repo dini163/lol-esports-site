@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-08-21T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
