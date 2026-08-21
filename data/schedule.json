@@ -734,7 +734,7 @@
     "team_b": {
       "name": "EDWARD GAMING",
       "code": "EDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-21T07:00:00Z",
@@ -743,18 +743,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "BRO vs BFX",
+    "match": "BFX vs BRO",
     "team_a": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
       "name": "HANJIN BRION",
       "code": "BRO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "team_b": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-21T08:00:00Z",
     "status": "live"
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
