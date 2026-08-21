@@ -1,24 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "B2U vs AP",
-    "team_a": {
-      "name": "Bardicted to U",
-      "code": "B2U",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
-    },
-    "team_b": {
-      "name": "Arctic Pandas",
-      "code": "AP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
-    },
-    "start_time": "2026-08-19T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "LLH vs HLG",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
@@ -1332,18 +1313,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "DNS vs DRX",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DNS Challengers",
+      "code": "DNS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "KRX Challengers",
+      "code": "DRX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-24T05:00:00Z",
     "status": "upcoming"
@@ -1351,20 +1332,20 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "BFX vs HLE",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "HLE Challengers",
+      "code": "HLE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
-    "start_time": "2026-08-24T08:00:00Z",
+    "start_time": "2026-08-24T08:30:00Z",
     "status": "upcoming"
   },
   {
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-25T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "GSMC vs SPAR",
+    "team_a": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
+    "team_b": {
+      "name": "Spartans EU",
+      "code": "SPAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
+    },
+    "start_time": "2026-08-25T13:00:00Z",
     "status": "upcoming"
   }
 ]
