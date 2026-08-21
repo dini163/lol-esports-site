@@ -1,43 +1,5 @@
 [
   {
-    "league": "LRS",
-    "league_code": "lrs",
-    "match": "MAZ vs DEC",
-    "team_a": {
-      "name": "Maze Gaming",
-      "code": "MAZ",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
-    },
-    "team_b": {
-      "name": "Docta Esports Club",
-      "code": "DEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1781849600840_DOCTA-DOH.png"
-    },
-    "start_time": "2026-08-19T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "WG vs TTB",
-    "team_a": {
-      "name": "Way Gaming Esports",
-      "code": "WG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784500521124_w_c.png"
-    },
-    "team_b": {
-      "name": "Tung Tung Bogi",
-      "code": "TTB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
-    },
-    "start_time": "2026-08-19T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "DK vs DNS",
@@ -1515,6 +1477,25 @@
       "code": "PCF",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
+    },
+    "start_time": "2026-08-25T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "USE vs ROSS",
+    "team_a": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Rossmann Centaurs",
+      "code": "ROSS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
     "status": "upcoming"
