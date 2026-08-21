@@ -1,43 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "BDG vs VER",
-    "team_a": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "team_b": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "start_time": "2026-08-19T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "P11 vs TTS",
-    "team_a": {
-      "name": "P11 Esports",
-      "code": "P11",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767616969725_Logo_-P11Esports.png"
-    },
-    "team_b": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "start_time": "2026-08-19T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "RP vs MGZ",
@@ -781,18 +743,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "NS vs T1A",
+    "match": "T1A vs NS",
     "team_a": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
       "name": "T1 Esports Academy",
       "code": "T1A",
       "score": 0,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "NS Challengers",
+      "code": "NS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-08-21T05:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-24T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "GX vs G2",
+    "team_a": {
+      "name": "GIANTX",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-08-24T17:15:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "RUD vs VES",
+    "team_a": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
+    },
+    "team_b": {
+      "name": "VES",
+      "code": "VES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
+    },
+    "start_time": "2026-08-24T18:00:00Z",
     "status": "upcoming"
   }
 ]
