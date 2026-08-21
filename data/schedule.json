@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "P4 vs BAM",
-    "team_a": {
-      "name": "Pyramid IV Esports",
-      "code": "P4",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "start_time": "2026-08-19T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NLC",
     "league_code": "nlc",
     "match": "BDG vs VER",
@@ -772,7 +753,7 @@
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-08-21T00:00:00Z",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-24T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "DEER vs DMG",
+    "team_a": {
+      "name": "Deer Gaming",
+      "code": "DEER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
+    },
+    "team_b": {
+      "name": "DMG Esports",
+      "code": "DMG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
+    },
+    "start_time": "2026-08-24T16:00:00Z",
     "status": "upcoming"
   }
 ]
