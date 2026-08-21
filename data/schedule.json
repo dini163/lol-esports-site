@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Team Heretics",
       "code": "TH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
     },
     "start_time": "2026-08-21T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
     "start_time": "2026-08-21T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
