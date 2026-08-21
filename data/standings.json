@@ -9,7 +9,7 @@
         "wins": 10,
         "losses": 2,
         "winrate": "83%",
-        "gameWins": 21,
+        "gameWins": 23,
         "gameLosses": 9
       },
       {
@@ -21,7 +21,7 @@
         "losses": 3,
         "winrate": "75%",
         "gameWins": 18,
-        "gameLosses": 9
+        "gameLosses": 11
       },
       {
         "rank": 3,
@@ -305,15 +305,15 @@
         "gameLosses": 10
       },
       {
-        "rank": 4,
+        "rank": 3,
         "team": "T1",
         "teamCode": "T1",
         "teamImage": "https://static.lolesports.com/teams/T1-FullonDark.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 4,
-        "winrate": "33%",
-        "gameWins": 6,
-        "gameLosses": 8
+        "winrate": "43%",
+        "gameWins": 8,
+        "gameLosses": 9
       },
       {
         "rank": 5,
@@ -321,10 +321,10 @@
         "teamCode": "KT",
         "teamImage": "https://static.lolesports.com/teams/kt_darkbackground.png",
         "wins": 2,
-        "losses": 5,
-        "winrate": "29%",
-        "gameWins": 7,
-        "gameLosses": 11
+        "losses": 6,
+        "winrate": "25%",
+        "gameWins": 8,
+        "gameLosses": 13
       },
       {
         "rank": 1,

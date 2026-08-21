@@ -1,24 +1,5 @@
 [
   {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "GNG vs DS",
-    "team_a": {
-      "name": "GNG Amazigh",
-      "code": "GNG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
-    },
-    "team_b": {
-      "name": "Disruptors",
-      "code": "DS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "start_time": "2026-08-19T18:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "SC vs JL",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "T1",
       "code": "T1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-21T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "team_b": {
@@ -895,18 +876,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "GAM vs MVK",
+    "match": "MVK vs GAM",
     "team_a": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "team_b": {
+      "name": "GAM Esports",
+      "code": "GAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "start_time": "2026-08-22T09:00:00Z",
     "status": "upcoming"
@@ -1123,18 +1104,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TSW vs CFO",
+    "match": "CFO vs TSW",
     "team_a": {
-      "name": "Team Secret Whales",
-      "code": "TSW",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-    },
-    "team_b": {
       "name": "CTBC Flying Oyster",
       "code": "CFO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    },
+    "team_b": {
+      "name": "Team Secret Whales",
+      "code": "TSW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-08-23T09:00:00Z",
     "status": "upcoming"
