@@ -24,29 +24,29 @@
         "gameLosses": 9
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
         "wins": 9,
-        "losses": 3,
-        "winrate": "75%",
-        "gameWins": 20,
-        "gameLosses": 10
+        "losses": 4,
+        "winrate": "69%",
+        "gameWins": 21,
+        "gameLosses": 12
       },
       {
         "rank": 4,
         "team": "Xi'an Team WE",
         "teamCode": "WE",
         "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-        "wins": 6,
+        "wins": 7,
         "losses": 6,
-        "winrate": "50%",
-        "gameWins": 13,
-        "gameLosses": 14
+        "winrate": "54%",
+        "gameWins": 15,
+        "gameLosses": 15
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "Beijing JDG Esports",
         "teamCode": "JDG",
         "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",

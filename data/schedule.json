@@ -696,7 +696,7 @@
     "team_b": {
       "name": "Xi'an Team WE",
       "code": "WE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-08-21T09:00:00Z",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-21T10:00:00Z",
@@ -895,12 +895,12 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs MVK",
+    "match": "GAM vs MVK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "GAM Esports",
+      "code": "GAM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
     },
     "team_b": {
       "name": "MVK Esports",
@@ -1123,12 +1123,12 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "TBD vs CFO",
+    "match": "TSW vs CFO",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Team Secret Whales",
+      "code": "TSW",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "team_b": {
       "name": "CTBC Flying Oyster",
