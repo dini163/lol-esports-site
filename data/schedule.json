@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "SC vs JL",
-    "team_a": {
-      "name": "Skillcamp",
-      "code": "SC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
-    },
-    "team_b": {
-      "name": "Joblife",
-      "code": "JL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734359529263_JoblifeRed.png"
-    },
-    "start_time": "2026-08-19T19:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "MAZ vs DEC",
@@ -1515,6 +1496,25 @@
       "code": "DV1",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
+    },
+    "start_time": "2026-08-25T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "SU vs PCF",
+    "team_a": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
+    },
+    "team_b": {
+      "name": "PCIFIC Esports",
+      "code": "PCF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
     "status": "upcoming"
