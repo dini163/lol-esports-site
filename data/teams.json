@@ -692,6 +692,20 @@
     ]
   },
   {
+    "id": "lgd-gaming",
+    "name": "LGD GAMING",
+    "code": "LGD",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
+    "players": [
+      "Burdol",
+      "Heng",
+      "Tangyuan",
+      "Shaoye",
+      "Crisp"
+    ]
+  },
+  {
     "id": "invictus-gaming",
     "name": "Invictus Gaming",
     "code": "IG",

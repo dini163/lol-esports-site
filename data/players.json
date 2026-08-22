@@ -5557,6 +5557,121 @@
     },
     "highlights": []
   },
+  "Burdol": {
+    "id": "Burdol",
+    "name": "Taeyoon Noh",
+    "ign": "Burdol",
+    "role": "TOP",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775225525681_burdol.png",
+    "bio": "Burdol is a professional League of Legends player competing in the LPL as the TOP for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.6",
+      "cs_per_min": "9.2",
+      "kill_participation": "63%",
+      "win_rate": "55%"
+    },
+    "highlights": []
+  },
+  "Heng": {
+    "id": "Heng",
+    "name": "CUIHENG YANG",
+    "ign": "Heng",
+    "role": "JUNGLE",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348231639_heng.png",
+    "bio": "Heng is a professional League of Legends player competing in the LPL as the JUNGLE for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "LeeSin",
+      "Viego",
+      "Sejuani",
+      "Graves"
+    ],
+    "stats": {
+      "kda": "4.8",
+      "cs_per_min": "9.6",
+      "kill_participation": "66%",
+      "win_rate": "52%"
+    },
+    "highlights": []
+  },
+  "Tangyuan": {
+    "id": "Tangyuan",
+    "name": "YUHONG LIN",
+    "ign": "Tangyuan",
+    "role": "MID",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768349168321_tangyuan.png",
+    "bio": "Tangyuan is a professional League of Legends player competing in the LPL as the MID for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "4.6",
+      "cs_per_min": "8.1",
+      "kill_participation": "70%",
+      "win_rate": "61%"
+    },
+    "highlights": []
+  },
+  "Shaoye": {
+    "id": "Shaoye",
+    "name": "GUOBIN QIU",
+    "ign": "Shaoye",
+    "role": "BOTTOM",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1772232629920_shaoye.png",
+    "bio": "Shaoye is a professional League of Legends player competing in the LPL as the BOTTOM for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.1",
+      "cs_per_min": "9.7",
+      "kill_participation": "78%",
+      "win_rate": "56%"
+    },
+    "highlights": []
+  },
+  "Crisp": {
+    "id": "Crisp",
+    "name": "Qingsong Liu",
+    "ign": "Crisp",
+    "role": "SUPPORT",
+    "team": "LGD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1753285845967_image6216.png",
+    "bio": "Crisp is a professional League of Legends player competing in the LPL as the SUPPORT for LGD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "4.7",
+      "cs_per_min": "8.2",
+      "kill_participation": "75%",
+      "win_rate": "65%"
+    },
+    "highlights": []
+  },
   "TheShy": {
     "id": "TheShy",
     "name": "Seung-Lok Kang",
