@@ -273,25 +273,25 @@
     "regular": [
       {
         "rank": 1,
+        "team": "Dplus KIA",
+        "teamCode": "DK",
+        "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+        "wins": 6,
+        "losses": 2,
+        "winrate": "75%",
+        "gameWins": 12,
+        "gameLosses": 8
+      },
+      {
+        "rank": 2,
         "team": "Gen.G Esports",
         "teamCode": "GEN",
         "teamImage": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
         "wins": 5,
-        "losses": 2,
-        "winrate": "71%",
-        "gameWins": 10,
-        "gameLosses": 6
-      },
-      {
-        "rank": 1,
-        "team": "Dplus KIA",
-        "teamCode": "DK",
-        "teamImage": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-        "wins": 5,
-        "losses": 2,
-        "winrate": "71%",
-        "gameWins": 10,
-        "gameLosses": 7
+        "losses": 3,
+        "winrate": "62%",
+        "gameWins": 11,
+        "gameLosses": 8
       },
       {
         "rank": 3,
