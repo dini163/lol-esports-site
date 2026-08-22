@@ -753,11 +753,11 @@
     "team_b": {
       "name": "SK Gaming",
       "code": "SK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
     },
     "start_time": "2026-08-22T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -772,7 +772,7 @@
     "team_b": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-08-22T19:00:00Z",
