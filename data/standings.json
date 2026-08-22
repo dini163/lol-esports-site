@@ -14,17 +14,6 @@
       },
       {
         "rank": 2,
-        "team": "TOP ESPORTS",
-        "teamCode": "TES",
-        "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-        "wins": 9,
-        "losses": 4,
-        "winrate": "69%",
-        "gameWins": 18,
-        "gameLosses": 11
-      },
-      {
-        "rank": 2,
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
@@ -35,7 +24,29 @@
         "gameLosses": 12
       },
       {
+        "rank": 3,
+        "team": "TOP ESPORTS",
+        "teamCode": "TES",
+        "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+        "wins": 9,
+        "losses": 5,
+        "winrate": "64%",
+        "gameWins": 18,
+        "gameLosses": 13
+      },
+      {
         "rank": 4,
+        "team": "Beijing JDG Esports",
+        "teamCode": "JDG",
+        "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",
+        "wins": 7,
+        "losses": 6,
+        "winrate": "54%",
+        "gameWins": 18,
+        "gameLosses": 16
+      },
+      {
+        "rank": 5,
         "team": "Xi'an Team WE",
         "teamCode": "WE",
         "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
@@ -44,17 +55,6 @@
         "winrate": "50%",
         "gameWins": 16,
         "gameLosses": 17
-      },
-      {
-        "rank": 5,
-        "team": "Beijing JDG Esports",
-        "teamCode": "JDG",
-        "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",
-        "wins": 6,
-        "losses": 6,
-        "winrate": "50%",
-        "gameWins": 16,
-        "gameLosses": 16
       },
       {
         "rank": 6,
