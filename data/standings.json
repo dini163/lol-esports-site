@@ -328,6 +328,17 @@
       },
       {
         "rank": 1,
+        "team": "DN SOOPers",
+        "teamCode": "DNS",
+        "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+        "wins": 5,
+        "losses": 3,
+        "winrate": "62%",
+        "gameWins": 10,
+        "gameLosses": 8
+      },
+      {
+        "rank": 2,
         "team": "BNK FEARX",
         "teamCode": "BFX",
         "teamImage": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
@@ -338,7 +349,7 @@
         "gameLosses": 8
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "NONGSHIM RED FORCE",
         "teamCode": "NS",
         "teamImage": "https://static.lolesports.com/teams/NSFullonDark.png",
@@ -347,17 +358,6 @@
         "winrate": "57%",
         "gameWins": 10,
         "gameLosses": 7
-      },
-      {
-        "rank": 1,
-        "team": "DN SOOPers",
-        "teamCode": "DNS",
-        "teamImage": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-        "wins": 4,
-        "losses": 3,
-        "winrate": "57%",
-        "gameWins": 8,
-        "gameLosses": 8
       },
       {
         "rank": 4,
@@ -376,10 +376,10 @@
         "teamCode": "DRX",
         "teamImage": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
         "wins": 2,
-        "losses": 5,
-        "winrate": "29%",
+        "losses": 6,
+        "winrate": "25%",
         "gameWins": 6,
-        "gameLosses": 11
+        "gameLosses": 13
       }
     ],
     "playoffs": [
