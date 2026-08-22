@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "EXE vs NBS",
-    "team_a": {
-      "name": "EXILE Esports",
-      "code": "EXE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
-    },
-    "team_b": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "start_time": "2026-08-20T14:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "BOOM vs UP2U",
-    "team_a": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "team_b": {
-      "name": "Up2umedia Cebulaki",
-      "code": "UP2U",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
-    },
-    "start_time": "2026-08-20T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "BW vs DIA",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-26T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "EXE vs BRT",
+    "team_a": {
+      "name": "EXILE Esports",
+      "code": "EXE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
+    },
+    "team_b": {
+      "name": "BRUTE",
+      "code": "BRT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
+    },
+    "start_time": "2026-08-26T14:00:00Z",
     "status": "upcoming"
   }
 ]
