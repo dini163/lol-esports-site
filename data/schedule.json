@@ -1,24 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "UCAM vs BAR",
-    "team_a": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "team_b": {
-      "name": "Bar\u00e7a Esports",
-      "code": "BAR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
-    },
-    "start_time": "2026-08-20T13:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "CE vs BBK",
@@ -743,21 +724,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "SHFT vs FNC",
+    "match": "FNC vs SHFT",
     "team_a": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "team_b": {
       "name": "Fnatic",
       "code": "FNC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
+    "team_b": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
     "start_time": "2026-08-22T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-25T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "9ZG vs GLE",
+    "team_a": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
+    "team_b": {
+      "name": "Golden Lions",
+      "code": "GLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "start_time": "2026-08-25T20:00:00Z",
     "status": "upcoming"
   }
 ]
