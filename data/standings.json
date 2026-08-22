@@ -706,10 +706,10 @@
         "team": "Sentinels",
         "teamCode": "SEN",
         "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-        "wins": 2,
+        "wins": 3,
         "losses": 2,
-        "winrate": "50%",
-        "gameWins": 5,
+        "winrate": "60%",
+        "gameWins": 7,
         "gameLosses": 6
       },
       {
@@ -718,10 +718,10 @@
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
         "wins": 1,
-        "losses": 3,
-        "winrate": "25%",
+        "losses": 4,
+        "winrate": "20%",
         "gameWins": 2,
-        "gameLosses": 6
+        "gameLosses": 8
       },
       {
         "rank": 7,
