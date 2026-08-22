@@ -40,10 +40,10 @@
         "teamCode": "WE",
         "teamImage": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
         "wins": 7,
-        "losses": 6,
-        "winrate": "54%",
-        "gameWins": 15,
-        "gameLosses": 15
+        "losses": 7,
+        "winrate": "50%",
+        "gameWins": 16,
+        "gameLosses": 17
       },
       {
         "rank": 5,
@@ -61,11 +61,11 @@
         "team": "LGD GAMING",
         "teamCode": "LGD",
         "teamImage": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
-        "wins": 4,
+        "wins": 5,
         "losses": 8,
-        "winrate": "33%",
-        "gameWins": 13,
-        "gameLosses": 17
+        "winrate": "38%",
+        "gameWins": 15,
+        "gameLosses": 18
       },
       {
         "rank": 7,
