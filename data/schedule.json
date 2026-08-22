@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "CE vs BBK",
-    "team_a": {
-      "name": "Capybara Esports",
-      "code": "CE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784473760203_cap_c.png"
-    },
-    "team_b": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
-    },
-    "start_time": "2026-08-20T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "EXE vs NBS",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "start_time": "2026-08-25T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-26T08:00:00Z",
     "status": "upcoming"
   }
 ]
