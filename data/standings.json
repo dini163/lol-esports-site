@@ -94,10 +94,10 @@
         "team": "Shenzhen NINJAS IN PYJAMAS",
         "teamCode": "NIP",
         "teamImage": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 10,
+        "gameWins": 12,
         "gameLosses": 3
       },
       {
@@ -106,10 +106,10 @@
         "teamCode": "IG",
         "teamImage": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
         "wins": 4,
-        "losses": 1,
-        "winrate": "80%",
+        "losses": 2,
+        "winrate": "67%",
         "gameWins": 9,
-        "gameLosses": 4
+        "gameLosses": 6
       },
       {
         "rank": 3,
