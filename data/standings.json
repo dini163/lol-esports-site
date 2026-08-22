@@ -488,6 +488,17 @@
       },
       {
         "rank": 4,
+        "team": "Fnatic",
+        "teamCode": "FNC",
+        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
+        "wins": 3,
+        "losses": 3,
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 6
+      },
+      {
+        "rank": 5,
         "team": "Movistar KOI",
         "teamCode": "MKOI",
         "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
@@ -498,7 +509,7 @@
         "gameLosses": 10
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
@@ -509,7 +520,7 @@
         "gameLosses": 9
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": "GIANTX",
         "teamCode": "GX",
         "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
@@ -518,17 +529,6 @@
         "winrate": "40%",
         "gameWins": 6,
         "gameLosses": 7
-      },
-      {
-        "rank": 6,
-        "team": "Fnatic",
-        "teamCode": "FNC",
-        "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
-        "wins": 2,
-        "losses": 3,
-        "winrate": "40%",
-        "gameWins": 6,
-        "gameLosses": 6
       },
       {
         "rank": 8,
@@ -558,10 +558,10 @@
         "teamCode": "SHFT",
         "teamImage": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
         "wins": 0,
-        "losses": 5,
+        "losses": 6,
         "winrate": "0%",
         "gameWins": 2,
-        "gameLosses": 10
+        "gameLosses": 12
       }
     ],
     "playoffs": [
