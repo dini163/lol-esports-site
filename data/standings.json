@@ -714,6 +714,17 @@
       },
       {
         "rank": 6,
+        "team": "Disguised",
+        "teamCode": "DSG",
+        "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+        "wins": 1,
+        "losses": 4,
+        "winrate": "20%",
+        "gameWins": 3,
+        "gameLosses": 8
+      },
+      {
+        "rank": 6,
         "team": "FlyQuest",
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
@@ -724,26 +735,15 @@
         "gameLosses": 8
       },
       {
-        "rank": 7,
-        "team": "Disguised",
-        "teamCode": "DSG",
-        "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
-        "wins": 0,
-        "losses": 4,
-        "winrate": "0%",
-        "gameWins": 1,
-        "gameLosses": 8
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "team": "Dignitas",
         "teamCode": "DIG",
         "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "winrate": "0%",
         "gameWins": 3,
-        "gameLosses": 8
+        "gameLosses": 10
       }
     ],
     "playoffs": [
