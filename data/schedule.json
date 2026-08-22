@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs BLG",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "BILIBILI GAMING",
-      "code": "BLG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-    },
-    "start_time": "2026-08-20T11:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "UCAM vs BAR",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "MVK Esports",
       "code": "MVK",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
     },
     "start_time": "2026-08-22T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
