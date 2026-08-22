@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DK vs DNS",
-    "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-08-20T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "DRX vs BRO",
     "team_a": {
       "name": "KRX Challengers",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "start_time": "2026-08-25T15:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "GNG vs BAM",
+    "team_a": {
+      "name": "GNG Amazigh",
+      "code": "GNG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "team_b": {
+      "name": "BAAM Esports",
+      "code": "BAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
+    },
+    "start_time": "2026-08-25T16:00:00Z",
     "status": "upcoming"
   }
 ]
