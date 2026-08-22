@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-08-22T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-26T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "FSK vs BCE",
+    "team_a": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "team_b": {
+      "name": "Barcz\u0105ca Esports",
+      "code": "BCE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752041346581_KSB_LOGO_GLOWNE.png"
+    },
+    "start_time": "2026-08-26T15:00:00Z",
     "status": "upcoming"
   }
 ]
