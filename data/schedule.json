@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "WG vs TTB",
-    "team_a": {
-      "name": "Way Gaming Esports",
-      "code": "WG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784500521124_w_c.png"
-    },
-    "team_b": {
-      "name": "Tung Tung Bogi",
-      "code": "TTB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784474854075_ttb_c.png"
-    },
-    "start_time": "2026-08-19T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "DK vs DNS",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
     },
     "start_time": "2026-08-22T00:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "WLG vs TPX",
+    "team_a": {
+      "name": "WLGaming",
+      "code": "WLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
+    },
+    "team_b": {
+      "name": "TheParadOx Invaders",
+      "code": "TPX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
+    },
+    "start_time": "2026-08-25T15:30:00Z",
     "status": "upcoming"
   }
 ]
