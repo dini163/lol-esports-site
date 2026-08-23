@@ -1,24 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "EINS vs G2N",
-    "team_a": {
-      "name": "Eintracht Spandau",
-      "code": "EINS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
-    },
-    "team_b": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "start_time": "2026-08-20T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "IJC vs KCB",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-23T07:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -814,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
     },
     "start_time": "2026-08-23T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -871,7 +852,7 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-08-23T11:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1515,6 +1496,25 @@
       "code": "DIA",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
+    },
+    "start_time": "2026-08-26T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "EINS vs KHK",
+    "team_a": {
+      "name": "Eintracht Spandau",
+      "code": "EINS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Kaufland Hangry Knights",
+      "code": "KHK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "start_time": "2026-08-26T15:00:00Z",
     "status": "upcoming"
