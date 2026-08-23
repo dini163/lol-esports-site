@@ -39,11 +39,11 @@
         "team": "Beijing JDG Esports",
         "teamCode": "JDG",
         "teamImage": "https://static.lolesports.com/teams/1627457924722_29.png",
-        "wins": 7,
+        "wins": 8,
         "losses": 6,
-        "winrate": "54%",
-        "gameWins": 18,
-        "gameLosses": 16
+        "winrate": "57%",
+        "gameWins": 20,
+        "gameLosses": 17
       },
       {
         "rank": 5,
@@ -84,10 +84,10 @@
         "teamCode": "EDG",
         "teamImage": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
         "wins": 2,
-        "losses": 11,
-        "winrate": "15%",
-        "gameWins": 6,
-        "gameLosses": 22
+        "losses": 12,
+        "winrate": "14%",
+        "gameWins": 7,
+        "gameLosses": 24
       },
       {
         "rank": 1,

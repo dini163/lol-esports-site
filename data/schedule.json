@@ -1,5 +1,24 @@
 [
   {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "BG vs CKZ",
+    "team_a": {
+      "name": "Bohemian Guardians",
+      "code": "BG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
+    },
+    "team_b": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "start_time": "2026-08-20T16:30:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Liga Portuguesa",
     "league_code": "lig",
     "match": "TTB vs NGE",
@@ -671,7 +690,7 @@
     "team_a": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "team_b": {
