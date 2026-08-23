@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "TSC vs DNWU",
-    "team_a": {
-      "name": "The Secret Club",
-      "code": "TSC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
-    },
-    "team_b": {
-      "name": "Definitely Not Washed Up",
-      "code": "DNWU",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1787133005884_EBL_DNWU-MonochromeDarkBG.png.png"
-    },
-    "start_time": "2026-08-20T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "BG vs CKZ",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "BNK FEARX",
       "code": "BFX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-23T10:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "CG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "start_time": "2026-08-26T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "OTF vs TSC",
+    "team_a": {
+      "name": "ONLY THE FAMILY",
+      "code": "OTF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
+    },
+    "team_b": {
+      "name": "The Secret Club",
+      "code": "TSC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
     "status": "upcoming"
