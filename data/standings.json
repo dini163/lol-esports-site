@@ -458,11 +458,11 @@
         "team": "Karmine Corp",
         "teamCode": "KC",
         "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
-        "wins": 7,
+        "wins": 8,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 14,
-        "gameLosses": 1
+        "gameWins": 16,
+        "gameLosses": 2
       },
       {
         "rank": 2,
@@ -558,10 +558,10 @@
         "teamCode": "SHFT",
         "teamImage": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
         "wins": 0,
-        "losses": 6,
+        "losses": 7,
         "winrate": "0%",
-        "gameWins": 2,
-        "gameLosses": 12
+        "gameWins": 3,
+        "gameLosses": 14
       }
     ],
     "playoffs": [

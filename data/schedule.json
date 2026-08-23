@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-08-23T17:15:00Z",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-26T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Circuito Desafiante",
+    "league_code": "cir",
+    "match": "KBM vs 7REX",
+    "team_a": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
+    "team_b": {
+      "name": "7REX Team",
+      "code": "7REX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
+    },
+    "start_time": "2026-08-26T20:00:00Z",
     "status": "upcoming"
   }
 ]
