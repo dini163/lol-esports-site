@@ -4591,29 +4591,6 @@
     },
     "highlights": []
   },
-  "sinian": {
-    "id": "sinian",
-    "name": "Ding Jia-Ming",
-    "ign": "sinian",
-    "role": "MID",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "sinian is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "5.4",
-      "cs_per_min": "9.6",
-      "kill_participation": "66%",
-      "win_rate": "65%"
-    },
-    "highlights": []
-  },
   "BuLLDoG": {
     "id": "BuLLDoG",
     "name": "Taeyoung Lee",
@@ -4634,6 +4611,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "63%",
       "win_rate": "52%"
+    },
+    "highlights": []
+  },
+  "sinian": {
+    "id": "sinian",
+    "name": "Ding Jia-Ming",
+    "ign": "sinian",
+    "role": "MID",
+    "team": "EDWARD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "sinian is a professional League of Legends player competing in the LPL as the MID for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "5.4",
+      "cs_per_min": "9.6",
+      "kill_participation": "66%",
+      "win_rate": "65%"
     },
     "highlights": []
   },
@@ -4982,29 +4982,6 @@
     },
     "highlights": []
   },
-  "Denathor": {
-    "id": "Denathor",
-    "name": "Noah Erikson",
-    "ign": "Denathor",
-    "role": "TOP",
-    "team": "Dignitas",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
-    "bio": "Denathor is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.2",
-      "cs_per_min": "9.3",
-      "kill_participation": "72%",
-      "win_rate": "57%"
-    },
-    "highlights": []
-  },
   "Dardoch": {
     "id": "Dardoch",
     "name": "Joshua Hartnett",
@@ -5025,6 +5002,29 @@
       "cs_per_min": "9.6",
       "kill_participation": "68%",
       "win_rate": "60%"
+    },
+    "highlights": []
+  },
+  "Denathor": {
+    "id": "Denathor",
+    "name": "Noah Erikson",
+    "ign": "Denathor",
+    "role": "TOP",
+    "team": "Dignitas",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "bio": "Denathor is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.2",
+      "cs_per_min": "9.3",
+      "kill_participation": "72%",
+      "win_rate": "57%"
     },
     "highlights": []
   },

@@ -717,10 +717,10 @@
         "team": "FlyQuest",
         "teamCode": "FLY",
         "teamImage": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
-        "wins": 1,
+        "wins": 2,
         "losses": 4,
-        "winrate": "20%",
-        "gameWins": 2,
+        "winrate": "33%",
+        "gameWins": 4,
         "gameLosses": 8
       },
       {
@@ -740,10 +740,10 @@
         "teamCode": "DIG",
         "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
         "wins": 0,
-        "losses": 5,
+        "losses": 6,
         "winrate": "0%",
         "gameWins": 3,
-        "gameLosses": 10
+        "gameLosses": 12
       }
     ],
     "playoffs": [
