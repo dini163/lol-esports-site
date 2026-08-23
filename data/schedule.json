@@ -728,7 +728,7 @@
     "team_a": {
       "name": "RED Kalunga",
       "code": "RED",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-08-23T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -762,21 +762,21 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "LOS vs LOUD",
+    "match": "LOUD vs LOS",
     "team_a": {
-      "name": "LOS",
-      "code": "LOS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
-    },
-    "team_b": {
       "name": "LOUD",
       "code": "LOUD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
+    "team_b": {
+      "name": "LOS",
+      "code": "LOS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
+    },
     "start_time": "2026-08-23T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
