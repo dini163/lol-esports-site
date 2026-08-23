@@ -743,18 +743,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "HLE vs T1",
+    "match": "T1 vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "T1",
       "code": "T1",
       "score": 0,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-23T08:00:00Z",
     "status": "live"
