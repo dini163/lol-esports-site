@@ -715,7 +715,7 @@
     "team_b": {
       "name": "Hanwha Life Esports",
       "code": "HLE",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-23T08:00:00Z",
@@ -743,18 +743,18 @@
   {
     "league": "LCP",
     "league_code": "lcp",
-    "match": "CFO vs TSW",
+    "match": "TSW vs CFO",
     "team_a": {
-      "name": "CTBC Flying Oyster",
-      "code": "CFO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-    },
-    "team_b": {
       "name": "Team Secret Whales",
       "code": "TSW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    },
+    "team_b": {
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
     },
     "start_time": "2026-08-23T09:00:00Z",
     "status": "live"
