@@ -1,5 +1,24 @@
 [
   {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "OTF vs SPK",
+    "team_a": {
+      "name": "ONLY THE FAMILY",
+      "code": "OTF",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
+    },
+    "team_b": {
+      "name": "SPIKE Syndicate",
+      "code": "SPK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776205305925_SPK_w.png"
+    },
+    "start_time": "2026-08-20T18:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "SC vs SLY",
@@ -700,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "start_time": "2026-08-23T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
     },
     "start_time": "2026-08-23T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
