@@ -1,43 +1,5 @@
 [
   {
-    "league": "LES",
-    "league_code": "les",
-    "match": "HRTS vs MKF",
-    "team_a": {
-      "name": "Heretics Academy",
-      "code": "HRTS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1661502137823_LOGOHERETICSPNG.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "start_time": "2026-08-20T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "DS vs P4",
-    "team_a": {
-      "name": "Disruptors",
-      "code": "DS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1783514963343_Logo_D_2.png"
-    },
-    "team_b": {
-      "name": "Pyramid IV Esports",
-      "code": "P4",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
-    },
-    "start_time": "2026-08-20T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "GMB vs HMB",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-23T07:00:00Z",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
     },
     "start_time": "2026-08-23T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1515,6 +1477,44 @@
       "code": "GL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "start_time": "2026-08-26T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "TBD vs P4",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "start_time": "2026-08-26T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "B2U vs BDG",
+    "team_a": {
+      "name": "Bardicted to U",
+      "code": "B2U",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
+    },
+    "team_b": {
+      "name": "Bulldog Esports",
+      "code": "BDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
     "status": "upcoming"
