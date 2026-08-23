@@ -488,6 +488,17 @@
       },
       {
         "rank": 4,
+        "team": "GIANTX",
+        "teamCode": "GX",
+        "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
+        "wins": 3,
+        "losses": 3,
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 7
+      },
+      {
+        "rank": 4,
         "team": "Fnatic",
         "teamCode": "FNC",
         "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
@@ -498,7 +509,7 @@
         "gameLosses": 6
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
@@ -507,17 +518,6 @@
         "winrate": "43%",
         "gameWins": 7,
         "gameLosses": 9
-      },
-      {
-        "rank": 6,
-        "team": "GIANTX",
-        "teamCode": "GX",
-        "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
-        "wins": 2,
-        "losses": 3,
-        "winrate": "40%",
-        "gameWins": 6,
-        "gameLosses": 7
       },
       {
         "rank": 7,
@@ -547,10 +547,10 @@
         "teamCode": "TH",
         "teamImage": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
         "wins": 2,
-        "losses": 4,
-        "winrate": "33%",
+        "losses": 5,
+        "winrate": "29%",
         "gameWins": 4,
-        "gameLosses": 9
+        "gameLosses": 11
       },
       {
         "rank": 10,
