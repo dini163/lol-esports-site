@@ -6,25 +6,14 @@
         "team": "BILIBILI GAMING",
         "teamCode": "BLG",
         "teamImage": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-        "wins": 11,
+        "wins": 12,
         "losses": 2,
-        "winrate": "85%",
-        "gameWins": 23,
-        "gameLosses": 9
+        "winrate": "86%",
+        "gameWins": 25,
+        "gameLosses": 10
       },
       {
         "rank": 2,
-        "team": "Anyone's Legend",
-        "teamCode": "AL",
-        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
-        "wins": 9,
-        "losses": 4,
-        "winrate": "69%",
-        "gameWins": 21,
-        "gameLosses": 12
-      },
-      {
-        "rank": 3,
         "team": "TOP ESPORTS",
         "teamCode": "TES",
         "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
@@ -33,6 +22,17 @@
         "winrate": "64%",
         "gameWins": 18,
         "gameLosses": 13
+      },
+      {
+        "rank": 2,
+        "team": "Anyone's Legend",
+        "teamCode": "AL",
+        "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
+        "wins": 9,
+        "losses": 5,
+        "winrate": "64%",
+        "gameWins": 22,
+        "gameLosses": 14
       },
       {
         "rank": 4,
