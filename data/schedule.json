@@ -734,7 +734,7 @@
     "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-08-23T07:00:00Z",
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-08-23T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "start_time": "2026-08-26T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "TLNP vs GL",
+    "team_a": {
+      "name": "TLN Pirates",
+      "code": "TLNP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
+    },
+    "team_b": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "start_time": "2026-08-26T16:00:00Z",
     "status": "upcoming"
   }
 ]
