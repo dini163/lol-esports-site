@@ -728,7 +728,7 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "start_time": "2026-08-23T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "start_time": "2026-08-26T16:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "BOOM vs DOC",
+    "team_a": {
+      "name": "BOMBA Team",
+      "code": "BOOM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "team_b": {
+      "name": "DOCISK",
+      "code": "DOC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
+    },
+    "start_time": "2026-08-26T17:00:00Z",
     "status": "upcoming"
   }
 ]
