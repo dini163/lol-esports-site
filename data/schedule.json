@@ -1,24 +1,5 @@
 [
   {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "OTF vs SPK",
-    "team_a": {
-      "name": "ONLY THE FAMILY",
-      "code": "OTF",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
-    },
-    "team_b": {
-      "name": "SPIKE Syndicate",
-      "code": "SPK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776205305925_SPK_w.png"
-    },
-    "start_time": "2026-08-20T18:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
     "match": "SC vs SLY",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
     },
     "start_time": "2026-08-26T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "DOG vs CNV",
+    "team_a": {
+      "name": "Dorado Gaming",
+      "code": "DOG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
+    },
+    "team_b": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
+    "start_time": "2026-08-26T21:00:00Z",
     "status": "upcoming"
   }
 ]
