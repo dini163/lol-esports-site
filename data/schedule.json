@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "IJC vs KCB",
-    "team_a": {
-      "name": "Ici Japon Corp",
-      "code": "IJC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734090463019_Logo-IJC1.png"
-    },
-    "team_b": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "start_time": "2026-08-20T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "HRTS vs MKF",
