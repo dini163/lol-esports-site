@@ -1,24 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "FCN vs ZZG",
-    "team_a": {
-      "name": "Francesinhas",
-      "code": "FCN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1784474263923_fra_c.png"
-    },
-    "team_b": {
-      "name": "ZeroZone Gaming",
-      "code": "ZZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738418860840_ZZ_c.png"
-    },
-    "start_time": "2026-08-20T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CNV vs CPD",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "DNS Challengers",
       "code": "DNS",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-24T05:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-08-24T08:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -914,7 +895,7 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "TBD vs DRX",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -922,10 +903,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "KRX Challengers",
+      "code": "DRX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-25T08:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-27T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "TBD vs VLR",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Valerion",
+      "code": "VLR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
+    },
+    "start_time": "2026-08-27T13:00:00Z",
     "status": "upcoming"
   }
 ]
