@@ -743,18 +743,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BFX vs HLE",
+    "match": "HLE vs BFX",
     "team_a": {
-      "name": "BNK FEARX Youth",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
       "name": "HLE Challengers",
       "code": "HLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-24T08:30:00Z",
     "status": "live"
@@ -971,18 +971,18 @@
   {
     "league": "TCL",
     "league_code": "tcl",
-    "match": "SU vs PCF",
+    "match": "PCF vs SU",
     "team_a": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "team_b": {
       "name": "PCIFIC Esports",
       "code": "PCF",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
+    },
+    "team_b": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
     "status": "upcoming"
@@ -1237,18 +1237,18 @@
   {
     "league": "TCL",
     "league_code": "tcl",
-    "match": "DP vs DIA",
+    "match": "TBD vs PHX",
     "team_a": {
-      "name": "Dark Passage",
-      "code": "DP",
+      "name": "TBD",
+      "code": "TBD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "DIA Ozarox Esports",
-      "code": "DIA",
+      "name": "Team Phoenix",
+      "code": "PHX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
+      "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
     },
     "start_time": "2026-08-26T15:00:00Z",
     "status": "upcoming"
