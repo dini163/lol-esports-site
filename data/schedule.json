@@ -753,7 +753,7 @@
     "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-24T05:00:00Z",
@@ -1199,18 +1199,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "KT vs BRO",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "kt Rolster",
+      "code": "KT",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "HANJIN BRION",
+      "code": "BRO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-26T08:00:00Z",
     "status": "upcoming"
@@ -1503,18 +1503,18 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "NS vs BFX",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "NONGSHIM RED FORCE",
+      "code": "NS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BNK FEARX",
+      "code": "BFX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-27T08:00:00Z",
     "status": "upcoming"
