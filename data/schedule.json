@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Estral Esports",
       "code": "EST",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "start_time": "2026-08-24T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRN",
@@ -795,7 +795,7 @@
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "start_time": "2026-08-24T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
