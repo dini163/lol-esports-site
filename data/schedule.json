@@ -2,25 +2,6 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CNV vs CPD",
-    "team_a": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "team_b": {
-      "name": "Cupid Esports",
-      "code": "CPD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
-    },
-    "start_time": "2026-08-20T21:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
     "match": "DOG vs MU",
     "team_a": {
       "name": "Dorado Gaming",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-24T08:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -895,12 +876,12 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs DRX",
+    "match": "BFX vs DRX",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "team_b": {
       "name": "KRX Challengers",
