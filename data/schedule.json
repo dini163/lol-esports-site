@@ -2,44 +2,6 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TT vs EDG",
-    "team_a": {
-      "name": "THUNDER TALK GAMING",
-      "code": "TT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
-    },
-    "team_b": {
-      "name": "EDWARD GAMING",
-      "code": "EDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
-    },
-    "start_time": "2026-08-21T07:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BFX vs BRO",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "HANJIN BRION",
-      "code": "BRO",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-    },
-    "start_time": "2026-08-21T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
     "match": "AL vs WE",
     "team_a": {
       "name": "Anyone's Legend",
@@ -734,11 +696,11 @@
     "team_b": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-08-24T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "Ruddy Corporation",
       "code": "RUD",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-08-24T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -1332,12 +1294,12 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs DMG",
+    "match": "VES vs DMG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "VES",
+      "code": "VES",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
     },
     "team_b": {
       "name": "DMG Esports",
