@@ -895,18 +895,18 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BFX vs DRX",
+    "match": "DRX vs BFX",
     "team_a": {
-      "name": "BNK FEARX Youth",
-      "code": "BFX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX Youth",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
     "start_time": "2026-08-25T08:00:00Z",
     "status": "upcoming"
