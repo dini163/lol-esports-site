@@ -743,21 +743,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "NAVI vs FNC",
+    "match": "FNC vs NAVI",
     "team_a": {
-      "name": "Natus Vincere",
-      "code": "NAVI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
-    },
-    "team_b": {
       "name": "Fnatic",
       "code": "FNC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
+    "team_b": {
+      "name": "Natus Vincere",
+      "code": "NAVI",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
+    },
     "start_time": "2026-08-24T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -1408,18 +1408,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "TBD vs TBD",
+    "match": "HYPE vs BBK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Hyperion",
+      "code": "HYPE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Bubliki",
+      "code": "BBK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "start_time": "2026-08-26T18:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "start_time": "2026-08-27T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "NBS vs MVE",
+    "team_a": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "team_b": {
+      "name": "UP2U Meavedron",
+      "code": "MVE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
+    },
+    "start_time": "2026-08-27T14:00:00Z",
     "status": "upcoming"
   }
 ]
