@@ -2,25 +2,6 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "BFX vs GGA",
-    "team_a": {
-      "name": "BNK FEARX Youth",
-      "code": "BFX",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "Gen.G Global Academy",
-      "code": "GGA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1672911977540_GGA_2023ver_LOGO_GGA_simplyA_W1.png"
-    },
-    "start_time": "2026-08-21T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
     "match": "T1A vs NS",
     "team_a": {
       "name": "T1 Esports Academy",
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-08-24T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -762,21 +743,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "GX vs G2",
+    "match": "G2 vs GX",
     "team_a": {
-      "name": "GIANTX",
-      "code": "GX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
-    },
-    "team_b": {
       "name": "G2 Esports",
       "code": "G2",
       "score": 0,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
+    "team_b": {
+      "name": "GIANTX",
+      "code": "GX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
+    },
     "start_time": "2026-08-24T17:15:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -1515,6 +1496,25 @@
       "code": "LDS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
+    },
+    "start_time": "2026-08-27T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "DIA vs DP",
+    "team_a": {
+      "name": "DIA Ozarox Esports",
+      "code": "DIA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
+    },
+    "team_b": {
+      "name": "Dark Passage",
+      "code": "DP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
     },
     "start_time": "2026-08-27T15:00:00Z",
     "status": "upcoming"
