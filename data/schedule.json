@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "DOG vs MU",
-    "team_a": {
-      "name": "Dorado Gaming",
-      "code": "DOG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-08-21T00:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "BFX vs GGA",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-08-24T15:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-24T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "start_time": "2026-08-27T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "UP2U vs LDS",
+    "team_a": {
+      "name": "Up2umedia Cebulaki",
+      "code": "UP2U",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
+    },
+    "team_b": {
+      "name": "LODIS",
+      "code": "LDS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
+    },
+    "start_time": "2026-08-27T15:00:00Z",
     "status": "upcoming"
   }
 ]
