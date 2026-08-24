@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Deer Gaming",
       "code": "DEER",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "team_b": {
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "G2 Esports",
       "code": "G2",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "team_b": {
@@ -1351,7 +1351,7 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs TBD",
+    "match": "TBD vs DMG",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1359,10 +1359,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DMG Esports",
+      "code": "DMG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-26T18:00:00Z",
     "status": "upcoming"
