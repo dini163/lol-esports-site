@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "BFX vs BRO",
+    "team_a": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "team_b": {
+      "name": "HANJIN BRION",
+      "code": "BRO",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+    },
+    "start_time": "2026-08-21T08:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "AL vs WE",
@@ -757,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
     },
     "start_time": "2026-08-24T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
