@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "T1A vs NS",
-    "team_a": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-21T05:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "TT vs EDG",
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-24T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -762,21 +743,21 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "RUD vs VES",
+    "match": "VES vs RUD",
     "team_a": {
-      "name": "Ruddy Corporation",
-      "code": "RUD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
-    },
-    "team_b": {
       "name": "VES",
       "code": "VES",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784036361182_VES_LOGO1.png"
     },
+    "team_b": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
+    },
     "start_time": "2026-08-24T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -1515,6 +1496,25 @@
       "code": "DP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
+    },
+    "start_time": "2026-08-27T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "G2N vs BIG",
+    "team_a": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-08-27T15:00:00Z",
     "status": "upcoming"
