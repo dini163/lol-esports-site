@@ -715,11 +715,11 @@
     "team_b": {
       "name": "Dynasty",
       "code": "DYN",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-25T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
@@ -734,7 +734,7 @@
     "team_b": {
       "name": "9z Globant",
       "code": "9ZG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-08-25T20:00:00Z",
@@ -747,7 +747,7 @@
     "team_a": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "team_b": {
