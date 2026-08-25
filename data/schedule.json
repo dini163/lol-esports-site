@@ -743,21 +743,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DRX vs BFX",
+    "match": "BFX vs DRX",
     "team_a": {
-      "name": "KRX Challengers",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
       "name": "BNK FEARX Youth",
       "code": "BFX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
     },
+    "team_b": {
+      "name": "KRX Challengers",
+      "code": "DRX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+    },
     "start_time": "2026-08-25T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hellenic Legends League",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-27T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "ONT vs BG",
+    "team_a": {
+      "name": "Onion Team",
+      "code": "ONT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
+    },
+    "team_b": {
+      "name": "Bohemian Guardians",
+      "code": "BG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
+    },
+    "start_time": "2026-08-27T16:30:00Z",
     "status": "upcoming"
   }
 ]
