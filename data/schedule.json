@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DRX vs DNS",
-    "team_a": {
-      "name": "KIWOOM DRX",
-      "code": "DRX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-    },
-    "team_b": {
-      "name": "DN SOOPers",
-      "code": "DNS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "start_time": "2026-08-22T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "JDG vs TES",
@@ -620,7 +601,7 @@
     "team_b": {
       "name": "DV1 inStreamly",
       "code": "DV1",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
@@ -696,7 +677,7 @@
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-25T16:00:00Z",
@@ -709,7 +690,7 @@
     "team_a": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "team_b": {
@@ -762,21 +743,21 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "FEC vs MYTH",
+    "match": "MYTH vs FEC",
     "team_a": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "team_b": {
       "name": "Myth Esports",
       "code": "MYTH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704706801199_Myth_Esports_2023_Nov_allmode.png"
     },
+    "team_b": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
     "start_time": "2026-08-25T17:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -1498,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-08-28T13:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TH vs SHFT",
+    "team_a": {
+      "name": "Team Heretics",
+      "code": "TH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png"
+    },
+    "team_b": {
+      "name": "Shifters",
+      "code": "SHFT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
+    },
+    "start_time": "2026-08-28T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "VIT vs FNC",
+    "team_a": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "team_b": {
+      "name": "Fnatic",
+      "code": "FNC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
+    },
+    "start_time": "2026-08-28T17:15:00Z",
     "status": "upcoming"
   }
 ]
