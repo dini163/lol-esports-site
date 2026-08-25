@@ -1,24 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "FNC vs SHFT",
-    "team_a": {
-      "name": "Fnatic",
-      "code": "FNC",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "Shifters",
-      "code": "SHFT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
-    },
-    "start_time": "2026-08-22T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "VKS vs LEV",
@@ -595,7 +576,7 @@
     "team_a": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "team_b": {
@@ -605,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -614,7 +595,7 @@
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "team_b": {
@@ -624,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -671,7 +652,7 @@
     "team_a": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "team_b": {
@@ -705,18 +686,18 @@
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "DOC vs FSK",
+    "match": "FSK vs DOC",
     "team_a": {
-      "name": "DOCISK",
-      "code": "DOC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
-    },
-    "team_b": {
       "name": "Forsaken",
       "code": "FSK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "team_b": {
+      "name": "DOCISK",
+      "code": "DOC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-25T17:00:00Z",
     "status": "live"
@@ -734,11 +715,11 @@
     "team_b": {
       "name": "Frites Esports Club",
       "code": "FEC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "start_time": "2026-08-25T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "The Bandits",
       "code": "BAN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1767914106312_dyn_w.png"
     },
     "start_time": "2026-08-25T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRS",
@@ -857,18 +838,18 @@
   {
     "league": "TCL",
     "league_code": "tcl",
-    "match": "TBD vs PHX",
+    "match": "PHX vs PCF",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Team Phoenix",
       "code": "PHX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767800770056_Crest-Red.png"
+    },
+    "team_b": {
+      "name": "PCIFIC Esports",
+      "code": "PCF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-08-26T15:00:00Z",
     "status": "upcoming"
