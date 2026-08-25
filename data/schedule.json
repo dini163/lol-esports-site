@@ -677,11 +677,11 @@
     "team_b": {
       "name": "DOCISK",
       "code": "DOC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-25T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
