@@ -753,7 +753,7 @@
     "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-25T08:00:00Z",
@@ -1446,18 +1446,18 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "SC vs KCB",
+    "match": "KCB vs SC",
     "team_a": {
-      "name": "Skillcamp",
-      "code": "SC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
-    },
-    "team_b": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
+    },
+    "team_b": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-08-27T16:00:00Z",
     "status": "upcoming"
