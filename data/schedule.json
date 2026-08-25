@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "T1 vs KT",
+    "team_a": {
+      "name": "T1",
+      "code": "T1",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "kt Rolster",
+      "code": "KT",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
+    },
+    "start_time": "2026-08-21T10:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "BLG vs TES",
