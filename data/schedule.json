@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCP",
-    "league_code": "lcp",
-    "match": "GAM vs MVK",
-    "team_a": {
-      "name": "GAM Esports",
-      "code": "GAM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
-    },
-    "team_b": {
-      "name": "MVK Esports",
-      "code": "MVK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-    },
-    "start_time": "2026-08-22T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "DRX vs DNS",
@@ -652,7 +633,7 @@
     "team_a": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "team_b": {
@@ -671,7 +652,7 @@
     "team_a": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "team_b": {
@@ -690,7 +671,7 @@
     "team_a": {
       "name": "WLGaming",
       "code": "WLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "team_b": {
@@ -719,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-08-25T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Esports Balkan League",
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-25T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "eSuba",
       "code": "ESB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "team_b": {
@@ -1498,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-08-28T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hellenic Legends League",
+    "league_code": "hel",
+    "match": "GSMC vs TP",
+    "team_a": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
+    "team_b": {
+      "name": "Team Phantasma",
+      "code": "TP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
+    },
+    "start_time": "2026-08-28T13:00:00Z",
     "status": "upcoming"
   }
 ]
