@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "T1 vs KT",
-    "team_a": {
-      "name": "T1",
-      "code": "T1",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-08-21T10:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "BLG vs TES",
@@ -762,21 +743,21 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "GSMC vs SPAR",
+    "match": "SPAR vs GSMC",
     "team_a": {
-      "name": "Gamespace M.C.",
-      "code": "GSMC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
-    },
-    "team_b": {
       "name": "Spartans EU",
       "code": "SPAR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773837632921_LogoWhitetextv1.png"
     },
+    "team_b": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
     "start_time": "2026-08-25T13:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "start_time": "2026-08-27T16:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "ANO vs DV1",
+    "team_a": {
+      "name": "Anonymo",
+      "code": "ANO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774530455413_600px-Anonymo_Esports_2021_allmode.png"
+    },
+    "team_b": {
+      "name": "DV1 inStreamly",
+      "code": "DV1",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
+    },
+    "start_time": "2026-08-27T17:00:00Z",
     "status": "upcoming"
   }
 ]
