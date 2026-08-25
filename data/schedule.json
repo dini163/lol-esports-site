@@ -1,81 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "WU vs OME",
-    "team_a": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
-    "team_b": {
-      "name": "Ole Miss Esports",
-      "code": "OME",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409623302_miss2.png"
-    },
-    "start_time": "2026-08-22T00:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs WE",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "Xi'an Team WE",
-      "code": "WE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-    },
-    "start_time": "2026-08-22T07:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "GEN vs DK",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-08-22T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "NIP vs IG",
-    "team_a": {
-      "name": "Shenzhen NINJAS IN PYJAMAS",
-      "code": "NIP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
-    },
-    "team_b": {
-      "name": "Invictus Gaming",
-      "code": "IG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "start_time": "2026-08-22T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCP",
     "league_code": "lcp",
     "match": "GAM vs MVK",
@@ -677,11 +601,11 @@
     "team_b": {
       "name": "Gamespace M.C.",
       "code": "GSMC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-08-25T13:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -696,11 +620,11 @@
     "team_b": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "start_time": "2026-08-25T14:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -709,7 +633,7 @@
     "team_a": {
       "name": "LODIS",
       "code": "LDS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
     },
     "team_b": {
@@ -728,7 +652,7 @@
     "team_a": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "team_b": {
@@ -753,7 +677,7 @@
     "team_b": {
       "name": "Rossmann Centaurs",
       "code": "ROSS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1734307301367_ROSS.png"
     },
     "start_time": "2026-08-25T15:00:00Z",
@@ -776,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1773838306977_TpOXRed_Gold-removebg-preview.png"
     },
     "start_time": "2026-08-25T15:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -800,18 +724,18 @@
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "MGZ vs LLH",
+    "match": "LLH vs MGZ",
     "team_a": {
-      "name": "MAGAZA",
-      "code": "MGZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
-    },
-    "team_b": {
       "name": "Lenovo Legion Honv\u00e9d",
       "code": "LLH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
+    },
+    "team_b": {
+      "name": "MAGAZA",
+      "code": "MGZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-25T16:00:00Z",
     "status": "upcoming"
@@ -833,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-25T16:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -1517,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-08-27T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "EDG vs NIP",
+    "team_a": {
+      "name": "EDWARD GAMING",
+      "code": "EDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png"
+    },
+    "team_b": {
+      "name": "Shenzhen NINJAS IN PYJAMAS",
+      "code": "NIP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
+    },
+    "start_time": "2026-08-28T06:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-08-28T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TT vs IG",
+    "team_a": {
+      "name": "THUNDER TALK GAMING",
+      "code": "TT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TT-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Invictus Gaming",
+      "code": "IG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    },
+    "start_time": "2026-08-28T09:00:00Z",
     "status": "upcoming"
   }
 ]
