@@ -895,18 +895,18 @@
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "LLH vs MGZ",
+    "match": "MGZ vs LLH",
     "team_a": {
-      "name": "Lenovo Legion Honv\u00e9d",
-      "code": "LLH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
-    },
-    "team_b": {
       "name": "MAGAZA",
       "code": "MGZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "Lenovo Legion Honv\u00e9d",
+      "code": "LLH",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "start_time": "2026-08-25T16:00:00Z",
     "status": "upcoming"
@@ -1199,18 +1199,18 @@
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "OTF vs TSC",
+    "match": "TSC vs OTF",
     "team_a": {
-      "name": "ONLY THE FAMILY",
-      "code": "OTF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
-    },
-    "team_b": {
       "name": "The Secret Club",
       "code": "TSC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "ONLY THE FAMILY",
+      "code": "OTF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
     "status": "upcoming"
