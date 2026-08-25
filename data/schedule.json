@@ -1,24 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "MKOI vs SK",
-    "team_a": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "team_b": {
-      "name": "SK Gaming",
-      "code": "SK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png"
-    },
-    "start_time": "2026-08-22T17:15:00Z",
-    "status": "completed"
-  },
-  {
     "league": "CBLOL",
     "league_code": "cbl",
     "match": "PAIN vs FUR",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
     },
     "start_time": "2026-08-25T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
