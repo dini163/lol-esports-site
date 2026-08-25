@@ -677,7 +677,7 @@
     "team_b": {
       "name": "DOCISK",
       "code": "DOC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-08-25T17:00:00Z",
@@ -724,40 +724,40 @@
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "9ZG vs GLE",
+    "match": "GLE vs 9ZG",
     "team_a": {
-      "name": "9z Globant",
-      "code": "9ZG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
-    },
-    "team_b": {
       "name": "Golden Lions",
       "code": "GLE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
+    },
     "start_time": "2026-08-25T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "PAIN vs RMD",
+    "match": "RMD vs PAIN",
     "team_a": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "team_b": {
       "name": "RMD Gaming",
       "code": "RMD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
+    "team_b": {
+      "name": "paiN Gaming Academy",
+      "code": "PAIN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
+    },
     "start_time": "2026-08-25T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -1479,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-08-28T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "WU vs NRG",
+    "team_a": {
+      "name": "Winthrop University",
+      "code": "WU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
+    },
+    "team_b": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
+    },
+    "start_time": "2026-08-29T00:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "CFO vs MVK",
+    "team_a": {
+      "name": "CTBC Flying Oyster",
+      "code": "CFO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    },
+    "team_b": {
+      "name": "MVK Esports",
+      "code": "MVK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
+    },
+    "start_time": "2026-08-29T08:00:00Z",
     "status": "upcoming"
   }
 ]
