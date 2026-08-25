@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCP",
+    "league_code": "lcp",
+    "match": "GAM vs TSW",
+    "team_a": {
+      "name": "GAM Esports",
+      "code": "GAM",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1643263093448_GAMyellow.png"
+    },
+    "team_b": {
+      "name": "Team Secret Whales",
+      "code": "TSW",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    },
+    "start_time": "2026-08-21T09:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LCK",
     "league_code": "lck",
     "match": "T1 vs KT",
