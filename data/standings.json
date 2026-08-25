@@ -14,17 +14,6 @@
       },
       {
         "rank": 2,
-        "team": "TOP ESPORTS",
-        "teamCode": "TES",
-        "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-        "wins": 9,
-        "losses": 5,
-        "winrate": "64%",
-        "gameWins": 18,
-        "gameLosses": 13
-      },
-      {
-        "rank": 2,
         "team": "Anyone's Legend",
         "teamCode": "AL",
         "teamImage": "https://static.lolesports.com/teams/1641199582689_.png",
@@ -33,6 +22,17 @@
         "winrate": "64%",
         "gameWins": 22,
         "gameLosses": 14
+      },
+      {
+        "rank": 3,
+        "team": "TOP ESPORTS",
+        "teamCode": "TES",
+        "teamImage": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+        "wins": 9,
+        "losses": 5,
+        "winrate": "64%",
+        "gameWins": 18,
+        "gameLosses": 13
       },
       {
         "rank": 4,
