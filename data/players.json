@@ -4591,29 +4591,6 @@
     },
     "highlights": []
   },
-  "BuLLDoG": {
-    "id": "BuLLDoG",
-    "name": "Taeyoung Lee",
-    "ign": "BuLLDoG",
-    "role": "MID",
-    "team": "EDWARD GAMING",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768347844999_bulldog.png",
-    "bio": "BuLLDoG is a professional League of Legends player competing in the LPL as the MID for Suzhou LNG Esports. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.1",
-      "kill_participation": "63%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
   "sinian": {
     "id": "sinian",
     "name": "Ding Jia-Ming",
@@ -4634,6 +4611,29 @@
       "cs_per_min": "9.6",
       "kill_participation": "66%",
       "win_rate": "65%"
+    },
+    "highlights": []
+  },
+  "BuLLDoG": {
+    "id": "BuLLDoG",
+    "name": "Taeyoung Lee",
+    "ign": "BuLLDoG",
+    "role": "MID",
+    "team": "EDWARD GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768347844999_bulldog.png",
+    "bio": "BuLLDoG is a professional League of Legends player competing in the LPL as the MID for Suzhou LNG Esports. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "9.1",
+      "kill_participation": "63%",
+      "win_rate": "52%"
     },
     "highlights": []
   },
