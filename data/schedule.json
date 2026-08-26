@@ -753,11 +753,11 @@
     "team_b": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-08-26T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -1351,7 +1351,7 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "TBD vs BRO",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1359,10 +1359,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "HANJIN BRION",
+      "code": "BRO",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
     },
     "start_time": "2026-08-28T08:00:00Z",
     "status": "upcoming"
@@ -1503,7 +1503,7 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "TBD vs T1",
+    "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1511,10 +1511,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "T1",
-      "code": "T1",
+      "name": "TBD",
+      "code": "TBD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-29T08:00:00Z",
     "status": "upcoming"
