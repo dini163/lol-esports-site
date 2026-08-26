@@ -876,18 +876,18 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "P4 vs GNG",
+    "match": "GNG vs P4",
     "team_a": {
-      "name": "Pyramid IV Esports",
-      "code": "P4",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
-    },
-    "team_b": {
       "name": "GNG Amazigh",
       "code": "GNG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
+    },
+    "team_b": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
     "status": "upcoming"
