@@ -1,5 +1,24 @@
 [
   {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "DIG vs FLY",
+    "team_a": {
+      "name": "Dignitas",
+      "code": "DIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
+    },
+    "team_b": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
+    "start_time": "2026-08-23T23:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "DNS vs DRX",
@@ -538,7 +557,7 @@
     "team_a": {
       "name": "Kaufland Hangry Knights",
       "code": "KHK",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
     },
     "team_b": {
@@ -548,7 +567,7 @@
       "image": "https://static.lolesports.com/teams/1674832820210_PRM_EINS-FullColorDarkBG.png"
     },
     "start_time": "2026-08-26T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "La Ligue Fran\u00e7aise",
@@ -563,11 +582,11 @@
     "team_b": {
       "name": "Galions",
       "code": "GL",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -576,7 +595,7 @@
     "team_a": {
       "name": "Bulldog Esports",
       "code": "BDG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "team_b": {
@@ -586,7 +605,7 @@
       "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -595,7 +614,7 @@
     "team_a": {
       "name": "Colossal Gaming",
       "code": "CG",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
     "team_b": {
@@ -605,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -620,11 +639,11 @@
     "team_b": {
       "name": "The Secret Club",
       "code": "TSC",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-08-26T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -633,7 +652,7 @@
     "team_a": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
@@ -643,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-08-26T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -658,11 +677,11 @@
     "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-08-26T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -671,7 +690,7 @@
     "team_a": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "team_b": {
@@ -681,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1738571853483_FullcolorforDarkBG.png"
     },
     "start_time": "2026-08-26T17:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -696,11 +715,11 @@
     "team_b": {
       "name": "DMG Esports",
       "code": "DMG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-08-26T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -709,17 +728,17 @@
     "team_a": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "team_b": {
       "name": "Hyperion",
       "code": "HYPE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
     },
     "start_time": "2026-08-26T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -914,12 +933,12 @@
   {
     "league": "Esports Balkan League",
     "league_code": "esp",
-    "match": "TBD vs LLH",
+    "match": "TSC vs LLH",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "The Secret Club",
+      "code": "TSC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "team_b": {
       "name": "Lenovo Legion Honv\u00e9d",
