@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "DIG vs DSG",
-    "team_a": {
-      "name": "Dignitas",
-      "code": "DIG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Disguised",
-      "code": "DSG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-    },
-    "start_time": "2026-08-22T23:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "TT vs LGD",
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-08-26T14:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-08-26T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Prime League",
