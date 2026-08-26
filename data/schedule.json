@@ -1,43 +1,5 @@
 [
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "PAIN vs FUR",
-    "team_a": {
-      "name": "paiN Gaming",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
-    },
-    "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "start_time": "2026-08-22T19:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "SEN vs FLY",
-    "team_a": {
-      "name": "Sentinels",
-      "code": "SEN",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
-    },
-    "team_b": {
-      "name": "FlyQuest",
-      "code": "FLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-    },
-    "start_time": "2026-08-22T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCS",
     "league_code": "lcs",
     "match": "DIG vs DSG",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-08-29T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TES vs LGD",
+    "team_a": {
+      "name": "TOP ESPORTS",
+      "code": "TES",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    },
+    "team_b": {
+      "name": "LGD GAMING",
+      "code": "LGD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "start_time": "2026-08-29T09:00:00Z",
     "status": "upcoming"
   }
 ]
