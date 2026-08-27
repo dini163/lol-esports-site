@@ -1573,29 +1573,6 @@
     },
     "highlights": []
   },
-  "Kingen": {
-    "id": "Kingen",
-    "name": "Sunghoon  Hwang",
-    "ign": "Kingen",
-    "role": "TOP",
-    "team": "NS Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088303035_LCK_NS_Kingen_F.PNG",
-    "bio": "Kingen is a professional League of Legends player competing in the LCK as the TOP for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.7",
-      "cs_per_min": "9.0",
-      "kill_participation": "74%",
-      "win_rate": "48%"
-    },
-    "highlights": []
-  },
   "Janus": {
     "id": "Janus",
     "name": "Um Yejun",
@@ -1616,6 +1593,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "70%",
       "win_rate": "51%"
+    },
+    "highlights": []
+  },
+  "Kingen": {
+    "id": "Kingen",
+    "name": "Sunghoon  Hwang",
+    "ign": "Kingen",
+    "role": "TOP",
+    "team": "NS Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088303035_LCK_NS_Kingen_F.PNG",
+    "bio": "Kingen is a professional League of Legends player competing in the LCK as the TOP for NS Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.7",
+      "cs_per_min": "9.0",
+      "kill_participation": "74%",
+      "win_rate": "48%"
     },
     "highlights": []
   },
@@ -1964,29 +1964,6 @@
     },
     "highlights": []
   },
-  "DDahyuk": {
-    "id": "DDahyuk",
-    "name": "Minhyuk Ahn",
-    "ign": "DDahyuk",
-    "role": "TOP",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090323253_image6-2026-01-22T145701.864.png",
-    "bio": "DDahyuk is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.4",
-      "cs_per_min": "10.0",
-      "kill_participation": "73%",
-      "win_rate": "64%"
-    },
-    "highlights": []
-  },
   "Casting": {
     "id": "Casting",
     "name": "Minje Shin",
@@ -2007,6 +1984,29 @@
       "cs_per_min": "8.9",
       "kill_participation": "66%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "DDahyuk": {
+    "id": "DDahyuk",
+    "name": "Minhyuk Ahn",
+    "ign": "DDahyuk",
+    "role": "TOP",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090323253_image6-2026-01-22T145701.864.png",
+    "bio": "DDahyuk is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.4",
+      "cs_per_min": "10.0",
+      "kill_participation": "73%",
+      "win_rate": "64%"
     },
     "highlights": []
   },
@@ -2447,29 +2447,6 @@
     },
     "highlights": []
   },
-  "Life": {
-    "id": "Life",
-    "name": "Jeongmin Kim",
-    "ign": "Life",
-    "role": "SUPPORT",
-    "team": "DN SOOPers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
-    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "5.3",
-      "cs_per_min": "9.3",
-      "kill_participation": "67%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Peter": {
     "id": "Peter",
     "name": "Yoon su Jeong",
@@ -2490,6 +2467,29 @@
       "cs_per_min": "10.1",
       "kill_participation": "78%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "Life": {
+    "id": "Life",
+    "name": "Jeongmin Kim",
+    "ign": "Life",
+    "role": "SUPPORT",
+    "team": "DN SOOPers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG",
+    "bio": "Life is a professional League of Legends player competing in the LCK as the SUPPORT for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
+    ],
+    "stats": {
+      "kda": "5.3",
+      "cs_per_min": "9.3",
+      "kill_participation": "67%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -4108,29 +4108,6 @@
       }
     ]
   },
-  "Cypher": {
-    "id": "Cypher",
-    "name": "Yoojun Kim",
-    "ign": "Cypher",
-    "role": "BOTTOM",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769083165855_image6-2026-01-22T125855.379.png",
-    "bio": "Cypher is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "3.4",
-      "cs_per_min": "9.5",
-      "kill_participation": "78%",
-      "win_rate": "59%"
-    },
-    "highlights": []
-  },
   "Eclipse": {
     "id": "Eclipse",
     "name": "Minjun Kim",
@@ -4174,6 +4151,29 @@
       "cs_per_min": "9.3",
       "kill_participation": "72%",
       "win_rate": "67%"
+    },
+    "highlights": []
+  },
+  "Cypher": {
+    "id": "Cypher",
+    "name": "Yoojun Kim",
+    "ign": "Cypher",
+    "role": "BOTTOM",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769083165855_image6-2026-01-22T125855.379.png",
+    "bio": "Cypher is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "3.4",
+      "cs_per_min": "9.5",
+      "kill_participation": "78%",
+      "win_rate": "59%"
     },
     "highlights": []
   },
@@ -4982,29 +4982,6 @@
     },
     "highlights": []
   },
-  "Dardoch": {
-    "id": "Dardoch",
-    "name": "Joshua Hartnett",
-    "ign": "Dardoch",
-    "role": "TOP",
-    "team": "Dignitas",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "9.6",
-      "kill_participation": "68%",
-      "win_rate": "60%"
-    },
-    "highlights": []
-  },
   "Denathor": {
     "id": "Denathor",
     "name": "Noah Erikson",
@@ -5025,6 +5002,29 @@
       "cs_per_min": "9.3",
       "kill_participation": "72%",
       "win_rate": "57%"
+    },
+    "highlights": []
+  },
+  "Dardoch": {
+    "id": "Dardoch",
+    "name": "Joshua Hartnett",
+    "ign": "Dardoch",
+    "role": "TOP",
+    "team": "Dignitas",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.2",
+      "cs_per_min": "9.6",
+      "kill_participation": "68%",
+      "win_rate": "60%"
     },
     "highlights": []
   },
