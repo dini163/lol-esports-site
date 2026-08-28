@@ -1964,29 +1964,6 @@
     },
     "highlights": []
   },
-  "Casting": {
-    "id": "Casting",
-    "name": "Minje Shin",
-    "ign": "Casting",
-    "role": "TOP",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769091238011_LCK_BRO_Casting_F.png",
-    "bio": "Casting is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "4.6",
-      "cs_per_min": "8.9",
-      "kill_participation": "66%",
-      "win_rate": "66%"
-    },
-    "highlights": []
-  },
   "DDahyuk": {
     "id": "DDahyuk",
     "name": "Minhyuk Ahn",
@@ -2007,6 +1984,29 @@
       "cs_per_min": "10.0",
       "kill_participation": "73%",
       "win_rate": "64%"
+    },
+    "highlights": []
+  },
+  "Casting": {
+    "id": "Casting",
+    "name": "Minje Shin",
+    "ign": "Casting",
+    "role": "TOP",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769091238011_LCK_BRO_Casting_F.png",
+    "bio": "Casting is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "4.6",
+      "cs_per_min": "8.9",
+      "kill_participation": "66%",
+      "win_rate": "66%"
     },
     "highlights": []
   },
@@ -4108,6 +4108,29 @@
       }
     ]
   },
+  "Cypher": {
+    "id": "Cypher",
+    "name": "Yoojun Kim",
+    "ign": "Cypher",
+    "role": "BOTTOM",
+    "team": "T1",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769083165855_image6-2026-01-22T125855.379.png",
+    "bio": "Cypher is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "3.4",
+      "cs_per_min": "9.5",
+      "kill_participation": "78%",
+      "win_rate": "59%"
+    },
+    "highlights": []
+  },
   "Eclipse": {
     "id": "Eclipse",
     "name": "Minjun Kim",
@@ -4151,29 +4174,6 @@
       "cs_per_min": "9.3",
       "kill_participation": "72%",
       "win_rate": "67%"
-    },
-    "highlights": []
-  },
-  "Cypher": {
-    "id": "Cypher",
-    "name": "Yoojun Kim",
-    "ign": "Cypher",
-    "role": "BOTTOM",
-    "team": "T1",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769083165855_image6-2026-01-22T125855.379.png",
-    "bio": "Cypher is a professional League of Legends player competing in the LCK as the BOTTOM for T1. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "3.4",
-      "cs_per_min": "9.5",
-      "kill_participation": "78%",
-      "win_rate": "59%"
     },
     "highlights": []
   },
@@ -4959,15 +4959,15 @@
     },
     "highlights": []
   },
-  "Photon": {
-    "id": "Photon",
-    "name": "Gyutae Kyeong",
-    "ign": "Photon",
+  "Dardoch": {
+    "id": "Dardoch",
+    "name": "Joshua Hartnett",
+    "ign": "Dardoch",
     "role": "TOP",
     "team": "Dignitas",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/1769149727754_AME_LCS26S1_DIG_PHOTON.png",
-    "bio": "Photon is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Aatrox",
       "Jax",
@@ -4975,10 +4975,10 @@
       "Renekton"
     ],
     "stats": {
-      "kda": "5.5",
-      "cs_per_min": "8.2",
-      "kill_participation": "74%",
-      "win_rate": "61%"
+      "kda": "3.2",
+      "cs_per_min": "9.6",
+      "kill_participation": "68%",
+      "win_rate": "60%"
     },
     "highlights": []
   },
@@ -5005,15 +5005,15 @@
     },
     "highlights": []
   },
-  "Dardoch": {
-    "id": "Dardoch",
-    "name": "Joshua Hartnett",
-    "ign": "Dardoch",
+  "Photon": {
+    "id": "Photon",
+    "name": "Gyutae Kyeong",
+    "ign": "Photon",
     "role": "TOP",
     "team": "Dignitas",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1769149727754_AME_LCS26S1_DIG_PHOTON.png",
+    "bio": "Photon is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Aatrox",
       "Jax",
@@ -5021,10 +5021,10 @@
       "Renekton"
     ],
     "stats": {
-      "kda": "3.2",
-      "cs_per_min": "9.6",
-      "kill_participation": "68%",
-      "win_rate": "60%"
+      "kda": "5.5",
+      "cs_per_min": "8.2",
+      "kill_participation": "74%",
+      "win_rate": "61%"
     },
     "highlights": []
   },
@@ -6201,29 +6201,6 @@
     },
     "highlights": []
   },
-  "Jwei": {
-    "id": "Jwei",
-    "name": "JUN WEI SUN",
-    "ign": "Jwei",
-    "role": "SUPPORT",
-    "team": "WeiboGaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348478468_jwei.png",
-    "bio": "Jwei is a professional League of Legends player competing in the LPL as the SUPPORT for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.0",
-      "kill_participation": "71%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Moham": {
     "id": "Moham",
     "name": "Jaehun Jeong",
@@ -6247,26 +6224,26 @@
     },
     "highlights": []
   },
-  "Flandre": {
-    "id": "Flandre",
-    "name": "Xuan-jun Li",
-    "ign": "Flandre",
-    "role": "TOP",
-    "team": "BILIBILI GAMING",
+  "Jwei": {
+    "id": "Jwei",
+    "name": "JUN WEI SUN",
+    "ign": "Jwei",
+    "role": "SUPPORT",
+    "team": "WeiboGaming",
     "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
-    "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1768348478468_jwei.png",
+    "bio": "Jwei is a professional League of Legends player competing in the LPL as the SUPPORT for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
     ],
     "stats": {
-      "kda": "5.7",
-      "cs_per_min": "9.8",
-      "kill_participation": "67%",
-      "win_rate": "48%"
+      "kda": "3.5",
+      "cs_per_min": "9.0",
+      "kill_participation": "71%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -6290,6 +6267,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "75%",
       "win_rate": "62%"
+    },
+    "highlights": []
+  },
+  "Flandre": {
+    "id": "Flandre",
+    "name": "Xuan-jun Li",
+    "ign": "Flandre",
+    "role": "TOP",
+    "team": "BILIBILI GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
+    "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "9.8",
+      "kill_participation": "67%",
+      "win_rate": "48%"
     },
     "highlights": []
   },

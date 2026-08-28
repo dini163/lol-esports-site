@@ -181,8 +181,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "players": [
-      "Casting",
       "DDahyuk",
+      "Casting",
       "GIDEON",
       "Dinai",
       "Pungyeon",
@@ -262,8 +262,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "players": [
-      "DDahyuk",
       "Casting",
+      "DDahyuk",
       "GIDEON",
       "Dinai",
       "Pungyeon",
@@ -344,8 +344,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "players": [
-      "Kingen",
       "Janus",
+      "Kingen",
       "MihawK",
       "Sponge",
       "Scout",
@@ -353,8 +353,8 @@
       "Calix",
       "Diable",
       "Lucy",
-      "Lehends",
-      "Pleata"
+      "Pleata",
+      "Lehends"
     ]
   },
   {
@@ -475,9 +475,9 @@
       "Oner",
       "Guti",
       "Faker",
+      "Cypher",
       "Eclipse",
       "Jinbeom",
-      "Cypher",
       "Peyz",
       "Cloud ",
       "Keria"
@@ -566,9 +566,9 @@
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/DIG-FullonDark.png",
     "players": [
-      "Photon",
-      "Denathor",
       "Dardoch",
+      "Denathor",
+      "Photon",
       "eXyu",
       "Palafox",
       "FBI",
@@ -762,8 +762,8 @@
       "Xiaohao",
       "Xiaohu",
       "Elk",
-      "Jwei",
-      "Moham"
+      "Moham",
+      "Jwei"
     ]
   },
   {
@@ -773,8 +773,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
     "players": [
-      "Flandre",
       "Wenbo",
+      "Flandre",
       "Bin",
       "Xun",
       "Knight",
