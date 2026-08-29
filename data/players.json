@@ -6684,29 +6684,6 @@
     },
     "highlights": []
   },
-  "Armao": {
-    "id": "Armao",
-    "name": "Jonathan Armao",
-    "ign": "Armao",
-    "role": "JUNGLE",
-    "team": "LYON",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/1687315630724_EG_ARMAO.png",
-    "bio": "Armao is a professional League of Legends player competing in the LCS as the JUNGLE for LYON. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "LeeSin",
-      "Viego",
-      "Sejuani",
-      "Graves"
-    ],
-    "stats": {
-      "kda": "4.4",
-      "cs_per_min": "9.3",
-      "kill_participation": "64%",
-      "win_rate": "65%"
-    },
-    "highlights": []
-  },
   "Inspired": {
     "id": "Inspired",
     "name": "Kacper Sloma",

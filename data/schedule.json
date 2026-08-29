@@ -1,24 +1,5 @@
 [
   {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "RMD vs PAIN",
-    "team_a": {
-      "name": "RMD Gaming",
-      "code": "RMD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
-    },
-    "team_b": {
-      "name": "paiN Gaming Academy",
-      "code": "PAIN",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774199812580_pain_w.png"
-    },
-    "start_time": "2026-08-25T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "BRO vs KT",
@@ -747,17 +728,17 @@
     "team_a": {
       "name": "Cupid Esports",
       "code": "CPD",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-08-28T21:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -766,17 +747,17 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
       "name": "NRG",
       "code": "NRG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
     },
     "start_time": "2026-08-29T00:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCP",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
     "start_time": "2026-09-01T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "TBD vs HLE",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
+    "start_time": "2026-09-02T08:00:00Z",
     "status": "upcoming"
   }
 ]
