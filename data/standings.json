@@ -458,10 +458,10 @@
         "team": "Karmine Corp",
         "teamCode": "KC",
         "teamImage": "https://static.lolesports.com/teams/1704714951336_KC.png",
-        "wins": 8,
+        "wins": 9,
         "losses": 0,
         "winrate": "100%",
-        "gameWins": 16,
+        "gameWins": 18,
         "gameLosses": 2
       },
       {
@@ -510,17 +510,6 @@
       },
       {
         "rank": 6,
-        "team": "SK Gaming",
-        "teamCode": "SK",
-        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-        "wins": 3,
-        "losses": 5,
-        "winrate": "38%",
-        "gameWins": 7,
-        "gameLosses": 11
-      },
-      {
-        "rank": 6,
         "team": "Movistar KOI",
         "teamCode": "MKOI",
         "teamImage": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
@@ -540,6 +529,17 @@
         "winrate": "38%",
         "gameWins": 9,
         "gameLosses": 10
+      },
+      {
+        "rank": 8,
+        "team": "SK Gaming",
+        "teamCode": "SK",
+        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+        "wins": 3,
+        "losses": 6,
+        "winrate": "33%",
+        "gameWins": 7,
+        "gameLosses": 13
       },
       {
         "rank": 9,
