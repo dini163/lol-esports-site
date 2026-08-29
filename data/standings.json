@@ -488,25 +488,25 @@
       },
       {
         "rank": 4,
+        "team": "Natus Vincere",
+        "teamCode": "NAVI",
+        "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
+        "wins": 5,
+        "losses": 4,
+        "winrate": "56%",
+        "gameWins": 11,
+        "gameLosses": 10
+      },
+      {
+        "rank": 5,
         "team": "GIANTX",
         "teamCode": "GX",
         "teamImage": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
         "wins": 4,
-        "losses": 3,
-        "winrate": "57%",
-        "gameWins": 10,
-        "gameLosses": 8
-      },
-      {
-        "rank": 5,
-        "team": "Natus Vincere",
-        "teamCode": "NAVI",
-        "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
-        "wins": 4,
         "losses": 4,
         "winrate": "50%",
-        "gameWins": 9,
-        "gameLosses": 9
+        "gameWins": 11,
+        "gameLosses": 10
       },
       {
         "rank": 6,

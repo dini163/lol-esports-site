@@ -1,43 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "BDG vs B2U",
-    "team_a": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "team_b": {
-      "name": "Bardicted to U",
-      "code": "B2U",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784036794871_b2ulogga1.png"
-    },
-    "start_time": "2026-08-26T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "CG vs ATA",
-    "team_a": {
-      "name": "Colossal Gaming",
-      "code": "CG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
-    },
-    "team_b": {
-      "name": "Aeterna Esports",
-      "code": "ATA",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
-    },
-    "start_time": "2026-08-26T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Esports Balkan League",
     "league_code": "esp",
     "match": "OTF vs TSC",
@@ -747,17 +709,17 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-08-29T17:15:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -766,36 +728,36 @@
     "team_a": {
       "name": "Fluxo W7M",
       "code": "FX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1766161431111_LogoColorida.png"
     },
     "team_b": {
       "name": "LOS",
       "code": "LOS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
     },
     "start_time": "2026-08-29T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "SR vs TL",
+    "match": "TL vs SR",
     "team_a": {
-      "name": "Shopify Rebellion",
-      "code": "SR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-    },
-    "team_b": {
       "name": "Team Liquid Alienware",
       "code": "TL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
+    "team_b": {
+      "name": "Shopify Rebellion",
+      "code": "SR",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+    },
     "start_time": "2026-08-29T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1515,6 +1477,44 @@
       "code": "BDG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
+    },
+    "start_time": "2026-09-02T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "TTS vs ZENA",
+    "team_a": {
+      "name": "TITANS",
+      "code": "TTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
+    },
+    "team_b": {
+      "name": "Zena Esports",
+      "code": "ZENA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
+    },
+    "start_time": "2026-09-02T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "La Ligue Fran\u00e7aise",
+    "league_code": "la ",
+    "match": "TBD vs GL",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "start_time": "2026-09-02T16:00:00Z",
     "status": "upcoming"
