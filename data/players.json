@@ -4959,29 +4959,6 @@
     },
     "highlights": []
   },
-  "Dardoch": {
-    "id": "Dardoch",
-    "name": "Joshua Hartnett",
-    "ign": "Dardoch",
-    "role": "TOP",
-    "team": "Dignitas",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "9.6",
-      "kill_participation": "68%",
-      "win_rate": "60%"
-    },
-    "highlights": []
-  },
   "Denathor": {
     "id": "Denathor",
     "name": "Noah Erikson",
@@ -5002,6 +4979,29 @@
       "cs_per_min": "9.3",
       "kill_participation": "72%",
       "win_rate": "57%"
+    },
+    "highlights": []
+  },
+  "Dardoch": {
+    "id": "Dardoch",
+    "name": "Joshua Hartnett",
+    "ign": "Dardoch",
+    "role": "TOP",
+    "team": "Dignitas",
+    "region": "LCS",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.2",
+      "cs_per_min": "9.6",
+      "kill_participation": "68%",
+      "win_rate": "60%"
     },
     "highlights": []
   },
@@ -6201,29 +6201,6 @@
     },
     "highlights": []
   },
-  "Moham": {
-    "id": "Moham",
-    "name": "Jaehun Jeong",
-    "ign": "Moham",
-    "role": "SUPPORT",
-    "team": "WeiboGaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348738615_moham.png",
-    "bio": "Moham is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.8",
-      "kill_participation": "76%",
-      "win_rate": "58%"
-    },
-    "highlights": []
-  },
   "Jwei": {
     "id": "Jwei",
     "name": "JUN WEI SUN",
@@ -6247,26 +6224,26 @@
     },
     "highlights": []
   },
-  "Wenbo": {
-    "id": "Wenbo",
-    "name": "Wenbo Yang",
-    "ign": "Wenbo",
-    "role": "TOP",
-    "team": "BILIBILI GAMING",
+  "Moham": {
+    "id": "Moham",
+    "name": "Jaehun Jeong",
+    "ign": "Moham",
+    "role": "SUPPORT",
+    "team": "WeiboGaming",
     "region": "LPL",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Wenbo is a professional League of Legends player competing in the LPL as the TOP for BILIBILI GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1768348738615_moham.png",
+    "bio": "Moham is a professional League of Legends player competing in the LPL as the SUPPORT for WeiboGaming. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
     ],
     "stats": {
-      "kda": "3.7",
-      "cs_per_min": "8.6",
-      "kill_participation": "75%",
-      "win_rate": "62%"
+      "kda": "3.5",
+      "cs_per_min": "9.8",
+      "kill_participation": "76%",
+      "win_rate": "58%"
     },
     "highlights": []
   },
@@ -6290,6 +6267,29 @@
       "cs_per_min": "9.8",
       "kill_participation": "67%",
       "win_rate": "48%"
+    },
+    "highlights": []
+  },
+  "Wenbo": {
+    "id": "Wenbo",
+    "name": "Wenbo Yang",
+    "ign": "Wenbo",
+    "role": "TOP",
+    "team": "BILIBILI GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Wenbo is a professional League of Legends player competing in the LPL as the TOP for BILIBILI GAMING. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.7",
+      "cs_per_min": "8.6",
+      "kill_participation": "75%",
+      "win_rate": "62%"
     },
     "highlights": []
   },
