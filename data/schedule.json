@@ -728,7 +728,7 @@
     "team_a": {
       "name": "FURIA",
       "code": "FUR",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "team_b": {
@@ -738,45 +738,45 @@
       "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
     },
     "start_time": "2026-08-30T19:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "LYON vs TL",
+    "match": "TL vs LYON",
     "team_a": {
-      "name": "LYON",
-      "code": "LYON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-    },
-    "team_b": {
       "name": "Team Liquid Alienware",
       "code": "TL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
+    "team_b": {
+      "name": "LYON",
+      "code": "LYON",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    },
     "start_time": "2026-08-30T20:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "C9 vs SR",
+    "match": "SR vs C9",
     "team_a": {
-      "name": "Cloud9 Kia",
-      "code": "C9",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-    },
-    "team_b": {
       "name": "Shopify Rebellion",
       "code": "SR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
+    "team_b": {
+      "name": "Cloud9 Kia",
+      "code": "C9",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
     "start_time": "2026-08-30T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
     "start_time": "2026-09-03T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "TCL",
+    "league_code": "tcl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-03T15:00:00Z",
     "status": "upcoming"
   }
 ]
