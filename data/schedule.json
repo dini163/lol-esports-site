@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "BFX vs NS",
-    "team_a": {
-      "name": "BNK FEARX",
-      "code": "BFX",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-    },
-    "team_b": {
-      "name": "NONGSHIM RED FORCE",
-      "code": "NS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "start_time": "2026-08-27T08:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "VLR vs WLG",
-    "team_a": {
-      "name": "Valerion",
-      "code": "VLR",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
-    },
-    "team_b": {
-      "name": "WLGaming",
-      "code": "WLG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
-    },
-    "start_time": "2026-08-27T13:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "NBS vs MVE",
@@ -728,17 +690,17 @@
     "team_a": {
       "name": "paiN Gaming",
       "code": "PAIN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "team_b": {
       "name": "Vivo Keyd Stars",
       "code": "VKS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
     },
     "start_time": "2026-08-30T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -747,17 +709,17 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
       "name": "Fnatic",
       "code": "FNC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-30T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -776,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
     },
     "start_time": "2026-08-30T19:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-09-03T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "NBS vs BRT",
+    "team_a": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "team_b": {
+      "name": "BRUTE",
+      "code": "BRT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
+    },
+    "start_time": "2026-09-03T14:00:00Z",
     "status": "upcoming"
   }
 ]
