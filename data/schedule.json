@@ -1,62 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "BBK vs HYPE",
-    "team_a": {
-      "name": "Bubliki",
-      "code": "BBK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
-    },
-    "team_b": {
-      "name": "Hyperion",
-      "code": "HYPE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1784499418127_hyperionpng.png"
-    },
-    "start_time": "2026-08-26T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "7REX vs KBM",
-    "team_a": {
-      "name": "7REX Team",
-      "code": "7REX",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1770800891074_logo-7rex-vetor.png"
-    },
-    "team_b": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "start_time": "2026-08-26T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CNV vs DOG",
-    "team_a": {
-      "name": "Conviction",
-      "code": "CNV",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
-    },
-    "team_b": {
-      "name": "Dorado Gaming",
-      "code": "DOG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1750891473240_Dorado_Gaminglogo_square1.png"
-    },
-    "start_time": "2026-08-26T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK",
     "league_code": "lck",
     "match": "BFX vs NS",
@@ -734,7 +677,7 @@
     "team_b": {
       "name": "Xi'an Team WE",
       "code": "WE",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
     },
     "start_time": "2026-08-30T09:00:00Z",
@@ -747,7 +690,7 @@
     "team_a": {
       "name": "Team Vitality",
       "code": "VIT",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
     "team_b": {
@@ -757,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png"
     },
     "start_time": "2026-08-30T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -772,11 +715,11 @@
     "team_b": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "start_time": "2026-08-30T14:15:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -795,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
     },
     "start_time": "2026-08-30T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -804,7 +747,7 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
@@ -814,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
     },
     "start_time": "2026-08-30T16:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
     },
     "start_time": "2026-09-02T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NACL",
+    "league_code": "nac",
+    "match": "CNV vs NRG",
+    "team_a": {
+      "name": "Conviction",
+      "code": "CNV",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675158238331_Conviction.png"
+    },
+    "team_b": {
+      "name": "NRG",
+      "code": "NRG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
+    },
+    "start_time": "2026-09-02T21:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK",
+    "league_code": "lck",
+    "match": "DK vs BFX",
+    "team_a": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "BNK FEARX",
+      "code": "BFX",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+    },
+    "start_time": "2026-09-03T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "WE vs BLG",
+    "team_a": {
+      "name": "Xi'an Team WE",
+      "code": "WE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "team_b": {
+      "name": "BILIBILI GAMING",
+      "code": "BLG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "start_time": "2026-09-03T09:00:00Z",
     "status": "upcoming"
   }
 ]
