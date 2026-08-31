@@ -1,43 +1,5 @@
 [
   {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "TTS vs EKO",
-    "team_a": {
-      "name": "TITANS",
-      "code": "TTS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774831853783_TTS_w.png"
-    },
-    "team_b": {
-      "name": "EKO Esports",
-      "code": "EKO",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704283880911_EKO_Esports_Emblem_Logo_Main.png"
-    },
-    "start_time": "2026-08-27T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "TSC vs LLH",
-    "team_a": {
-      "name": "The Secret Club",
-      "code": "TSC",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
-    },
-    "team_b": {
-      "name": "Lenovo Legion Honv\u00e9d",
-      "code": "LLH",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
-    },
-    "start_time": "2026-08-27T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "ONT vs BG",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Ruddy Corporation",
       "code": "RUD",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "start_time": "2026-08-31T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -766,17 +728,17 @@
     "team_a": {
       "name": "RMD Gaming",
       "code": "RMD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1774199461844_rdm_c.png"
     },
     "team_b": {
       "name": "INTZ",
       "code": "INTZ",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770801521472_LOGOINTZ2026COMESTRELAS.png"
     },
     "start_time": "2026-08-31T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LRN",
@@ -1180,18 +1142,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs BDG",
+    "match": "BDG vs DEER",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Bulldog Esports",
       "code": "BDG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
+    },
+    "team_b": {
+      "name": "Deer Gaming",
+      "code": "DEER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
     },
     "start_time": "2026-09-02T16:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-09-03T16:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-03T17:00:00Z",
     "status": "upcoming"
   }
 ]
