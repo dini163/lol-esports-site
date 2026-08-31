@@ -1,24 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "DP vs DIA",
-    "team_a": {
-      "name": "Dark Passage",
-      "code": "DP",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
-    },
-    "team_b": {
-      "name": "DIA Ozarox Esports",
-      "code": "DIA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1775042249976_OzarOXLogo_white.png"
-    },
-    "start_time": "2026-08-27T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "BIG vs G2N",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "kt Challengers",
       "code": "KT",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
@@ -757,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-31T05:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "NS Challengers",
       "code": "NS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-08-31T08:30:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NLC",
@@ -876,18 +857,18 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "TP vs WLG",
+    "match": "VLR vs GSMC",
     "team_a": {
-      "name": "Team Phantasma",
-      "code": "TP",
+      "name": "Valerion",
+      "code": "VLR",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
+      "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
     },
     "team_b": {
-      "name": "WLGaming",
-      "code": "WLG",
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-09-01T13:00:00Z",
     "status": "upcoming"
@@ -1009,37 +990,18 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "TBD vs TBD",
+    "match": "FEC vs SNSH",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Frites Esports Club",
+      "code": "FEC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Senshi eSports",
+      "code": "SNSH",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "start_time": "2026-09-01T16:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "TBD vs TBD",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "start_time": "2026-09-01T16:00:00Z",
     "status": "upcoming"
@@ -1080,6 +1042,25 @@
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-09-01T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "BAN vs MCON",
+    "team_a": {
+      "name": "The Bandits",
+      "code": "BAN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
+    },
+    "team_b": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
+    },
+    "start_time": "2026-09-01T18:00:00Z",
     "status": "upcoming"
   },
   {
@@ -1142,18 +1123,18 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "GSMC vs VLR",
+    "match": "TP vs WLG",
     "team_a": {
-      "name": "Gamespace M.C.",
-      "code": "GSMC",
+      "name": "Team Phantasma",
+      "code": "TP",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "team_b": {
-      "name": "Valerion",
-      "code": "VLR",
+      "name": "WLGaming",
+      "code": "WLG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
+      "image": "https://static.lolesports.com/teams/WLGlogo.png"
     },
     "start_time": "2026-09-02T13:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-09-03T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "CG vs HMB",
+    "team_a": {
+      "name": "Colossal Gaming",
+      "code": "CG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "team_b": {
+      "name": "HMBLE",
+      "code": "HMB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
+    },
+    "start_time": "2026-09-03T16:00:00Z",
     "status": "upcoming"
   }
 ]
