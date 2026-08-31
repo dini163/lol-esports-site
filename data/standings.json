@@ -691,26 +691,26 @@
         "gameLosses": 6
       },
       {
-        "rank": 4,
+        "rank": 3,
+        "team": "Cloud9 Kia",
+        "teamCode": "C9",
+        "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+        "wins": 4,
+        "losses": 2,
+        "winrate": "67%",
+        "gameWins": 8,
+        "gameLosses": 7
+      },
+      {
+        "rank": 5,
         "team": "Shopify Rebellion",
         "teamCode": "SR",
         "teamImage": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
         "wins": 3,
-        "losses": 2,
-        "winrate": "60%",
-        "gameWins": 7,
-        "gameLosses": 6
-      },
-      {
-        "rank": 4,
-        "team": "Cloud9 Kia",
-        "teamCode": "C9",
-        "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-        "wins": 3,
-        "losses": 2,
-        "winrate": "60%",
-        "gameWins": 6,
-        "gameLosses": 6
+        "losses": 3,
+        "winrate": "50%",
+        "gameWins": 8,
+        "gameLosses": 8
       },
       {
         "rank": 6,

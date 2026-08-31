@@ -1,24 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "LDS vs UP2U",
-    "team_a": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "team_b": {
-      "name": "Up2umedia Cebulaki",
-      "code": "UP2U",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785416188387_White_Cebulaki1.png"
-    },
-    "start_time": "2026-08-27T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "DP vs DIA",
@@ -753,11 +734,11 @@
     "team_b": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-08-30T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
     "start_time": "2026-08-31T05:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1515,6 +1496,25 @@
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "start_time": "2026-09-03T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "TBD vs DOC",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "DOCISK",
+      "code": "DOC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
     },
     "start_time": "2026-09-03T15:00:00Z",
     "status": "upcoming"
