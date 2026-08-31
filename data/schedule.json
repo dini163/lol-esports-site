@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "NBS vs MVE",
-    "team_a": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "team_b": {
-      "name": "UP2U Meavedron",
-      "code": "MVE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
-    },
-    "start_time": "2026-08-27T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "LDS vs UP2U",
@@ -766,13 +747,13 @@
     "team_a": {
       "name": "Shopify Rebellion",
       "code": "SR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
     "team_b": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-08-30T23:00:00Z",
@@ -1515,6 +1496,25 @@
       "code": "TBD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-03T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "TBD vs BIG",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-09-03T15:00:00Z",
     "status": "upcoming"

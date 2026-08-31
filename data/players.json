@@ -6201,29 +6201,6 @@
     },
     "highlights": []
   },
-  "Jwei": {
-    "id": "Jwei",
-    "name": "JUN WEI SUN",
-    "ign": "Jwei",
-    "role": "SUPPORT",
-    "team": "WeiboGaming",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348478468_jwei.png",
-    "bio": "Jwei is a professional League of Legends player competing in the LPL as the SUPPORT for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "3.5",
-      "cs_per_min": "9.0",
-      "kill_participation": "71%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Moham": {
     "id": "Moham",
     "name": "Jaehun Jeong",
@@ -6247,26 +6224,26 @@
     },
     "highlights": []
   },
-  "Flandre": {
-    "id": "Flandre",
-    "name": "Xuan-jun Li",
-    "ign": "Flandre",
-    "role": "TOP",
-    "team": "BILIBILI GAMING",
+  "Jwei": {
+    "id": "Jwei",
+    "name": "JUN WEI SUN",
+    "ign": "Jwei",
+    "role": "SUPPORT",
+    "team": "WeiboGaming",
     "region": "LPL",
-    "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
-    "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
+    "image": "http://static.lolesports.com/players/1768348478468_jwei.png",
+    "bio": "Jwei is a professional League of Legends player competing in the LPL as the SUPPORT for EDWARD GAMING. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
+      "Thresh",
+      "Lulu",
+      "Rakan",
+      "Nautilus"
     ],
     "stats": {
-      "kda": "5.7",
-      "cs_per_min": "9.8",
-      "kill_participation": "67%",
-      "win_rate": "48%"
+      "kda": "3.5",
+      "cs_per_min": "9.0",
+      "kill_participation": "71%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -6290,6 +6267,29 @@
       "cs_per_min": "8.6",
       "kill_participation": "75%",
       "win_rate": "62%"
+    },
+    "highlights": []
+  },
+  "Flandre": {
+    "id": "Flandre",
+    "name": "Xuan-jun Li",
+    "ign": "Flandre",
+    "role": "TOP",
+    "team": "BILIBILI GAMING",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1768348080942_flandre.png",
+    "bio": "Flandre is a professional League of Legends player competing in the LPL as the TOP for Anyone's Legend. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.7",
+      "cs_per_min": "9.8",
+      "kill_participation": "67%",
+      "win_rate": "48%"
     },
     "highlights": []
   },
