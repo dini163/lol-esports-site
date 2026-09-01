@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "ONT vs BG",
-    "team_a": {
-      "name": "Onion Team",
-      "code": "ONT",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1770636854068_image.png"
-    },
-    "team_b": {
-      "name": "Bohemian Guardians",
-      "code": "BG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
-    },
-    "start_time": "2026-08-27T16:30:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "DV1 vs ANO",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-09-01T08:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hellenic Legends League",
@@ -895,18 +876,18 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "KCB vs TLNP",
+    "match": "TLNP vs KCB",
     "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
+    },
+    "team_b": {
+      "name": "Karmine Corp Blue",
+      "code": "KCB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "start_time": "2026-09-01T16:00:00Z",
     "status": "upcoming"
@@ -1515,6 +1496,25 @@
       "code": "DRM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
+    },
+    "start_time": "2026-09-03T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "TBD vs ZNT",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "ZennIT",
+      "code": "ZNT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "start_time": "2026-09-03T18:00:00Z",
     "status": "upcoming"

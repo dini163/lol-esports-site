@@ -498,7 +498,7 @@
         "gameLosses": 11
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": "Natus Vincere",
         "teamCode": "NAVI",
         "teamImage": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
@@ -521,17 +521,6 @@
       },
       {
         "rank": 7,
-        "team": "SK Gaming",
-        "teamCode": "SK",
-        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-        "wins": 3,
-        "losses": 6,
-        "winrate": "33%",
-        "gameWins": 7,
-        "gameLosses": 13
-      },
-      {
-        "rank": 7,
         "team": "Fnatic",
         "teamCode": "FNC",
         "teamImage": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
@@ -540,6 +529,17 @@
         "winrate": "33%",
         "gameWins": 10,
         "gameLosses": 12
+      },
+      {
+        "rank": 8,
+        "team": "SK Gaming",
+        "teamCode": "SK",
+        "teamImage": "https://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+        "wins": 3,
+        "losses": 6,
+        "winrate": "33%",
+        "gameWins": 7,
+        "gameLosses": 13
       },
       {
         "rank": 9,
