@@ -1,43 +1,5 @@
 [
   {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "FNC vs VIT",
-    "team_a": {
-      "name": "Fnatic",
-      "code": "FNC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png"
-    },
-    "team_b": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "start_time": "2026-08-28T17:15:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "CPD vs MU",
-    "team_a": {
-      "name": "Cupid Esports",
-      "code": "CPD",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-08-28T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "WU vs NRG",
@@ -671,17 +633,17 @@
     "team_a": {
       "name": "Karmine Corp Blue",
       "code": "KCB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
     },
     "team_b": {
       "name": "TLN Pirates",
       "code": "TLNP",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "start_time": "2026-09-01T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -734,11 +696,11 @@
     "team_b": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "start_time": "2026-09-01T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "mCon Esports",
       "code": "MCON",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
     },
     "team_b": {
@@ -757,45 +719,45 @@
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-09-01T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LRS",
     "league_code": "lrs",
-    "match": "MAZ vs GLE",
+    "match": "GLE vs MAZ",
     "team_a": {
-      "name": "Maze Gaming",
-      "code": "MAZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
-    },
-    "team_b": {
       "name": "Golden Lions",
       "code": "GLE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
+    "team_b": {
+      "name": "Maze Gaming",
+      "code": "MAZ",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
+    },
     "start_time": "2026-09-01T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "KBM vs NERD",
+    "match": "NERD vs KBM",
     "team_a": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "team_b": {
       "name": "Ei Nerd Esports",
       "code": "NERD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199508230_nerd_w.png"
     },
+    "team_b": {
+      "name": "KaBuM! Eports",
+      "code": "KBM",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
+    },
     "start_time": "2026-09-01T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -952,12 +914,12 @@
   {
     "league": "La Ligue Fran\u00e7aise",
     "league_code": "la ",
-    "match": "TBD vs GL",
+    "match": "TLNP vs GL",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "TLN Pirates",
+      "code": "TLNP",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
     },
     "team_b": {
       "name": "Galions",
@@ -1256,7 +1218,7 @@
   {
     "league": "Rift Legends",
     "league_code": "rif",
-    "match": "TBD vs TBD",
+    "match": "TBD vs LDS",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1264,10 +1226,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LODIS",
+      "code": "LDS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
     },
     "start_time": "2026-09-03T17:00:00Z",
     "status": "upcoming"
@@ -1465,18 +1427,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TES vs NIP",
+    "match": "IG vs TES",
     "team_a": {
+      "name": "Invictus Gaming",
+      "code": "IG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    },
+    "team_b": {
       "name": "TOP ESPORTS",
       "code": "TES",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "team_b": {
-      "name": "Shenzhen NINJAS IN PYJAMAS",
-      "code": "NIP",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "start_time": "2026-09-05T06:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
     },
     "start_time": "2026-09-05T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "NIP vs JDG",
+    "team_a": {
+      "name": "Shenzhen NINJAS IN PYJAMAS",
+      "code": "NIP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
+    },
+    "team_b": {
+      "name": "Beijing JDG Esports",
+      "code": "JDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1627457924722_29.png"
+    },
+    "start_time": "2026-09-05T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "VIT vs G2",
+    "team_a": {
+      "name": "Team Vitality",
+      "code": "VIT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-09-05T10:00:00Z",
     "status": "upcoming"
   }
 ]
