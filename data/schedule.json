@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Golden Lions",
       "code": "GLE",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1643036820055_maze-ColorLight.png"
     },
     "start_time": "2026-09-01T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "KaBuM! Eports",
       "code": "KBM",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
     "start_time": "2026-09-01T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
