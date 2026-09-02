@@ -146,10 +146,10 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "players": [
-      "Janus",
       "Kingen",
-      "Sponge",
+      "Janus",
       "MihawK",
+      "Sponge",
       "Calix",
       "Scout",
       "SeTab",
@@ -490,8 +490,8 @@
     "region": "LEC",
     "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
     "players": [
-      "Empyros",
       "Soboro",
+      "Empyros",
       "Razork",
       "Vladi",
       "Upset",
@@ -507,10 +507,10 @@
     "players": [
       "Thanatos",
       "Blaber",
-      "Loki ",
       "APA",
-      "Tactical",
+      "Loki ",
       "Zven",
+      "Tactical",
       "Vulcan"
     ]
   },
@@ -523,8 +523,8 @@
     "players": [
       "Zdz",
       "Jiejie",
-      "sinian",
       "BuLLDoG",
+      "sinian",
       "Leave",
       "Parukia"
     ]
@@ -566,9 +566,9 @@
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/DIG-FullonDark.png",
     "players": [
-      "Dardoch",
-      "Denathor",
       "Photon",
+      "Denathor",
+      "Dardoch",
       "eXyu",
       "Palafox",
       "FBI",
@@ -626,12 +626,12 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
-      "Cuzz",
+      "Sero",
       "Sylvie",
-      "Hwichan",
+      "Cuzz",
       "Bdd",
+      "Hwichan",
       "Jiwoo",
       "FenRir",
       "Ghost",
@@ -674,8 +674,8 @@
       "Winner",
       "AKaJe",
       "Ucal",
-      "LazyFeel",
       "Aiming",
+      "LazyFeel",
       "Minous",
       "Andil"
     ]
@@ -715,8 +715,8 @@
       "TheShy",
       "Wei",
       "Rookie",
-      "Assum",
       "JiaQi",
+      "Assum",
       "Meiko"
     ]
   },
@@ -728,12 +728,12 @@
     "image": "https://static.lolesports.com/teams/1717487697003_LNGlogo.png",
     "players": [
       "sheer",
-      "Croco",
       "Weiwei",
+      "Croco",
       "Nia1",
       "1xn",
-      "MISSING",
-      "Ycx"
+      "Ycx",
+      "MISSING"
     ]
   },
   {
@@ -744,8 +744,8 @@
     "image": "https://static.lolesports.com/teams/1627457924722_29.png",
     "players": [
       "Xiaoxu",
-      "xiaofang",
       "JunJia",
+      "xiaofang",
       "HongQ",
       "GALA",
       "Vampire"
@@ -789,8 +789,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
     "players": [
-      "ZUIAN",
       "369",
+      "ZUIAN",
       "Tian",
       "Creme",
       "JackeyLove",
