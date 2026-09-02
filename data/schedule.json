@@ -876,18 +876,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "BDG vs DEER",
+    "match": "DEER vs BDG",
     "team_a": {
-      "name": "Bulldog Esports",
-      "code": "BDG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
-    },
-    "team_b": {
       "name": "Deer Gaming",
       "code": "DEER",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
+    },
+    "team_b": {
+      "name": "Bulldog Esports",
+      "code": "BDG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206647522_BDG1.png"
     },
     "start_time": "2026-09-02T16:00:00Z",
     "status": "upcoming"
@@ -971,18 +971,18 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "DMG vs VER",
+    "match": "VER vs DMG",
     "team_a": {
-      "name": "DMG Esports",
-      "code": "DMG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
-    },
-    "team_b": {
       "name": "Verdant",
       "code": "VER",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
+    "team_b": {
+      "name": "DMG Esports",
+      "code": "DMG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736207774024_DMG1.png"
     },
     "start_time": "2026-09-02T18:00:00Z",
     "status": "upcoming"
