@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "GEN vs KT",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "kt Rolster",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-09-01T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "VLR vs GSMC",
@@ -605,7 +586,7 @@
       "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-09-03T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Prime League",
@@ -658,11 +639,11 @@
     "team_b": {
       "name": "HMBLE",
       "code": "HMB",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767616780850_HMBLE_Submark_White.png"
     },
     "start_time": "2026-09-03T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "DV1 inStreamly",
       "code": "DV1",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
     },
     "start_time": "2026-09-03T17:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -728,13 +709,13 @@
     "team_a": {
       "name": "Dominion Goblins",
       "code": "GOB",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "team_b": {
       "name": "Dream Esports",
       "code": "DRM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
     },
     "start_time": "2026-09-03T18:00:00Z",
@@ -747,36 +728,36 @@
     "team_a": {
       "name": "ZennIT",
       "code": "ZNT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1671442841824_ZennIT.png"
     },
     "team_b": {
       "name": "The Bandits",
       "code": "BAN",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-09-03T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "CONT vs MU",
+    "match": "MU vs CONT",
     "team_a": {
-      "name": "Contingent Esports",
-      "code": "CONT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
-    },
-    "team_b": {
       "name": "Maryville University",
       "code": "MU",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
+    "team_b": {
+      "name": "Contingent Esports",
+      "code": "CONT",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
+    },
     "start_time": "2026-09-03T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -855,6 +836,25 @@
     "status": "upcoming"
   },
   {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "LDS vs DOC",
+    "team_a": {
+      "name": "LODIS",
+      "code": "LDS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
+    },
+    "team_b": {
+      "name": "DOCISK",
+      "code": "DOC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
+    },
+    "start_time": "2026-09-04T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "ESB vs BG",
@@ -871,25 +871,6 @@
       "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
     },
     "start_time": "2026-09-04T16:30:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "TBD vs DOC",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "DOCISK",
-      "code": "DOC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1743505234603_LOGOTYP_DOCISK.png"
-    },
-    "start_time": "2026-09-04T17:00:00Z",
     "status": "upcoming"
   },
   {
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "start_time": "2026-09-08T08:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-08T09:00:00Z",
     "status": "upcoming"
   }
 ]
