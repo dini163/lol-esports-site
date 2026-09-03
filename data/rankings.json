@@ -21,9 +21,9 @@
     "code": "BLG",
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-    "record": "46-10",
+    "record": "47-10",
     "winrate": "82%",
-    "rating": 1530.0,
+    "rating": 1525.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "1st in LPL",
@@ -91,21 +91,6 @@
   },
   {
     "rank": 7,
-    "teamId": "dwg-kia-challengers",
-    "name": "DK Challengers",
-    "code": "DK",
-    "region": "LCK",
-    "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-    "record": "25-15",
-    "winrate": "62%",
-    "rating": 1412.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "4th in LCK",
-    "reason": "Dplus KIA relies on ShowMaker's brilliant mid-lane playmaking and Lucid's creative jungle paths, making them a lethal dark horse against any opponent."
-  },
-  {
-    "rank": 8,
     "teamId": "karmine-corp",
     "name": "Karmine Corp",
     "code": "KC",
@@ -114,10 +99,25 @@
     "record": "32-11",
     "winrate": "74%",
     "rating": 1409.0,
+    "trend": "up",
+    "trendValue": 1,
+    "domesticRank": "2nd in LEC",
+    "reason": "Karmine Corp occupies a competitive standing in the LEC region, climbing 1 spots recently with a power rating score of 1409 and a 32-11 (74%) match record."
+  },
+  {
+    "rank": 7,
+    "teamId": "dwg-kia-challengers",
+    "name": "DK Challengers",
+    "code": "DK",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+    "record": "26-15",
+    "winrate": "63%",
+    "rating": 1409.0,
     "trend": "stable",
     "trendValue": 0,
-    "domesticRank": "2nd in LEC",
-    "reason": "Karmine Corp occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1409 and a 32-11 (74%) match record."
+    "domesticRank": "4th in LCK",
+    "reason": "Dplus KIA relies on ShowMaker's brilliant mid-lane playmaking and Lucid's creative jungle paths, making them a lethal dark horse against any opponent."
   },
   {
     "rank": 9,
@@ -306,13 +306,13 @@
     "code": "WE",
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-    "record": "17-28",
-    "winrate": "38%",
-    "rating": 1298.0,
+    "record": "17-29",
+    "winrate": "37%",
+    "rating": 1303.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "8th in LPL",
-    "reason": "Xi'an Team WE occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1298 and a 17-28 (38%) match record."
+    "reason": "Xi'an Team WE occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1303 and a 17-29 (37%) match record."
   },
   {
     "rank": 22,
@@ -376,6 +376,21 @@
   },
   {
     "rank": 26,
+    "teamId": "fearx-youth",
+    "name": "BNK FEARX Youth",
+    "code": "BFX",
+    "region": "LCK",
+    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+    "record": "19-24",
+    "winrate": "44%",
+    "rating": 1254.0,
+    "trend": "up",
+    "trendValue": 1,
+    "domesticRank": "6th in LCK",
+    "reason": "BNK FEARX Youth occupies a competitive standing in the LCK region, climbing 1 spots recently with a power rating score of 1254 and a 19-24 (44%) match record."
+  },
+  {
+    "rank": 26,
     "teamId": "deep-cross-gaming",
     "name": "Relove Deep Cross Gaming",
     "code": "DCG",
@@ -388,21 +403,6 @@
     "trendValue": 0,
     "domesticRank": "4th in LCP",
     "reason": "Relove Deep Cross Gaming occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1254 and a 16-14 (53%) match record."
-  },
-  {
-    "rank": 27,
-    "teamId": "fearx-youth",
-    "name": "BNK FEARX Youth",
-    "code": "BFX",
-    "region": "LCK",
-    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-    "record": "19-23",
-    "winrate": "45%",
-    "rating": 1251.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "6th in LCK",
-    "reason": "BNK FEARX Youth occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1251 and a 19-23 (45%) match record."
   },
   {
     "rank": 28,

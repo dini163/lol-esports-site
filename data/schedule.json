@@ -709,7 +709,7 @@
     "team_a": {
       "name": "Dominion Goblins",
       "code": "GOB",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "team_b": {
@@ -719,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1784472984056_drm_c.png"
     },
     "start_time": "2026-09-03T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "team_b": {
       "name": "Contingent Esports",
       "code": "CONT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-09-03T21:00:00Z",
