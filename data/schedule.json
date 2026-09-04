@@ -753,11 +753,11 @@
     "team_b": {
       "name": "eSuba",
       "code": "ESB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-09-04T16:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
