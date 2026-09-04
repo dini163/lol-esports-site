@@ -1,24 +1,5 @@
 [
   {
-    "league": "La Ligue Fran\u00e7aise",
-    "league_code": "la ",
-    "match": "KCB vs TLNP",
-    "team_a": {
-      "name": "Karmine Corp Blue",
-      "code": "KCB",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1765897112519_WHITE.png"
-    },
-    "team_b": {
-      "name": "TLN Pirates",
-      "code": "TLNP",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1766134058603_TLNPirates.png"
-    },
-    "start_time": "2026-09-01T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "SNSH vs FEC",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-09-04T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "FLS",
@@ -1515,6 +1496,25 @@
       "code": "VKS",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-09-08T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LRS",
+    "league_code": "lrs",
+    "match": "GLE vs 9ZG",
+    "team_a": {
+      "name": "Golden Lions",
+      "code": "GLE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770889382925_FULL_COLOR_FOR_DARK_BG.png"
+    },
+    "team_b": {
+      "name": "9z Globant",
+      "code": "9ZG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png"
     },
     "start_time": "2026-09-08T20:00:00Z",
     "status": "upcoming"
