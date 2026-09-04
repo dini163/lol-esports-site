@@ -1,62 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "VLR vs GSMC",
-    "team_a": {
-      "name": "Valerion",
-      "code": "VLR",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
-    },
-    "team_b": {
-      "name": "Gamespace M.C.",
-      "code": "GSMC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
-    },
-    "start_time": "2026-09-01T13:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "CKZ vs EXE",
-    "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "team_b": {
-      "name": "EXILE Esports",
-      "code": "EXE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
-    },
-    "start_time": "2026-09-01T14:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "DP vs PCF",
-    "team_a": {
-      "name": "Dark Passage",
-      "code": "DP",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767801004393_DarkPassage_Logo_Dark_BeyazDolgu.png"
-    },
-    "team_b": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "start_time": "2026-09-01T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "KHK vs USE",
@@ -766,17 +709,17 @@
     "team_a": {
       "name": "kt Rolster",
       "code": "KT",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-09-04T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "PCS",
@@ -795,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "start_time": "2026-09-04T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -804,7 +747,7 @@
     "team_a": {
       "name": "LGD GAMING",
       "code": "LGD",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "team_b": {
@@ -814,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-09-04T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-08T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-08T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Road of Legends",
+    "league_code": "roa",
+    "match": "MCON vs FEC",
+    "team_a": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
+    },
+    "team_b": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "start_time": "2026-09-08T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Liga Portuguesa",
+    "league_code": "lig",
+    "match": "GOB vs WD",
+    "team_a": {
+      "name": "Dominion Goblins",
+      "code": "GOB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
+    },
+    "team_b": {
+      "name": "White Dragons",
+      "code": "WD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
+    },
+    "start_time": "2026-09-08T18:00:00Z",
     "status": "upcoming"
   }
 ]
