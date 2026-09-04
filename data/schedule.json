@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
     "start_time": "2026-09-04T21:00:00Z",
