@@ -1,24 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "KHK vs USE",
-    "team_a": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "team_b": {
-      "name": "Unicorns of Love Sexy Edition",
-      "code": "USE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
-    },
-    "start_time": "2026-09-01T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LES",
     "league_code": "les",
     "match": "UCAM vs BAR",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "Dplus KIA",
       "code": "DK",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-09-04T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
@@ -728,17 +709,17 @@
     "team_a": {
       "name": "Reignfall",
       "code": "RNF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1785307397756_PCS2026_TeamLogo_RNF1.png"
     },
     "team_b": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "start_time": "2026-09-04T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -753,7 +734,7 @@
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-09-04T09:00:00Z",
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "start_time": "2026-09-04T14:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Rift Legends",
@@ -914,12 +895,12 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "TBD vs CFOA",
+    "match": "SSG vs CFOA",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "SillySilly Gaming",
+      "code": "SSG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "team_b": {
       "name": "CTBC Flying Oyster Academy",
@@ -1085,12 +1066,12 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "TBD vs T1",
+    "match": "DK vs T1",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Dplus KIA",
+      "code": "DK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
       "name": "T1",
@@ -1104,7 +1085,7 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs TBD",
+    "match": "TBD vs LGD",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1112,10 +1093,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "LGD GAMING",
+      "code": "LGD",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
     },
     "start_time": "2026-09-06T09:00:00Z",
     "status": "upcoming"
@@ -1294,18 +1275,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs BLG",
+    "match": "BLG vs AL",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    },
+    "team_b": {
+      "name": "Anyone's Legend",
+      "code": "AL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-09-07T09:00:00Z",
     "status": "upcoming"
@@ -1325,6 +1306,25 @@
       "code": "RUD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
+    },
+    "start_time": "2026-09-07T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "TSC vs OTF",
+    "team_a": {
+      "name": "The Secret Club",
+      "code": "TSC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
+    },
+    "team_b": {
+      "name": "ONLY THE FAMILY",
+      "code": "OTF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-09-07T16:00:00Z",
     "status": "upcoming"
@@ -1501,22 +1501,22 @@
     "status": "upcoming"
   },
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "GOB vs WD",
+    "league": "Esports Balkan League",
+    "league_code": "esp",
+    "match": "LLH vs MGZ",
     "team_a": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
+      "name": "Lenovo Legion Honv\u00e9d",
+      "code": "LLH",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
+      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
     },
     "team_b": {
-      "name": "White Dragons",
-      "code": "WD",
+      "name": "MAGAZA",
+      "code": "MGZ",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
+      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
-    "start_time": "2026-09-08T18:00:00Z",
+    "start_time": "2026-09-08T16:00:00Z",
     "status": "upcoming"
   }
 ]
