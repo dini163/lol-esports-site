@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "team_b": {
       "name": "Contingent Esports",
       "code": "CONT",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783409470164_Logo_v2.png"
     },
     "start_time": "2026-09-03T21:00:00Z",
