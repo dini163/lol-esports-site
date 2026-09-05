@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hellenic Legends League",
-    "league_code": "hel",
-    "match": "TP vs WLG",
-    "team_a": {
-      "name": "Team Phantasma",
-      "code": "TP",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
-    },
-    "team_b": {
-      "name": "WLGaming",
-      "code": "WLG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/WLGlogo.png"
-    },
-    "start_time": "2026-09-02T13:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "NBS vs BG",
-    "team_a": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "team_b": {
-      "name": "Bohemian Guardians",
-      "code": "BG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1776718185398_bohemian.png"
-    },
-    "start_time": "2026-09-02T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "BW vs SU",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "code": "NIP",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "team_b": {
@@ -766,13 +728,13 @@
     "team_a": {
       "name": "Karmine Corp",
       "code": "KC",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704714951336_KC.png"
     },
     "team_b": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-09-05T15:00:00Z",
@@ -781,21 +743,21 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "VKS vs PAIN",
+    "match": "PAIN vs VKS",
     "team_a": {
-      "name": "Vivo Keyd Stars",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
-    },
-    "team_b": {
       "name": "paiN Gaming",
       "code": "PAIN",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
+    "team_b": {
+      "name": "Vivo Keyd Stars",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1670542079678_vks.png"
+    },
     "start_time": "2026-09-05T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -895,18 +857,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs LGD",
+    "match": "LGD vs NIP",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "LGD GAMING",
       "code": "LGD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
+    },
+    "team_b": {
+      "name": "Shenzhen NINJAS IN PYJAMAS",
+      "code": "NIP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "start_time": "2026-09-06T09:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-10T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-10T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "TBD vs ATA",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Aeterna Esports",
+      "code": "ATA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
+    },
+    "start_time": "2026-09-10T16:00:00Z",
     "status": "upcoming"
   }
 ]
