@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "team_b": {
@@ -757,26 +757,26 @@
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "start_time": "2026-09-05T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "DIG vs TL",
+    "match": "TL vs DIG",
     "team_a": {
-      "name": "Dignitas",
-      "code": "DIG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
-    },
-    "team_b": {
       "name": "Team Liquid Alienware",
       "code": "TL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
     },
+    "team_b": {
+      "name": "Dignitas",
+      "code": "DIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/DIG-FullonDark.png"
+    },
     "start_time": "2026-09-05T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LJL",

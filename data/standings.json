@@ -681,25 +681,25 @@
       },
       {
         "rank": 3,
+        "team": "Cloud9 Kia",
+        "teamCode": "C9",
+        "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+        "wins": 5,
+        "losses": 2,
+        "winrate": "71%",
+        "gameWins": 10,
+        "gameLosses": 7
+      },
+      {
+        "rank": 4,
         "team": "Sentinels",
         "teamCode": "SEN",
         "teamImage": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
         "wins": 4,
-        "losses": 2,
-        "winrate": "67%",
+        "losses": 3,
+        "winrate": "57%",
         "gameWins": 9,
-        "gameLosses": 6
-      },
-      {
-        "rank": 3,
-        "team": "Cloud9 Kia",
-        "teamCode": "C9",
-        "teamImage": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-        "wins": 4,
-        "losses": 2,
-        "winrate": "67%",
-        "gameWins": 8,
-        "gameLosses": 7
+        "gameLosses": 8
       },
       {
         "rank": 5,
