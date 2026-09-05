@@ -671,7 +671,7 @@
     "team_a": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "team_b": {
@@ -696,11 +696,11 @@
     "team_b": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
     "start_time": "2026-09-05T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "PCS",
@@ -709,17 +709,17 @@
     "team_a": {
       "name": "CTBC Flying Oyster Academy",
       "code": "CFOA",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
     },
     "team_b": {
       "name": "SillySilly Gaming",
       "code": "SSG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1776611820872_PCS2026_TeamLogo_SSG.png"
     },
     "start_time": "2026-09-05T09:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "code": "NIP",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
     },
     "team_b": {
@@ -743,21 +743,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "VIT vs G2",
+    "match": "G2 vs VIT",
     "team_a": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "team_b": {
       "name": "Team Vitality",
       "code": "VIT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
     },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
     "start_time": "2026-09-05T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -776,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "start_time": "2026-09-05T15:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -857,18 +857,18 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs WE",
+    "match": "WE vs IG",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Xi'an Team WE",
       "code": "WE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
+    },
+    "team_b": {
+      "name": "Invictus Gaming",
+      "code": "IG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-09-06T06:00:00Z",
     "status": "upcoming"
@@ -914,12 +914,12 @@
   {
     "league": "PCS",
     "league_code": "pcs",
-    "match": "TBD vs FAK",
+    "match": "CFOA vs FAK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "CTBC Flying Oyster Academy",
+      "code": "CFOA",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
     },
     "team_b": {
       "name": "Frank Esports",
@@ -990,7 +990,7 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs TBD",
+    "match": "TBD vs G2",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -998,10 +998,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "G2 Esports",
+      "code": "G2",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
     },
     "start_time": "2026-09-06T15:00:00Z",
     "status": "upcoming"
