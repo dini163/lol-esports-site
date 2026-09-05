@@ -662,14 +662,14 @@
         "team": "Team Liquid Alienware",
         "teamCode": "TL",
         "teamImage": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 1,
-        "winrate": "83%",
-        "gameWins": 10,
+        "winrate": "86%",
+        "gameWins": 12,
         "gameLosses": 3
       },
       {
-        "rank": 1,
+        "rank": 2,
         "team": "LYON",
         "teamCode": "LYON",
         "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
@@ -740,10 +740,10 @@
         "teamCode": "DIG",
         "teamImage": "https://static.lolesports.com/teams/DIG-FullonDark.png",
         "wins": 0,
-        "losses": 6,
+        "losses": 7,
         "winrate": "0%",
         "gameWins": 3,
-        "gameLosses": 12
+        "gameLosses": 14
       }
     ],
     "playoffs": [
