@@ -743,21 +743,21 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "FLY vs SR",
+    "match": "SR vs FLY",
     "team_a": {
-      "name": "FlyQuest",
-      "code": "FLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-    },
-    "team_b": {
       "name": "Shopify Rebellion",
       "code": "SR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
+    "team_b": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
     "start_time": "2026-09-06T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
     },
     "start_time": "2026-09-12T05:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LPL",
+    "league_code": "lpl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-12T09:00:00Z",
     "status": "upcoming"
   }
 ]
