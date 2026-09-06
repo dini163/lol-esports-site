@@ -753,11 +753,11 @@
     "team_b": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-09-06T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -772,11 +772,11 @@
     "team_b": {
       "name": "LYON",
       "code": "LYON",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-09-06T23:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
