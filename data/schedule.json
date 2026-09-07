@@ -1,24 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "NBS vs BRT",
-    "team_a": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "team_b": {
-      "name": "BRUTE",
-      "code": "BRT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
-    },
-    "start_time": "2026-09-03T14:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "TCL",
     "league_code": "tcl",
     "match": "SU vs PCF",
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "LYON",
       "code": "LYON",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-09-06T23:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -1515,6 +1496,25 @@
       "code": "TBD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-12T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "MVKA vs 9G",
+    "team_a": {
+      "name": "Saigon MVKE Academy",
+      "code": "MVKA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
+    },
+    "team_b": {
+      "name": "Saigon 9Gaming Esports",
+      "code": "9G",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
     },
     "start_time": "2026-09-12T09:00:00Z",
     "status": "upcoming"

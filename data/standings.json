@@ -669,14 +669,14 @@
         "gameLosses": 3
       },
       {
-        "rank": 2,
+        "rank": 1,
         "team": "LYON",
         "teamCode": "LYON",
         "teamImage": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
-        "wins": 5,
+        "wins": 6,
         "losses": 1,
-        "winrate": "83%",
-        "gameWins": 11,
+        "winrate": "86%",
+        "gameWins": 13,
         "gameLosses": 2
       },
       {
@@ -729,10 +729,10 @@
         "teamCode": "DSG",
         "teamImage": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
         "wins": 1,
-        "losses": 5,
-        "winrate": "17%",
+        "losses": 6,
+        "winrate": "14%",
         "gameWins": 3,
-        "gameLosses": 10
+        "gameLosses": 12
       },
       {
         "rank": 8,
