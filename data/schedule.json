@@ -1,43 +1,5 @@
 [
   {
-    "league": "TCL",
-    "league_code": "tcl",
-    "match": "SU vs PCF",
-    "team_a": {
-      "name": "Avella SU Esports",
-      "code": "SU",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
-    },
-    "team_b": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "start_time": "2026-09-03T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "BIG vs KHK",
-    "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
-      "name": "Kaufland Hangry Knights",
-      "code": "KHK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1734307355268_KHK.png"
-    },
-    "start_time": "2026-09-03T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "BCE vs DOC",
@@ -762,21 +724,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DRX vs DNS",
+    "match": "DNS vs DRX",
     "team_a": {
+      "name": "DNS Challengers",
+      "code": "DNS",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+    },
+    "team_b": {
       "name": "KRX Challengers",
       "code": "DRX",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
     },
-    "team_b": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
     "start_time": "2026-09-07T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-09-07T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -857,18 +819,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "OTS vs BBK",
+    "match": "BBK vs OTS",
     "team_a": {
-      "name": "Otter Side",
-      "code": "OTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
-    },
-    "team_b": {
       "name": "Bubliki",
       "code": "BBK",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
+    },
+    "team_b": {
+      "name": "Otter Side",
+      "code": "OTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
     },
     "start_time": "2026-09-07T18:00:00Z",
     "status": "upcoming"
@@ -1028,18 +990,18 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "GOB vs WD",
+    "match": "WD vs GOB",
     "team_a": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
-    },
-    "team_b": {
       "name": "White Dragons",
       "code": "WD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
+    },
+    "team_b": {
+      "name": "Dominion Goblins",
+      "code": "GOB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-09-08T18:00:00Z",
     "status": "upcoming"
@@ -1427,12 +1389,12 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs NAVI",
+    "match": "GX vs NAVI",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "GIANTX",
+      "code": "GX",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
       "name": "Natus Vincere",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
     },
     "start_time": "2026-09-12T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "SGW vs SCBC",
+    "team_a": {
+      "name": "Saigon Warrior",
+      "code": "SGW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "TP.HCM SN CyberCore Esports",
+      "code": "SCBC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
+    },
+    "start_time": "2026-09-12T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Prime League",
+    "league_code": "pri",
+    "match": "BIG vs G2N",
+    "team_a": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "team_b": {
+      "name": "G2 NORD",
+      "code": "G2N",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
+    },
+    "start_time": "2026-09-12T12:00:00Z",
     "status": "upcoming"
   }
 ]
