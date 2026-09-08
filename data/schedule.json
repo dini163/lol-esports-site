@@ -724,21 +724,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "DK vs NS",
+    "match": "NS vs DK",
     "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
       "name": "NS Challengers",
       "code": "NS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
+    "team_b": {
+      "name": "DK Challengers",
+      "code": "DK",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
     "start_time": "2026-09-08T08:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -753,7 +753,7 @@
     "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-09-08T09:00:00Z",
@@ -895,12 +895,12 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs DNS",
+    "match": "NS vs DNS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "NS Challengers",
+      "code": "NS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
       "name": "DNS Challengers",
@@ -1028,12 +1028,12 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs T1A",
+    "match": "DK vs T1A",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DK Challengers",
+      "code": "DK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "team_b": {
       "name": "T1 Esports Academy",
@@ -1180,7 +1180,7 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "TBD vs KT",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1188,10 +1188,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "kt Challengers",
+      "code": "KT",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-09-11T08:00:00Z",
     "status": "upcoming"
@@ -1332,12 +1332,12 @@
   {
     "league": "LPL",
     "league_code": "lpl",
-    "match": "TBD vs AL",
+    "match": "IG vs AL",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Invictus Gaming",
+      "code": "IG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "team_b": {
       "name": "Anyone's Legend",
