@@ -1,43 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "IG vs TES",
-    "team_a": {
-      "name": "Invictus Gaming",
-      "code": "IG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "team_b": {
-      "name": "TOP ESPORTS",
-      "code": "TES",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-    },
-    "start_time": "2026-09-05T06:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "HLE vs GEN",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "start_time": "2026-09-05T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "PCS",
     "league_code": "pcs",
     "match": "CFOA vs SSG",
@@ -753,11 +715,11 @@
     "team_b": {
       "name": "DNS Challengers",
       "code": "DNS",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-09-09T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -1028,12 +990,12 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs KT",
+    "match": "DNS vs KT",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DNS Challengers",
+      "code": "DNS",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "team_b": {
       "name": "kt Challengers",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-09-13T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCK Challengers",
+    "league_code": "lck",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-14T08:00:00Z",
     "status": "upcoming"
   }
 ]
