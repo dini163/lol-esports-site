@@ -129,10 +129,10 @@
     "record": "20-18",
     "winrate": "53%",
     "rating": 1381.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "5th in LCK",
-    "reason": "kt Rolster occupies a competitive standing in the LCK region, climbing 1 spots recently with a power rating score of 1381 and a 20-18 (53%) match record."
+    "reason": "kt Rolster occupies a competitive standing in the LCK region, maintaining a highly stable competitive position with a power rating score of 1381 and a 20-18 (53%) match record."
   },
   {
     "rank": 10,
@@ -144,10 +144,10 @@
     "record": "30-18",
     "winrate": "62%",
     "rating": 1379.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in LPL",
-    "reason": "Anyone's Legend occupies a competitive standing in the LPL region, experiencing a minor rank drop of 1 spots with a power rating score of 1379 and a 30-18 (62%) match record."
+    "reason": "Anyone's Legend occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1379 and a 30-18 (62%) match record."
   },
   {
     "rank": 11,
@@ -166,6 +166,21 @@
   },
   {
     "rank": 12,
+    "teamId": "invictus-gaming",
+    "name": "Invictus Gaming",
+    "code": "IG",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+    "record": "17-23",
+    "winrate": "42%",
+    "rating": 1355.0,
+    "trend": "up",
+    "trendValue": 4,
+    "domesticRank": "3rd in LPL",
+    "reason": "Invictus Gaming occupies a competitive standing in the LPL region, climbing 4 spots recently with a power rating score of 1355 and a 17-23 (42%) match record."
+  },
+  {
+    "rank": 13,
     "teamId": "top-esports",
     "name": "TOP ESPORTS",
     "code": "TES",
@@ -174,13 +189,13 @@
     "record": "26-24",
     "winrate": "52%",
     "rating": 1352.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "3rd in LPL",
+    "trend": "down",
+    "trendValue": 1,
+    "domesticRank": "4th in LPL",
     "reason": "Top Esports leverages explosive early skirmishing and immense mechanical prowess, though their high-risk playstyle occasionally exposes mid-game volatility."
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamId": "shenzen-ninjas-in-pyjamas",
     "name": "Shenzhen NINJAS IN PYJAMAS",
     "code": "NIP",
@@ -189,13 +204,13 @@
     "record": "21-13",
     "winrate": "62%",
     "rating": 1350.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "4th in LPL",
-    "reason": "Shenzhen NINJAS IN PYJAMAS occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1350 and a 21-13 (62%) match record."
+    "trend": "down",
+    "trendValue": 1,
+    "domesticRank": "5th in LPL",
+    "reason": "Shenzhen NINJAS IN PYJAMAS occupies a competitive standing in the LPL region, experiencing a minor rank drop of 1 spots with a power rating score of 1350 and a 21-13 (62%) match record."
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamId": "team-liquid",
     "name": "Team Liquid Alienware",
     "code": "TL",
@@ -204,13 +219,13 @@
     "record": "19-10",
     "winrate": "66%",
     "rating": 1348.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "down",
+    "trendValue": 1,
     "domesticRank": "2nd in LCS",
     "reason": "Team Liquid features an unyielding defensive macro and highly methodical scaling setups, establishing themselves as a primary title contender in North America."
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamId": "flyquest",
     "name": "FlyQuest",
     "code": "FLY",
@@ -219,25 +234,10 @@
     "record": "10-12",
     "winrate": "45%",
     "rating": 1344.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "down",
+    "trendValue": 1,
     "domesticRank": "3rd in LCS",
     "reason": "FlyQuest leads the North American LCS charge, showcasing strong team cohesion, exceptional cross-map skirmishing, and superb objective control."
-  },
-  {
-    "rank": 16,
-    "teamId": "invictus-gaming",
-    "name": "Invictus Gaming",
-    "code": "IG",
-    "region": "LPL",
-    "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-    "record": "16-23",
-    "winrate": "41%",
-    "rating": 1336.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "5th in LPL",
-    "reason": "Invictus Gaming occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1336 and a 16-23 (41%) match record."
   },
   {
     "rank": 17,
@@ -331,21 +331,6 @@
   },
   {
     "rank": 23,
-    "teamId": "lgd-gaming",
-    "name": "LGD GAMING",
-    "code": "LGD",
-    "region": "LPL",
-    "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
-    "record": "15-17",
-    "winrate": "47%",
-    "rating": 1279.0,
-    "trend": "stable",
-    "trendValue": 0,
-    "domesticRank": "9th in LPL",
-    "reason": "LGD GAMING occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1279 and a 15-17 (47%) match record."
-  },
-  {
-    "rank": 24,
     "teamId": "gam-esports",
     "name": "GAM Esports",
     "code": "GAM",
@@ -354,13 +339,13 @@
     "record": "14-11",
     "winrate": "56%",
     "rating": 1272.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "up",
+    "trendValue": 1,
     "domesticRank": "3rd in LCP",
-    "reason": "GAM Esports occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1272 and a 14-11 (56%) match record."
+    "reason": "GAM Esports occupies a competitive standing in the LCP region, climbing 1 spots recently with a power rating score of 1272 and a 14-11 (56%) match record."
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamId": "team-vitality",
     "name": "Team Vitality",
     "code": "VIT",
@@ -369,10 +354,25 @@
     "record": "23-12",
     "winrate": "66%",
     "rating": 1261.0,
-    "trend": "stable",
-    "trendValue": 0,
+    "trend": "up",
+    "trendValue": 1,
     "domesticRank": "4th in LEC",
-    "reason": "Team Vitality occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1261 and a 23-12 (66%) match record."
+    "reason": "Team Vitality occupies a competitive standing in the LEC region, climbing 1 spots recently with a power rating score of 1261 and a 23-12 (66%) match record."
+  },
+  {
+    "rank": 25,
+    "teamId": "lgd-gaming",
+    "name": "LGD GAMING",
+    "code": "LGD",
+    "region": "LPL",
+    "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png",
+    "record": "15-18",
+    "winrate": "45%",
+    "rating": 1260.0,
+    "trend": "down",
+    "trendValue": 2,
+    "domesticRank": "9th in LPL",
+    "reason": "LGD GAMING occupies a competitive standing in the LPL region, experiencing a minor rank drop of 2 spots with a power rating score of 1260 and a 15-18 (45%) match record."
   },
   {
     "rank": 26,
