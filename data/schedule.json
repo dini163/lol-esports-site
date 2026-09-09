@@ -1,24 +1,5 @@
 [
   {
-    "league": "LJL",
-    "league_code": "ljl",
-    "match": "LGG vs NM",
-    "team_a": {
-      "name": "L Guide Gaming",
-      "code": "LGG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771324562336_lgg_full_color_onW.png"
-    },
-    "team_b": {
-      "name": "New Meta",
-      "code": "NM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1771324815499_nm_full_color_onW.png"
-    },
-    "start_time": "2026-09-05T05:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "IG vs TES",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "NS Challengers",
       "code": "NS",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/NSFullonDark.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
     },
     "start_time": "2026-09-09T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -838,18 +819,18 @@
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "ZENA vs GMB",
+    "match": "GMB vs ZENA",
     "team_a": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "team_b": {
       "name": "GMBLERS Esports",
       "code": "GMB",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
+    },
+    "team_b": {
+      "name": "Zena Esports",
+      "code": "ZENA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
     },
     "start_time": "2026-09-09T16:00:00Z",
     "status": "upcoming"
@@ -952,7 +933,7 @@
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "TBD vs ATA",
+    "match": "TBD vs LGC",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -960,10 +941,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "Aeterna Esports",
-      "code": "ATA",
+      "name": "Los Goccioles",
+      "code": "LGC",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/1774831963251_ChatGPTImage30mar202602_49_52.png"
+      "image": "https://static.lolesports.com/teams/1788929650718_LosGoccioles.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
     "status": "upcoming"
@@ -1332,18 +1313,18 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "SR vs C9",
+    "match": "C9 vs SR",
     "team_a": {
-      "name": "Shopify Rebellion",
-      "code": "SR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-    },
-    "team_b": {
       "name": "Cloud9 Kia",
       "code": "C9",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
+    "team_b": {
+      "name": "Shopify Rebellion",
+      "code": "SR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
     "start_time": "2026-09-12T20:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-09-13T18:30:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "SEN vs FLY",
+    "team_a": {
+      "name": "Sentinels",
+      "code": "SEN",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
+    },
+    "team_b": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
+    },
+    "start_time": "2026-09-13T20:00:00Z",
     "status": "upcoming"
   }
 ]
