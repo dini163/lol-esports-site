@@ -728,7 +728,7 @@
     "team_a": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "team_b": {
@@ -738,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-09-10T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "Winthrop University",
       "code": "WU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
     },
     "team_b": {
       "name": "Maryville University",
       "code": "MU",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
     "start_time": "2026-09-10T21:00:00Z",
