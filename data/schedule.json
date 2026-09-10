@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "DK vs T1",
-    "team_a": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-09-06T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LPL",
     "league_code": "lpl",
     "match": "LGD vs NIP",
@@ -690,13 +671,13 @@
     "team_a": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
       "name": "LODIS",
       "code": "LDS",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
     },
     "start_time": "2026-09-10T15:00:00Z",
@@ -709,13 +690,13 @@
     "team_a": {
       "name": "Zena Esports",
       "code": "ZENA",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
     },
     "team_b": {
       "name": "Los Goccioles",
       "code": "LGC",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1788929650718_LosGoccioles.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "Senshi eSports",
       "code": "SNSH",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1760942281523_tgFWzVsV_400x400.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Esports Balkan League",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "MAGAZA",
       "code": "MGZ",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "team_b": {
       "name": "The Secret Club",
       "code": "TSC",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
@@ -762,21 +743,21 @@
   {
     "league": "Liga Portuguesa",
     "league_code": "lig",
-    "match": "GOB vs BBK",
+    "match": "BBK vs GOB",
     "team_a": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
-    },
-    "team_b": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
+    "team_b": {
+      "name": "Dominion Goblins",
+      "code": "GOB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
+    },
     "start_time": "2026-09-10T18:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "NACL",
@@ -1465,12 +1446,12 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "TBD vs MCON",
+    "match": "SNSH vs MCON",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Senshi eSports",
+      "code": "SNSH",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
     "team_b": {
       "name": "mCon Esports",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-16T14:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Arabian League",
+    "league_code": "ara",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-16T16:00:00Z",
     "status": "upcoming"
   }
 ]
