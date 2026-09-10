@@ -1,24 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs NIP",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "Shenzhen NINJAS IN PYJAMAS",
-      "code": "NIP",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png"
-    },
-    "start_time": "2026-09-06T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "PCS",
     "league_code": "pcs",
     "match": "CFOA vs FAK",
@@ -671,7 +652,7 @@
     "team_a": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
@@ -681,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
     },
     "start_time": "2026-09-10T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -696,11 +677,11 @@
     "team_b": {
       "name": "Los Goccioles",
       "code": "LGC",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1788929650718_LosGoccioles.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -728,7 +709,7 @@
     "team_a": {
       "name": "MAGAZA",
       "code": "MGZ",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
     },
     "team_b": {
@@ -738,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Liga Portuguesa",
@@ -747,13 +728,13 @@
     "team_a": {
       "name": "Bubliki",
       "code": "BBK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
     },
     "team_b": {
       "name": "Dominion Goblins",
       "code": "GOB",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
     },
     "start_time": "2026-09-10T18:00:00Z",
@@ -762,21 +743,21 @@
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "MU vs WU",
+    "match": "WU vs MU",
     "team_a": {
+      "name": "Winthrop University",
+      "code": "WU",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
+    },
+    "team_b": {
       "name": "Maryville University",
       "code": "MU",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
     },
-    "team_b": {
-      "name": "Winthrop University",
-      "code": "WU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1675157784150_WinthropUniversity.png"
-    },
     "start_time": "2026-09-10T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -1515,6 +1496,25 @@
       "code": "TBD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-16T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "NLC",
+    "league_code": "nlc",
+    "match": "TBD vs RUD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Ruddy Corporation",
+      "code": "RUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
     },
     "start_time": "2026-09-16T16:00:00Z",
     "status": "upcoming"
