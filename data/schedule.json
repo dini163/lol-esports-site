@@ -747,17 +747,17 @@
     "team_a": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
       "name": "DK Challengers",
       "code": "DK",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-09-10T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -952,18 +952,18 @@
   {
     "league": "TCL",
     "league_code": "tcl",
-    "match": "PCF vs BW",
+    "match": "BW vs PCF",
     "team_a": {
-      "name": "PCIFIC Esports",
-      "code": "PCF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
-    },
-    "team_b": {
       "name": "Bushido Wildcats",
       "code": "BW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
+    },
+    "team_b": {
+      "name": "PCIFIC Esports",
+      "code": "PCF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800848871_PcificLogo2.png"
     },
     "start_time": "2026-09-11T14:30:00Z",
     "status": "upcoming"
@@ -1389,7 +1389,7 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "TBD vs DK",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1397,10 +1397,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "DK Challengers",
+      "code": "DK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
     },
     "start_time": "2026-09-14T08:00:00Z",
     "status": "upcoming"
@@ -1503,7 +1503,7 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "TBD vs TBD",
+    "match": "TBD vs T1A",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1511,10 +1511,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "T1 Esports Academy",
+      "code": "T1A",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-09-15T08:00:00Z",
     "status": "upcoming"
