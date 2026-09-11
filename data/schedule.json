@@ -2,25 +2,6 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "SR vs FLY",
-    "team_a": {
-      "name": "Shopify Rebellion",
-      "code": "SR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-    },
-    "team_b": {
-      "name": "FlyQuest",
-      "code": "FLY",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-    },
-    "start_time": "2026-09-06T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
     "match": "DSG vs LYON",
     "team_a": {
       "name": "Disguised",
@@ -715,11 +696,11 @@
     "team_b": {
       "name": "Team Phantasma",
       "code": "TP",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-09-11T14:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "TCL",
@@ -747,36 +728,36 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-09-11T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "NACL",
     "league_code": "nac",
-    "match": "MU vs CPD",
+    "match": "CPD vs MU",
     "team_a": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "team_b": {
       "name": "Cupid Esports",
       "code": "CPD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
     },
+    "team_b": {
+      "name": "Maryville University",
+      "code": "MU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
+    },
     "start_time": "2026-09-11T21:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK",
@@ -895,18 +876,18 @@
   {
     "league": "Hellenic Legends League",
     "league_code": "hel",
-    "match": "TBD vs VLR",
+    "match": "VLR vs TP",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Valerion",
       "code": "VLR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1782280666367_ValerionGold.png"
+    },
+    "team_b": {
+      "name": "Team Phantasma",
+      "code": "TP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-09-12T15:00:00Z",
     "status": "upcoming"
@@ -1503,7 +1484,7 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs TBD",
+    "match": "TBD vs NAVI",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1511,12 +1492,31 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Natus Vincere",
+      "code": "NAVI",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-09-18T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LoL Italian Tournament",
+    "league_code": "lol",
+    "match": "LGC vs CG",
+    "team_a": {
+      "name": "Los Goccioles",
+      "code": "LGC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788929650718_LosGoccioles.png"
+    },
+    "team_b": {
+      "name": "Colossal Gaming",
+      "code": "CG",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "start_time": "2026-09-18T16:00:00Z",
     "status": "upcoming"
   }
 ]
