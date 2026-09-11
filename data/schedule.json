@@ -709,13 +709,13 @@
     "team_a": {
       "name": "Gamespace M.C.",
       "code": "GSMC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "team_b": {
       "name": "Team Phantasma",
       "code": "TP",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/TeamPhantasma.png"
     },
     "start_time": "2026-09-11T14:30:00Z",
@@ -734,11 +734,11 @@
     "team_b": {
       "name": "Bushido Wildcats",
       "code": "BW",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
     },
     "start_time": "2026-09-11T14:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -747,13 +747,13 @@
     "team_a": {
       "name": "GIANTX",
       "code": "GX",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png"
     },
     "team_b": {
       "name": "Natus Vincere",
       "code": "NAVI",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-09-11T15:00:00Z",
