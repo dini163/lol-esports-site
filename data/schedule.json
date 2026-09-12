@@ -1,43 +1,5 @@
 [
   {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "RUD vs AP",
-    "team_a": {
-      "name": "Ruddy Corporation",
-      "code": "RUD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767962931112_rud.png"
-    },
-    "team_b": {
-      "name": "Arctic Pandas",
-      "code": "AP",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
-    },
-    "start_time": "2026-09-07T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "OTF vs TSC",
-    "team_a": {
-      "name": "ONLY THE FAMILY",
-      "code": "OTF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
-    },
-    "team_b": {
-      "name": "The Secret Club",
-      "code": "TSC",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1754902519348_EBL_TSC-MonochromeDarkBG.png"
-    },
-    "start_time": "2026-09-07T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "CNV vs NRG",
@@ -728,13 +690,13 @@
     "team_a": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "team_b": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "start_time": "2026-09-12T09:00:00Z",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Saigon MVKE Academy",
       "code": "MVKA",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
     },
     "team_b": {
@@ -766,7 +728,7 @@
     "team_a": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "team_b": {
@@ -781,21 +743,21 @@
   {
     "league": "Prime League",
     "league_code": "pri",
-    "match": "BIG vs G2N",
+    "match": "G2N vs BIG",
     "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
       "name": "G2 NORD",
       "code": "G2N",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
     },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
     "start_time": "2026-09-12T12:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LEC",
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-19T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Rift Legends",
+    "league_code": "rif",
+    "match": "BOOM vs FSK",
+    "team_a": {
+      "name": "BOMBA Team",
+      "code": "BOOM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
+    },
+    "team_b": {
+      "name": "Forsaken",
+      "code": "FSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
+    },
+    "start_time": "2026-09-19T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "9G vs SCBC",
+    "team_a": {
+      "name": "Saigon 9Gaming Esports",
+      "code": "9G",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
+    },
+    "team_b": {
+      "name": "TP.HCM SN CyberCore Esports",
+      "code": "SCBC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
+    },
+    "start_time": "2026-09-19T12:00:00Z",
     "status": "upcoming"
   }
 ]
