@@ -747,7 +747,7 @@
     "team_a": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "start_time": "2026-09-13T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK Challengers",
@@ -1142,12 +1142,12 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TBD vs SR",
+    "match": "SEN vs SR",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Sentinels",
+      "code": "SEN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "team_b": {
       "name": "Shopify Rebellion",
@@ -1408,12 +1408,12 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TBD vs TL",
+    "match": "FLY vs TL",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "FlyQuest",
+      "code": "FLY",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "team_b": {
       "name": "Team Liquid Alienware",
