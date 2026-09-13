@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "EXE vs NBS",
-    "team_a": {
-      "name": "EXILE Esports",
-      "code": "EXE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
-    },
-    "team_b": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "start_time": "2026-09-08T14:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "FSK vs BOOM",
-    "team_a": {
-      "name": "Forsaken",
-      "code": "FSK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
-    },
-    "team_b": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "start_time": "2026-09-08T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Road of Legends",
     "league_code": "roa",
     "match": "MCON vs FEC",
@@ -734,7 +696,7 @@
     "team_b": {
       "name": "Saigon Warrior",
       "code": "SGW",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-09-13T09:00:00Z",
@@ -747,13 +709,13 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
       "name": "BILIBILI GAMING",
       "code": "BLG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-09-13T09:00:00Z",
@@ -762,21 +724,21 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "MVE vs BRT",
+    "match": "BRT vs MVE",
     "team_a": {
-      "name": "UP2U Meavedron",
-      "code": "MVE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
-    },
-    "team_b": {
       "name": "BRUTE",
       "code": "BRT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1643479836323_HM_BRT_white.png"
     },
+    "team_b": {
+      "name": "UP2U Meavedron",
+      "code": "MVE",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
+    },
     "start_time": "2026-09-13T11:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "VCS",
@@ -791,7 +753,7 @@
     "team_b": {
       "name": "TP.HCM SN CyberCore Esports",
       "code": "SCBC",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
     },
     "start_time": "2026-09-13T12:00:00Z",
@@ -1104,7 +1066,7 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "TBD vs TBD",
+    "match": "TBD vs MVE",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1112,10 +1074,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "UP2U Meavedron",
+      "code": "MVE",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "start_time": "2026-09-16T14:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
     },
     "start_time": "2026-09-20T12:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LEC",
+    "league_code": "lec",
+    "match": "TBD vs G2",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "start_time": "2026-09-20T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-20T16:00:00Z",
     "status": "upcoming"
   }
 ]
