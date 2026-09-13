@@ -185,9 +185,9 @@
       "Casting",
       "GIDEON",
       "Dinai",
-      "Pungyeon",
       "Tempester",
       "Roamer",
+      "Pungyeon",
       "Teddy",
       "OddEye",
       "Namgung",
@@ -211,8 +211,8 @@
       "deokdam",
       "Enosh",
       "Quantum ",
-      "Peter",
-      "Life"
+      "Life",
+      "Peter"
     ]
   },
   {
@@ -244,9 +244,9 @@
     "players": [
       "Rich",
       "Frog",
+      "Winner",
       "Vincenzo",
       "Willer",
-      "Winner",
       "Ucal",
       "AKaJe",
       "LazyFeel",
@@ -344,15 +344,15 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "players": [
-      "Janus",
       "Kingen",
+      "Janus",
       "MihawK",
       "Sponge",
+      "Calix",
       "Scout",
       "SeTab",
-      "Calix",
-      "Diable",
       "Lucy",
+      "Diable",
       "Pleata",
       "Lehends"
     ]
@@ -365,12 +365,12 @@
     "image": "https://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
     "players": [
       "Rooster",
-      "Sheo",
       "Boukada",
+      "Sheo",
       "nuc",
       "Paduck",
-      "Stend",
       "Trymbi",
+      "Stend",
       "JuJuTw0"
     ]
   },
@@ -384,8 +384,8 @@
       "Tracyn",
       "Daglas",
       "Serin",
-      "Hype ",
       "Ice",
+      "Hype ",
       "Way"
     ]
   },
@@ -490,8 +490,8 @@
     "region": "LEC",
     "image": "https://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
     "players": [
-      "Soboro",
       "Empyros",
+      "Soboro",
       "Razork",
       "Vladi",
       "Upset",
@@ -507,10 +507,10 @@
     "players": [
       "Thanatos",
       "Blaber",
-      "APA",
       "Loki ",
-      "Zven",
+      "APA",
       "Tactical",
+      "Zven",
       "Vulcan"
     ]
   },
@@ -537,8 +537,8 @@
     "image": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
     "players": [
       "Cube",
-      "Monki",
       "Tyrion",
+      "Monki",
       "Karis",
       "About",
       "Erha"
@@ -566,9 +566,9 @@
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/DIG-FullonDark.png",
     "players": [
-      "Photon",
-      "Denathor",
       "Dardoch",
+      "Denathor",
+      "Photon",
       "eXyu",
       "Palafox",
       "FBI",
@@ -628,10 +628,10 @@
     "players": [
       "PerfecT",
       "Sero",
-      "Sylvie",
       "Cuzz",
-      "Bdd",
+      "Sylvie",
       "Hwichan",
+      "Bdd",
       "Jiwoo",
       "FenRir",
       "Ghost",
@@ -648,16 +648,16 @@
     "players": [
       "Lancer",
       "DuDu",
-      "Sharvel",
       "DDoiV",
       "Pyosik",
+      "Sharvel",
       "Clozer",
       "Flip",
       "deokdam",
       "Enosh",
-      "Quantum ",
       "Peter",
-      "Life"
+      "Life",
+      "Quantum "
     ]
   },
   {
@@ -667,17 +667,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Frog",
       "Rich",
+      "Frog",
+      "Winner",
       "Vincenzo",
       "Willer",
-      "Winner",
-      "AKaJe",
       "Ucal",
-      "Aiming",
+      "AKaJe",
       "LazyFeel",
-      "Minous",
-      "Andil"
+      "Aiming",
+      "Andil",
+      "Minous"
     ]
   },
   {
@@ -715,8 +715,8 @@
       "TheShy",
       "Wei",
       "Rookie",
-      "JiaQi",
       "Assum",
+      "JiaQi",
       "Meiko"
     ]
   },
@@ -789,8 +789,8 @@
     "region": "LPL",
     "image": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
     "players": [
-      "369",
       "ZUIAN",
+      "369",
       "Tian",
       "Creme",
       "JackeyLove",

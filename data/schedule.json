@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "NS vs DK",
-    "team_a": {
-      "name": "NS Challengers",
-      "code": "NS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/NSFullonDark.png"
-    },
-    "team_b": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-09-08T08:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "LGD vs IG",
-    "team_a": {
-      "name": "LGD GAMING",
-      "code": "LGD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-    },
-    "team_b": {
-      "name": "Invictus Gaming",
-      "code": "IG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "start_time": "2026-09-08T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "EXE vs NBS",
@@ -743,37 +705,37 @@
   {
     "league": "LCK",
     "league_code": "lck",
-    "match": "HLE vs GEN",
+    "match": "GEN vs HLE",
     "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
       "name": "Gen.G Esports",
       "code": "GEN",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
     },
+    "team_b": {
+      "name": "Hanwha Life Esports",
+      "code": "HLE",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
+    },
     "start_time": "2026-09-13T05:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "VCS",
     "league_code": "vcs",
-    "match": "SGW vs DINO",
+    "match": "DINO vs SGW",
     "team_a": {
-      "name": "Saigon Warrior",
-      "code": "SGW",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
-    },
-    "team_b": {
       "name": "Saigon 1TAP DINO",
       "code": "DINO",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
+    },
+    "team_b": {
+      "name": "Saigon Warrior",
+      "code": "SGW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-09-13T09:00:00Z",
     "status": "upcoming"
@@ -785,7 +747,7 @@
     "team_a": {
       "name": "Anyone's Legend",
       "code": "AL",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1641199582689_.png"
     },
     "team_b": {
@@ -795,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
     },
     "start_time": "2026-09-13T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -838,18 +800,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs MKF",
+    "match": "MKF vs BW",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
+    },
+    "team_b": {
+      "name": "Bushido Wildcats",
+      "code": "BW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
     },
     "start_time": "2026-09-13T15:00:00Z",
     "status": "upcoming"
@@ -1009,7 +971,7 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs TBD",
+    "match": "TBD vs BIG",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1017,10 +979,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Berlin International Gaming",
+      "code": "BIG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-09-14T16:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
     "start_time": "2026-09-19T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "MVKA vs SGW",
+    "team_a": {
+      "name": "Saigon MVKE Academy",
+      "code": "MVKA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
+    },
+    "team_b": {
+      "name": "Saigon Warrior",
+      "code": "SGW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
+    },
+    "start_time": "2026-09-20T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-20T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "9G vs DINO",
+    "team_a": {
+      "name": "Saigon 9Gaming Esports",
+      "code": "9G",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
+    },
+    "team_b": {
+      "name": "Saigon 1TAP DINO",
+      "code": "DINO",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
+    },
+    "start_time": "2026-09-20T12:00:00Z",
     "status": "upcoming"
   }
 ]
