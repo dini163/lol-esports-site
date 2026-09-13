@@ -1,5 +1,24 @@
 [
   {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "CKZ vs MVE",
+    "team_a": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "team_b": {
+      "name": "UP2U Meavedron",
+      "code": "MVE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
+    },
+    "start_time": "2026-09-09T14:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "DV1 vs LDS",
@@ -690,7 +709,7 @@
     "team_a": {
       "name": "White Dragons",
       "code": "WD",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
     },
     "team_b": {
@@ -700,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
     },
     "start_time": "2026-09-13T18:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -709,17 +728,17 @@
     "team_a": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "team_b": {
       "name": "JSK Gamefy",
       "code": "JSK",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
     "start_time": "2026-09-13T18:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -728,7 +747,7 @@
     "team_a": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "team_b": {
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
     },
     "start_time": "2026-09-13T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -819,12 +838,12 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs P4",
+    "match": "BAM vs P4",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "BAAM Esports",
+      "code": "BAM",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "team_b": {
       "name": "Pyramid IV Esports",
@@ -914,12 +933,12 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs ANB",
+    "match": "JSK vs ANB",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "JSK Gamefy",
+      "code": "JSK",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
     "team_b": {
       "name": "Anubis Gaming",
@@ -1479,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-25T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-26T09:00:00Z",
     "status": "upcoming"
   }
 ]
