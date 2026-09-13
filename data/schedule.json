@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-09-12T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCK",
@@ -1351,7 +1351,7 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TBD vs TBD",
+    "match": "TBD vs SR",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1359,10 +1359,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Shopify Rebellion",
+      "code": "SR",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
     "start_time": "2026-09-18T20:00:00Z",
     "status": "upcoming"
@@ -1503,12 +1503,12 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "TBD vs LYON",
+    "match": "C9 vs LYON",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Cloud9 Kia",
+      "code": "C9",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "team_b": {
       "name": "LYON",
