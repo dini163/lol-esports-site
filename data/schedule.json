@@ -1,81 +1,5 @@
 [
   {
-    "league": "Road of Legends",
-    "league_code": "roa",
-    "match": "MCON vs FEC",
-    "team_a": {
-      "name": "mCon Esports",
-      "code": "MCON",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
-    },
-    "team_b": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
-    "start_time": "2026-09-08T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "LLH vs MGZ",
-    "team_a": {
-      "name": "Lenovo Legion Honv\u00e9d",
-      "code": "LLH",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
-    },
-    "team_b": {
-      "name": "MAGAZA",
-      "code": "MGZ",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1754902785731_EBL_MGZ-MonochromeDarkBG.png"
-    },
-    "start_time": "2026-09-08T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "WD vs GOB",
-    "team_a": {
-      "name": "White Dragons",
-      "code": "WD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
-    },
-    "team_b": {
-      "name": "Dominion Goblins",
-      "code": "GOB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784499571939_goib_c.png"
-    },
-    "start_time": "2026-09-08T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Circuito Desafiante",
-    "league_code": "cir",
-    "match": "VKS vs KBM",
-    "team_a": {
-      "name": "Vivo Keyd Stars Academy",
-      "code": "VKS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
-    },
-    "team_b": {
-      "name": "KaBuM! Eports",
-      "code": "KBM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-    },
-    "start_time": "2026-09-08T20:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LRS",
     "league_code": "lrs",
     "match": "GLE vs 9ZG",
@@ -738,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1704376811202_Meavedronlogo.png"
     },
     "start_time": "2026-09-13T11:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -762,18 +686,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "MKF vs BW",
+    "match": "BW vs MKF",
     "team_a": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "team_b": {
       "name": "Bushido Wildcats",
       "code": "BW",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767799893163_BW-KEDI-SARI-2.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-09-13T15:00:00Z",
     "status": "upcoming"
@@ -781,40 +705,40 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "LOUD vs PAIN",
+    "match": "PAIN vs LOUD",
     "team_a": {
+      "name": "paiN Gaming",
+      "code": "PAIN",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
+    },
+    "team_b": {
       "name": "LOUD",
       "code": "LOUD",
       "score": 0,
       "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
     },
-    "team_b": {
-      "name": "paiN Gaming",
-      "code": "PAIN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
-    },
     "start_time": "2026-09-13T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "ANB vs P4",
+    "match": "P4 vs ANB",
     "team_a": {
-      "name": "Anubis Gaming",
-      "code": "ANB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
-    },
-    "team_b": {
       "name": "Pyramid IV Esports",
       "code": "P4",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
+    "team_b": {
+      "name": "Anubis Gaming",
+      "code": "ANB",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
+    },
     "start_time": "2026-09-13T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Liga Portuguesa",
@@ -1517,6 +1441,63 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-20T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TBD vs TL",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "Team Liquid Alienware",
+      "code": "TL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "start_time": "2026-09-20T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-24T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-24T12:00:00Z",
     "status": "upcoming"
   }
 ]
