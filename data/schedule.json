@@ -1,24 +1,5 @@
 [
   {
-    "league": "NACL",
-    "league_code": "nac",
-    "match": "NRG vs MU",
-    "team_a": {
-      "name": "NRG",
-      "code": "NRG",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1772618316826_NRGWHT.png"
-    },
-    "team_b": {
-      "name": "Maryville University",
-      "code": "MU",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1773762488904_maryvilleesportslogo.png"
-    },
-    "start_time": "2026-09-09T21:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCK Challengers",
     "league_code": "lck",
     "match": "T1A vs DK",
@@ -728,17 +709,17 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
       "name": "Berlin International Gaming",
       "code": "BIG",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
     },
     "start_time": "2026-09-14T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "team_b": {
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-09-14T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Circuito Desafiante",
     "league_code": "cir",
-    "match": "KBM vs EST",
+    "match": "EST vs KBM",
     "team_a": {
+      "name": "Estral Esports",
+      "code": "EST",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
+    },
+    "team_b": {
       "name": "KaBuM! Eports",
       "code": "KBM",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
     },
-    "team_b": {
-      "name": "Estral Esports",
-      "code": "EST",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200288247_estral_c.png"
-    },
     "start_time": "2026-09-14T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCK Challengers",
@@ -876,7 +857,7 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs TBD",
+    "match": "TBD vs P4",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -884,10 +865,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Pyramid IV Esports",
+      "code": "P4",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-09-16T16:00:00Z",
     "status": "upcoming"
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-27T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-10-03T16:00:00Z",
     "status": "upcoming"
   }
 ]
