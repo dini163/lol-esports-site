@@ -1,81 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "DV1 vs LDS",
-    "team_a": {
-      "name": "DV1 inStreamly",
-      "code": "DV1",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1785588517304_dv1_w.png"
-    },
-    "team_b": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "start_time": "2026-09-09T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "VER vs DEER",
-    "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
-      "name": "Deer Gaming",
-      "code": "DEER",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1778583831293_COLORED_FINAL.png"
-    },
-    "start_time": "2026-09-09T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "ZENA vs GMB",
-    "team_a": {
-      "name": "Zena Esports",
-      "code": "ZENA",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
-    },
-    "team_b": {
-      "name": "GMBLERS Esports",
-      "code": "GMB",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1737015399075_logo_interno.PNG"
-    },
-    "start_time": "2026-09-09T16:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Esports Balkan League",
-    "league_code": "esp",
-    "match": "LLH vs OTF",
-    "team_a": {
-      "name": "Lenovo Legion Honv\u00e9d",
-      "code": "LLH",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1739773548856_EBL_LLH-FullColorDarkBG1.png"
-    },
-    "team_b": {
-      "name": "ONLY THE FAMILY",
-      "code": "OTF",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
-    },
-    "start_time": "2026-09-09T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "NACL",
     "league_code": "nac",
     "match": "NRG vs MU",
@@ -766,17 +690,17 @@
     "team_a": {
       "name": "EXILE Esports",
       "code": "EXE",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
     },
     "team_b": {
       "name": "eSuba",
       "code": "ESB",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-09-14T14:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "NLC",
@@ -785,7 +709,7 @@
     "team_a": {
       "name": "Verdant",
       "code": "VER",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
@@ -795,26 +719,26 @@
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "start_time": "2026-09-14T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "BIG vs MKF",
+    "match": "MKF vs BIG",
     "team_a": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "team_b": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
+    "team_b": {
+      "name": "Berlin International Gaming",
+      "code": "BIG",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
     "start_time": "2026-09-14T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Arabian League",
@@ -823,17 +747,17 @@
     "team_a": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "team_b": {
       "name": "BAAM Esports",
       "code": "BAM",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1738571384294_.png"
     },
     "start_time": "2026-09-14T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Circuito Desafiante",
@@ -933,12 +857,12 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "TBD vs MVE",
+    "match": "ESB vs MVE",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "eSuba",
+      "code": "ESB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "team_b": {
       "name": "UP2U Meavedron",
@@ -971,12 +895,12 @@
   {
     "league": "NLC",
     "league_code": "nlc",
-    "match": "TBD vs RUD",
+    "match": "VER vs RUD",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Verdant",
+      "code": "VER",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "team_b": {
       "name": "Ruddy Corporation",
@@ -1517,6 +1441,82 @@
       "image": "https://static.lolesports.com/teams/FURIA---black.png"
     },
     "start_time": "2026-09-26T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-26T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-27T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "CBLOL",
+    "league_code": "cbl",
+    "match": "LOS vs LOUD",
+    "team_a": {
+      "name": "LOS",
+      "code": "LOS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
+    },
+    "team_b": {
+      "name": "LOUD",
+      "code": "LOUD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
+    },
+    "start_time": "2026-09-27T16:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-27T20:00:00Z",
     "status": "upcoming"
   }
 ]
