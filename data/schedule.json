@@ -819,18 +819,18 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "MKF vs BIG",
+    "match": "BIG vs MKF",
     "team_a": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "team_b": {
       "name": "Berlin International Gaming",
       "code": "BIG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
+    },
+    "team_b": {
+      "name": "Movistar KOI F\u00e9nix",
+      "code": "MKF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "start_time": "2026-09-14T16:00:00Z",
     "status": "upcoming"
@@ -1389,7 +1389,7 @@
   {
     "league": "CBLOL",
     "league_code": "cbl",
-    "match": "TBD vs TBD",
+    "match": "TBD vs PAIN",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -1397,10 +1397,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "paiN Gaming",
+      "code": "PAIN",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "start_time": "2026-09-20T16:00:00Z",
     "status": "upcoming"
