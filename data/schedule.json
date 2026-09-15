@@ -1,24 +1,5 @@
 [
   {
-    "league": "Rift Legends",
-    "league_code": "rif",
-    "match": "BOOM vs LDS",
-    "team_a": {
-      "name": "BOMBA Team",
-      "code": "BOOM",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
-    },
-    "team_b": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "start_time": "2026-09-10T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
     "match": "ZENA vs TA",
@@ -747,7 +728,7 @@
     "team_a": {
       "name": "T1 Esports Academy",
       "code": "T1A",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "team_b": {
@@ -757,26 +738,26 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-09-15T08:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "NBS vs CKZ",
+    "match": "CKZ vs NBS",
     "team_a": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "team_b": {
       "name": "CITA Kaizen",
       "code": "CKZ",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
+    "team_b": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
     "start_time": "2026-09-15T14:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Road of Legends",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T18:00:00Z",
     "status": "upcoming"
   }
 ]
