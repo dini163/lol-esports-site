@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "T1A vs DK",
-    "team_a": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "team_b": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-09-10T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Rift Legends",
     "league_code": "rif",
     "match": "BOOM vs LDS",
@@ -40,7 +21,7 @@
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "ZENA vs LGC",
+    "match": "ZENA vs TA",
     "team_a": {
       "name": "Zena Esports",
       "code": "ZENA",
@@ -48,10 +29,10 @@
       "image": "https://static.lolesports.com/teams/1737015447766_ZenaRedlogo-ValerioPietroMarchisotta.png"
     },
     "team_b": {
-      "name": "Los Goccioles",
-      "code": "LGC",
+      "name": "TEAM AQUA",
+      "code": "TA",
       "score": 3,
-      "image": "https://static.lolesports.com/teams/1788929650718_LosGoccioles.png"
+      "image": "https://static.lolesports.com/teams/1789451802113_Logo-TAASD-SfondoElaborato-Round_HD.png"
     },
     "start_time": "2026-09-10T16:00:00Z",
     "status": "completed"
@@ -762,21 +743,21 @@
   {
     "league": "LCK Challengers",
     "league_code": "lck",
-    "match": "KT vs T1A",
+    "match": "T1A vs KT",
     "team_a": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 2,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
       "name": "kt Challengers",
       "code": "KT",
       "score": 0,
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
-    "team_b": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
     "start_time": "2026-09-15T08:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "Hitpoint Masters",
@@ -1009,18 +990,18 @@
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "LGC vs CG",
+    "match": "CG vs TA",
     "team_a": {
-      "name": "Los Goccioles",
-      "code": "LGC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788929650718_LosGoccioles.png"
-    },
-    "team_b": {
       "name": "Colossal Gaming",
       "code": "CG",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
+    },
+    "team_b": {
+      "name": "TEAM AQUA",
+      "code": "TA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1789451802113_Logo-TAASD-SfondoElaborato-Round_HD.png"
     },
     "start_time": "2026-09-18T16:00:00Z",
     "status": "upcoming"
@@ -1311,8 +1292,8 @@
     "status": "upcoming"
   },
   {
-    "league": "VCS",
-    "league_code": "vcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1326,12 +1307,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-24T09:00:00Z",
+    "start_time": "2026-09-21T15:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "VCS",
-    "league_code": "vcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1345,12 +1326,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-24T12:00:00Z",
+    "start_time": "2026-09-21T15:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "VCS",
-    "league_code": "vcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1364,12 +1345,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-25T09:00:00Z",
+    "start_time": "2026-09-21T15:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "LCS",
-    "league_code": "lcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1383,12 +1364,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-25T20:00:00Z",
+    "start_time": "2026-09-21T15:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "VCS",
-    "league_code": "vcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1402,31 +1383,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-26T09:00:00Z",
+    "start_time": "2026-09-21T18:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "TBD vs FUR",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "FURIA",
-      "code": "FUR",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/FURIA---black.png"
-    },
-    "start_time": "2026-09-26T16:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1440,12 +1402,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-26T20:00:00Z",
+    "start_time": "2026-09-21T18:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "VCS",
-    "league_code": "vcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1459,31 +1421,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-27T09:00:00Z",
+    "start_time": "2026-09-21T18:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
-    "match": "LOS vs LOUD",
-    "team_a": {
-      "name": "LOS",
-      "code": "LOS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
-    },
-    "team_b": {
-      "name": "LOUD",
-      "code": "LOUD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png"
-    },
-    "start_time": "2026-09-27T16:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1497,12 +1440,12 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-09-27T20:00:00Z",
+    "start_time": "2026-09-21T18:00:00Z",
     "status": "upcoming"
   },
   {
-    "league": "CBLOL",
-    "league_code": "cbl",
+    "league": "EMEA Masters",
+    "league_code": "eme",
     "match": "TBD vs TBD",
     "team_a": {
       "name": "TBD",
@@ -1516,7 +1459,64 @@
       "score": 0,
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
-    "start_time": "2026-10-03T16:00:00Z",
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
     "status": "upcoming"
   }
 ]
