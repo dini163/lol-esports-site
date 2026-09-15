@@ -747,7 +747,7 @@
     "team_a": {
       "name": "Anubis Gaming",
       "code": "ANB",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "team_b": {
@@ -757,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
     "start_time": "2026-09-15T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Hitpoint Masters",
@@ -781,18 +781,18 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs P4",
+    "match": "P4 vs JSK",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
       "name": "Pyramid IV Esports",
       "code": "P4",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "JSK Gamefy",
+      "code": "JSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
     },
     "start_time": "2026-09-16T16:00:00Z",
     "status": "upcoming"
@@ -876,7 +876,7 @@
   {
     "league": "Arabian League",
     "league_code": "ara",
-    "match": "TBD vs TBD",
+    "match": "TBD vs ANB",
     "team_a": {
       "name": "TBD",
       "code": "TBD",
@@ -884,10 +884,10 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "team_b": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Anubis Gaming",
+      "code": "ANB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-09-17T16:00:00Z",
     "status": "upcoming"
