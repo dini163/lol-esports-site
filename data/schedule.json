@@ -715,11 +715,11 @@
     "team_b": {
       "name": "eSuba",
       "code": "ESB",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-09-17T14:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "Road of Legends",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Anubis Gaming",
       "code": "ANB",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-09-17T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LPL",
@@ -1009,12 +1009,12 @@
   {
     "league": "Hitpoint Masters",
     "league_code": "hit",
-    "match": "TBD vs NBS",
+    "match": "ESB vs NBS",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "eSuba",
+      "code": "ESB",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "team_b": {
       "name": "NightBirds",
