@@ -709,13 +709,13 @@
     "team_a": {
       "name": "CITA Kaizen",
       "code": "CKZ",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
     },
     "team_b": {
       "name": "eSuba",
       "code": "ESB",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
     },
     "start_time": "2026-09-17T14:00:00Z",
@@ -724,21 +724,21 @@
   {
     "league": "Road of Legends",
     "league_code": "roa",
-    "match": "SNSH vs FEC",
+    "match": "FEC vs SNSH",
     "team_a": {
+      "name": "Frites Esports Club",
+      "code": "FEC",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
+    },
+    "team_b": {
       "name": "Senshi eSports",
       "code": "SNSH",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1737451831210_SNSH_COLOR_LIGHTDARKBG.png"
     },
-    "team_b": {
-      "name": "Frites Esports Club",
-      "code": "FEC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767711449006_Frites_Esports_Club_Black-removebg-preview.png"
-    },
     "start_time": "2026-09-17T16:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Arabian League",
@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Anubis Gaming",
       "code": "ANB",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1738571697908_logo.png"
     },
     "start_time": "2026-09-17T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LPL",
@@ -1479,6 +1479,44 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-23T17:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-24T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "VCS",
+    "league_code": "vcs",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-24T12:00:00Z",
     "status": "upcoming"
   }
 ]
