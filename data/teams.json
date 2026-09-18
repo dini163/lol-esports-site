@@ -344,8 +344,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "players": [
-      "Kingen",
       "Janus",
+      "Kingen",
       "MihawK",
       "Sponge",
       "Calix",
@@ -353,8 +353,8 @@
       "SeTab",
       "Lucy",
       "Diable",
-      "Lehends",
-      "Pleata"
+      "Pleata",
+      "Lehends"
     ]
   },
   {
@@ -566,8 +566,8 @@
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/DIG-FullonDark.png",
     "players": [
-      "Dardoch",
       "Denathor",
+      "Dardoch",
       "Photon",
       "eXyu",
       "Palafox",
@@ -655,8 +655,8 @@
       "Flip",
       "deokdam",
       "Enosh",
-      "Peter",
       "Life",
+      "Peter",
       "Quantum "
     ]
   },
@@ -669,9 +669,9 @@
     "players": [
       "Rich",
       "Frog",
-      "Winner",
       "Vincenzo",
       "Willer",
+      "Winner",
       "Ucal",
       "AKaJe",
       "LazyFeel",
