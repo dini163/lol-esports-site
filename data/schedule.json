@@ -1,43 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "HLE vs T1",
-    "team_a": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "team_b": {
-      "name": "T1",
-      "code": "T1",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-09-12T05:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "IG vs AL",
-    "team_a": {
-      "name": "Invictus Gaming",
-      "code": "IG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "team_b": {
-      "name": "Anyone's Legend",
-      "code": "AL",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1641199582689_.png"
-    },
-    "start_time": "2026-09-12T09:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "VCS",
     "league_code": "vcs",
     "match": "MVKA vs 9G",
@@ -728,7 +690,7 @@
     "team_a": {
       "name": "Movistar KOI",
       "code": "MKOI",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "team_b": {
@@ -738,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png"
     },
     "start_time": "2026-09-18T15:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LoL Italian Tournament",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "Colossal Gaming",
       "code": "CG",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1789451802113_Logo-TAASD-SfondoElaborato-Round_HD.png"
     },
     "start_time": "2026-09-18T16:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "LCS",
@@ -857,12 +819,12 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "TBD vs KC",
+    "match": "MKOI vs KC",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Movistar KOI",
+      "code": "MKOI",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
     "team_b": {
       "name": "Karmine Corp",
@@ -895,12 +857,12 @@
   {
     "league": "LoL Italian Tournament",
     "league_code": "lol",
-    "match": "TBD vs HMB",
+    "match": "CG vs HMB",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Colossal Gaming",
+      "code": "CG",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
     },
     "team_b": {
       "name": "HMBLE",
