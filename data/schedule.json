@@ -743,21 +743,21 @@
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "C9 vs LYON",
+    "match": "LYON vs C9",
     "team_a": {
-      "name": "Cloud9 Kia",
-      "code": "C9",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-    },
-    "team_b": {
       "name": "LYON",
       "code": "LYON",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
     },
+    "team_b": {
+      "name": "Cloud9 Kia",
+      "code": "C9",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
     "start_time": "2026-09-19T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "WSCI",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
     "start_time": "2026-09-24T06:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "FUE vs EDGY",
+    "team_a": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "team_b": {
+      "name": "Edward Gaming Youth Team",
+      "code": "EDGY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
+    },
+    "start_time": "2026-09-24T07:00:00Z",
     "status": "upcoming"
   }
 ]
