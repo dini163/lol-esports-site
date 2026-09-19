@@ -1,62 +1,5 @@
 [
   {
-    "league": "LPL",
-    "league_code": "lpl",
-    "match": "IG vs AL",
-    "team_a": {
-      "name": "Invictus Gaming",
-      "code": "IG",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-    },
-    "team_b": {
-      "name": "Anyone's Legend",
-      "code": "AL",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1641199582689_.png"
-    },
-    "start_time": "2026-09-12T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "MVKA vs 9G",
-    "team_a": {
-      "name": "Saigon MVKE Academy",
-      "code": "MVKA",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
-    },
-    "team_b": {
-      "name": "Saigon 9Gaming Esports",
-      "code": "9G",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
-    },
-    "start_time": "2026-09-12T09:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "SGW vs SCBC",
-    "team_a": {
-      "name": "Saigon Warrior",
-      "code": "SGW",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
-    },
-    "team_b": {
-      "name": "TP.HCM SN CyberCore Esports",
-      "code": "SCBC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
-    },
-    "start_time": "2026-09-12T12:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Prime League",
     "league_code": "pri",
     "match": "G2N vs BIG",
@@ -762,18 +705,18 @@
   {
     "league": "VCS",
     "league_code": "vcs",
-    "match": "MVKA vs DINO",
+    "match": "DINO vs MVKA",
     "team_a": {
-      "name": "Saigon MVKE Academy",
-      "code": "MVKA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
-    },
-    "team_b": {
       "name": "Saigon 1TAP DINO",
       "code": "DINO",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1737108816278_SaigonDino-DINOLogo2025.png"
+    },
+    "team_b": {
+      "name": "Saigon MVKE Academy",
+      "code": "MVKA",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
     },
     "start_time": "2026-09-19T09:00:00Z",
     "status": "upcoming"
@@ -791,11 +734,11 @@
     "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-09-19T09:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "Rift Legends",
@@ -804,7 +747,7 @@
     "team_a": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
@@ -814,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-09-19T10:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "VCS",
@@ -1517,6 +1460,63 @@
       "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
     },
     "start_time": "2026-09-23T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "FL vs DK",
+    "team_a": {
+      "name": "FENNEL",
+      "code": "FL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-09-23T08:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "CPD vs VKS",
+    "team_a": {
+      "name": "Cupid Esports",
+      "code": "CPD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
+    },
+    "team_b": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "start_time": "2026-09-23T09:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "GL vs SGW",
+    "team_a": {
+      "name": "Galions",
+      "code": "GL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    },
+    "team_b": {
+      "name": "Saigon Warrior",
+      "code": "SGW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
+    },
+    "start_time": "2026-09-23T10:00:00Z",
     "status": "upcoming"
   }
 ]
