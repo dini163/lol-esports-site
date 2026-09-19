@@ -1,43 +1,5 @@
 [
   {
-    "league": "Prime League",
-    "league_code": "pri",
-    "match": "G2N vs BIG",
-    "team_a": {
-      "name": "G2 NORD",
-      "code": "G2N",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1767714240621_G2_Nord_White.png"
-    },
-    "team_b": {
-      "name": "Berlin International Gaming",
-      "code": "BIG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1674839453682_PRM_BIG-MonochromeLightBG.png"
-    },
-    "start_time": "2026-09-12T12:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LEC",
-    "league_code": "lec",
-    "match": "VIT vs MKOI",
-    "team_a": {
-      "name": "Team Vitality",
-      "code": "VIT",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-    },
-    "team_b": {
-      "name": "Movistar KOI",
-      "code": "MKOI",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-    },
-    "start_time": "2026-09-12T15:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hellenic Legends League",
     "league_code": "hel",
     "match": "TP vs VLR",
@@ -715,7 +677,7 @@
     "team_b": {
       "name": "Saigon MVKE Academy",
       "code": "MVKA",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
     },
     "start_time": "2026-09-19T09:00:00Z",
@@ -728,13 +690,13 @@
     "team_a": {
       "name": "Beijing JDG Esports",
       "code": "JDG",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1627457924722_29.png"
     },
     "team_b": {
       "name": "Invictus Gaming",
       "code": "IG",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
     },
     "start_time": "2026-09-19T09:00:00Z",
@@ -747,7 +709,7 @@
     "team_a": {
       "name": "BOMBA Team",
       "code": "BOOM",
-      "score": 1,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1770648772201_Bombalogoyellow.png"
     },
     "team_b": {
@@ -757,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1702894248711_1500_FSK_MONO.png"
     },
     "start_time": "2026-09-19T10:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -766,13 +728,13 @@
     "team_a": {
       "name": "Saigon 9Gaming Esports",
       "code": "9G",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
     },
     "team_b": {
       "name": "TP.HCM SN CyberCore Esports",
       "code": "SCBC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
     },
     "start_time": "2026-09-19T12:00:00Z",
@@ -1517,6 +1479,25 @@
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-09-23T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "SLY vs ZSK",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "ZSK",
+      "code": "ZSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788259706268_ZSK512x512.png"
+    },
+    "start_time": "2026-09-23T11:00:00Z",
     "status": "upcoming"
   }
 ]
