@@ -753,11 +753,11 @@
     "team_b": {
       "name": "Cloud9 Kia",
       "code": "C9",
-      "score": 2,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-09-19T20:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "WSCI",
@@ -874,25 +874,6 @@
     "status": "upcoming"
   },
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "ESB vs NBS",
-    "team_a": {
-      "name": "eSuba",
-      "code": "ESB",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
-    },
-    "team_b": {
-      "name": "NightBirds",
-      "code": "NBS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
-    },
-    "start_time": "2026-09-20T10:00:00Z",
-    "status": "upcoming"
-  },
-  {
     "league": "WSCI",
     "league_code": "wsc",
     "match": "FUE vs EDGY",
@@ -909,6 +890,25 @@
       "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
     },
     "start_time": "2026-09-20T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "Hitpoint Masters",
+    "league_code": "hit",
+    "match": "ESB vs NBS",
+    "team_a": {
+      "name": "eSuba",
+      "code": "ESB",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
+    },
+    "team_b": {
+      "name": "NightBirds",
+      "code": "NBS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
+    },
+    "start_time": "2026-09-20T11:30:00Z",
     "status": "upcoming"
   },
   {
