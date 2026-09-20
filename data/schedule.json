@@ -1,81 +1,5 @@
 [
   {
-    "league": "Liga Portuguesa",
-    "league_code": "lig",
-    "match": "WD vs OTS",
-    "team_a": {
-      "name": "White Dragons",
-      "code": "WD",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1784474656428_wd_w.png"
-    },
-    "team_b": {
-      "name": "Otter Side",
-      "code": "OTS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
-    },
-    "start_time": "2026-09-13T18:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "Arabian League",
-    "league_code": "ara",
-    "match": "BAM vs JSK",
-    "team_a": {
-      "name": "BAAM Esports",
-      "code": "BAM",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1738571384294_.png"
-    },
-    "team_b": {
-      "name": "JSK Gamefy",
-      "code": "JSK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1775517135066_JSK_c.png"
-    },
-    "start_time": "2026-09-13T18:30:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCS",
-    "league_code": "lcs",
-    "match": "FLY vs SEN",
-    "team_a": {
-      "name": "FlyQuest",
-      "code": "FLY",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-    },
-    "team_b": {
-      "name": "Sentinels",
-      "code": "SEN",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png"
-    },
-    "start_time": "2026-09-13T20:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "LCK Challengers",
-    "league_code": "lck",
-    "match": "DK vs KT",
-    "team_a": {
-      "name": "DK Challengers",
-      "code": "DK",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "team_b": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-09-14T08:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "EXE vs ESB",
@@ -753,11 +677,11 @@
     "team_b": {
       "name": "NightBirds",
       "code": "NBS",
-      "score": 0,
+      "score": 3,
       "image": "https://static.lolesports.com/teams/1739978270852_NBS_BIG.png"
     },
     "start_time": "2026-09-20T11:30:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "VCS",
@@ -766,7 +690,7 @@
     "team_a": {
       "name": "Saigon 9Gaming Esports",
       "code": "9G",
-      "score": 0,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1771230747972_9Gaming_Ngang_Vng_en.png"
     },
     "team_b": {
@@ -791,11 +715,11 @@
     "team_b": {
       "name": "Bilibili Gaming Junior",
       "code": "BLGJ",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1788259616222_BLG.J512x512.png"
     },
     "start_time": "2026-09-20T12:00:00Z",
-    "status": "live"
+    "status": "completed"
   },
   {
     "league": "WSCI",
@@ -804,7 +728,7 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
@@ -814,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-09-20T13:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "LEC",
@@ -1026,6 +950,158 @@
     "status": "upcoming"
   },
   {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "SC vs AP",
+    "team_a": {
+      "name": "Skillcamp",
+      "code": "SC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
+    },
+    "team_b": {
+      "name": "Arctic Pandas",
+      "code": "AP",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
+    },
+    "start_time": "2026-09-21T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "USE vs OTS",
+    "team_a": {
+      "name": "Unicorns of Love Sexy Edition",
+      "code": "USE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
+    },
+    "team_b": {
+      "name": "Otter Side",
+      "code": "OTS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
+    },
+    "start_time": "2026-09-21T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "SU vs VER",
+    "team_a": {
+      "name": "Avella SU Esports",
+      "code": "SU",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
+    },
+    "team_b": {
+      "name": "Verdant",
+      "code": "VER",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
+    },
+    "start_time": "2026-09-21T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "BAR vs BBK",
+    "team_a": {
+      "name": "Bar\u00e7a Esports",
+      "code": "BAR",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
+    },
+    "team_b": {
+      "name": "Bubliki",
+      "code": "BBK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1784473969452_bub_c.png"
+    },
+    "start_time": "2026-09-21T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "P4 vs LDS",
+    "team_a": {
+      "name": "Pyramid IV Esports",
+      "code": "P4",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
+    },
+    "team_b": {
+      "name": "LODIS",
+      "code": "LDS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
+    },
+    "start_time": "2026-09-21T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TA vs CKZ",
+    "team_a": {
+      "name": "TEAM AQUA",
+      "code": "TA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1789451802113_Logo-TAASD-SfondoElaborato-Round_HD.png"
+    },
+    "team_b": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
+    "start_time": "2026-09-21T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "UCAM vs MCON",
+    "team_a": {
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
+    },
+    "team_b": {
+      "name": "mCon Esports",
+      "code": "MCON",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/MCon_esportslogo_square.png"
+    },
+    "start_time": "2026-09-21T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "GSMC vs OTF",
+    "team_a": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
+    },
+    "team_b": {
+      "name": "ONLY THE FAMILY",
+      "code": "OTF",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
+    },
+    "start_time": "2026-09-21T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "WSCI",
     "league_code": "wsc",
     "match": "MKF vs BLGJ",
@@ -1178,6 +1254,158 @@
     "status": "upcoming"
   },
   {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "EMEA Masters",
+    "league_code": "eme",
+    "match": "TBD vs TBD",
+    "team_a": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "team_b": {
+      "name": "TBD",
+      "code": "TBD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/team-tbd.png"
+    },
+    "start_time": "2026-09-22T18:00:00Z",
+    "status": "upcoming"
+  },
+  {
     "league": "WSCI",
     "league_code": "wsc",
     "match": "SLY vs SGW",
@@ -1270,253 +1498,6 @@
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-09-23T10:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "SLY vs ZSK",
-    "team_a": {
-      "name": "Solary",
-      "code": "SLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
-    },
-    "team_b": {
-      "name": "ZSK",
-      "code": "ZSK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788259706268_ZSK512x512.png"
-    },
-    "start_time": "2026-09-23T11:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "VKS vs DK",
-    "team_a": {
-      "name": "Vivo Keyd Stars Academy",
-      "code": "VKS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
-    },
-    "team_b": {
-      "name": "Dplus KIA",
-      "code": "DK",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-    },
-    "start_time": "2026-09-23T12:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "FL vs CPD",
-    "team_a": {
-      "name": "FENNEL",
-      "code": "FL",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1673413831349_fl.png"
-    },
-    "team_b": {
-      "name": "Cupid Esports",
-      "code": "CPD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
-    },
-    "start_time": "2026-09-23T13:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "DNS vs T1A",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-09-24T06:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "FUE vs EDGY",
-    "team_a": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "team_b": {
-      "name": "Edward Gaming Youth Team",
-      "code": "EDGY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
-    },
-    "start_time": "2026-09-24T07:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "CFOA vs BLGJ",
-    "team_a": {
-      "name": "CTBC Flying Oyster Academy",
-      "code": "CFOA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
-    },
-    "team_b": {
-      "name": "Bilibili Gaming Junior",
-      "code": "BLGJ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788259616222_BLG.J512x512.png"
-    },
-    "start_time": "2026-09-24T08:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "MKF vs KT",
-    "team_a": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "team_b": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-09-24T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "TBD vs TBD",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "start_time": "2026-09-24T09:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "FUE vs T1A",
-    "team_a": {
-      "name": "FUEGO",
-      "code": "FUE",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
-    },
-    "team_b": {
-      "name": "T1 Esports Academy",
-      "code": "T1A",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
-    },
-    "start_time": "2026-09-24T10:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "DNS vs EDGY",
-    "team_a": {
-      "name": "DNS Challengers",
-      "code": "DNS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-    },
-    "team_b": {
-      "name": "Edward Gaming Youth Team",
-      "code": "EDGY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
-    },
-    "start_time": "2026-09-24T11:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "MKF vs BLGJ",
-    "team_a": {
-      "name": "Movistar KOI F\u00e9nix",
-      "code": "MKF",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-    },
-    "team_b": {
-      "name": "Bilibili Gaming Junior",
-      "code": "BLGJ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788259616222_BLG.J512x512.png"
-    },
-    "start_time": "2026-09-24T12:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "VCS",
-    "league_code": "vcs",
-    "match": "TBD vs TBD",
-    "team_a": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "team_b": {
-      "name": "TBD",
-      "code": "TBD",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
-    },
-    "start_time": "2026-09-24T12:00:00Z",
-    "status": "upcoming"
-  },
-  {
-    "league": "WSCI",
-    "league_code": "wsc",
-    "match": "CFOA vs KT",
-    "team_a": {
-      "name": "CTBC Flying Oyster Academy",
-      "code": "CFOA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
-    },
-    "team_b": {
-      "name": "kt Challengers",
-      "code": "KT",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
-    },
-    "start_time": "2026-09-24T13:00:00Z",
     "status": "upcoming"
   }
 ]
