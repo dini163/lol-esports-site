@@ -1,24 +1,5 @@
 [
   {
-    "league": "LCK",
-    "league_code": "lck",
-    "match": "GEN vs HLE",
-    "team_a": {
-      "name": "Gen.G Esports",
-      "code": "GEN",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-    },
-    "team_b": {
-      "name": "Hanwha Life Esports",
-      "code": "HLE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/hle-2021-color-on-dark.png"
-    },
-    "start_time": "2026-09-13T05:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "VCS",
     "league_code": "vcs",
     "match": "DINO vs SGW",
@@ -762,21 +743,21 @@
   {
     "league": "WSCI",
     "league_code": "wsc",
-    "match": "EDGY vs T1A",
+    "match": "T1A vs EDGY",
     "team_a": {
-      "name": "Edward Gaming Youth Team",
-      "code": "EDGY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
-    },
-    "team_b": {
       "name": "T1 Esports Academy",
       "code": "T1A",
       "score": 0,
       "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
     },
+    "team_b": {
+      "name": "Edward Gaming Youth Team",
+      "code": "EDGY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
+    },
     "start_time": "2026-09-20T06:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "WSCI",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
     },
     "start_time": "2026-09-24T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "CFOA vs BLGJ",
+    "team_a": {
+      "name": "CTBC Flying Oyster Academy",
+      "code": "CFOA",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1738762962228_1000_CFOA-FlyingOyster.png"
+    },
+    "team_b": {
+      "name": "Bilibili Gaming Junior",
+      "code": "BLGJ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788259616222_BLG.J512x512.png"
+    },
+    "start_time": "2026-09-24T08:00:00Z",
     "status": "upcoming"
   }
 ]
