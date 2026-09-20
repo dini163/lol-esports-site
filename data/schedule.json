@@ -1,43 +1,5 @@
 [
   {
-    "league": "Hitpoint Masters",
-    "league_code": "hit",
-    "match": "EXE vs ESB",
-    "team_a": {
-      "name": "EXILE Esports",
-      "code": "EXE",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1739089858844_exile_color.png"
-    },
-    "team_b": {
-      "name": "eSuba",
-      "code": "ESB",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1705300013762_HM_ESB_logo.png"
-    },
-    "start_time": "2026-09-14T14:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "NLC",
-    "league_code": "nlc",
-    "match": "VER vs AP",
-    "team_a": {
-      "name": "Verdant",
-      "code": "VER",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
-    },
-    "team_b": {
-      "name": "Arctic Pandas",
-      "code": "AP",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
-    },
-    "start_time": "2026-09-14T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "EMEA Masters",
     "league_code": "eme",
     "match": "MKF vs BIG",
@@ -743,21 +705,21 @@
   {
     "league": "LEC",
     "league_code": "lec",
-    "match": "MKOI vs G2",
+    "match": "G2 vs MKOI",
     "team_a": {
+      "name": "G2 Esports",
+      "code": "G2",
+      "score": 3,
+      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    },
+    "team_b": {
       "name": "Movistar KOI",
       "code": "MKOI",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
     },
-    "team_b": {
-      "name": "G2 Esports",
-      "code": "G2",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/G2-FullonDark.png"
-    },
     "start_time": "2026-09-20T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "CBLOL",
@@ -766,33 +728,33 @@
     "team_a": {
       "name": "RED Kalunga",
       "code": "RED",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
     },
     "team_b": {
       "name": "paiN Gaming",
       "code": "PAIN",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
     },
     "start_time": "2026-09-20T16:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "LCS",
     "league_code": "lcs",
-    "match": "FLY vs TL",
+    "match": "TL vs FLY",
     "team_a": {
-      "name": "FlyQuest",
-      "code": "FLY",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-    },
-    "team_b": {
       "name": "Team Liquid Alienware",
       "code": "TL",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "team_b": {
+      "name": "FlyQuest",
+      "code": "FLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-09-20T20:00:00Z",
     "status": "upcoming"
@@ -1498,6 +1460,44 @@
       "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
     },
     "start_time": "2026-09-23T10:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "SLY vs ZSK",
+    "team_a": {
+      "name": "Solary",
+      "code": "SLY",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    },
+    "team_b": {
+      "name": "ZSK",
+      "code": "ZSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788259706268_ZSK512x512.png"
+    },
+    "start_time": "2026-09-23T11:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "VKS vs DK",
+    "team_a": {
+      "name": "Vivo Keyd Stars Academy",
+      "code": "VKS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
+    },
+    "team_b": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "start_time": "2026-09-23T12:00:00Z",
     "status": "upcoming"
   }
 ]
