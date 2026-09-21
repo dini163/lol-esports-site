@@ -1964,29 +1964,6 @@
     },
     "highlights": []
   },
-  "DDahyuk": {
-    "id": "DDahyuk",
-    "name": "Minhyuk Ahn",
-    "ign": "DDahyuk",
-    "role": "TOP",
-    "team": "BRO Challengers",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769090323253_image6-2026-01-22T145701.864.png",
-    "bio": "DDahyuk is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "5.4",
-      "cs_per_min": "10.0",
-      "kill_participation": "73%",
-      "win_rate": "64%"
-    },
-    "highlights": []
-  },
   "Casting": {
     "id": "Casting",
     "name": "Minje Shin",
@@ -2007,6 +1984,29 @@
       "cs_per_min": "8.9",
       "kill_participation": "66%",
       "win_rate": "66%"
+    },
+    "highlights": []
+  },
+  "DDahyuk": {
+    "id": "DDahyuk",
+    "name": "Minhyuk Ahn",
+    "ign": "DDahyuk",
+    "role": "TOP",
+    "team": "BRO Challengers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769090323253_image6-2026-01-22T145701.864.png",
+    "bio": "DDahyuk is a professional League of Legends player competing in the LCK as the TOP for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "5.4",
+      "cs_per_min": "10.0",
+      "kill_participation": "73%",
+      "win_rate": "64%"
     },
     "highlights": []
   },
