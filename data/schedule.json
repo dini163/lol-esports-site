@@ -914,75 +914,75 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "LDS vs SC",
+    "match": "SC vs LDS",
     "team_a": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "team_b": {
       "name": "Skillcamp",
       "code": "SC",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
+    "team_b": {
+      "name": "LODIS",
+      "code": "LDS",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
+    },
     "start_time": "2026-09-22T15:00:00Z",
     "status": "upcoming"
   },
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "CKZ vs USE",
+    "match": "USE vs CKZ",
     "team_a": {
-      "name": "CITA Kaizen",
-      "code": "CKZ",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
-    },
-    "team_b": {
       "name": "Unicorns of Love Sexy Edition",
       "code": "USE",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
+    "team_b": {
+      "name": "CITA Kaizen",
+      "code": "CKZ",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1768642464138_ckz.png"
+    },
     "start_time": "2026-09-22T15:00:00Z",
     "status": "upcoming"
   },
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "UCAM vs SU",
+    "match": "SU vs UCAM",
     "team_a": {
-      "name": "UCAM Esports Club",
-      "code": "UCAM",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
-    },
-    "team_b": {
       "name": "Avella SU Esports",
       "code": "SU",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
+    "team_b": {
+      "name": "UCAM Esports Club",
+      "code": "UCAM",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
+    },
     "start_time": "2026-09-22T15:00:00Z",
     "status": "upcoming"
   },
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "GSMC vs BAR",
+    "match": "BAR vs GSMC",
     "team_a": {
-      "name": "Gamespace M.C.",
-      "code": "GSMC",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
-    },
-    "team_b": {
       "name": "Bar\u00e7a Esports",
       "code": "BAR",
       "score": 0,
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
+    },
+    "team_b": {
+      "name": "Gamespace M.C.",
+      "code": "GSMC",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/GameSpaceMediterraneanCollegeeSports.png"
     },
     "start_time": "2026-09-22T15:00:00Z",
     "status": "upcoming"
