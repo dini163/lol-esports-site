@@ -1,24 +1,5 @@
 [
   {
-    "league": "LoL Italian Tournament",
-    "league_code": "lol",
-    "match": "CG vs TA",
-    "team_a": {
-      "name": "Colossal Gaming",
-      "code": "CG",
-      "score": 3,
-      "image": "https://static.lolesports.com/teams/1742216184064_Logomark-FullcolourfordarkBG.png"
-    },
-    "team_b": {
-      "name": "TEAM AQUA",
-      "code": "TA",
-      "score": 0,
-      "image": "https://static.lolesports.com/teams/1789451802113_Logo-TAASD-SfondoElaborato-Round_HD.png"
-    },
-    "start_time": "2026-09-18T16:00:00Z",
-    "status": "completed"
-  },
-  {
     "league": "LCS",
     "league_code": "lcs",
     "match": "SR vs SEN",
@@ -766,7 +747,7 @@
     "team_a": {
       "name": "Movistar KOI F\u00e9nix",
       "code": "MKF",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
     },
     "team_b": {
@@ -776,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1788259616222_BLG.J512x512.png"
     },
     "start_time": "2026-09-22T06:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "WSCI",
@@ -795,7 +776,7 @@
       "image": "https://static.lolesports.com/teams/kt_darkbackground.png"
     },
     "start_time": "2026-09-22T07:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "WSCI",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1774200249450_vks_c.png"
     },
     "start_time": "2026-09-25T07:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "ZSK vs SGW",
+    "team_a": {
+      "name": "ZSK",
+      "code": "ZSK",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1788259706268_ZSK512x512.png"
+    },
+    "team_b": {
+      "name": "Saigon Warrior",
+      "code": "SGW",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
+    },
+    "start_time": "2026-09-25T08:00:00Z",
     "status": "upcoming"
   }
 ]
