@@ -1,5 +1,24 @@
 [
   {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "FUE vs EDGY",
+    "team_a": {
+      "name": "FUEGO",
+      "code": "FUE",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1711010140737_FUEGO-C.png"
+    },
+    "team_b": {
+      "name": "Edward Gaming Youth Team",
+      "code": "EDGY",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1788259684226_EDG.Y512x5121.png"
+    },
+    "start_time": "2026-09-20T11:00:00Z",
+    "status": "completed"
+  },
+  {
     "league": "Hitpoint Masters",
     "league_code": "hit",
     "match": "ESB vs NBS",
@@ -605,7 +624,7 @@
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-09-22T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -624,7 +643,7 @@
       "image": "https://static.lolesports.com/teams/1674832383233_PRM_USE-FullColorDarkBG.png"
     },
     "start_time": "2026-09-22T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -643,7 +662,7 @@
       "image": "https://static.lolesports.com/teams/1774563455909_ucam_c.png"
     },
     "start_time": "2026-09-22T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -662,7 +681,7 @@
       "image": "https://static.lolesports.com/teams/1639828813946_61b778236a9c9995719028.png"
     },
     "start_time": "2026-09-22T15:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -671,17 +690,17 @@
     "team_a": {
       "name": "Arctic Pandas",
       "code": "AP",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1767707446482_ap.png"
     },
     "team_b": {
       "name": "Pyramid IV Esports",
       "code": "P4",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "start_time": "2026-09-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -700,7 +719,7 @@
       "image": "https://static.lolesports.com/teams/1789451802113_Logo-TAASD-SfondoElaborato-Round_HD.png"
     },
     "start_time": "2026-09-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -719,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "start_time": "2026-09-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-09-22T18:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "WSCI",
@@ -895,12 +914,12 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "TBD vs SC",
+    "match": "P4 vs SC",
     "team_a": {
-      "name": "TBD",
-      "code": "TBD",
+      "name": "Pyramid IV Esports",
+      "code": "P4",
       "score": 0,
-      "image": "https://static.lolesports.com/teams/team-tbd.png"
+      "image": "https://static.lolesports.com/teams/1783864745315_Full-Color-for-Dark-BG-removebg-preview.png"
     },
     "team_b": {
       "name": "Skillcamp",
