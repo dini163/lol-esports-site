@@ -2378,6 +2378,29 @@
     },
     "highlights": []
   },
+  "Revenge": {
+    "id": "Revenge",
+    "name": "Yoon Jeong-bin",
+    "ign": "Revenge",
+    "role": "BOTTOM",
+    "team": "DN SOOPers",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "bio": "Revenge is a professional League of Legends player competing in the LCK as the BOTTOM for DN SOOPers. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "3.5",
+      "cs_per_min": "8.5",
+      "kill_participation": "71%",
+      "win_rate": "68%"
+    },
+    "highlights": []
+  },
   "deokdam": {
     "id": "deokdam",
     "name": "Daegil Seo",
@@ -2654,29 +2677,6 @@
     },
     "highlights": []
   },
-  "LazyFeel": {
-    "id": "LazyFeel",
-    "name": "Bao Minh Tran",
-    "ign": "LazyFeel",
-    "role": "BOTTOM",
-    "team": "KIWOOM DRX",
-    "region": "LCK",
-    "image": "http://static.lolesports.com/players/1769088600339_image6-2026-01-22T142919.845.png",
-    "bio": "LazyFeel is a professional League of Legends player competing in the LCK as the BOTTOM for KIWOOM DRX. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aphelios",
-      "Jinx",
-      "Zeri",
-      "Kaisa"
-    ],
-    "stats": {
-      "kda": "5.5",
-      "cs_per_min": "9.3",
-      "kill_participation": "70%",
-      "win_rate": "55%"
-    },
-    "highlights": []
-  },
   "Aiming": {
     "id": "Aiming",
     "name": "Haram Kim",
@@ -2697,6 +2697,29 @@
       "cs_per_min": "8.5",
       "kill_participation": "76%",
       "win_rate": "72%"
+    },
+    "highlights": []
+  },
+  "LazyFeel": {
+    "id": "LazyFeel",
+    "name": "Bao Minh Tran",
+    "ign": "LazyFeel",
+    "role": "BOTTOM",
+    "team": "KIWOOM DRX",
+    "region": "LCK",
+    "image": "http://static.lolesports.com/players/1769088600339_image6-2026-01-22T142919.845.png",
+    "bio": "LazyFeel is a professional League of Legends player competing in the LCK as the BOTTOM for KIWOOM DRX. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aphelios",
+      "Jinx",
+      "Zeri",
+      "Kaisa"
+    ],
+    "stats": {
+      "kda": "5.5",
+      "cs_per_min": "9.3",
+      "kill_participation": "70%",
+      "win_rate": "55%"
     },
     "highlights": []
   },
@@ -6408,29 +6431,6 @@
     },
     "highlights": []
   },
-  "ZUIAN": {
-    "id": "ZUIAN",
-    "name": "Cheng Zi-Hao",
-    "ign": "ZUIAN",
-    "role": "TOP",
-    "team": "TOP ESPORTS",
-    "region": "LPL",
-    "image": "http://static.lolesports.com/players/1775226028458_zuian.png",
-    "bio": "ZUIAN is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.9",
-      "cs_per_min": "9.1",
-      "kill_participation": "63%",
-      "win_rate": "54%"
-    },
-    "highlights": []
-  },
   "369": {
     "id": "369",
     "name": "Jiahao Bai",
@@ -6451,6 +6451,29 @@
       "cs_per_min": "8.5",
       "kill_participation": "63%",
       "win_rate": "48%"
+    },
+    "highlights": []
+  },
+  "ZUIAN": {
+    "id": "ZUIAN",
+    "name": "Cheng Zi-Hao",
+    "ign": "ZUIAN",
+    "role": "TOP",
+    "team": "TOP ESPORTS",
+    "region": "LPL",
+    "image": "http://static.lolesports.com/players/1775226028458_zuian.png",
+    "bio": "ZUIAN is a professional League of Legends player competing in the LPL as the TOP for TOP ESPORTS. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Aatrox",
+      "Jax",
+      "Ornn",
+      "Renekton"
+    ],
+    "stats": {
+      "kda": "3.9",
+      "cs_per_min": "9.1",
+      "kill_participation": "63%",
+      "win_rate": "54%"
     },
     "highlights": []
   },
