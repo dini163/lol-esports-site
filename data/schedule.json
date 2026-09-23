@@ -2,6 +2,25 @@
   {
     "league": "WSCI",
     "league_code": "wsc",
+    "match": "DK vs CPD",
+    "team_a": {
+      "name": "Dplus KIA",
+      "code": "DK",
+      "score": 1,
+      "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    },
+    "team_b": {
+      "name": "Cupid Esports",
+      "code": "CPD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
+    },
+    "start_time": "2026-09-21T10:00:00Z",
+    "status": "completed"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
     "match": "FL vs VKS",
     "team_a": {
       "name": "FENNEL",
@@ -681,7 +700,7 @@
       "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
     },
     "start_time": "2026-09-23T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -696,11 +715,11 @@
     "team_b": {
       "name": "Otter Side",
       "code": "OTS",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1784473275767_otter_c-Photoroom.png"
     },
     "start_time": "2026-09-23T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -709,7 +728,7 @@
     "team_a": {
       "name": "Avella SU Esports",
       "code": "SU",
-      "score": 1,
+      "score": 2,
       "image": "https://static.lolesports.com/teams/1767800932248_suprema-logo-3.png"
     },
     "team_b": {
@@ -719,7 +738,7 @@
       "image": "https://static.lolesports.com/teams/1736206402275_VER1.png"
     },
     "start_time": "2026-09-23T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "EMEA Masters",
@@ -738,7 +757,7 @@
       "image": "https://static.lolesports.com/teams/1787132878741_EBL_OTF-MonochromeDarkBG.png.png"
     },
     "start_time": "2026-09-23T17:00:00Z",
-    "status": "upcoming"
+    "status": "completed"
   },
   {
     "league": "WSCI",
