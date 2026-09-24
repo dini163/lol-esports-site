@@ -3558,7 +3558,7 @@
     "role": "SUPPORT",
     "team": "Shopify Rebellion",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/1674831529697_C9_ZEYZAL.png",
+    "image": "http://static.lolesports.com/players/1790204939755_zeyzal.png",
     "bio": "Zeyzal is a professional League of Legends player competing in the LCS as the SUPPORT for Shopify Rebellion. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Thresh",
@@ -4460,7 +4460,7 @@
     "role": "MID",
     "team": "Cloud9 Kia",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
+    "image": "http://static.lolesports.com/players/1790204959636_loki.png",
     "bio": "Loki  is a professional League of Legends player competing in the LCK as the MID for BRO Challengers. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Azir",
@@ -4506,7 +4506,7 @@
     "role": "BOTTOM",
     "team": "Cloud9 Kia",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/1674833868099_IMT_TACTICAL.png",
+    "image": "http://static.lolesports.com/players/1790204905338_tac.png",
     "bio": "Tactical is a professional League of Legends player competing in the LCS as the BOTTOM for Cloud9 Kia. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Aphelios",
@@ -5005,29 +5005,6 @@
     },
     "highlights": []
   },
-  "Dardoch": {
-    "id": "Dardoch",
-    "name": "Joshua Hartnett",
-    "ign": "Dardoch",
-    "role": "TOP",
-    "team": "Dignitas",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/default-headshot.png",
-    "bio": "Dardoch is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Aatrox",
-      "Jax",
-      "Ornn",
-      "Renekton"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "9.6",
-      "kill_participation": "68%",
-      "win_rate": "60%"
-    },
-    "highlights": []
-  },
   "Denathor": {
     "id": "Denathor",
     "name": "Noah Erikson",
@@ -5035,7 +5012,7 @@
     "role": "TOP",
     "team": "Dignitas",
     "region": "LCS",
-    "image": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "image": "http://static.lolesports.com/players/1790204881186_edna.png",
     "bio": "Denathor is a professional League of Legends player competing in the LCS as the TOP for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
     "signature_champions": [
       "Aatrox",
@@ -5074,29 +5051,6 @@
     },
     "highlights": []
   },
-  "Palafox": {
-    "id": "Palafox",
-    "name": "Cristian Palafox",
-    "ign": "Palafox",
-    "role": "MID",
-    "team": "Dignitas",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/1769149668465_AME_LCS26S1_DIG_PALAFOX.png",
-    "bio": "Palafox is a professional League of Legends player competing in the LCS as the MID for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "4.9",
-      "cs_per_min": "9.9",
-      "kill_participation": "72%",
-      "win_rate": "53%"
-    },
-    "highlights": []
-  },
   "FBI": {
     "id": "FBI",
     "name": "Ian Huang",
@@ -5117,29 +5071,6 @@
       "cs_per_min": "8.7",
       "kill_participation": "63%",
       "win_rate": "57%"
-    },
-    "highlights": []
-  },
-  "IgNar": {
-    "id": "IgNar",
-    "name": "Dong Geun Lee",
-    "ign": "IgNar",
-    "role": "SUPPORT",
-    "team": "Dignitas",
-    "region": "LCS",
-    "image": "http://static.lolesports.com/players/1705026333045_ignar.png",
-    "bio": "IgNar is a professional League of Legends player competing in the LCS as the SUPPORT for Dignitas. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Thresh",
-      "Lulu",
-      "Rakan",
-      "Nautilus"
-    ],
-    "stats": {
-      "kda": "4.9",
-      "cs_per_min": "9.9",
-      "kill_participation": "68%",
-      "win_rate": "60%"
     },
     "highlights": []
   },
