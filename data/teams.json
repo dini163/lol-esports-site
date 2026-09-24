@@ -610,8 +610,8 @@
     "players": [
       "Naak Nako",
       "Lyncas",
-      "Humanoid",
       "FIESTA",
+      "Humanoid",
       "Carzzy",
       "Fleshy",
       "Lukezy"
@@ -624,8 +624,8 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "players": [
-      "Sero",
       "PerfecT",
+      "Sero",
       "Cuzz",
       "Sylvie",
       "Hwichan",
@@ -654,9 +654,9 @@
       "Revenge",
       "deokdam",
       "Enosh",
-      "Quantum ",
       "Peter",
-      "Life"
+      "Life",
+      "Quantum "
     ]
   },
   {
@@ -666,17 +666,17 @@
     "region": "LCK",
     "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "players": [
-      "Frog",
       "Rich",
+      "Frog",
       "Vincenzo",
       "Willer",
       "Winner",
-      "AKaJe",
       "Ucal",
+      "AKaJe",
       "Aiming",
       "LazyFeel",
-      "Minous",
-      "Andil"
+      "Andil",
+      "Minous"
     ]
   },
   {

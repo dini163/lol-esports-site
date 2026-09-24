@@ -5350,29 +5350,6 @@
     },
     "highlights": []
   },
-  "Humanoid": {
-    "id": "Humanoid",
-    "name": "Marek Brázda",
-    "ign": "Humanoid",
-    "role": "MID",
-    "team": "Team Vitality",
-    "region": "LEC",
-    "image": "http://static.lolesports.com/players/1774651500920_humanoid.png",
-    "bio": "Humanoid is a professional League of Legends player competing in the LEC as the MID for Team Vitality. Known for mechanical prowess and dedication to team cohesion.",
-    "signature_champions": [
-      "Azir",
-      "Orianna",
-      "Syndra",
-      "Yone"
-    ],
-    "stats": {
-      "kda": "3.2",
-      "cs_per_min": "9.6",
-      "kill_participation": "78%",
-      "win_rate": "52%"
-    },
-    "highlights": []
-  },
   "FIESTA": {
     "id": "FIESTA",
     "name": "Hyunseo An",
@@ -5393,6 +5370,29 @@
       "cs_per_min": "9.1",
       "kill_participation": "67%",
       "win_rate": "56%"
+    },
+    "highlights": []
+  },
+  "Humanoid": {
+    "id": "Humanoid",
+    "name": "Marek Brázda",
+    "ign": "Humanoid",
+    "role": "MID",
+    "team": "Team Vitality",
+    "region": "LEC",
+    "image": "http://static.lolesports.com/players/1774651500920_humanoid.png",
+    "bio": "Humanoid is a professional League of Legends player competing in the LEC as the MID for Team Vitality. Known for mechanical prowess and dedication to team cohesion.",
+    "signature_champions": [
+      "Azir",
+      "Orianna",
+      "Syndra",
+      "Yone"
+    ],
+    "stats": {
+      "kda": "3.2",
+      "cs_per_min": "9.6",
+      "kill_participation": "78%",
+      "win_rate": "52%"
     },
     "highlights": []
   },
