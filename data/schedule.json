@@ -747,17 +747,17 @@
     "team_a": {
       "name": "Shopify Rebellion",
       "code": "SR",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
     },
     "team_b": {
       "name": "FlyQuest",
       "code": "FLY",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
     },
     "start_time": "2026-09-25T20:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "VCS",
@@ -1498,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/team-tbd.png"
     },
     "start_time": "2026-09-27T19:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "LCS",
+    "league_code": "lcs",
+    "match": "TL vs C9",
+    "team_a": {
+      "name": "Team Liquid Alienware",
+      "code": "TL",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    },
+    "team_b": {
+      "name": "Cloud9 Kia",
+      "code": "C9",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+    },
+    "start_time": "2026-09-27T20:00:00Z",
     "status": "upcoming"
   }
 ]
