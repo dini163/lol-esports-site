@@ -54,8 +54,8 @@
     "record": "33-15",
     "winrate": "69%",
     "rating": 1475.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "1st in LEC",
     "reason": "G2 Esports reigns supreme in Europe, combining creative draft flexes and relentless high-tempo map skirmishing that continues to challenge the best in the East."
   },
@@ -69,8 +69,8 @@
     "record": "29-16",
     "winrate": "64%",
     "rating": 1471.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in LCK",
     "reason": "T1 continues to be a top-tier international threat. Faker's unmatched shotcalling combined with Gumayusi's steady teamfight carries ensures they remain championship contenders."
   },
@@ -186,11 +186,11 @@
     "code": "TL",
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-    "record": "19-11",
-    "winrate": "63%",
-    "rating": 1352.0,
-    "trend": "up",
-    "trendValue": 2,
+    "record": "20-10",
+    "winrate": "67%",
+    "rating": 1360.0,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in LCS",
     "reason": "Team Liquid features an unyielding defensive macro and highly methodical scaling setups, establishing themselves as a primary title contender in North America."
   },
@@ -204,10 +204,10 @@
     "record": "21-13",
     "winrate": "62%",
     "rating": 1350.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in LPL",
-    "reason": "Shenzhen NINJAS IN PYJAMAS occupies a competitive standing in the LPL region, experiencing a minor rank drop of 1 spots with a power rating score of 1350 and a 21-13 (62%) match record."
+    "reason": "Shenzhen NINJAS IN PYJAMAS occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1350 and a 21-13 (62%) match record."
   },
   {
     "rank": 15,
@@ -226,21 +226,6 @@
   },
   {
     "rank": 16,
-    "teamId": "flyquest",
-    "name": "FlyQuest",
-    "code": "FLY",
-    "region": "LCS",
-    "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
-    "record": "11-12",
-    "winrate": "48%",
-    "rating": 1344.0,
-    "trend": "down",
-    "trendValue": 2,
-    "domesticRank": "3rd in LCS",
-    "reason": "FlyQuest leads the North American LCS charge, showcasing strong team cohesion, exceptional cross-map skirmishing, and superb objective control."
-  },
-  {
-    "rank": 17,
     "teamId": "cloud9",
     "name": "Cloud9 Kia",
     "code": "C9",
@@ -251,8 +236,23 @@
     "rating": 1339.0,
     "trend": "up",
     "trendValue": 1,
-    "domesticRank": "4th in LCS",
+    "domesticRank": "3rd in LCS",
     "reason": "Cloud9 shows strong individual laning power and aggressive map control, making them a consistently dangerous contender in the LCS."
+  },
+  {
+    "rank": 17,
+    "teamId": "flyquest",
+    "name": "FlyQuest",
+    "code": "FLY",
+    "region": "LCS",
+    "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
+    "record": "11-13",
+    "winrate": "46%",
+    "rating": 1337.0,
+    "trend": "down",
+    "trendValue": 1,
+    "domesticRank": "4th in LCS",
+    "reason": "FlyQuest leads the North American LCS charge, showcasing strong team cohesion, exceptional cross-map skirmishing, and superb objective control."
   },
   {
     "rank": 18,
@@ -264,10 +264,10 @@
     "record": "22-18",
     "winrate": "55%",
     "rating": 1317.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in LEC",
-    "reason": "Movistar KOI occupies a competitive standing in the LEC region, experiencing a minor rank drop of 1 spots with a power rating score of 1317 and a 22-18 (55%) match record."
+    "reason": "Movistar KOI occupies a competitive standing in the LEC region, maintaining a highly stable competitive position with a power rating score of 1317 and a 22-18 (55%) match record."
   },
   {
     "rank": 18,
@@ -279,10 +279,10 @@
     "record": "12-14",
     "winrate": "46%",
     "rating": 1317.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "2nd in LCP",
-    "reason": "CTBC Flying Oyster occupies a competitive standing in the LCP region, climbing 1 spots recently with a power rating score of 1317 and a 12-14 (46%) match record."
+    "reason": "CTBC Flying Oyster occupies a competitive standing in the LCP region, maintaining a highly stable competitive position with a power rating score of 1317 and a 12-14 (46%) match record."
   },
   {
     "rank": 20,
@@ -609,10 +609,10 @@
     "record": "18-13",
     "winrate": "58%",
     "rating": 1171.0,
-    "trend": "up",
-    "trendValue": 2,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in CBLOL",
-    "reason": "RED Kalunga occupies a competitive standing in the CBLOL region, climbing 2 spots recently with a power rating score of 1171 and a 18-13 (58%) match record."
+    "reason": "RED Kalunga occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1171 and a 18-13 (58%) match record."
   },
   {
     "rank": 41,
@@ -639,10 +639,10 @@
     "record": "21-9",
     "winrate": "70%",
     "rating": 1169.0,
-    "trend": "down",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in CBLOL",
-    "reason": "LOS occupies a competitive standing in the CBLOL region, experiencing a minor rank drop of 1 spots with a power rating score of 1169 and a 21-9 (70%) match record."
+    "reason": "LOS occupies a competitive standing in the CBLOL region, maintaining a highly stable competitive position with a power rating score of 1169 and a 21-9 (70%) match record."
   },
   {
     "rank": 44,
@@ -774,10 +774,10 @@
     "record": "3-8",
     "winrate": "27%",
     "rating": 1124.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "14th in LPL",
-    "reason": "Ultra Prime occupies a competitive standing in the LPL region, climbing 1 spots recently with a power rating score of 1124 and a 3-8 (27%) match record."
+    "reason": "Ultra Prime occupies a competitive standing in the LPL region, maintaining a highly stable competitive position with a power rating score of 1124 and a 3-8 (27%) match record."
   },
   {
     "rank": 53,
