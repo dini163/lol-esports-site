@@ -2,25 +2,6 @@
   {
     "league": "EMEA Masters",
     "league_code": "eme",
-    "match": "LDS vs SC",
-    "team_a": {
-      "name": "LODIS",
-      "code": "LDS",
-      "score": 2,
-      "image": "https://static.lolesports.com/teams/1641900765750_lodis.png"
-    },
-    "team_b": {
-      "name": "Skillcamp",
-      "code": "SC",
-      "score": 1,
-      "image": "https://static.lolesports.com/teams/1766134108028_Skillcamp.png"
-    },
-    "start_time": "2026-09-22T15:00:00Z",
-    "status": "completed"
-  },
-  {
-    "league": "EMEA Masters",
-    "league_code": "eme",
     "match": "CKZ vs USE",
     "team_a": {
       "name": "CITA Kaizen",
@@ -772,11 +753,11 @@
     "team_b": {
       "name": "TP.HCM SN CyberCore Esports",
       "code": "SCBC",
-      "score": 0,
+      "score": 1,
       "image": "https://static.lolesports.com/teams/1739952109504_image11.png"
     },
     "start_time": "2026-09-26T09:00:00Z",
-    "status": "upcoming"
+    "status": "live"
   },
   {
     "league": "CBLOL",
@@ -1517,6 +1498,25 @@
       "image": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
     },
     "start_time": "2026-09-27T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "league": "WSCI",
+    "league_code": "wsc",
+    "match": "T1A vs CPD",
+    "team_a": {
+      "name": "T1 Esports Academy",
+      "code": "T1A",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/T1-FullonDark.png"
+    },
+    "team_b": {
+      "name": "Cupid Esports",
+      "code": "CPD",
+      "score": 0,
+      "image": "https://static.lolesports.com/teams/1783409729340_logocupid.jpg"
+    },
+    "start_time": "2026-09-28T06:00:00Z",
     "status": "upcoming"
   }
 ]
