@@ -234,8 +234,8 @@
     "record": "20-5",
     "winrate": "80%",
     "rating": 1339.0,
-    "trend": "up",
-    "trendValue": 1,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "3rd in LCS",
     "reason": "Cloud9 shows strong individual laning power and aggressive map control, making them a consistently dangerous contender in the LCS."
   },
@@ -246,11 +246,11 @@
     "code": "FLY",
     "region": "LCS",
     "image": "https://static.lolesports.com/teams/flyquest-new-on-dark.png",
-    "record": "11-13",
-    "winrate": "46%",
-    "rating": 1337.0,
-    "trend": "down",
-    "trendValue": 1,
+    "record": "11-14",
+    "winrate": "44%",
+    "rating": 1335.0,
+    "trend": "stable",
+    "trendValue": 0,
     "domesticRank": "4th in LCS",
     "reason": "FlyQuest leads the North American LCS charge, showcasing strong team cohesion, exceptional cross-map skirmishing, and superb objective control."
   },
@@ -563,11 +563,11 @@
     "image": "https://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
     "record": "6-14",
     "winrate": "30%",
-    "rating": 1182.0,
+    "rating": 1184.0,
     "trend": "stable",
     "trendValue": 0,
     "domesticRank": "6th in LCS",
-    "reason": "Shopify Rebellion occupies a competitive standing in the LCS region, maintaining a highly stable competitive position with a power rating score of 1182 and a 6-14 (30%) match record."
+    "reason": "Shopify Rebellion occupies a competitive standing in the LCS region, maintaining a highly stable competitive position with a power rating score of 1184 and a 6-14 (30%) match record."
   },
   {
     "rank": 39,
